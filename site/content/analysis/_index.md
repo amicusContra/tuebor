@@ -1,0 +1,95 @@
++++
+title = "Analysis"
+description = "Pattern analysis across Michigan's accountability failures. What connects the investigations. Where the institutional immunity breaks."
+weight = 6
+sort_by = "weight"
++++
+
+## The Pattern
+
+The investigations documented on this site span five Michigan counties, two federal courts, and every level of the state's judicial oversight system. They involve different judges, different attorneys, different prosecutors, and different law enforcement agencies. They should be unrelated.
+
+They are not.
+
+### The Oversight Failure Loop
+
+Every documented case follows the same institutional sequence:
+
+```
+1. Misconduct occurs → court record created
+2. Affected party files complaint → AGC / JTC / SCAO
+3. Complaint processed in isolation → dismissed or privately resolved
+4. Confidential disposition → public cannot verify outcome
+5. Pattern continues → next affected party starts at step 1
+```
+
+The system is designed to handle complaints one at a time. It is not designed to detect that the same judge, the same investigator, or the same prosecutor appears across multiple complaints from different people.
+
+**What breaks the loop:** Reading the files against each other instead of in isolation. That is what this site does.
+
+### Cross-Network Connections
+
+#### Shared Oversight Bodies
+
+Every investigation on this site routes through the same small set of Michigan oversight bodies:
+
+| Body | Ellison/Aljouny | Barry County | Eastpointe/Galen | Detroit |
+|------|-----------------|-------------|-------------------|---------|
+| **AGC** | Ellison conduct | Nakfoor Pratt (private admonishment) | — | Miller, Moreland, Gordon, Hall, Perkins, Meihn |
+| **JTC** | Borrello | Schipper (active investigation) | Galen (confidential admonition) | — |
+| **SCAO** | — | Systemic review requested | — | — |
+| **MCOLES** | — | Fuller (MSP) | — | Bettison/DPD |
+
+The same AGC that privately admonished Nakfoor Pratt handles complaints about attorneys in every other investigation. The same JTC that confidentially admonished Galen handles the Schipper investigation. They are parallel tracks that never cross-reference.
+
+#### The Mallett Node
+
+**Conrad L. Mallett Jr.** connects the Aljouny investigation to the Detroit investigation:
+
+- **Detroit Corporation Counsel** — heads the city's Law Department
+- **Retained by Mayor Mary Sheffield** — the endpoint of the [Save Detroit Jobs dark money pipeline](https://detroit.primals.eco/analysis/dark-money-pipeline/)
+- **Received the Aljouny email** directly (Sep 9, 2026)
+- **Under Ethics Board investigation** for Lear Corp. directorship while serving as Corporation Counsel
+- **Former Michigan Supreme Court Chief Justice** — the same court that hears JTC discipline recommendations
+
+This means the person who received a communication from a fabricated identity used in Saginaw County litigation is also the chief legal officer of the city whose school board was captured through dark money in Wayne County. The networks are touching.
+
+#### The MSP 5th District Problem
+
+**D/Lt. Shane Criger** investigated both:
+- **Jeremiah Johnson shooting** (Barry County, Oct 2024)
+- **Joey Nagle killing** (Allegan County, 2022)
+
+Both cases: deputy kills someone, no body camera, investigation by the same MSP team, local prosecutor rules justified.
+
+**D/Sgt. Bryan Fuller** was on the Johnson investigation team — the same Fuller whose constitutional violations in McCann produced a **$14.5 million federal verdict**. The same Fuller whose misconduct was put in writing to Nakfoor Pratt four days before the verdict.
+
+#### The Record-Keeping Pattern
+
+Multiple investigations reveal the same gap: the people responsible for maintaining the record are not independent of the people the record covers.
+
+| Court | Record Keeper | Connection to Judge |
+|-------|-------------|-------------------|
+| **38th District (Eastpointe)** | Heather Froias (court reporter) | Named as Designated Record Keeper on Galen's campaign committee (2020) |
+| **38th District (Eastpointe)** | Mark Makoski (magistrate) | Galen's former attorney; Campaign Treasurer |
+| **Saginaw County** | Lisa Edgecomb (legal assistant/notary) | Ellison's employee; notarized his sworn denial of Aljouny connection |
+
+The person keeping the record should not be the same person running the judge's campaign, representing the judge in litigation, or employed by the attorney swearing the affidavit.
+
+### What This Means for Investigators
+
+If you are an investigator, journalist, or oversight body looking at any one of these cases:
+
+1. **Check the other nodes.** The same names, the same MSP team, the same oversight body failures appear across multiple investigations.
+2. **Read the private admonishments against the public record.** The JTC and ADB annual reports anonymize outcomes. The facts are public. Match them.
+3. **Follow the personnel overlap.** Campaign committees → court staff. Attorney → magistrate. Employee → notary. The institutional controls are not controlling.
+4. **Cross-reference with Detroit.** The Mallett node connects Saginaw County litigation to Wayne County dark money. If you are investigating one, you should know about the other.
+
+---
+
+## Analysis Pages
+
+| Analysis | Summary |
+|----------|---------|
+| **[Ghost Witness: Samantha Aljouny](/evidence/ghost-witness-aljouny/)** | Fabricated identity submitted as witness in SLAPP suit. 13 forensic convergence points. IC3 filed. |
+| **[Institutional Immunity Pattern](/analysis/institutional-immunity/)** | How 94% complaint dismissal creates de facto immunity. The mathematics of isolated processing. |

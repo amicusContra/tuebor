@@ -77,6 +77,47 @@ The system does not self-correct. So citizens correct the record.
 
 ---
 
+## Documented Actors
+
+Sourced profiles of every actor in the investigation. Every role documented to court records or public filings.
+
+| Actor | Role | Investigation |
+|-------|------|--------------|
+| **[Philip L. Ellison](/actors/ellison/)** | Attorney, Outside Legal Counsel PLC. SLAPP + fabricated witness. | Aljouny / Saginaw |
+| **[Judge Andre R. Borrello](/actors/borrello/)** | Signed contempt, then recused himself. | Aljouny / Saginaw |
+| **[Judge Kathleen G. Galen](/actors/galen/)** | JTC admonition. Jailed pregnant woman (reversed). Campaign staff = court staff. | Eastpointe / 38th District |
+| **[Judge Michael Schipper](/actors/schipper/)** | Active JTC investigation. 6–10x guideline sentencing. ADA retaliation. | Barry County |
+| **[Julie Nakfoor Pratt](/actors/nakfoor-pratt/)** | Private admonishment (MRPC 3.4(e)). Brady/Giglio failures. FOIA obstruction. | Barry County |
+
+Full actor index: **[All Actors →](/actors/)**
+
+---
+
+## [Investigation Toolkit](/investigate/)
+
+Everything you need to run your own Michigan accountability investigation:
+
+| Tool | What It Does |
+|------|-------------|
+| **[FOIA Toolkit](/investigate/foia-toolkit/)** | Templates, deadlines, exemption challenges, appeal paths |
+| **[Oversight Filing Guide](/investigate/oversight-guide/)** | How to file with AGC, JTC, SCAO, MCOLES, IC3 |
+| **[Court Records Guide](/investigate/court-records/)** | Dockets, appellate opinions, PACER, LARA, campaign finance |
+| **[Evidence Documentation](/investigate/evidence-documentation/)** | Incident logs, document indexes, preservation notices |
+
+---
+
+## [Timeline](/timeline/)
+
+Chronological record from 2013 to present. Every entry sourced.
+
+---
+
+## [Analysis](/analysis/)
+
+Pattern analysis across all investigations. How 94% complaint dismissal creates de facto immunity. Where the networks cross.
+
+---
+
 ## How This Works
 
 - **No cookies.** No tracking. No identifying data.

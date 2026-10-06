@@ -74,6 +74,8 @@ The system does not self-correct. So citizens correct the record.
 |--------------|--------|--------|
 | **[Ghost Witness — Samantha Aljouny](/evidence/ghost-witness-aljouny/)** | Court records, ProtonMail forensics, controlled link test, independent journalist confirmation | IC3 complaint filed Oct 6, 2026. 13 convergence points. |
 | **[Data Braid — Public vs. Private Evidence](/evidence/data-braid-aljouny/)** | ARIN WHOIS, MPSC registry, OLC press archive, LARA, PACER, Times Herald, SCOTUS records | 6 reverse target searches. All independently confirmed from public sources. |
+| **[Domain Registration Campaign](/evidence/domain-registrations/)** | WHOIS, GoDaddy records, PPO filings, Clutch Justice reporting | 3 domains targeting PPO holders (incl. minor child) registered in 30 min. Renewed Sep 2026. Impersonation site live. |
+| **[FOIAworks Honeypot Analysis](/evidence/foiaworks-honeypot/)** | LARA entity search, FOIAworks ToS, 404 at /privacy/, Quagmire Solutions LLC | Fabricated-witness attorney operates FOIA platform with no privacy policy. |
 | **[Detroit Charter School Network](https://detroit.primals.eco)** | LARA, TransparencyUSA, court filings, PACER, 287+ pages | Active. AGC, JTC, DPSCD, MDE, CMU notified. |
 
 ---

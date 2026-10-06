@@ -1,32 +1,109 @@
 +++
-title = "Public Record"
-description = "Evidence-based accountability documentation. Every claim sourced to public records, court filings, or independently verifiable data."
+title = "Tuebor — Michigan Public Record"
+description = "I will defend. Evidence-based accountability documentation across Michigan courts, institutions, and oversight systems. Every claim sourced to public records."
 
 [extra]
-keywords = "Michigan court accountability, SLAPP litigation, judicial oversight, public records investigation, anti-SLAPP UPEPA Michigan"
+keywords = "tuebor Michigan court accountability, Michigan judicial oversight, SLAPP litigation Michigan, anti-SLAPP UPEPA, Michigan charter school accountability, SCAO oversight, AGC complaints Michigan, Barry County courts, Detroit charter school corruption, Michigan public records investigation"
 +++
 
-## What This Site Documents
+## Tuebor — "I Will Defend"
 
-This site publishes sourced evidence concerning judicial accountability,
-abusive litigation, and institutional failures in Michigan courts.
+It is the motto on Michigan's state seal.
 
-Every claim is documented. Every source is cited. The data is in
-the [git repository](https://git.primals.eco). Clone it. Verify it.
+It is what happens when citizens discover that the institutions
+designed to protect them have stopped working — and decide to
+document the failure themselves.
+
+---
+
+## Why This Site Exists
+
+Michigan's oversight systems are failing across counties.
+
+The **Attorney Grievance Commission** dismisses 94% of complaints.
+The **Judicial Tenure Commission** operates on timelines measured
+in years. The **State Court Administrative Office** receives
+documented structural failures and responds with silence. Courts
+ignore evidence placed before them on their own dockets.
+
+These are not isolated failures. They are the same system,
+producing the same outcomes, in every county:
+
+| County | What Failed | Status |
+|--------|-----------|--------|
+| **Wayne (Detroit)** | A convicted felon runs charter schools with a sitting judge and assistant attorney general on his board. AGC and JTC notified. | [Evidence published →](https://detroit.primals.eco) |
+| **Saginaw** | An attorney submitted a witness who does not exist. The court signed a contempt order against the journalist who documented it. | [Evidence below ↓](/evidence/ghost-witness-aljouny/) |
+| **Barry** | A judge disappeared from the bench. The court said nothing. SCAO was filed on. The feds stepped in. | Tracking |
+| **Macomb** | A manufactured PPO violation tied to a Facebook account the target never owned. | Tracking |
+| **Allegan** | A deputy ran the wrong plate, shot a 22-year-old. Four years later, the record doesn't add up. | Tracking |
+| **Eastpointe (38th District)** | A judge jailed a pregnant woman over fines, listed dead attorneys as endorsers, and received a confidential JTC admonition. | Tracking |
+
+The pattern is not partisan. It is not geographic. It is structural.
+
+When oversight stops working, the only defense left is the record itself.
+
+---
+
+## The Connective Tissue
+
+These are not separate problems. They share the same root:
+
+**The AGC that dismisses 94% of complaints** is the same AGC that
+received documented evidence of an assistant attorney general
+sitting on a convicted felon's charter school board — and has
+not acted.
+
+**The SCAO that took years to address Barry County** is the same
+SCAO that was notified that a sitting 3rd Circuit judge serves
+as president of a charter school board alongside that same
+convicted felon — and has not acted.
+
+**The court in Saginaw that ignored a fabricated witness** is the
+same judicial system where a court in Wayne County processes
+custody matters that send children to schools run by people
+with nine criminal convictions.
+
+When one node fails, the others should catch it. They don't.
+The system does not self-correct. So citizens correct the record.
+
+---
 
 ## Evidence
 
-| Investigation | Status |
-|--------------|--------|
-| [Ghost Witness — The Samantha Aljouny Investigation](/evidence/ghost-witness-aljouny/) | IC3 complaint filed Oct 6, 2026. 13 convergence points documented. |
+| Investigation | Source | Status |
+|--------------|--------|--------|
+| **[Ghost Witness — Samantha Aljouny](/evidence/ghost-witness-aljouny/)** | Court records, ProtonMail forensics, controlled link test, independent journalist confirmation | IC3 complaint filed Oct 6, 2026. 13 convergence points. |
+| **[Detroit Charter School Network](https://detroit.primals.eco)** | LARA, TransparencyUSA, court filings, PACER, 287+ pages | Active. AGC, JTC, DPSCD, MDE, CMU notified. |
 
-## How This Site Works
+---
 
-- **No cookies.** No tracking. No identifying data collected.
-- **Every page** is sourced to court records, public filings, or independently verifiable data.
-- **The git repository** contains the source data. Anyone can clone, verify, and audit.
-- **Contact:** Submissions and tips accepted through appropriate channels.
+## How This Works
+
+- **No cookies.** No tracking. No identifying data.
+- **Every claim** sourced to court records, public filings, or verifiable data.
+- **The git repository** contains source material. Clone it. Verify it. Audit it.
+- **Cross-protection:** Evidence published across multiple nodes in the
+  [primals.eco](https://primals.eco) network cannot be suppressed by
+  silencing any single person. SLAPP one — the others amplify.
+
+---
+
+## Who We Are
+
+People who read court records, file FOIA requests, attend hearings,
+submit amicus briefs, make AGC and JTC complaints, and publish what
+we find.
+
+We are not attorneys. We are not parties to each other's cases.
+We are citizens exercising First Amendment rights to document
+institutional accountability — or its absence.
+
+Some of us are investigative journalists. Some are parents.
+Some are both.
+
+Michigan's seal says *tuebor*. We are taking it literally.
 
 ---
 
 *This site is part of the [primals.eco](https://primals.eco) evidence network.*
+*Detroit node: [detroit.primals.eco](https://detroit.primals.eco)*

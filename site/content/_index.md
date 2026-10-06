@@ -73,6 +73,7 @@ The system does not self-correct. So citizens correct the record.
 | Investigation | Source | Status |
 |--------------|--------|--------|
 | **[Ghost Witness — Samantha Aljouny](/evidence/ghost-witness-aljouny/)** | Court records, ProtonMail forensics, controlled link test, independent journalist confirmation | IC3 complaint filed Oct 6, 2026. 13 convergence points. |
+| **[Data Braid — Public vs. Private Evidence](/evidence/data-braid-aljouny/)** | ARIN WHOIS, MPSC registry, OLC press archive, LARA, PACER, Times Herald, SCOTUS records | 6 reverse target searches. All independently confirmed from public sources. |
 | **[Detroit Charter School Network](https://detroit.primals.eco)** | LARA, TransparencyUSA, court filings, PACER, 287+ pages | Active. AGC, JTC, DPSCD, MDE, CMU notified. |
 
 ---

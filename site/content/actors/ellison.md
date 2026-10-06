@@ -100,11 +100,52 @@ She notarized the sworn statements in which Ellison declared "no connection" to 
 | **Ellison v. Consumers Energy** (26-000243-CZ) | Saginaw County | Tree trespass, statutory damages. Filed pro se. UPEPA invoked against counterclaim. |
 | **CHiLLL v. Roscommon County** | Michigan | Lake issues |
 
+## LakeNet LLC — The ISP Connection
+
+Rita identified IP address `162.247.150.54` surveilling her site on April 29, 2026 — the same morning Ellison transmitted a retraction demand. The IP belongs to **LakeNet LLC** (AS11910).
+
+| Source | Finding |
+|--------|---------|
+| **ARIN WHOIS** | LakeNet LLC (LL-86), AS11910. IP space: 162.247.144.0/21. |
+| **MPSC Registry** | LakeNet LLC, **16690 Gratiot Rd, Hemlock, MI 48626**. Broadband/fiber/wireless ISP. |
+| **OLC PLC** | **530 W Saginaw St / 530 W Gratiot St, Hemlock, MI 48626** |
+
+LakeNet is a broadband ISP headquartered in **Hemlock, Michigan** — population ~1,500. Outside Legal Counsel PLC is headquartered in **Hemlock, Michigan**. Same ZIP code (48626). LakeNet is Ellison's internet service provider. This is independently verifiable from three public registries: [ARIN](https://whois.arin.net/rest/asn/AS11910.html), [MPSC](https://mpsc.my.site.com/itsp/RegistredProviderDetail?id=001E000001AXQcJIAX), and [OLC PLC](https://www.olcplc.com/public/contact).
+
+## Kevin Lindke — The Client
+
+Ellison's client in *Lindke v. Freed* (US Supreme Court) and the person whose conduct triggered the SLAPP suit.
+
+### Criminal History (Public Record)
+
+| Date | Event | Source |
+|------|-------|--------|
+| **Oct 2020 – Feb 2021** | Posted two women's phone numbers on "Through My Eyes" Facebook page. Both received harassing/threatening messages from strangers. | Times Herald, St. Clair County court records |
+| **Nov 29, 2021** | Pleaded guilty to attempted assault, resisting officer, and **using computers to commit a crime**. Sentenced to 272 days time served. B&E dismissed. Judge Damman: "long history of litigation with the victims." | [Times Herald](https://www.thetimesherald.com/story/news/2021/11/29/kevin-lindke-sentenced-time-served-case-involving-facebook-posts/8792168002/) |
+
+### Documented Conduct Toward Rita Williams and Family
+
+Per Rita's published reporting and court filings:
+
+- Registered internet domains in Rita's name AND her **minor daughter's** name
+- Death threats, doxxing, posting children's photographs to 21,000-member network
+- 7 AM Saturday phone call: "I will make you and your children homeless"
+- NCMEC CyberTipline report filed Nov 18, 2025 (referred to Michigan ICAC Task Force)
+- PPOs obtained from Macomb County (Judge Rancilio)
+- Served **105 days** in St. Clair County for contempt during PPO violation arraignment
+- False police reports filed by Lindke's network members against Rita
+- Process servers sent to Rita's home **after dark, multiple nights**, broadcast to Lindke's 21,000 followers as entertainment
+
+Ellison filed the SLAPP suit **two months** after Rita spoke up about this conduct. Ellison has been a member of the Through My Eyes Facebook group since **July 6, 2020** — the same group Lindke used to coordinate harassment and for which he was criminally convicted.
+
+Sources: [Clutch Justice, May 9](https://clutchjustice.com/2026/05/09/borrello-discovery-stalking-victim/) · [May 11](https://clutchjustice.com/2026/05/11/lindke-ellison-litigation-scheme/) · [May 13](https://clutchjustice.com/2026/05/13/federal-report-stalker-show-cause-retaliation/)
+
 ## LARA Registration
 
 | Entity | Status |
 |--------|--------|
 | **Outside Legal Counsel PLC** | Active Michigan PLLC. Registered with LARA. |
+| **Aljouny Media Consulting** | **Does not exist.** Zero results in LARA, OpenCorporates, Google, LinkedIn, journalism directories, byline archives. |
 
 **Investigation note:** Entity formation records, registered agent history, and any related entities should be checked via [LARA Business Search](https://mibusinessregistry.lara.state.mi.us/search/business).
 

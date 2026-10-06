@@ -1,0 +1,57 @@
+---
+description: Rules for working on the tuebor Michigan accountability documentation repo
+globs: ["**/*.md"]
+alwaysApply: true
+---
+
+# Tuebor Project Rules
+
+## What This Repo Is
+Evidence-based accountability documentation covering Michigan courts, prosecutors, judges, and oversight systems. Part of the primals.eco cross-protection network. Every claim must be sourced to court records, public filings, or published reporting.
+
+## Critical Constraints
+- NEVER fabricate sources or speculate beyond what documents say
+- NEVER publish personal information about private citizens, minors, or protected parties
+- NEVER publish phone numbers, home addresses, or children's names of any investigation participant
+- Rita Williams' relationship to site operators is PRIVATE — public contact is hello@clutchjustice.com only
+- Tone is factual and precise — let documents speak, not commentary
+
+## Content Format
+- All pages use Zola TOML front matter (`+++` blocks)
+- Every page needs: title, description, weight (sort order)
+- Actor pages need: Identity table, key findings with sources, Investigation Path checklist, Sources section
+- Evidence pages need: sourced claims, "What Is Proven vs What Is Not" section for forensic evidence
+- Investigation guides need: actionable steps, templates, Michigan statutory citations (MCL, MCR)
+
+## Sourcing Standard
+- Court records: case number, court, date, docket entry
+- Public filings: LARA entity, campaign finance filing, ARIN WHOIS result
+- Published reporting: outlet, author, date, URL
+- Statutes: MCL or MCR citation
+- Unsourced items go in Investigation Path as `- [ ]` checklist items, NOT as findings
+
+## File Organization
+- Actors: `site/content/actors/lastname.md`
+- Evidence: `site/content/evidence/descriptive-name.md`
+- Analysis: `site/content/analysis/descriptive-name.md`
+- Investigation guides: `site/content/investigate/guide-name.md`
+- Timeline: `site/content/timeline/_index.md` (single master chronology)
+
+## Key Databases
+- LARA: mibusinessregistry.lara.state.mi.us/search/business
+- Michigan Courts: courts.michigan.gov/case-search and courts.michigan.gov/opinions
+- PACER: pacer.uscourts.gov
+- ARIN: whois.arin.net
+- Campaign finance: transparencyusa.org and miboecfr.nictusa.com/cfr
+- AGC: agcmi.org | JTC: jtc.courts.mi.gov
+
+## Cross-References
+- Detroit investigation: detroit.primals.eco / github.com/defendDetroit/publicRecord
+- This repo: github.com/amicusContra/tuebor
+- Conrad Mallett connects both investigations (Corporation Counsel → Sheffield → dark money)
+
+## Active Case Numbers
+- 25-2441-CZ (OLC v. Williams) — Saginaw County
+- 26-000243-CZ (Ellison v. Consumers Energy) — Saginaw County  
+- COA 380599 — Michigan Court of Appeals
+- IC3: 10f80c476ef144d4a772d0b198c75a2a

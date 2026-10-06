@@ -140,19 +140,167 @@ Ellison filed the SLAPP suit **two months** after Rita spoke up about this condu
 
 Sources: [Clutch Justice, May 9](https://clutchjustice.com/2026/05/09/borrello-discovery-stalking-victim/) · [May 11](https://clutchjustice.com/2026/05/11/lindke-ellison-litigation-scheme/) · [May 13](https://clutchjustice.com/2026/05/13/federal-report-stalker-show-cause-retaliation/)
 
-## LARA Registration
+## The Ellison Entity Web
 
-| Entity | Status |
-|--------|--------|
-| **Outside Legal Counsel PLC** | Active Michigan PLLC. Registered with LARA. |
-| **Aljouny Media Consulting** | **Does not exist.** Zero results in LARA, OpenCorporates, Google, LinkedIn, journalism directories, byline archives. |
+Philip L. Ellison controls at least **four entities** and a portfolio of **29+ domains** (with 153 domains historically linked to his business email).
 
-**Investigation note:** Entity formation records, registered agent history, and any related entities should be checked via [LARA Business Search](https://mibusinessregistry.lara.state.mi.us/search/business).
+### Registered Entities
+
+| Entity | LARA ID | Type | Formed | Address | Status |
+|--------|---------|------|--------|---------|--------|
+| **Outside Legal Counsel PLC** | — | Professional LLC | ~2010 | 530 W Saginaw St, Hemlock 48626 | Active |
+| **Quagmire Solutions LLC** | B0703X | Domestic LLC | Jun 2, 2005 | 1111 S Orr Rd, Hemlock 48626 | **Active** |
+| **South Brennan Property LLC** | E62024 | Domestic LLC | Apr 2, 2015 | 529 W Saginaw St, Hemlock 48626 | **Active** |
+| **Aljouny Media Consulting** | — | — | — | — | **Does not exist** |
+
+All three active entities list **Philip L Ellison** as registered agent. South Brennan Property LLC is a **property holding** company located one door from his law firm. Quagmire Solutions is the **tech company** that now operates [FOIAworks](/evidence/foiaworks-honeypot/).
+
+Source: [CompaniesMI (B0703X)](https://companiesmi.com/company/B0703X/quagmire-solutions-llc) · [CompaniesMI (E62024)](https://companiesmi.com/company/E62024/south-brennan-property-llc) · [LARA Business Search](https://mibusinessregistry.lara.state.mi.us/search/business)
+
+### Domain Portfolio
+
+| Fact | Source |
+|------|--------|
+| **29 domains** historically registered to "Philip Ellison" | [Whoxy reverse WHOIS](https://www.whoxy.com/olcplc.com) — WHOIS history for olcplc.com |
+| **153 domains** historically registered to `info@quagmiresolutions.com` | Same — 2016 WHOIS snapshot |
+| **olcplc.com** registered Sept 10, 2010 via GoDaddy | Whoxy WHOIS history |
+| **olcplc.com** WHOIS 2016: Philip Ellison + info@quagmiresolutions.com | Whoxy |
+| **olcplc.com** WHOIS 2019: changed to "Outside Legal Counsel" | Whoxy |
+| **olcplc.com** WHOIS 2022: switched to Domains By Proxy (privacy shield) | Whoxy |
+| **michigansupremecourtattorney.com** | Vanity domain, same OLC PLC content |
+| **foiaworks.com** | Quagmire Solutions LLC product |
+
+The shift to privacy-shielded WHOIS in 2022 occurred after Lindke's Through My Eyes activities escalated and became the subject of federal litigation.
+
+### FOIAworks — The FOIA Platform With No Privacy Policy
+
+See full analysis: **[FOIAworks Honeypot](/evidence/foiaworks-honeypot/)**
+
+Quagmire Solutions LLC operates FOIAworks.com from **4522 West Higgins Lake Drive, Roscommon, MI 48653** — a commercial property (formerly a bank) that [sold for $150,000 on November 7, 2024](https://www.realestateone.com/home-for-sale/print/4522-W-Higgins-Lake-Drive-Roscommon-MI-48653/201830608-MIWWLX). Ellison litigates extensively for Higgins Lake property owners.
+
+The platform collects user identities, FOIA request content, government correspondence, and responsive documents. Its `/privacy/` URL returns **404 Not Found** (verified October 6, 2026).
+
+### The Domain Registration Campaign
+
+See full analysis: **[Domain Registrations](/evidence/domain-registrations/)**
+
+Three domains targeting PPO holders — including a minor child — registered within 30 minutes on September 9, 2025, via the same GoDaddy account infrastructure. IP address `162.247.150.54` (Ellison's office IP, documented in PACER ECF No. 175-4) "appears in the domain registration chain" ([Clutch Justice, May 16, 2026](https://clutchjustice.com/2026/05/16/ellison-notary-conflict-edgecomb/)).
+
+---
+
+## The Financial Architecture
+
+Per [Clutch Justice, May 11, 2026](https://clutchjustice.com/2026/05/11/lindke-ellison-litigation-scheme/):
+
+> *"The financial architecture of the Lindke litigation matters because it explains the motive. The federal civil rights cases... pursued claims under 42 U.S.C. § 1983 against St. Clair County officials for enforcing PPO orders that allegedly violated Lindke's First Amendment rights."*
+
+> *"Fee awards in successful civil rights litigation under 42 U.S.C. § 1988 can reach into the hundreds of thousands of dollars."*
+
+The SLAPP suit silences the journalist who documented the conduct underlying the PPO → which undermines the PPO → which supports the federal challenge to the PPO statute → which generates § 1988 attorney's fees for Ellison.
+
+**This structure collapsed** when Ellison withdrew from the Lindke federal cases on April 23, 2026 (the same day Lindke was booked in St. Clair County), and the case was dismissed with prejudice on May 6, 2026.
+
+---
+
+## Sanctions History
+
+### Garcia v. Title Check LLC (Sixth Circuit, Case No. 22-1574)
+
+| Event | Detail |
+|-------|--------|
+| **Filed** | 2018 — Bay County tax foreclosure |
+| **Claim** | Hobbs Act extortion, RICO wire fraud, unjust enrichment against Title Check |
+| **Result** | Dismissed. Title Check's 10% buyer's premium was lawful. |
+| **Sanctions** | **$73,752.45** imposed on Ellison and co-counsel Matthew Gronda under 28 U.S.C. § 1927 |
+| **Appeal** | Sixth Circuit affirmed (Apr 5, 2023): "Counsel continued to press frivolous causes of action based on an implausible parsing of the statutory language" |
+| **En banc** | Denied (May 17, 2023) |
+| **SCOTUS cert petition** | Case No. 23-404 — denied |
+
+The Sixth Circuit found: *"Their argument that Title Check engaged in extortion and wire fraud under RICO by charging a buyer's premium to the auction price was unreasonable on its face."*
+
+Source: [Sixth Circuit opinion (GovInfo)](https://www.govinfo.gov/content/pkg/USCOURTS-ca6-22-01574/pdf/USCOURTS-ca6-22-01574-0.pdf) · [SCOTUS cert petition](https://www.supremecourt.gov/DocketPDF/23/23-404/285001/20231013133637362_231006a%20Petition%20for%20esfiling.pdf)
+
+### Ellison v. JP Morgan Chase Bank (E.D. Mich., Case No. 13-13121)
+
+Ellison **lost his own home** to foreclosure in Macomb County. Chase foreclosed; sheriff's sale September 8, 2011; Ellison failed to redeem by March 2012. He then filed a **pro se $7.35 million lawsuit** alleging § 1983 violations, § 1985(3) conspiracy, mail fraud, and IIED. All claims **dismissed with prejudice** (October 31, 2013).
+
+He subsequently built his entire practice around representing OTHER foreclosure victims.
+
+Source: [GovInfo](https://www.govinfo.gov/content/pkg/USCOURTS-mied-2_13-cv-13121/pdf/USCOURTS-mied-2_13-cv-13121-0.pdf) · [vLex](https://case-law.vlex.com/vid/ellison-v-jp-morgan-884636013)
+
+---
+
+## AGC Investigation
+
+| Field | Detail |
+|-------|--------|
+| **AGC File No.** | 25-2363 |
+| **Assigned to** | Senior Associate Counsel Cora L. Morgan |
+| **Date assigned** | December 17, 2025 |
+| **Status** | **Open** (as of May 2026 per Clutch Justice) |
+| **False representation** | Ellison told the Saginaw County court the complaint had been **closed**. It had not. |
+
+Source: [Clutch Justice, May 9, 2026](https://clutchjustice.com/2026/05/09/borrello-discovery-stalking-victim/)
+
+---
+
+## The Void Lawsuit
+
+The SLAPP suit (25-2441-CZ) was filed **in violation of the federal bankruptcy automatic stay** under 11 U.S.C. § 362(a). Under *Kalb v. Feuerstein*, 308 U.S. 433 (1940), proceedings conducted in violation of the automatic stay are **void ab initio**. Ellison never sought relief from the stay in the Western District.
+
+Per [Clutch Justice, May 31, 2026](https://clutchjustice.com/2026/05/31/issue-009-june-2026/): *"Every act taken in the proceeding has been void from inception."*
+
+Nine months of litigation — including a coercive stipulated order obtained while the defendant was pro se, four motions to strike, a fabricated witness, a false representation about an AGC complaint, and a COA sanctions motion — were conducted in a case that was void from filing.
+
+---
+
+## Ellison Withdrew — Then What Happened
+
+| Date | Event |
+|------|-------|
+| **April 23, 2026** | Ellison files to withdraw from Lindke federal cases. Same day Lindke is booked in St. Clair County. |
+| **May 6, 2026** | *Lindke v. King* (2:25-cv-14148) dismissed with prejudice. Same day Rita receives COA case number (380599). |
+| **June 17, 2026** | Ellison files *Ellison v. Scripps* (1:26-cv-12029) — new federal case, property rights. |
+| **July–August 2026** | Active LinkedIn presence. Higgins Lake property owner cases. Pung v. Isabella County at SCOTUS. |
+| **August 22, 2026** | FOIAworks Terms of Service updated/published. |
+| **September 10, 2026** | ritafelinewilliams.com **renewed** — continuing the impersonation domain. |
+
+---
+
+## The Full Case List
+
+| Case | Court | Subject | Outcome |
+|------|-------|---------|---------|
+| **Ellison v. JP Morgan Chase** (13-13121) | E.D. Mich. | Pro se foreclosure, $7.35M | Dismissed with prejudice |
+| **Garcia v. Title Check** (20-724 → 22-1574) | W.D. Mich. / 6th Cir. | Tax foreclosure RICO | $73,752.45 sanctions affirmed |
+| **Garcia v. Title Check cert** (23-404) | US Supreme Court | Sanctions appeal | Cert denied |
+| **Lindke v. Freed** | SCOTUS | First Amendment, social media | Decided — remanded |
+| **Lindke v. King** (22-cv-11767) | E.D. Mich. | § 1983, PPO statute challenge | Ellison withdrew Apr 23, 2026 |
+| **Lindke v. King** (25-cv-14148) | E.D. Mich. | § 1983, PPO challenge #2 | Dismissed with prejudice May 6, 2026 |
+| **OLC v. Williams** (25-2441-CZ) | Saginaw County | Defamation (SLAPP) | Void ab initio — automatic stay. COA No. 380599 pending. |
+| **Ellison v. Consumers Energy** (26-000243-CZ) | Saginaw County | Tree trespass, UPEPA | Active |
+| **Ellison v. Scripps** (26-cv-12029) | E.D. Mich. | Property rights, § 1983 | Active |
+| **OLC v. TSA** (23-cv-10553) | E.D. Mich. | FOIA | Dismissed as moot; $402 costs denied |
+| **Ahmad v. University of Michigan** | Michigan | FOIA | Active/appeal |
+| **CHiLLL v. Roscommon County** | Michigan | Lake levels | Active |
+| **Semack v. Roscommon County** (25-1571) | 6th Cir. | PA 112 challenge, lake levels | Active (appeal) |
+| **Higgins Lake SAD appeal** | Roscommon County | Special assessment challenge | Filed |
+
+---
 
 ## Sources
 
-- Outside Legal Counsel PLC website: [olcplc.com/public/profile-ellison](https://www.olcplc.com/public/profile-ellison)
-- MLive, Apr 7, 2020: [Saginaw attorney sues Gov. Whitmer over FOIA executive order](https://www.mlive.com/news/saginaw-bay-city/2020/04/saginaw-attorney-sues-gov-whitmer-over-foia-executive-order.html)
-- Saginaw County Circuit Court, Case No. 25-002441-CZ (full docket)
-- Michigan Court of Appeals, Case No. 380599
-- Clutch Justice, multiple articles (May 2026)
+- Outside Legal Counsel PLC: [olcplc.com/public/profile-ellison](https://www.olcplc.com/public/profile-ellison)
+- michigansupremecourtattorney.com: [Meet Attorney Ellison](https://michigansupremecourtattorney.com/meet-attorney-ellison)
+- LinkedIn: [Philip L. Ellison](https://www.linkedin.com/in/philiplellison)
+- Whoxy: [olcplc.com WHOIS history](https://www.whoxy.com/olcplc.com)
+- LSSU 2005 Commencement: [doczz.net](https://doczz.net/doc/4811451/lake-superior-state-university-2005-commencement-exercises)
+- CompaniesMI: [Quagmire Solutions](https://companiesmi.com/company/B0703X/quagmire-solutions-llc) · [South Brennan Property](https://companiesmi.com/company/E62024/south-brennan-property-llc)
+- michigan.land: [Philip Ellison addresses](https://michigan.land/people/Ellison/Philip)
+- GovInfo: [Garcia sanctions (6th Cir.)](https://www.govinfo.gov/content/pkg/USCOURTS-ca6-22-01574/pdf/USCOURTS-ca6-22-01574-0.pdf) · [Ellison v. Chase (E.D. Mich.)](https://www.govinfo.gov/content/pkg/USCOURTS-mied-2_13-cv-13121/pdf/USCOURTS-mied-2_13-cv-13121-0.pdf)
+- SCOTUS: [Cert petition 23-404](https://www.supremecourt.gov/DocketPDF/23/23-404/285001/20231013133637362_231006a%20Petition%20for%20esfiling.pdf)
+- Times Herald: [Lindke sentenced Nov 2021](https://www.thetimesherald.com/story/news/2021/11/29/kevin-lindke-sentenced-time-served-case-involving-facebook-posts/8792168002/) · [What to know about Lindke](https://www.thetimesherald.com/story/news/2021/03/20/what-know-kevin-lindke-and-his-social-media-following/4763567001/)
+- Clutch Justice: [Anatomy of a Litigation Scheme](https://clutchjustice.com/2026/05/11/lindke-ellison-litigation-scheme/) · [The Court That Knew](https://clutchjustice.com/2026/05/09/borrello-discovery-stalking-victim/) · [UPEPA Judicial Estoppel](https://clutchjustice.com/2026/05/07/upepa-slapp-judicial-estoppel-ellison/) · [Show Cause Retaliation](https://clutchjustice.com/2026/05/13/federal-report-stalker-show-cause-retaliation/) · [Notary Conflict](https://clutchjustice.com/2026/05/16/ellison-notary-conflict-edgecomb/) · [PPO Documentation Problem](https://clutchjustice.com/2026/05/13/michigan-ppo-system-documentation-problem/) · [Issue 009](https://clutchjustice.com/2026/05/31/issue-009-june-2026/)
+- Docket Nexus: [Ellison v. Scripps](https://docketnexus.com/case/ellison-v-scripps-73497287/)
+- Michigan Lawyers Weekly: [Saginaw courts cellphone ban](https://milawyersweekly.com/news/2014/02/26/saginaw-courts-sued-over-cellphone-ban/)
+- Erin Marie Miller Substack: [Miller v MDHHS update](https://erinmariemiller.substack.com/p/update-on-miller-v-mdhhs)

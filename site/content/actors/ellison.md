@@ -31,7 +31,7 @@ Ellison's credentials are real but strategically positioned to maximize authorit
 
 | Credential | Implication |
 |---|---|
-| **SCOTUS Bar member** | Real. But SCOTUS bar membership requires 3 years of state bar admission + $200 fee. It is not selective. |
+| **SCOTUS Bar member + oral argument** | Real. Argued *Pung v. Isabella County* (No. 25-95) before SCOTUS on Feb 25, 2026. **Won 9-0** (Justice Alito, Jun 23, 2026). Also argued *Lindke v. Freed*. These are genuine, significant achievements. |
 | **Adjunct Professor, SVSU** | Real. Aug 2017–present. But this places him as a colleague of **Chief Judge Julie A. Gafkay**, who also teaches at SVSU ([MLive, Jan 26, 2026](https://www.mlive.com/news/saginaw-bay-city/2026/01/behind-the-bench-expect-the-unexpected-says-judge-julie-gafkay.html)). 6+ year overlap at the same small regional university. |
 | **Super Lawyers 2016–2025** | Real. But Super Lawyers is a Thomson Reuters marketing product, not a judicial or bar association designation. |
 | **"Federally appointed class counsel"** | Real. Appointed in Taylor v. City of Saginaw (tire chalking) and Howard v. Macomb County (foreclosure surplus). These are legitimate appointments. |
@@ -249,6 +249,23 @@ Three domains targeting PPO holders — including a minor child — registered w
 
 ---
 
+## The Gronda Partnership
+
+Matthew E. Gronda (**Gronda PLC**, Saginaw) is Ellison's co-counsel across multiple matters:
+
+| Case | Role | Result |
+|---|---|---|
+| **Garcia v. Title Check** (20-724) | Co-counsel, jointly sanctioned | **$73,752.45 sanctions** (jointly and severally). SCOTUS cert denied. |
+| **Taylor v. City of Saginaw** (17-cv-11067) | Co-counsel, class action | Tire-chalking class action. Sanctions motion filed (denied). Active. |
+| **Kuchar/Sova v. Consumers Energy** (25-2533-CH) | Co-counsel, class action | Tree trespass class action. **MSC denied leave Aug 27, 2026.** |
+| **Freed v. Thomas** (E.D. Mich.) | Mediation co-counsel | $16,059.70 in attorney's fees claimed for Gronda's work. |
+
+The Gronda partnership matters because: (1) they were jointly sanctioned $73,752.45 for pressing frivolous claims; (2) they continue to work together on class actions **after** the sanctions were affirmed and cert was denied; (3) the same partnership approach — aggressive filing, overly broad theories, persistent motions after adverse rulings — is visible across the portfolio.
+
+Source: [Garcia cert petition (SCOTUS No. 23-404)](https://www.scotusgate.com/case.php?number=23-404) · [Taylor v. City of Saginaw docket](https://clearinghouse.net/case/43441/) · [MLive, Nov 2025](https://www.mlive.com/news/saginaw-bay-city/2025/11/consumers-energy-faces-class-action-lawsuit-for-tree-marking-in-saginaw-county.html)
+
+---
+
 ## The Financial Architecture
 
 Per [Clutch Justice, May 11, 2026](https://clutchjustice.com/2026/05/11/lindke-ellison-litigation-scheme/):
@@ -345,7 +362,8 @@ Nine months of litigation — including a coercive stipulated order obtained whi
 | **Ellison v. JP Morgan Chase** (13-13121) | E.D. Mich. | Pro se foreclosure, $7.35M | Dismissed with prejudice |
 | **Garcia v. Title Check** (20-724 → 22-1574) | W.D. Mich. / 6th Cir. | Tax foreclosure RICO | $73,752.45 sanctions affirmed |
 | **Garcia v. Title Check cert** (23-404) | US Supreme Court | Sanctions appeal | Cert denied |
-| **Lindke v. Freed** | SCOTUS | First Amendment, social media | Decided — remanded |
+| **Pung v. Isabella County** (No. 25-95) | **US Supreme Court** | Tax foreclosure surplus. Takings Clause. | **Won 9-0** (Jun 23, 2026). Alito opinion. Vacated and remanded. |
+| **Lindke v. Freed** | US Supreme Court | First Amendment, social media | Decided — remanded |
 | **Lindke v. King** (22-cv-11767) | E.D. Mich. | § 1983, PPO statute challenge | Ellison withdrew Apr 23, 2026 |
 | **Lindke v. King** (25-cv-14148) | E.D. Mich. | § 1983, PPO challenge #2 | Dismissed with prejudice May 6, 2026 |
 | **OLC v. Williams** (25-2441-CZ) | Saginaw County | Defamation (SLAPP) | Void ab initio — automatic stay. COA No. 380599 pending. |

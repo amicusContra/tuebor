@@ -126,11 +126,18 @@ Michigan's oversight architecture was **designed** to process complaints in isol
 
 No single design choice is unreasonable in isolation. Together, they create a system that **cannot detect patterns.** Not because it chooses not to — because it was not built to.
 
-### The 94% Dismissal Rate
+### The Throughput Rates
 
-The AGC dismisses approximately 94% of complaints. This is not a statistic about frivolous complaints. It is a **structural throughput rate.**
+From the AGC and JTC's own annual reports:
 
-If you are the subject of a complaint, you have a 94% chance of no public consequence. If you are the subject of complaints in three different investigations processed in isolation, your chances are 0.94³ = 83%. The isolation multiplies protection.
+| Body | Year | Complaints | Dismissed | Rate |
+|---|---|---|---|---|
+| **AGC** | 2024 | 2,393 | 1,627 | **88.8%** |
+| **JTC** | 2025 | 698 | 540 | **97.1%** |
+
+The AGC dismisses nearly 9 of 10 complaints. The JTC dismisses 97%. These are not statistics about frivolous complaints. They are **structural throughput rates.**
+
+If you are the subject of a complaint, you have an 88.8% chance (AGC) or 97.1% chance (JTC) of no public consequence. If you are the subject of complaints in three different investigations processed in isolation, your chances are 0.888³ = 70% (AGC) or 0.971³ = 91.5% (JTC). The isolation multiplies protection.
 
 If the investigations were cross-referenced — if the AGC saw that the same attorney appeared in complaints from multiple people across multiple counties — the probability calculation changes. Pattern evidence is qualitatively different from individual complaints.
 

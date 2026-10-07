@@ -20,6 +20,32 @@ The system's headline rate depends on how you count. By the AGC's narrowest meas
 
 As [Clutch Justice documented on September 24, 2026](https://clutchjustice.com/2026/09/24/no-one-is-coming-michigan-judicial-attorney-discipline/): attorneys who regularly appear before specific Michigan judges have independently described the same pattern — hearings logged as status conferences, months without written rulings, appearances that accomplish nothing procedurally — across counties, over years.
 
+### JTC Statistics (Judicial Tenure Commission)
+
+The JTC's own annual reports tell the same story for judges:
+
+| Year | Grievances Filed | Against Judges | Resolved | Closed Without Action | Private Discipline | Public Complaints |
+|------|---|---|---|---|---|---|
+| **2025** | 698 | 401 judges | 556 | **540 (97.1%)** | 14 (2 admonitions, 7 cautions, 5 letters) | **5** |
+| **2024** | 530 | 331 judges | 622 | **586 (94.2%)** | 30 (9 admonitions, 12 cautions, 4 letters) | **0** |
+
+In 2025, **99% of resolved judicial grievances closed without any finding of misconduct.** Only five became public complaints. Fourteen received confidential discipline — their names never released.
+
+As the [Detroit Free Press reported (Aug 10, 2026)](https://www.freep.com/story/news/courts/2026/08/10/michigan-judges-closed-door-discipline-2025-contempt-arrest/91240577007/): offenses included negligence leading to wrongful arrest, delaying cases for years, and mistreating court staff — all handled behind closed doors.
+
+2025's 698 grievances was a **32% increase** over 2024 (530), the largest single-year jump in a decade. The JTC speculated publicity around existing public complaints drove awareness. Clutch Justice [analyzed the 2025 report in detail](https://clutchjustice.com/2026/07/01/jtc-2025-annual-report-michigan-judicial-discipline/).
+
+Source: [JTC 2024 Annual Report (PDF)](http://cms4files.revize.com/mjtc/docs/2024%20Annual%20Report.pdf) · [JTC 2025 Annual Report](http://jtc.courts.mi.gov/annual_report/index.php) · [Clutch Justice JTC analysis, Jul 1, 2026](https://clutchjustice.com/2026/07/01/jtc-2025-annual-report-michigan-judicial-discipline/)
+
+### Combined: The System's Throughput
+
+| Body | Year | Filed | Dismissed | Rate |
+|---|---|---|---|---|
+| **AGC** | 2024 | 2,393 | 1,627 | **88.8%** |
+| **JTC** | 2025 | 698 | 540 | **97.1%** |
+
+The AGC and JTC together process over 3,000 complaints per year. Fewer than 100 result in any public consequence. The system does not fail to receive complaints. It fails to act on them.
+
 This does not mean all dismissed complaints are meritorious. It means the system is structured to evaluate each complaint in isolation, without pattern recognition, and to resolve the vast majority through confidential dispositions that leave no public record.
 
 ## How Isolation Creates Immunity

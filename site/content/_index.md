@@ -86,8 +86,10 @@ Sourced profiles of every actor in the investigation. Every role documented to c
 
 | Actor | Role | Investigation |
 |-------|------|--------------|
-| **[Philip L. Ellison](/actors/ellison/)** | Attorney, Outside Legal Counsel PLC. SLAPP + fabricated witness. | Aljouny / Saginaw |
+| **[Philip L. Ellison](/actors/ellison/)** | Attorney, 4 entities, 153-domain portfolio, $73K federal sanctions, fabricated witness. | Aljouny / Saginaw |
+| **[Judge Julie A. Gafkay](/actors/gafkay/)** | Chief Judge, 10th Circuit. SVSU colleague of Ellison. 3 simultaneous Ellison cases. | Aljouny / Saginaw |
 | **[Judge Andre R. Borrello](/actors/borrello/)** | Signed contempt, then recused himself. | Aljouny / Saginaw |
+| **[Kelly D. Ellsworth](/actors/ellsworth/)** | Briefly represented Rita. Dissuaded her. SCBA insider, family in bar since 1986. | Structural / Saginaw |
 | **[Judge Kathleen G. Galen](/actors/galen/)** | JTC admonition. Jailed pregnant woman (reversed). Campaign staff = court staff. | Eastpointe / 38th District |
 | **[Judge Michael Schipper](/actors/schipper/)** | Active JTC investigation. 6–10x guideline sentencing. ADA retaliation. | Barry County |
 | **[Julie Nakfoor Pratt](/actors/nakfoor-pratt/)** | Private admonishment (MRPC 3.4(e)). Brady/Giglio failures. FOIA obstruction. | Barry County |

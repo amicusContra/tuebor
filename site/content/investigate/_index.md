@@ -18,6 +18,7 @@ This section gives you the tools to do the same.
 
 | Guide | What It Does |
 |-------|-------------|
+| **[⚠ Do Not Use FOIAworks](/investigate/foiaworks-warning/)** | FOIAworks charges up to $69.95/month, has no privacy policy, and is run by a sanctioned attorney. Use the **[free Clutch Justice FOIA Generator](https://clutchjustice.com/michigan-foia-generator/)** instead — no account, no data stored. |
 | **[FOIA Toolkit](/investigate/foia-toolkit/)** | How to file an effective Michigan FOIA request. Templates, deadlines, appeal paths, and the specific language that prevents delay. |
 | **[Oversight Filing Guide](/investigate/oversight-guide/)** | How to file complaints with Michigan's AGC, JTC, SCAO, MCOLES, and other oversight bodies. What each one does and what they can't do. |
 | **[Court Records Guide](/investigate/court-records/)** | How to read a Michigan docket, find appellate opinions, search PACER for federal cases, and use case numbers to pull the actual documents. |

@@ -1,0 +1,35 @@
+name: Build & Deploy barry.primals.eco
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  build-deploy:
+    runs-on: docker
+    container:
+      image: ghcr.io/getzola/zola:v0.19.2
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Zola build
+        run: |
+          cd site
+          zola build
+          echo "Built $(find public -name '*.html' | wc -l) HTML pages"
+
+      - name: Deploy to live directory
+        run: |
+          rsync -av --delete site/public/ /srv/barry/public/
+          echo "Deployed barry.primals.eco"
+
+      - name: Generate BLAKE3 manifest
+        run: |
+          cd /srv/barry/public
+          if command -v b3sum >/dev/null 2>&1; then
+            find . -type f | sort | xargs b3sum > /srv/barry/content-manifest.b3
+            echo "BLAKE3 manifest: $(wc -l < /srv/barry/content-manifest.b3) files hashed"
+          else
+            echo "b3sum not available — skipping manifest"
+          fi

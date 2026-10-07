@@ -22,6 +22,7 @@ Every entry below is sourced from publicly verifiable records. No anonymous tips
 | [$74,752.45: Federal Sanctions Against Philip L. Ellison](/evidence/ellison-sanctions/) | Two federal courts sanctioned Ellison — $73K for frivolous RICO, $1K for baseless ethical accusations. SCOTUS cert denied. Pattern of aggressive filing → sanctions → appeal → denial. | PACER (W.D. Mich. 1:20-cv-00724, 6th Cir. 22-1574), SCOTUS No. 23-404, E.D. Mich. 21-cv-12250 |
 | [Complete Litigation Docket](/evidence/litigation-docket/) | Every known active and resolved case — wins, reversals, sanctions, client cases. Sova class action + Scripps federal = same tree facts, 3 separate cases. OLC v. Treasury FOIA dismissed for notary failure. Full Gronda partnership map. | PACER, PacerMonitor, Leagle, COA 374178, OLC press releases, Clutch Justice |
 | [ritafelinewilliams.com — Impersonation Domain](/evidence/impersonation-domain/) | Active website using journalist's full legal name. Created Sep 9, 2025. Renewed Sep 2026. Collecting names and emails via contact form. Privacy-protected registration. Ellison stated on record his client "created the domains." | WHOIS, GoDaddy, court transcript Aug 3 2026, NCMEC CyberTip 222110727 |
+| [The SLAPP Suit — Complete Timeline](/evidence/slapp-timeline/) | Every event from Sep 2025 through Oct 2026. Filed → contested → recused → reassigned → UPEPA motion pending. First major test of Michigan's anti-SLAPP statute. Automatic stay in effect. AGC investigation not resolved. | Court docket, COA 380599, Clutch Justice articles |
 
 ---
 

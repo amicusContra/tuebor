@@ -21,6 +21,7 @@ This section gives you the tools to do the same.
 | **[Campaign Finance](/investigate/campaign-finance/)** | How to use TransparencyUSA, Michigan CFRS, and FEC filings to trace who funds whom. The dark money indicators. |
 | **[Evidence Documentation](/investigate/evidence-documentation/)** | How to build a contemporaneous record that attorneys and oversight bodies can actually use. Incident logs, document indexes, escalation trackers. |
 | **[Entity Search](/investigate/entity-search/)** | How to search Michigan LARA for business registrations, registered agents, corporate connections, and formation dates. |
+| **[Hemlock FOIA Toolkit](/investigate/hemlock-foia/)** | Ready-to-use FOIA templates targeting Saginaw ISD, Hemlock PS, LakeNet vendor agreements, and Roscommon County property records. Copy, fill in your name, send. |
 
 ### The Process
 

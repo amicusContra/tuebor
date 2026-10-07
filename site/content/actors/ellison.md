@@ -17,6 +17,35 @@ weight = 1
 | **Phone** | (989) 642-0055 |
 | **Website** | [olcplc.com](https://www.olcplc.com) |
 
+## The Public Persona
+
+### "Humans of Hemlock"
+
+Hemlock Public Schools — where Katie Ellison is VP of the Board of Education — published a "Humans of Hemlock" profile of Philip Ellison on their official website ([hemlockps.com/article/1721872](https://www.hemlockps.com/article/1721872)). The profile describes him as making Hemlock "a brighter, more connected place."
+
+The school board VP's husband profiled as a community hero on the school board's own website — while that husband is under AGC investigation, owes $73K in federal sanctions, and filed a SLAPP suit against a journalist.
+
+### Credential Positioning
+
+Ellison's credentials are real but strategically positioned to maximize authority:
+
+| Credential | Implication |
+|---|---|
+| **SCOTUS Bar member** | Real. But SCOTUS bar membership requires 3 years of state bar admission + $200 fee. It is not selective. |
+| **Adjunct Professor, SVSU** | Real. Aug 2017–present. But this places him as a colleague of **Chief Judge Julie A. Gafkay**, who also teaches at SVSU. 6+ year overlap at the same small regional university. |
+| **Super Lawyers 2016–2025** | Real. But Super Lawyers is a Thomson Reuters marketing product, not a judicial or bar association designation. |
+| **"Federally appointed class counsel"** | Real. Appointed in Taylor v. City of Saginaw (tire chalking) and Howard v. Macomb County (foreclosure surplus). These are legitimate appointments. |
+| **michigansupremecourtattorney.com** | Vanity domain. Positions the firm as "Supreme Court level." Domain registered through same Quagmire Solutions infrastructure as harassment domains. |
+
+### The SVSU–Gafkay Connection
+
+| Person | SVSU Role | Other Role |
+|---|---|---|
+| **Philip L. Ellison** | Adjunct Professor of Law (Aug 2017–present) | Attorney with 3 simultaneous cases before Gafkay |
+| **Judge Julie A. Gafkay** | Adjunct Professor | Chief Judge, 10th Circuit Court (Saginaw County) |
+
+They are colleagues at the same small university. She is past president of the Saginaw County Bar Association. He is a member. She presides over his cases. MCR 2.003(C)(1) raises the recusal question: personal bias or prejudice concerning a party's attorney.
+
 ## Practice Profile
 
 Ellison's firm website describes a practice focused on:
@@ -232,6 +261,8 @@ The SLAPP suit silences the journalist who documented the conduct underlying the
 ---
 
 ## Sanctions History
+
+Full analysis: **[$73,752.45: Federal Sanctions Against Philip L. Ellison](/evidence/ellison-sanctions/)**
 
 ### Garcia v. Title Check LLC (Sixth Circuit, Case No. 22-1574)
 

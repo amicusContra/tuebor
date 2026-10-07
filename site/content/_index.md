@@ -76,6 +76,7 @@ The system does not self-correct. So citizens correct the record.
 | **[Data Braid — Public vs. Private Evidence](/evidence/data-braid-aljouny/)** | ARIN WHOIS, MPSC registry, OLC press archive, LARA, PACER, Times Herald, SCOTUS records | 6 reverse target searches. All independently confirmed from public sources. |
 | **[Domain Registration Campaign](/evidence/domain-registrations/)** | WHOIS, GoDaddy records, PPO filings, Clutch Justice reporting | 3 domains targeting PPO holders (incl. minor child) registered in 30 min. Renewed Sep 2026. Impersonation site live. |
 | **[FOIAworks Honeypot Analysis](/evidence/foiaworks-honeypot/)** | LARA entity search, FOIAworks ToS, 404 at /privacy/, Quagmire Solutions LLC | Fabricated-witness attorney operates FOIA platform with no privacy policy. |
+| **[$73,752.45: Federal Sanctions](/evidence/ellison-sanctions/)** | PACER (W.D. Mich., 6th Cir. 22-1574), SCOTUS No. 23-404 | Sixth Circuit sanctioned Ellison $73K for frivolous RICO claims. SCOTUS cert denied. Pattern of filing → sanctions → appeal → denial. |
 | **[Detroit Charter School Network](https://detroit.primals.eco)** | LARA, TransparencyUSA, court filings, PACER, 287+ pages | Active. AGC, JTC, DPSCD, MDE, CMU notified. |
 
 ---
@@ -105,6 +106,7 @@ Everything you need to run your own Michigan accountability investigation:
 | Tool | What It Does |
 |------|-------------|
 | **[FOIA Toolkit](/investigate/foia-toolkit/)** | Templates, deadlines, exemption challenges, appeal paths |
+| **[Hemlock FOIA Toolkit](/investigate/hemlock-foia/)** | Ready-to-use templates: Saginaw ISD contracts, Hemlock PS "Humans of Hemlock", LakeNet vendor records, Roscommon property deed |
 | **[Oversight Filing Guide](/investigate/oversight-guide/)** | How to file with AGC, JTC, SCAO, MCOLES, IC3 |
 | **[Court Records Guide](/investigate/court-records/)** | Dockets, appellate opinions, PACER, LARA, campaign finance |
 | **[Evidence Documentation](/investigate/evidence-documentation/)** | Incident logs, document indexes, preservation notices |
@@ -119,7 +121,10 @@ Chronological record from 2013 to present. Every entry sourced.
 
 ## [Analysis](/analysis/)
 
-Pattern analysis across all investigations. How 94% complaint dismissal creates de facto immunity. Where the networks cross.
+Pattern analysis across all investigations:
+- **[Cross-Subgraph Patterns](/analysis/cross-subgraph-patterns/)** — How Detroit, Saginaw, Barry, Macomb, and Allegan connect through the same AGC, JTC, SCAO, and LARA nodes
+- **[Anderson Localization — Hemlock](/analysis/anderson-hemlock/)** — Same physics as Detroit, population 2,000, one family captures every layer
+- **[Institutional Immunity](/analysis/institutional-immunity/)** — Why 94% dismissal creates de facto immunity
 
 ---
 

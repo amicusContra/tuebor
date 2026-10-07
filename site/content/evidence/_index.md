@@ -18,7 +18,8 @@ Every entry below is sourced from publicly verifiable records. No anonymous tips
 | [Data Braid](/evidence/data-braid-aljouny/) | Six independent public data paths confirm the Ghost Witness findings. Reverse target searches validate every node. | ARIN WHOIS, MPSC ITSP registry, OLC URL timestamps, court records |
 | [Domain Registration Campaign](/evidence/domain-registrations/) | Three domains targeting PPO holders (including a minor child) registered in 30 minutes. Renewed Sep 2026. Impersonation site is live. | WHOIS, GoDaddy records, court PPO filings, Clutch Justice reporting |
 | [FOIAworks: Transparency Tool With No Privacy Policy](/evidence/foiaworks-honeypot/) | Attorney who fabricated a witness now operates a FOIA platform that collects requester identities — with no privacy policy. | LARA entity search, FOIAworks ToS, 404 at /privacy/, Quagmire Solutions LLC |
-| [$73,752.45: Federal Sanctions Against Philip L. Ellison](/evidence/ellison-sanctions/) | Sixth Circuit imposed $73K in sanctions for pressing frivolous RICO claims. SCOTUS cert denied. Pattern of aggressive filing → sanctions → appeal → denial. | PACER (W.D. Mich. 1:20-cv-00724, 6th Cir. 22-1574), SCOTUS No. 23-404 |
+| [FOIAworks as an Early Warning System](/evidence/foiaworks-early-warning/) | Ellison has sued FOIA coordinators across 8+ counties for a decade. Now he operates the platform those investigators file through — with no privacy policy. Complete county relationship map + intelligence architecture. | Court dockets (8 FOIA cases), FOIAworks pricing/ToS, HLPOA filings, CHiLLL v. Roscommon |
+| [$74,752.45: Federal Sanctions Against Philip L. Ellison](/evidence/ellison-sanctions/) | Two federal courts sanctioned Ellison — $73K for frivolous RICO, $1K for baseless ethical accusations. SCOTUS cert denied. Pattern of aggressive filing → sanctions → appeal → denial. | PACER (W.D. Mich. 1:20-cv-00724, 6th Cir. 22-1574), SCOTUS No. 23-404, E.D. Mich. 21-cv-12250 |
 
 ---
 

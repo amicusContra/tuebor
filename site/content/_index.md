@@ -76,6 +76,7 @@ The system does not self-correct. So citizens correct the record.
 | **[Data Braid — Public vs. Private Evidence](/evidence/data-braid-aljouny/)** | ARIN WHOIS, MPSC registry, OLC press archive, LARA, PACER, Times Herald, SCOTUS records | 6 reverse target searches. All independently confirmed from public sources. |
 | **[Domain Registration Campaign](/evidence/domain-registrations/)** | WHOIS, GoDaddy records, PPO filings, Clutch Justice reporting | 3 domains targeting PPO holders (incl. minor child) registered in 30 min. Renewed Sep 2026. Impersonation site live. |
 | **[FOIAworks Honeypot Analysis](/evidence/foiaworks-honeypot/)** | LARA entity search, FOIAworks ToS, 404 at /privacy/, Quagmire Solutions LLC | Fabricated-witness attorney operates FOIA platform with no privacy policy. |
+| **[FOIAworks as Early Warning System](/evidence/foiaworks-early-warning/)** | 8+ FOIA lawsuits, county relationship map, Higgins Lake connection, Statewide plan intelligence risk | The attorney who sued FOIA coordinators across Michigan now operates the platform investigators file through. |
 | **[$73,752.45: Federal Sanctions](/evidence/ellison-sanctions/)** | PACER (W.D. Mich., 6th Cir. 22-1574), SCOTUS No. 23-404 | Sixth Circuit sanctioned Ellison $73K for frivolous RICO claims. SCOTUS cert denied. Pattern of filing → sanctions → appeal → denial. |
 | **[Detroit Charter School Network](https://detroit.primals.eco)** | LARA, TransparencyUSA, court filings, PACER, 287+ pages | Active. AGC, JTC, DPSCD, MDE, CMU notified. |
 

@@ -119,8 +119,8 @@ Quagmire Solutions LLC).
 
 ### Layer 3: School Board Governance
 
-The subject's spouse serves as **Vice President** of two school
-boards simultaneously:
+The subject's spouse serves as **President** of the county-wide ISD board
+and sits on the local school board:
 
 1. **Saginaw Intermediate School District Board of Education**
 2. **Hemlock Public School District Board of Education**

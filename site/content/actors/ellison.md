@@ -21,9 +21,9 @@ weight = 1
 
 ### "Humans of Hemlock"
 
-Hemlock Public Schools — where Katie Ellison is VP of the Board of Education — published a "Humans of Hemlock" profile of Philip Ellison on their official website ([hemlockps.com/article/1721872](https://www.hemlockps.com/article/1721872)). The profile describes him as making Hemlock "a brighter, more connected place."
+Hemlock Public Schools published a **"Faces of Governance"** profile of Philip Ellison on their official website ([hemlockps.com/article/2614591](https://www.hemlockps.com/article/2614591)). The article describes him as "a proud Huskie, a passionate lifelong learner, and a steady advocate for public education." A prior iteration — "Humans of Hemlock" — described him as making Hemlock "a brighter, more connected place" ([hemlockps.com/article/1721872](https://www.hemlockps.com/article/1721872)).
 
-The school board VP's husband profiled as a community hero on the school board's own website — while that husband is under AGC investigation, owes $73K in federal sanctions, and filed a SLAPP suit against a journalist.
+The school board **president's** husband profiled as a governance hero on the school board's own website — while that husband is under AGC investigation, owes $73K+ in federal sanctions across two cases, and filed a SLAPP suit against a journalist.
 
 ### Credential Positioning
 
@@ -32,7 +32,7 @@ Ellison's credentials are real but strategically positioned to maximize authorit
 | Credential | Implication |
 |---|---|
 | **SCOTUS Bar member** | Real. But SCOTUS bar membership requires 3 years of state bar admission + $200 fee. It is not selective. |
-| **Adjunct Professor, SVSU** | Real. Aug 2017–present. But this places him as a colleague of **Chief Judge Julie A. Gafkay**, who also teaches at SVSU. 6+ year overlap at the same small regional university. |
+| **Adjunct Professor, SVSU** | Real. Aug 2017–present. But this places him as a colleague of **Chief Judge Julie A. Gafkay**, who also teaches at SVSU ([MLive, Jan 26, 2026](https://www.mlive.com/news/saginaw-bay-city/2026/01/behind-the-bench-expect-the-unexpected-says-judge-julie-gafkay.html)). 6+ year overlap at the same small regional university. |
 | **Super Lawyers 2016–2025** | Real. But Super Lawyers is a Thomson Reuters marketing product, not a judicial or bar association designation. |
 | **"Federally appointed class counsel"** | Real. Appointed in Taylor v. City of Saginaw (tire chalking) and Howard v. Macomb County (foreclosure surplus). These are legitimate appointments. |
 | **michigansupremecourtattorney.com** | Vanity domain. Positions the firm as "Supreme Court level." Domain registered through same Quagmire Solutions infrastructure as harassment domains. |
@@ -126,7 +126,8 @@ She notarized the sworn statements in which Ellison declared "no connection" to 
 | **Bitterman v. Oakley** | Michigan | Police corruption |
 | **Pung v. Isabella County** | Michigan | — |
 | **Kanuszewski v. Hertel** | Michigan | Constitutional rights |
-| **Ellison v. Consumers Energy** (26-000243-CZ) | Saginaw County | Tree trespass, statutory damages. Filed pro se. UPEPA invoked against counterclaim. |
+| **Kuchar/Sova v. Consumers Energy** (25-002533-CH) | Saginaw County / COA 379743 | Tree trespass class action. UPEPA motion denied. Prelim. injunction denied. **MSC denied leave Aug 27, 2026.** Co-counsel: Gronda. |
+| **Fakhreddine v. Sabree** (2:21-cv-12250) | E.D. Michigan | Post-judgment foreclosure. **$1,000 sanctions** for baseless ethical accusations. Aug 4, 2026. |
 | **CHiLLL v. Roscommon County** | Michigan | Lake issues |
 
 ## LakeNet LLC — The ISP Connection
@@ -189,13 +190,15 @@ All three active entities list **Philip L Ellison** as registered agent. South B
 | Person | Relationship | Public Role | Address |
 |--------|-------------|-------------|---------|
 | **Philip Lee Ellison** | Self (age 40-45) | Attorney, OLC PLC. Adjunct Prof of Law, SVSU. | 355 N Maple St / 1310 Watson Rd, Hemlock |
-| **Dr. Katherine (Katie) Elizabeth Ellison** | Wife (middle school sweethearts, both Hemlock HS alums) | **VP, Saginaw ISD Board of Education. VP, Hemlock Public School District Board of Education.** Marketing Coordinator, Castle Museum. PhD History (WMU). Leadership Saginaw Class of 2026. | Same |
+| **Dr. Katherine (Katie) Elizabeth Ellison** | Wife (middle school sweethearts, both Hemlock HS alums) | **President, Saginaw ISD Board of Education (2021–2027). Hemlock Public School District Board of Education.** Marketing Coordinator, Castle Museum. PhD History (WMU). Leadership Saginaw Class of 2026. | Same |
 | **Calvin Lee Ellison** | Brother (age 35-40) | Unknown | **1111 S Orr Rd, Hemlock** (= Quagmire Solutions LLC registered address) |
 | **Lisa Edgecomb** | Legal assistant / Notary | Notarized Ellison's affidavits in 25-2441-CZ | OLC PLC office |
 
 The **1111 S Orr Rd** address (Quagmire Solutions) is the **Ellison family property** — Calvin Lee Ellison resides there, and an older family member (age 65-70) is also at that address per voter records.
 
-Katherine Ellison's dual school board positions mean that **the wife of the attorney who SLAPPed a journalist and whose client targets children with harassment domains** sits on **two education governance boards** in the same county where the SLAPP suit was filed. This is not evidence of her involvement — it is the **social structure** that makes local accountability nearly impossible. When the Saginaw County community evaluates complaints about Philip Ellison, his wife is embedded in its educational leadership.
+Katherine Ellison's dual school board positions — including **president** of the county-wide ISD — mean that **the wife of the attorney who SLAPPed a journalist and whose client targets children with harassment domains** leads **the highest education governance body** in the same county where the SLAPP suit was filed. This is not evidence of her involvement — it is the **social structure** that makes local accountability nearly impossible. When the Saginaw County community evaluates complaints about Philip Ellison, his wife presides over its educational leadership.
+
+Source: [Saginaw ISD Board Recognition (2026)](https://www.sisd.cc/article/2617791) — lists Dr. Katherine Ellison as **President** (2021–2027), Lisa Hubbard as VP (2023–2029).
 
 Sources: [Michigan Resident Database (voter records)](https://www.michiganresidentdatabase.com/name/ellison/hemlock) · [Hemlock Public Schools](https://www.hemlockps.com/page/katherine-ellison-bio-page) · [Saginaw ISD](https://www.sisd.cc/article/1979944) · [Saginaw ISD Leadership](https://www.sisd.cc/article/2298434/) · [Ellison v. Scripps complaint](https://docketnexus.com/case/ellison-v-scripps-73497287/)
 
@@ -287,6 +290,14 @@ Ellison **lost his own home** to foreclosure in Macomb County. Chase foreclosed;
 He subsequently built his entire practice around representing OTHER foreclosure victims.
 
 Source: [GovInfo](https://www.govinfo.gov/content/pkg/USCOURTS-mied-2_13-cv-13121/pdf/USCOURTS-mied-2_13-cv-13121-0.pdf) · [vLex](https://case-law.vlex.com/vid/ellison-v-jp-morgan-884636013)
+
+### Fakhreddine v. Sabree (E.D. Mich., Case No. 2:21-cv-12250)
+
+On August 4, 2026, the Eastern District of Michigan sanctioned Ellison **$1,000** for baselessly accusing opposing counsel of an ethical violation — then refusing to retract the accusation after the court pointed out it was meritless. The court found he was *"either carelessly looking over the record or intentionally misrepresenting the chain of events to the Court."*
+
+**Combined federal sanctions: $74,752.45** across two cases.
+
+Source: [Fakhreddine v. Sabree (Midpage)](https://app.midpage.ai/document/fakhreddine-v-eric-r-sabree--c84282f6-b47f-490c-9490-cfe5d445318f) — Full analysis: [$74,752.45 in Federal Sanctions](/evidence/ellison-sanctions/)
 
 ---
 

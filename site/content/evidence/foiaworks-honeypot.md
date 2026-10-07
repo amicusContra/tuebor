@@ -33,7 +33,23 @@ Per the [Terms of Service](https://www.foiaworks.com/terms/) (effective August 2
 | **Government responses** | The actual responsive documents — the FOIA productions themselves | §2 |
 | **Tracking data** | Deadlines, extensions, fee estimates, denials, appeal status | §2 |
 | **Payment data** | Credit card or payment information for paid plans | §3 |
-| **Early-access signups** | Names and emails of people interested in filing FOIAs (current pre-launch) | Landing page |
+| **Early-access signups** | Names and emails of people interested in filing FOIAs | Landing page |
+
+### Pricing — What You Pay to Give Ellison Your Data
+
+FOIAworks is no longer pre-launch. It is a **paid commercial service**:
+
+| Plan | Price | Submissions | What Quagmire Solutions Learns |
+|------|-------|-------------|-------------------------------|
+| **First request** | Free | 1 (one-time) | Your identity + one FOIA target |
+| **Single** | $4.95 per request | 1 | Your identity + paid investigation target |
+| **Pro** | $19.95 / month | Up to 15 | Your full investigation portfolio |
+| **Statewide** | $69.95 / month | Up to 120 | **Every FOIA you file across all 83 Michigan counties** |
+| **Enterprise** | Custom | Unlimited | Your organization's complete FOIA operations |
+
+The **"Statewide" plan** sends requests to all 83 Michigan counties. At $69.95/month, a journalist, investigator, or activist hands the operator a **complete map** of their statewide investigation — which agencies, which records, which timelines — for less than the cost of a streaming subscription.
+
+Source: [foiaworks.com/pricing](https://www.foiaworks.com/pricing/) · [foiaworks.com/contact](https://www.foiaworks.com/contact/) (confirms mailing address: Quagmire Solutions LLC, 4522 West Higgins Lake Drive, Roscommon, MI 48653)
 
 The Terms grant Quagmire Solutions a license to:
 

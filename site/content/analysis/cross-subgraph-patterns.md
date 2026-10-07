@@ -80,7 +80,7 @@ Both investigations document the same technique — **using legitimate credentia
 | Actor | Credential Shield | What It Shields |
 |---|---|---|
 | **Brian Banks** (Detroit) | Pahara Fellowship. Institute for Social Policy and Understanding (ISPU) board. National charter advocacy appearances. | **Nine criminal convictions** including arson. Operates charter schools with captured board governance. |
-| **Philip Ellison** (Saginaw) | Super Lawyers. SCOTUS bar. Federally appointed class counsel. Adjunct professor. "Humans of Hemlock" profile. FOIA champion. | **$73K federal sanctions.** Fabricated witness. SLAPP suit. Harassment domains targeting a minor child. |
+| **Philip Ellison** (Saginaw) | Super Lawyers. SCOTUS bar. Federally appointed class counsel. Adjunct professor. "Faces of Governance" profile. FOIA champion. | **$74,752.45 federal sanctions** across two cases. Fabricated witness. SLAPP suit. Harassment domains targeting a minor child. |
 
 The technique is identical: build a public persona through legitimate-seeming institutional affiliations, then use that persona's authority to deflect scrutiny of documented misconduct. Banks does it through national education networks. Ellison does it through legal credentialing. Both succeed because **Google returns the credentials before the court records.**
 

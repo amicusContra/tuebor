@@ -124,7 +124,8 @@ Chronological record from 2013 to present. Every entry sourced.
 Pattern analysis across all investigations:
 - **[Cross-Subgraph Patterns](/analysis/cross-subgraph-patterns/)** — How Detroit, Saginaw, Barry, Macomb, and Allegan connect through the same AGC, JTC, SCAO, and LARA nodes
 - **[Anderson Localization — Hemlock](/analysis/anderson-hemlock/)** — Same physics as Detroit, population 2,000, one family captures every layer
-- **[Institutional Immunity](/analysis/institutional-immunity/)** — Why 94% dismissal creates de facto immunity
+- **[The UPEPA Contradiction](/analysis/upepa-contradiction/)** — Michigan's anti-SLAPP statute weaponized by its first stress-tester
+- **[Institutional Immunity](/analysis/institutional-immunity/)** — AGC dismisses 88.8% of complaints (their own data)
 
 ---
 

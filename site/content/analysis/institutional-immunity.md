@@ -4,11 +4,23 @@ description = "How Michigan's oversight system creates de facto immunity by proc
 weight = 1
 +++
 
-## The 94% Number
+## The Numbers
 
-Michigan's attorney discipline system dismisses approximately 94% of complaints. This figure is documented in the Attorney Discipline Board's own annual reports and confirmed by attorneys interviewed by [Clutch Justice](https://clutchjustice.com/2026/09/24/no-one-is-coming-michigan-judicial-attorney-discipline/).
+Michigan's attorney discipline system dismisses the vast majority of complaints. The AGC's own annual reports document this:
 
-This does not mean 94% of complaints are unfounded. It means the system is structured to evaluate each complaint in isolation, without pattern recognition, and to resolve the vast majority through confidential dispositions that leave no public record.
+| Year | Grievances Received | Rejected by GA at Intake | Closed by Commission | Total Dismissed | Formal Complaints Filed |
+|------|---|---|---|---|---|
+| **2024** | 2,393 | 1,422 (59.4%) | 205 | **1,627 / 1,832 dispositions (88.8%)** | 59 |
+| **2023** | 1,989 | 1,221 (61.4%) | 216 | **1,437 / 1,989 (72.2%)** | 64 |
+| **2012–2020** | 21,048 total | 15,816 by GA alone | — | **75% dismissed at intake** | — |
+
+Source: [AGC 2024 Annual Report (PDF)](https://www.agcmi.org/documents/2024-annual-report.pdf) · [AGC 2023 Annual Report (PDF)](https://www.agcmi.org/documents/2023-annual-report.pdf) · [Michigan Bar Journal, grievance confidentiality primer](https://www.michbar.org/journal/Details/A-primer-on-grievance-confidentiality?ArticleID=4527) — citing 15,816/21,048 (2012–2020)
+
+The system's headline rate depends on how you count. By the AGC's narrowest measure (rejections at GA intake), roughly 60% are dismissed before anyone investigates. By the broader measure that includes Commission closures, the rate exceeds 88%. By the nine-year longitudinal measure, **three of every four complaints are dismissed by the Grievance Administrator before reaching a hearing panel.**
+
+As [Clutch Justice documented on September 24, 2026](https://clutchjustice.com/2026/09/24/no-one-is-coming-michigan-judicial-attorney-discipline/): attorneys who regularly appear before specific Michigan judges have independently described the same pattern — hearings logged as status conferences, months without written rulings, appearances that accomplish nothing procedurally — across counties, over years.
+
+This does not mean all dismissed complaints are meritorious. It means the system is structured to evaluate each complaint in isolation, without pattern recognition, and to resolve the vast majority through confidential dispositions that leave no public record.
 
 ## How Isolation Creates Immunity
 

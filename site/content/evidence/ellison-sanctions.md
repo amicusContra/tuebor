@@ -1,10 +1,10 @@
 +++
 title = "$73,752.45: The Federal Sanctions Against Philip L. Ellison"
-description = "In 2023, the Sixth Circuit Court of Appeals imposed $73,752.45 in sanctions on Philip L. Ellison for pressing frivolous RICO and Hobbs Act extortion claims. The U.S. Supreme Court denied certiorari. Sourced to federal court records."
+description = "Philip L. Ellison has been sanctioned $74,752.45 across two federal cases: $73,752.45 by the Sixth Circuit for frivolous RICO claims (SCOTUS cert denied), and $1,000 by the Eastern District of Michigan for baselessly accusing opposing counsel of ethical violations. Sourced to federal court records."
 weight = 5
 
 [extra]
-keywords = "Philip Ellison sanctions, Garcia v Title Check sanctions, Ellison Sixth Circuit, Ellison SCOTUS cert denied, Outside Legal Counsel PLC sanctions, Michigan attorney sanctions, 28 USC 1927 sanctions, Ellison frivolous litigation"
+keywords = "Philip Ellison sanctions, Garcia v Title Check sanctions, Fakhreddine v Sabree sanctions, Ellison Sixth Circuit, Ellison SCOTUS cert denied, Outside Legal Counsel PLC sanctions, Michigan attorney sanctions, 28 USC 1927 sanctions, Ellison frivolous litigation, Philip Ellison sanctioned, Ellison Wayne County"
 +++
 
 ## Summary
@@ -70,14 +70,65 @@ The $73,752.45 sanctions order stands. It is a final judgment.
 
 ---
 
+---
+
+## The Second Sanctions: Fakhreddine v. Sabree
+
+### What Happened
+
+In 2026, Ellison was sanctioned **again** — this time in the Eastern District of Michigan.
+
+In *Fakhreddine v. Eric R. Sabree, Wayne County Treasurer* (2:21-cv-12250), Ellison entered the case after a prior attorney lost. He filed a Rule 59/60 motion raising arguments that should have been raised earlier — and **baselessly accused opposing counsel of an ethical violation**, claiming the defendant's lawyers failed in their "duty of candor" by not disclosing the existence of class action lawsuits.
+
+The problem: the defendant had already disclosed the class action in the notice of removal, years earlier. The docket expressly contradicted Ellison's accusation.
+
+The court rejected his argument. Ellison doubled down and repeated the accusation in his sanctions opposition brief.
+
+### The Court's Findings (August 4, 2026)
+
+The court imposed a **$1,000 fine** under its inherent authority, finding:
+
+> *"Mr. Ellison baselessly brought charges of professional misconduct into the dispute in the first instance, not Defendant's counsel. Because those charges were clearly baseless, and because he refused to retract them even after the Court noted that Defendant's counsel was under no such obligation to disclose certain caselaw, the Court will impose sanctions."*
+
+The court also noted:
+
+> *"Plaintiffs' counsel is either carelessly looking over the record or intentionally misrepresenting the chain of events to the Court. Either way, the Court will not permit such antics."*
+
+| Field | Detail |
+|-------|--------|
+| **Court** | United States District Court, Eastern District of Michigan |
+| **Case No.** | 2:21-cv-12250 |
+| **Sanctions amount** | **$1,000** fine payable to the Clerk of Court |
+| **Authority** | Court's inherent authority to sanction |
+| **Basis** | Baselessly accusing opposing counsel of an ethical violation, then refusing to retract |
+| **Date** | August 4, 2026 |
+
+The court's Civility Principles, which all E.D. Michigan attorneys swear to follow, state: an attorney *"will not, absent good cause, attribute bad motives or improper conduct to other counsel or bring the profession into disrepute by unfounded accusations of impropriety."* (Administrative Order 08-AO-009)
+
+Source: [Fakhreddine v. Sabree opinion (Midpage)](https://app.midpage.ai/document/fakhreddine-v-eric-r-sabree--c84282f6-b47f-490c-9490-cfe5d445318f)
+
+---
+
+## Combined Sanctions Total: $74,752.45
+
+| Case | Amount | Basis | Court | Year |
+|------|--------|-------|-------|------|
+| **Garcia v. Title Check** | $73,752.45 | 28 U.S.C. § 1927 — pressing frivolous RICO claims | W.D. Michigan → 6th Cir. → SCOTUS cert denied | 2022–2023 |
+| **Fakhreddine v. Sabree** | $1,000 | Inherent authority — baseless ethical accusations | E.D. Michigan | 2026 |
+| **Total** | **$74,752.45** | | | |
+
+---
+
 ## The Pattern
 
-The Garcia sanctions are not an isolated event. They are part of a documented pattern:
+The sanctions are not isolated events. They are part of a documented pattern:
 
 | Case | Year | Claim | Result |
 |------|------|-------|--------|
 | **Garcia v. Title Check** | 2018–2023 | RICO, Hobbs Act extortion against lawful auction premium | **$73,752.45 sanctions.** Sixth Circuit affirmed. SCOTUS cert denied. |
+| **Fakhreddine v. Sabree** (21-cv-12250) | 2026 | Post-judgment motions; baselessly accused opposing counsel of ethical violations | **$1,000 sanctions.** E.D. Michigan inherent authority. |
 | **Ellison v. JP Morgan Chase** (13-13121) | 2013 | Pro se § 1983, § 1985(3), mail fraud, IIED against bank that foreclosed his home. $7.35M demanded. | **Dismissed with prejudice.** All claims failed. |
+| **Sova v. Consumers Energy** (COA 379743) | 2025–2026 | Tree trespass class action. UPEPA motion filed; preliminary injunction sought. | UPEPA motion **denied as moot.** Preliminary injunction **denied.** Michigan Supreme Court **denied leave** Aug 27, 2026. |
 | **OLC v. Williams** (25-2441-CZ) | 2025–present | Defamation (SLAPP) against journalist | **Void ab initio** — filed in violation of bankruptcy automatic stay. |
 | **OLC v. TSA** (23-cv-10553) | 2023 | FOIA against TSA | Dismissed as moot. $402 costs motion **denied.** |
 

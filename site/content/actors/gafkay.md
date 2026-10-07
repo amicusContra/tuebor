@@ -43,7 +43,7 @@ Judge Gafkay simultaneously presides over **three active cases** involving Phili
 |------|---------------|--------|
 | **25-2441-CZ** — OLC PLC v. Williams (SLAPP) | **Named plaintiff / counsel** | Successor judge after Borrello recusal. UPEPA motion + sanctions motion pending. Show cause hearing held Aug 3, 2026. |
 | **26-000243-CZ** — Ellison v. Consumers Energy | **Named plaintiff** (personal, with wife Katherine) | Active. Ellison filed two UPEPA special motions. |
-| **25-2533-CH** — Sova v. Consumers Energy (class action) | **Plaintiff's class counsel** | Active class action. Ellison + Gronda as proposed class counsel. |
+| **25-2533-CH** — Sova v. Consumers Energy (class action) | **Plaintiff's class counsel** | Class action. Ellison + Gronda as proposed class counsel. **Michigan Supreme Court denied leave Aug 27, 2026** (COA 379743). |
 
 ### Why This Matters
 

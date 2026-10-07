@@ -33,7 +33,7 @@ Ready-to-use FOIA request templates targeting specific Saginaw County agencies. 
 
 **Target:** Saginaw Intermediate School District
 **FOIA Coordinator:** Check [sisd.cc](https://www.sisd.cc) for current coordinator
-**Why this matters:** Katie Ellison is VP of the Saginaw ISD Board. Her husband Philip Ellison operates OLC PLC, Quagmire Solutions LLC, and South Brennan Property LLC. Any contracts between the ISD and Ellison-controlled entities would represent a board member's spouse profiting from the district.
+**Why this matters:** Katie Ellison is **President** of the Saginaw ISD Board of Education (term 2021–2027; [sisd.cc](https://www.sisd.cc/article/2617791)). Her husband Philip Ellison operates OLC PLC, Quagmire Solutions LLC, and South Brennan Property LLC. Any contracts between the ISD and Ellison-controlled entities would represent the **board president's spouse** profiting from the district.
 
 ```
 TO: FOIA Coordinator, Saginaw Intermediate School District

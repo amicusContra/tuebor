@@ -155,6 +155,21 @@ Philip L. Ellison controls at least **four entities** and a portfolio of **29+ d
 
 All three active entities list **Philip L Ellison** as registered agent. South Brennan Property LLC is a **property holding** company located one door from his law firm. Quagmire Solutions is the **tech company** that now operates [FOIAworks](/evidence/foiaworks-honeypot/).
 
+### The Hemlock Network
+
+| Person | Relationship | Public Role | Address |
+|--------|-------------|-------------|---------|
+| **Philip Lee Ellison** | Self (age 40-45) | Attorney, OLC PLC. Adjunct Prof of Law, SVSU. | 355 N Maple St / 1310 Watson Rd, Hemlock |
+| **Dr. Katherine (Katie) Elizabeth Ellison** | Wife (middle school sweethearts, both Hemlock HS alums) | **VP, Saginaw ISD Board of Education. VP, Hemlock Public School District Board of Education.** Marketing Coordinator, Castle Museum. PhD History (WMU). Leadership Saginaw Class of 2026. | Same |
+| **Calvin Lee Ellison** | Brother (age 35-40) | Unknown | **1111 S Orr Rd, Hemlock** (= Quagmire Solutions LLC registered address) |
+| **Lisa Edgecomb** | Legal assistant / Notary | Notarized Ellison's affidavits in 25-2441-CZ | OLC PLC office |
+
+The **1111 S Orr Rd** address (Quagmire Solutions) is the **Ellison family property** — Calvin Lee Ellison resides there, and an older family member (age 65-70) is also at that address per voter records.
+
+Katherine Ellison's dual school board positions mean that **the wife of the attorney who SLAPPed a journalist and whose client targets children with harassment domains** sits on **two education governance boards** in the same county where the SLAPP suit was filed. This is not evidence of her involvement — it is the **social structure** that makes local accountability nearly impossible. When the Saginaw County community evaluates complaints about Philip Ellison, his wife is embedded in its educational leadership.
+
+Sources: [Michigan Resident Database (voter records)](https://www.michiganresidentdatabase.com/name/ellison/hemlock) · [Hemlock Public Schools](https://www.hemlockps.com/page/katherine-ellison-bio-page) · [Saginaw ISD](https://www.sisd.cc/article/1979944) · [Saginaw ISD Leadership](https://www.sisd.cc/article/2298434/) · [Ellison v. Scripps complaint](https://docketnexus.com/case/ellison-v-scripps-73497287/)
+
 Source: [CompaniesMI (B0703X)](https://companiesmi.com/company/B0703X/quagmire-solutions-llc) · [CompaniesMI (E62024)](https://companiesmi.com/company/E62024/south-brennan-property-llc) · [LARA Business Search](https://mibusinessregistry.lara.state.mi.us/search/business)
 
 ### Domain Portfolio
@@ -171,6 +186,20 @@ Source: [CompaniesMI (B0703X)](https://companiesmi.com/company/B0703X/quagmire-s
 | **foiaworks.com** | Quagmire Solutions LLC product |
 
 The shift to privacy-shielded WHOIS in 2022 occurred after Lindke's Through My Eyes activities escalated and became the subject of federal litigation.
+
+### Quagmire Solutions Client Identification
+
+Ellison's bios describe Quagmire Solutions' clients as *"local merchants, Internet service companies, and a major regional newspaper owned by an international outfit."*
+
+| Description | Most Likely Identity | Basis |
+|-------------|---------------------|-------|
+| **"Internet service companies"** (plural) | **LakeNet LLC** and/or other Hemlock-area ISPs | LakeNet is the only broadband ISP headquartered in Hemlock. Ellison's office IP (162.247.150.54) is a LakeNet IP. Quagmire operated 2000-2007; LakeNet formed 2010. Quagmire served ISPs in the same community where the only ISP later formed. |
+| **"Major regional newspaper owned by an international outfit"** | **The Saginaw News** (owned by Advance Local / Newhouse / Condé Nast) | Advance Publications (parent of Advance Local) is a New York media conglomerate also owning Condé Nast — an "international outfit." The Saginaw News is the major regional newspaper serving Saginaw County, where Ellison is based. Quagmire was based in "Saginaw, Midland, Bay City" per AboutUs.com archive. |
+| **"Local merchants"** | Various Hemlock/Saginaw area businesses | Expected for a small-town web design firm |
+
+**The ISP client connection matters:** If Quagmire Solutions designed websites for ISPs in the Hemlock area, Ellison has **historical technical knowledge** of the ISP infrastructure — not just as a customer, but as a consultant who worked on their systems.
+
+Source: [AboutUs.com archive](https://aboutus.com/QuagmireSolutions.com) — *"Welcome - Web Design, Communications, Technology :: Serving Saginaw and Midland, Michigan, Quagmire Solutions, LLC is an Internet business specializing in web design, communications, and technology."*
 
 ### FOIAworks — The FOIA Platform With No Privacy Policy
 

@@ -366,6 +366,10 @@ Nine months of litigation — including a coercive stipulated order obtained whi
 | **Garcia v. Title Check** (20-724 → 22-1574) | W.D. Mich. / 6th Cir. | Tax foreclosure RICO | $73,752.45 sanctions affirmed |
 | **Garcia v. Title Check cert** (23-404) | US Supreme Court | Sanctions appeal | Cert denied |
 | **Pung v. Isabella County** (No. 25-95) | **US Supreme Court** | Tax foreclosure surplus. Takings Clause. | **Won 9-0** (Jun 23, 2026). Alito opinion. Vacated and remanded. |
+| **Kanuszewski v. MDHHS** (1:18-cv-10472) | E.D. Mich. → 6th Cir. | Newborn blood spot storage — Fourth/Fourteenth Amendment | Won at district court (Sep 2022). **REVERSED by 6th Circuit (Jun 2025)** — 3-0, storage not unconstitutional. |
+| **Ellison v. Scripps** (1:26-cv-12029) | E.D. Michigan | § 1983 + Fifth Amendment takings — Consumers Energy tree-marking on Ellison's **personal home** (355 N Maple, Hemlock). Philip AND Katherine as plaintiffs. | Active. Motion to dismiss filed Aug 21, 2026. Previously dismissed from Saginaw County (26-243-CZ, Gafkay). |
+| **Banaszak v. State** | Michigan Supreme Court | Property rights — police deliberate destruction. | Leave application filed Aug 11, 2026. |
+| **OLC v. Larkin Township** | Michigan | Township assessor unauthorized property entry. | Filed Jul 2026. |
 | **Lindke v. Freed** | US Supreme Court | First Amendment, social media | Decided — remanded |
 | **Lindke v. King** (22-cv-11767) | E.D. Mich. | § 1983, PPO statute challenge | Ellison withdrew Apr 23, 2026 |
 | **Lindke v. King** (25-cv-14148) | E.D. Mich. | § 1983, PPO challenge #2 | Dismissed with prejudice May 6, 2026 |

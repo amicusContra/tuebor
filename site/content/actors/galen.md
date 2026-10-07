@@ -74,13 +74,35 @@ Goodman has filed confidential JTC and AGC complaints asking investigators to de
 
 **Source:** [Clutch Justice, Sep 24, 2026](https://clutchjustice.com/2026/09/24/kathleen-galen-goodman-residency-lawsuit-dismissed/)
 
+## The Makoski Residency Problem
+
+Magistrate **Mark Makoski** was appointed by Galen in **2022** — the same year he filed a principal residence rescission with the City of Warren, certifying **under penalty of perjury** that he no longer occupied the Warren house he had claimed as home since 1994.
+
+| Fact | Detail | Source |
+|------|--------|--------|
+| **Warren PRE rescission** | Filed June 14, 2022. Certified under penalty of perjury he no longer occupies Warren house (effective Mar 23, 2022). Wife did not sign. | [Clutch Justice, Oct 6, 2026](https://clutchjustice.com/2026/10/06/mark-makoski-principal-residence-rescission/) |
+| **Eastpointe water usage** | 17 units total from Dec 2022 – Aug 2026 (~9.5 gallons/day) | Same |
+| **Warren water usage** | 89 units in first 8 months of 2026 alone | Same |
+| **Residency requirement** | MCL 600.8501 — 3rd-class district magistrate must be registered elector of district unless concurrent jurisdiction plan applies | Same |
+| **Campaign role** | Named **Treasurer** of Galen's re-election committee (Statement of Organization, Apr 24, 2020). Business address: 28479 Hoover Rd, Warren — same address as committee AND Galen's pre-bench law practice. | [Clutch Justice, Sep 22, 2026](https://clutchjustice.com/2026/09/22/kathleen-galen-cork-wine-pub-jtc-admonition/) |
+| **Legal representation** | Represented Galen personally in Cork Wine Pub dispute (2021). Then became her magistrate. | Same |
+| **Eastpointe rental** | Listed address is **adjacent to Galen's residence** | [Clutch Justice, Sep 27, 2026](https://clutchjustice.com/2026/09/27/mark-makoski-residency/) |
+
+**The Makoski cluster:** Personal attorney → campaign treasurer → magistrate → possibly not resident of the district. All roads lead to 28479 Hoover Road, Warren.
+
+## November 3, 2026: The Election
+
+Galen is on the November 3, 2026 ballot for **re-election** to the 38th District Court, opposed by **Richard Goodman**. Goodman filed JTC and AGC complaints alleging that Galen and her brother used months of litigation to try to remove him from the ballot over a residency challenge dismissed with prejudice on August 31, 2026.
+
 ## Investigation Path
 
 - [ ] Pull full 38th District Court docket statistics for Galen's tenure
 - [ ] Check SCAO workload reports for caseload vs. outcome patterns
 - [ ] FOIA: Cork Wine Pub liquor license records from Michigan LARA/LCC
 - [ ] Campaign finance filings: review all committee filings for personnel overlap
-- [ ] Check Makoski's 38th District Court appointment order and residency records
+- [ ] FOIA: Makoski's appointment order, residency information provided, court address records
+- [ ] FOIA: Eastpointe rental file for occupancy records
+- [ ] FOIA: Voter registration records for Makoski — when he began using Eastpointe address
 - [ ] Review ACLU consent order compliance (2016 Macomb Circuit Court order)
 - [ ] Track JTC and AGC complaint outcomes (Goodman filings)
 

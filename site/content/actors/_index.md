@@ -19,7 +19,7 @@ keywords = "Philip Ellison attorney, Julie Gafkay judge, Andre Borrello judge, M
 | **[Judge Andre R. Borrello](/actors/borrello/)** | 10th Circuit Court. Signed contempt. Denied DQ motion. Recused May 12, 2026. | Ignored fabricated witness evidence placed on his docket. |
 | **[Kelly D. Ellsworth](/actors/ellsworth/)** | Attorney, Shinners & Ellsworth PLC. Briefly represented Rita Williams. | Dissuaded her from fighting. SCBA member — same small-town bar. Family practiced in Saginaw County since 1986. |
 | **Lisa Edgecomb** | Legal assistant to Ellison. Notarized his "no connection" affidavits. | Employee notarizing employer's sworn statements. |
-| **Kevin Lindke** | Ellison's client. Criminal history: forgery device (AZ), computer crime (2021, Through My Eyes). | 3 harassment domains incl. minor child. ritafelinewilliams.com renewed Sep 2026, impersonation site live. Booked in St. Clair County Apr 23, 2026. |
+| **[Kevin Lindke](/actors/lindke/)** | Ellison's client. Convicted: using computers to commit crime. 272 days served. 21,000-member Facebook group used to coordinate harassment. | 3 harassment domains incl. minor child. ritafelinewilliams.com renewed Sep 2026. Booked St. Clair County Apr 23, 2026. Ellison stated on record Lindke "created the domains." |
 | **Conrad Mallett** | Detroit Corporation Counsel. Former MSC Chief Justice. | Received Aljouny email. Cross-references Detroit dark money pipeline via Sheffield retention. |
 | **Violet Ikonomova** | Detroit Free Press reporter. Independent witness. | Received Aljouny email Sep 9, 2026. Independently suspected Ellison. |
 | **Hassan Ahmad** | Ellison's client in *Ahmad v. University of Michigan* (FOIA). | Aljouny PGP key created 4 days after Ahmad press release. |

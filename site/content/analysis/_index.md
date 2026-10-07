@@ -91,5 +91,6 @@ If you are an investigator, journalist, or oversight body looking at any one of 
 
 | Analysis | Summary |
 |----------|---------|
+| **[Anderson Localization — Hemlock Subgraph](/analysis/anderson-hemlock/)** | How one family captures an entire community's infrastructure: ISP, school boards, courts, FOIA, law practice. Same physics as Detroit, smaller lattice, more complete capture. |
 | **[Ghost Witness: Samantha Aljouny](/evidence/ghost-witness-aljouny/)** | Fabricated identity submitted as witness in SLAPP suit. 13 forensic convergence points. IC3 filed. |
 | **[Institutional Immunity Pattern](/analysis/institutional-immunity/)** | How 94% complaint dismissal creates de facto immunity. The mathematics of isolated processing. |

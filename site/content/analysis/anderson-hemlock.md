@@ -211,6 +211,26 @@ The Anderson localization is complete. The wave function — every
 complaint, every investigation, every FOIA request — is fully
 trapped in the local lattice.
 
+### New Data: November 3, 2026 Bond Vote
+
+The Hemlock Public School District Board of Education — on which Katie Ellison sits — has approved a **$17.75 million bond proposal** and a **non-homestead operating millage renewal** for the November 3, 2026 general election. Board President Matt Wesener stated: *"We remain committed to strong schools, careful planning, transparency, and responsible stewardship of every taxpayer dollar."*
+
+The bond would fund building additions, technology, school buses, playgrounds, athletic fields, parking, and sidewalks. The millage generates **$3 million annually** for operations.
+
+**Source:** [hemlock.k12.mi.us/article/3056897](https://www.hemlock.k12.mi.us/article/3056897), [WNEM Sep 8, 2026](https://www.wnem.com/2026/09/08/hemlock-schools-seek-renewal-non-homestead-levy-generating-3m-annually/)
+
+### New Data: The Edgecomb Double Hat
+
+Lisa Edgecomb — Ellison's legal assistant and notary — simultaneously serves as **Deputy Clerk of Richland Township** (1180 N. Hemlock Rd, Hemlock 48626). This means:
+
+- The person who notarizes the attorney's affidavits is also a township government official
+- The attorney who sues government bodies for FOIA violations employs a government clerk
+- The FOIA expert's office assistant handles **election records, voter files, and township records** in her government role
+
+This is not misconduct. It is the **structural density** of Anderson localization: in a town of 2,000, the same individuals fill multiple institutional roles, making independent oversight geometrically harder.
+
+**Source:** [Saginaw County Local Unit Contact List](https://www.saginawcountymi.gov/media/4ofnlu11/local-unit-contact-list-rev-6-04-2026.pdf), [Richland Township website](https://richlandtownship.com/government/board_of_trustees/clerk.php)
+
 ---
 
 ## The External Probe

@@ -113,11 +113,15 @@ An IC3 complaint was filed October 6, 2026 (ID: `10f80c476ef144d4a772d0b198c75a2
 
 ## The Edgecomb Notary Problem
 
-Lisa Edgecomb is both:
-- Ellison's **legal assistant** (employee)
-- The **notary public** who notarized Ellison's affidavits
+Lisa Edgecomb holds **three simultaneous roles** in Hemlock:
 
-She notarized the sworn statements in which Ellison declared "no connection" to Samantha Aljouny. Under Michigan law, a notary should not have a financial interest in or employment relationship with the person whose oath they are administering.
+1. Ellison's **legal assistant** and **notary public** (employee, OLC PLC)
+2. **Deputy Clerk, Richland Township** (1180 N. Hemlock Rd) — a government position in the same township where Ellison lives and operates
+3. Notarized Ellison's sworn "no connection" to Aljouny affidavits in the SLAPP suit
+
+**On the notary question:** Rita Williams challenged Edgecomb's notarization on financial-interest grounds. Ellison responded with a retraction demand citing MCL 55.291(10), which expressly provides that an employee acting for a financially interested person does not thereby acquire a disqualifying financial interest. Rita [corrected the statutory argument](https://clutchjustice.com/2026/05/16/ellison-notary-conflict-edgecomb/). The substantive challenge to the affidavit content remains.
+
+**The structural point:** Edgecomb is a government official (deputy township clerk) working for a private attorney who routinely sues government bodies for FOIA violations and operates a FOIA-filing platform. She is simultaneously part of the government transparency infrastructure and the law firm that profits from government transparency failures.
 
 ## Representative Cases
 
@@ -188,6 +192,20 @@ Philip L. Ellison controls at least **four entities** and a portfolio of **29+ d
 
 All three active entities list **Philip L Ellison** as registered agent. South Brennan Property LLC is a **property holding** company located one door from his law firm. Quagmire Solutions is the **tech company** that now operates [FOIAworks](/evidence/foiaworks-honeypot/).
 
+### Career Timeline
+
+| Period | Role | Source |
+|--------|------|--------|
+| **Nov 2000 – Aug 2007** | Owner, Quagmire Solutions LLC (web design, communications, technology) | LinkedIn |
+| **2005** | LSSU Commencement (Bachelor's) | LSSU program |
+| **~2007–2010** | MSU College of Law (JD, MBA) | OLC bio |
+| **Nov 1, 2010** | Outside Legal Counsel PLC incorporated | LARA (ID 801897593) |
+| **Aug 2017 – present** | Adjunct Professor of Law, SVSU | LinkedIn |
+| **~2018** | FOIAworks launched (Quagmire Solutions product) | FOIAworks.com |
+| **Nov 2024** | 4522 W Higgins Lake Dr purchased for $150,000 (FOIAworks HQ) | MLS 201830608 |
+
+**The path:** Web designer → law student → attorney → FOIA litigator → FOIA platform operator. Every skill from the web design era (domain management, web architecture, data collection, hosting) is now deployed in the legal practice and the FOIAworks platform.
+
 ### The Hemlock Network
 
 | Person | Relationship | Public Role | Address |
@@ -240,7 +258,7 @@ Source: [AboutUs.com archive](https://aboutus.com/QuagmireSolutions.com) — *"W
 
 See full analysis: **[FOIAworks Honeypot](/evidence/foiaworks-honeypot/)**
 
-Quagmire Solutions LLC operates FOIAworks.com from **4522 West Higgins Lake Drive, Roscommon, MI 48653** — a commercial property (formerly a bank) that [sold for $150,000 on November 7, 2024](https://www.realestateone.com/home-for-sale/print/4522-W-Higgins-Lake-Drive-Roscommon-MI-48653/201830608-MIWWLX). Ellison litigates extensively for Higgins Lake property owners.
+Quagmire Solutions LLC operates FOIAworks.com from **4522 West Higgins Lake Drive, Roscommon, MI 48653** — a 1,500 sq ft commercial office on 0.40 acres on the western shoreline of Higgins Lake. The property is a **former Lake Bank branch** with a drive-through window, three offices, a large open meeting space, and a bank vault. It was [auctioned as bank-owned property](https://slideblast.com/retail-building-aws_5a94a9b31723dd5ea74e537e.html) (opening bid $7,500), later used as a real estate office, and [sold for $150,000 on November 7, 2024](https://www.atproperties.com/201830608/4522-w-higgins-lake-drive-roscommon-michigan-48653-wwmls) (MLS# 201830608). Ellison litigates extensively for Higgins Lake property owners through CHiLLL v. Roscommon County.
 
 The platform collects user identities, FOIA request content, government correspondence, and responsive documents. Its `/privacy/` URL returns **404 Not Found** (verified October 6, 2026).
 

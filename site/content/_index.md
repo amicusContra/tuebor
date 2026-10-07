@@ -77,7 +77,9 @@ The system does not self-correct. So citizens correct the record.
 | **[Domain Registration Campaign](/evidence/domain-registrations/)** | WHOIS, GoDaddy records, PPO filings, Clutch Justice reporting | 3 domains targeting PPO holders (incl. minor child) registered in 30 min. Renewed Sep 2026. Impersonation site live. |
 | **[FOIAworks Honeypot Analysis](/evidence/foiaworks-honeypot/)** | LARA entity search, FOIAworks ToS, 404 at /privacy/, Quagmire Solutions LLC | Fabricated-witness attorney operates FOIA platform with no privacy policy. |
 | **[FOIAworks as Early Warning System](/evidence/foiaworks-early-warning/)** | 8+ FOIA lawsuits, county relationship map, Higgins Lake connection, Statewide plan intelligence risk | The attorney who sued FOIA coordinators across Michigan now operates the platform investigators file through. |
-| **[$73,752.45: Federal Sanctions](/evidence/ellison-sanctions/)** | PACER (W.D. Mich., 6th Cir. 22-1574), SCOTUS No. 23-404 | Sixth Circuit sanctioned Ellison $73K for frivolous RICO claims. SCOTUS cert denied. Pattern of filing → sanctions → appeal → denial. |
+| **[$74,752.45: Federal Sanctions](/evidence/ellison-sanctions/)** | PACER (W.D. Mich., 6th Cir. 22-1574), SCOTUS No. 23-404, E.D. Mich. 21-cv-12250 | Two courts: $73K (6th Cir.) + $1K (E.D. Mich.). SCOTUS cert denied. |
+| **[Complete Litigation Docket](/evidence/litigation-docket/)** | PACER, PacerMonitor, Leagle, COA 374178, OLC press releases | Every active and resolved case. Wins, reversals, sanctions, docket patterns. OLC v. Treasury FOIA dismissed for notary failure. |
+| **[Impersonation Domain](/evidence/impersonation-domain/)** | WHOIS, court transcript Aug 3, 2026, NCMEC CyberTip 222110727 | ritafelinewilliams.com — live, collecting data, renewed Sep 2026. Attorney stated on record client "created the domains." |
 | **[Detroit Charter School Network](https://detroit.primals.eco)** | LARA, TransparencyUSA, court filings, PACER, 287+ pages | Active. AGC, JTC, DPSCD, MDE, CMU notified. |
 
 ---
@@ -88,7 +90,8 @@ Sourced profiles of every actor in the investigation. Every role documented to c
 
 | Actor | Role | Investigation |
 |-------|------|--------------|
-| **[Philip L. Ellison](/actors/ellison/)** | Attorney, 4 entities, 153-domain portfolio, $73K federal sanctions, fabricated witness. | Aljouny / Saginaw |
+| **[Philip L. Ellison](/actors/ellison/)** | Attorney, 4 entities, 153-domain portfolio, $74K federal sanctions, fabricated witness. SCOTUS win AND sanctions on same docket. | Aljouny / Saginaw |
+| **[Kevin Lindke](/actors/lindke/)** | Ellison's client. Convicted: computer crime. 272 days served. 21K-member Facebook group. Domains in minor child's name. | Aljouny / Saginaw |
 | **[Judge Julie A. Gafkay](/actors/gafkay/)** | Chief Judge, 10th Circuit. SVSU colleague of Ellison. 3 simultaneous Ellison cases. | Aljouny / Saginaw |
 | **[Judge Andre R. Borrello](/actors/borrello/)** | Signed contempt, then recused himself. | Aljouny / Saginaw |
 | **[Kelly D. Ellsworth](/actors/ellsworth/)** | Briefly represented Rita. Dissuaded her. SCBA insider, family in bar since 1986. | Structural / Saginaw |
@@ -127,6 +130,7 @@ Pattern analysis across all investigations:
 - **[Anderson Localization — Hemlock](/analysis/anderson-hemlock/)** — Same physics as Detroit, population 2,000, one family captures every layer
 - **[The UPEPA Contradiction](/analysis/upepa-contradiction/)** — Michigan's anti-SLAPP statute weaponized by its first stress-tester
 - **[Institutional Immunity](/analysis/institutional-immunity/)** — AGC dismisses 88.8% of complaints (their own data)
+- **[Credential vs. Conduct](/analysis/credential-vs-conduct/)** — The resume says SCOTUS champion. The docket says sanctioned, reversed, SLAPP-filing, representing a convicted harasser.
 
 ---
 

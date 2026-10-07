@@ -28,7 +28,8 @@ keywords = "Philip Ellison cases, Outside Legal Counsel PLC docket, Ellison v Sc
 | **Astemborski v. Manetta** | Michigan | Riparian owner | Riparian rights | Active |
 | **People v. Beck** | Michigan | Criminal defendant | Due process | Active |
 | **Fraser Twp v. Haney** | Michigan | Township (as OLC) | Oral arguments pending. Municipal case. | Active |
-| **Livingston County pistol retention** | Michigan | Lawful pistol owner | County took driver's lawful pistol, closed case, kept gun indefinitely. | Filed 2026. |
+| **Kilbourn v. County of Livingston** (2:26-cv-13736) | E.D. Michigan | Andrew Kilbourn (CPL holder) | § 1983 — Second, Fourth, Fourteenth Amendment. Deputy seized HK VP9 pistol during traffic stop because serial # not in LEIN. Gun not returned. No forfeiture proceeding. | Filed Sep 30, 2026. |
+| **Yannotti v. City of Ann Arbor** | E.D. Michigan (Patti, J.) | Class of chalked motorists | Fourth Amendment tire-chalking class action. Settlement approved: permanent injunction + $1 nominal damages. **$122,500 attorney fees to OLC** (Ann Arbor City Council vote Jun 1, 2026). | Closed 2025-2026. |
 
 ---
 
@@ -37,7 +38,7 @@ keywords = "Philip Ellison cases, Outside Legal Counsel PLC docket, Ellison v Sc
 | Case | Court | Result | Significance |
 |------|-------|--------|-------------|
 | **Pung v. Isabella County** (No. 25-95) | **US Supreme Court** | **Won 9-0** (Jun 23, 2026). Alito opinion. | Tax foreclosure surplus. Takings Clause. Vacated and remanded. Genuine constitutional victory. |
-| **Taylor v. City of Saginaw** | 6th Circuit → remand | Won: tire-chalking = Fourth Amendment search | National attention. 6th Cir. ruled chalk marks on tires constitute a search under the Fourth Amendment. |
+| **Taylor v. City of Saginaw** (1:17-cv-11067) | E.D. Mich. (Ludington, J.) → 6th Circuit → remand | Won: tire-chalking = Fourth Amendment search. $1 nominal damages per chalk. **$203,631 attorney fees** (stipulated, approved Sep 20, 2022). | National attention. Practice declared unconstitutional. City voluntarily ceased 2019. Spawned Yannotti (Ann Arbor) copycat earning additional $122,500 in fees. |
 | **Bitterman v. Village of Oakley** | Shiawassee County | Won: $18,615 attorney fees. Police department **shut down**. | Exposed 150-officer reserve force in village of 290. $150K+ in donations. Possible pay-for-appointment bribery. "Small Town, Big Problem" media series. |
 | **Ahmad v. University of Michigan** | Michigan | Won: FOIA disclosure | University forced to disclose records. [OLC highlight case.](https://olcplc.com/public/foia) |
 | **Spalding v. Swaicki** | Michigan | Won: Open Meetings Act violation | Government transparency. |
@@ -105,7 +106,21 @@ Ellison continues to cite:
 - **Super Lawyers 2021-2025** → [Super Lawyers is a paid/nominated listing, not peer review](https://www.superlawyers.com/about/)
 - **Pung v. Isabella County** → genuine win, but used to shield reputation from sanctions and SLAPP allegations
 
-### Pattern 5: The Gronda Partnership
+### Pattern 5: The Fee Architecture
+
+| Case | Client Recovery | Attorney Fees to OLC |
+|------|----------------|---------------------|
+| Taylor v. Saginaw (tire chalking) | $1 per class member (nominal) | **$203,631** |
+| Yannotti v. Ann Arbor (tire chalking) | $1 per class member (only 2 approved, 0 collected) | **$122,500** |
+| Bitterman v. Oakley (FOIA) | Records disclosed | **$18,615** |
+| Pung v. Isabella County (SCOTUS) | Remand for damages determination | TBD |
+| **Total documented fees** | — | **$344,746+** |
+
+In the tire-chalking cases, the attorney collected **$326,131** while class members were entitled to $1 each. In Yannotti, only 2 of 7 claimants were approved, and as of June 2026, neither had collected their $1.
+
+This is not improper — § 1988 fee-shifting is designed to incentivize civil rights enforcement regardless of monetary damages. But the architecture explains the economic engine: the clients are vehicles for the fee petitions.
+
+### Pattern 6: The Gronda Partnership
 
 Matthew E. Gronda appears as co-counsel or co-petitioner in multiple Ellison matters:
 

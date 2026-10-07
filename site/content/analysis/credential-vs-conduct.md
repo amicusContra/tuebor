@@ -115,6 +115,8 @@ These are not fabricated. Several represent genuine legal achievements. **The qu
 
 **Pattern:** High volume of appeals can indicate either zealous advocacy or a pattern of filing beyond the point where reasonable attorneys would stop. The sanctions finding suggests the 6th Circuit concluded the latter in at least one case.
 
+**The fee architecture:** In the tire-chalking cases alone, Ellison collected **$326,131 in attorney fees** ($203,631 from Saginaw, $122,500 from Ann Arbor) while class members received $1 nominal damages each. In Ann Arbor, only 2 of 7 claimants were approved, and neither had collected their $1 as of June 2026. The clients are vehicles for the fee petitions — which is exactly how § 1988 is designed to work, but the ratio reveals where the economic engine sits.
+
 ---
 
 ## The Client Problem

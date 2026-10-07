@@ -3,6 +3,9 @@ title = "Evidence"
 description = "Primary source documents, forensic analyses, and data braids — each entry independently sourced from public records."
 sort_by = "weight"
 template = "section.html"
+
+[extra]
+keywords = "Michigan court evidence, fabricated witness Michigan, Philip Ellison evidence, FOIAworks evidence, domain registration harassment evidence, Aljouny ghost witness, Michigan SLAPP evidence, federal sanctions attorney Michigan, Clutch Justice evidence, data braid forensic investigation"
 +++
 
 ## Evidence Repository

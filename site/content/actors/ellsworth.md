@@ -2,6 +2,9 @@
 title = "Kelly D. Ellsworth"
 description = "Saginaw County attorney, Shinners & Ellsworth PLC. Briefly represented Rita Williams. Dissuaded her from fighting. SCBA member in the same small-town bar as Gafkay and Ellison."
 weight = 8
+
+[extra]
+keywords = "Kelly Ellsworth Saginaw attorney, Shinners Ellsworth PLC, Saginaw County Bar Association, Ellsworth SLAPP defense, Rita Williams attorney Saginaw, Clutch Justice Ellsworth, Saginaw County legal representation"
 +++
 
 ## Identity

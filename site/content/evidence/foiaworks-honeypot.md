@@ -2,6 +2,9 @@
 title = "FOIAworks: A Transparency Tool With No Privacy Policy, Operated by the Attorney Who Fabricated a Witness"
 description = "Quagmire Solutions LLC runs FOIAworks.com — a FOIA request platform that collects requester identities, research targets, and government responses. The company's registered agent is Philip L. Ellison. There is no published privacy policy."
 weight = 3
+
+[extra]
+keywords = "FOIAworks privacy policy, FOIAworks.com review, FOIAworks Quagmire Solutions, FOIAworks no privacy policy, FOIAworks Michigan FOIA software, Quagmire Solutions LLC Philip Ellison, FOIAworks terms of service, FOIAworks data collection, FOIA platform privacy risk, FOIAworks pricing, Clutch Justice FOIAworks, Michigan FOIA software review, FOIAworks Roscommon Michigan, FOIAworks Hemlock Michigan"
 +++
 
 ## Summary

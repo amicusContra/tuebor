@@ -3,6 +3,9 @@ title = "Investigate"
 description = "Tools and guides for running your own Michigan accountability investigation. FOIA templates, oversight filing guides, public records navigation, and evidence documentation methods."
 weight = 5
 sort_by = "weight"
+
+[extra]
+keywords = "Michigan investigation toolkit, how to investigate Michigan court, FOIA request Michigan guide, AGC complaint how to file, JTC complaint Michigan, Michigan public records guide, LARA entity search Michigan, Hemlock FOIA templates, Michigan oversight filing, citizen investigation Michigan, Clutch Justice toolkit"
 +++
 
 ## You Can Do This

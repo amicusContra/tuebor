@@ -2,6 +2,9 @@
 title = "Data Braid — Aljouny Investigation: Public vs. Private Evidence Layers"
 description = "Separating what anyone can verify from public sources, what requires FOIA or private forensics, and what a reverse target search reveals. Every node independently checkable."
 weight = 2
+
+[extra]
+keywords = "Samantha Aljouny data braid, Aljouny ARIN WHOIS, LakeNet LLC Hemlock Michigan, LakeNet AS11910, MPSC ITSP registry LakeNet, Philip Ellison IP address, Outside Legal Counsel IP, Clutch Justice data braid, Aljouny forensic investigation, LakeNet broadband ISP Hemlock"
 +++
 
 ## Purpose

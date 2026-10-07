@@ -2,6 +2,9 @@
 title = "Judge Andre R. Borrello"
 description = "Saginaw County Circuit Court, 10th Circuit. Signed show-cause contempt order in SLAPP suit. Denied DQ motion. Then recused himself."
 weight = 2
+
+[extra]
+keywords = "Andre Borrello Saginaw County judge, Borrello recusal SLAPP suit, Judge Borrello 10th Circuit Court, Borrello contempt order Williams, Borrello Outside Legal Counsel, Saginaw County Circuit Court judge, Clutch Justice Borrello"
 +++
 
 ## Identity

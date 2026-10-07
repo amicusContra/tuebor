@@ -4,7 +4,7 @@ description = "Philip L. Ellison has been sanctioned $74,752.45 across two feder
 weight = 5
 
 [extra]
-keywords = "Philip Ellison sanctions, Garcia v Title Check sanctions, Fakhreddine v Sabree sanctions, Ellison Sixth Circuit, Ellison SCOTUS cert denied, Outside Legal Counsel PLC sanctions, Michigan attorney sanctions, 28 USC 1927 sanctions, Ellison frivolous litigation, Philip Ellison sanctioned, Ellison Wayne County"
+keywords = "Philip Ellison sanctions, Garcia v Title Check sanctions, Fakhreddine v Sabree sanctions, Ellison Sixth Circuit, Ellison SCOTUS cert denied, Outside Legal Counsel PLC sanctions, Michigan attorney sanctions, 28 USC 1927 sanctions, Ellison frivolous litigation, Philip Ellison sanctioned, Ellison Wayne County, Ellison $73752 sanctions, Ellison RICO frivolous, Ellison Gronda sanctions, Matthew Gronda sanctions, Clutch Justice Ellison sanctions, Hemlock Michigan attorney sanctioned, Philip Ellison Hobbs Act, Ellison tax foreclosure RICO"
 +++
 
 ## Summary

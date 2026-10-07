@@ -2,6 +2,9 @@
 title = "Institutional Immunity Pattern"
 description = "How Michigan's oversight system creates de facto immunity by processing complaints in isolation. The mathematics of 94% dismissal."
 weight = 1
+
+[extra]
+keywords = "Michigan AGC dismissal rate, Attorney Grievance Commission statistics, JTC annual report statistics, Michigan judicial discipline statistics, AGC 94 percent dismissal, JTC 97 percent dismissal, Michigan attorney complaint dismissed, Michigan judge complaint dismissed, private admonishment Michigan, confidential admonition JTC, AGC annual report 2024, JTC annual report 2025, Michigan oversight failure, Clutch Justice no one is coming, institutional immunity Michigan"
 +++
 
 ## The Numbers

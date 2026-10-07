@@ -3,6 +3,9 @@ title = "Analysis"
 description = "Pattern analysis across Michigan's accountability failures. What connects the investigations. Where the institutional immunity breaks."
 weight = 6
 sort_by = "weight"
+
+[extra]
+keywords = "Michigan institutional analysis, Anderson localization institutional capture, Michigan oversight failure pattern, AGC dismissal rate analysis, JTC grievance statistics, UPEPA anti-SLAPP analysis, cross-county judicial pattern Michigan, Clutch Justice analysis, Michigan court corruption analysis, institutional immunity Michigan"
 +++
 
 ## The Pattern

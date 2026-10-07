@@ -2,6 +2,9 @@
 title = "Michigan Oversight Filing Guide"
 description = "How to file complaints with Michigan's judicial, attorney, and law enforcement oversight bodies. What each one does, what it can't, and what actually moves the needle."
 weight = 2
+
+[extra]
+keywords = "Michigan AGC complaint how to file, Attorney Grievance Commission complaint form, JTC complaint Michigan judge, Judicial Tenure Commission grievance, SCAO complaint Michigan, MCOLES complaint police officer, IC3 complaint filing, Michigan attorney misconduct report, how to file judicial complaint Michigan, Michigan oversight body contact"
 +++
 
 ## The Reality

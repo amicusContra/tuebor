@@ -2,6 +2,9 @@
 title = "Evidence Documentation"
 description = "How to build a contemporaneous record that attorneys and oversight bodies can actually use. Incident logs, document indexes, preservation notices."
 weight = 5
+
+[extra]
+keywords = "evidence documentation guide, contemporaneous record keeping, incident log template, document index legal, evidence preservation Michigan, how to document misconduct, court evidence organization, FOIA response documentation, evidence chain of custody citizen, Michigan public records evidence"
 +++
 
 ## Why Documentation Matters

@@ -3,6 +3,9 @@ title = "Actors"
 description = "Documented individuals and entities in Tuebor investigations. Every role sourced to court records or public filings."
 weight = 3
 sort_by = "weight"
+
+[extra]
+keywords = "Philip Ellison attorney, Julie Gafkay judge, Andre Borrello judge, Michael Schipper Barry County, Kathleen Galen Eastpointe, Julie Nakfoor Pratt prosecutor, Kelly Ellsworth Saginaw, Michigan judicial actors, Saginaw County court actors, Barry County court actors, Clutch Justice actors, Michigan attorney misconduct actors"
 +++
 
 ## Documented Actors

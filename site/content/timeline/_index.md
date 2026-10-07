@@ -2,6 +2,9 @@
 title = "Timeline"
 description = "Chronological record of documented events across all Tuebor investigations. Every entry sourced to court records, FOIA responses, or published reporting."
 weight = 4
+
+[extra]
+keywords = "Michigan court timeline, Ellison SLAPP timeline, Saginaw County case timeline, Barry County investigation timeline, Aljouny fabricated witness timeline, UPEPA Michigan timeline, Clutch Justice timeline, OLC v Williams timeline, Lindke v Freed timeline"
 +++
 
 ## Master Timeline

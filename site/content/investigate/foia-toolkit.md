@@ -2,6 +2,9 @@
 title = "Michigan FOIA Toolkit"
 description = "How to file a Michigan Freedom of Information Act request that produces results. Templates, deadlines, exemption challenges, and appeal paths."
 weight = 1
+
+[extra]
+keywords = "Michigan FOIA request template, how to file FOIA Michigan, MCL 15.231 FOIA, Michigan Freedom of Information Act guide, FOIA request Michigan government, Michigan public records request, FOIA appeal Michigan, FOIA fee challenge Michigan, Clutch Justice FOIA generator, Michigan FOIA toolkit free"
 +++
 
 ## The Law

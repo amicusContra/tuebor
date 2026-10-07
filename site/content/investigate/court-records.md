@@ -2,6 +2,9 @@
 title = "Court Records Guide"
 description = "How to find, read, and use Michigan court records. State dockets, appellate opinions, federal PACER, and what to look for."
 weight = 3
+
+[extra]
+keywords = "Michigan court records search, how to read Michigan docket, PACER federal case search, Michigan appellate opinions, Michigan court case lookup, LARA business entity search, Michigan campaign finance records, TransparencyUSA Michigan, Michigan circuit court docket, case number search Michigan"
 +++
 
 ## Michigan State Courts

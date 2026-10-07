@@ -3,7 +3,7 @@ title = "Tuebor — Michigan Public Record"
 description = "I will defend. Evidence-based accountability documentation across Michigan courts, institutions, and oversight systems. Every claim sourced to public records."
 
 [extra]
-keywords = "tuebor Michigan court accountability, Michigan judicial oversight, SLAPP litigation Michigan, anti-SLAPP UPEPA, Michigan charter school accountability, SCAO oversight, AGC complaints Michigan, Barry County courts, Detroit charter school corruption, Michigan public records investigation"
+keywords = "tuebor Michigan court accountability, Michigan judicial oversight, SLAPP litigation Michigan, anti-SLAPP UPEPA, Michigan charter school accountability, SCAO oversight, AGC complaints Michigan, Barry County courts, Detroit charter school corruption, Michigan public records investigation, Philip Ellison sanctions, Clutch Justice investigation, FOIAworks privacy, Saginaw County court, Hemlock Michigan attorney, Michigan attorney misconduct, Julie Gafkay judge, Michael Schipper Barry County, Nakfoor Pratt prosecutor, primals.eco, Michigan institutional capture, FOIA Michigan guide"
 +++
 
 ## Tuebor — "I Will Defend"

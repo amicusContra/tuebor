@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% block title %}{{ config.title }}{% endblock title %}</title>
+  <meta name="description" content="{% block description %}{{ config.description }}{% endblock description %}">
+  <link rel="canonical" href="{{ current_url | default(value=config.base_url) | safe }}">
+  <meta property="og:title" content="{% block og_title %}{{ config.title }}{% endblock og_title %}">
+  <meta property="og:description" content="{% block og_desc %}{{ config.description }}{% endblock og_desc %}">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="{{ current_url | default(value=config.base_url) }}">
+  <meta property="og:site_name" content="Tuebor — Michigan Public Record">
+  <meta name="keywords" content="{% block keywords %}{{ config.extra.keywords | default(value='') }}{% endblock keywords %}">
+  <link rel="stylesheet" href="{{ get_url(path='css/main.css') }}">
+  <link rel="alternate" type="application/atom+xml" title="{{ config.title }}" href="{{ get_url(path='atom.xml') }}">
+</head>
+<body>
+  <a href="#main" class="skip-link">Skip to content</a>
+
+  <nav class="site-nav">
+    <div class="nav-inner">
+      <a href="{{ config.base_url }}" class="nav-brand">tuebor</a>
+      <div class="nav-links">
+        <a href="{{ get_url(path='@/actors/_index.md') }}">Actors</a>
+        <a href="{{ get_url(path='@/evidence/_index.md') }}">Evidence</a>
+        <a href="{{ get_url(path='@/analysis/_index.md') }}">Analysis</a>
+        <a href="{{ get_url(path='@/investigate/_index.md') }}">Investigate</a>
+        <a href="{{ get_url(path='@/timeline/_index.md') }}">Timeline</a>
+      </div>
+    </div>
+  </nav>
+
+  <main id="main" class="site-main">
+    {% block content %}{% endblock content %}
+  </main>
+
+  <footer class="site-footer">
+    <p><strong>Every fact is cited. Every document is timestamped.</strong></p>
+    <p>
+      Source: <a href="{{ config.extra.repo_url }}">git repository</a> — clone it, verify it.
+      <br>No cookies. No tracking. No identifying data.
+    </p>
+    <p>
+      Part of the <a href="https://primals.eco">primals.eco</a> evidence network.
+      Detroit: <a href="https://detroit.primals.eco">detroit.primals.eco</a> ·
+      Clutch: <a href="https://clutch.primals.eco">clutch.primals.eco</a>
+    </p>
+    <p class="footer-license">
+      Original analysis: <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA 4.0</a>.
+      Court filings and public records: public domain where applicable.
+    </p>
+    <p>Named on this site? Something wrong? <a href="mailto:{{ config.extra.contact_email }}">Contact us</a> — truth matters more than being right.</p>
+  </footer>
+</body>
+</html>

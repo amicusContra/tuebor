@@ -99,7 +99,44 @@ D/Lt. Shane Criger and D/Sgt. Bryan Fuller investigated both the Jeremiah Johnso
 
 Fuller was hit with a **$14.5 million federal verdict** for constitutional violations in McCann — while still serving on the Johnson investigation team.
 
-### Edge 5: The Anti-SLAPP Paradox (Saginaw ↔ Statewide)
+### Edge 5: The MSU Law 2010 Cohort (Detroit ↔ Saginaw)
+
+Three actors from the same MSU College of Law class of 2010 appear across two separate investigations:
+
+| Classmate | Bar Status | Investigation | Misconduct |
+|-----------|-----------|---------------|------------|
+| **Brian Banks** | DENIED — Character & Fitness | Detroit (charter schools) | UPL, credential fraud, 72.67% extraction, 3% math proficiency |
+| **Philip Ellison** | Admitted Nov 2010 (P70894) | Saginaw (SLAPP, ghost witness) | $73,752.45 sanctions, fabricated witness, 153 harassment domains |
+| **Aliyah Sabree** | Admitted May 2011 (P74756) | Detroit (Wayne County bench) | Never reported classmate's UPL (MRPC 8.3 violation) |
+
+MSU Law's class sizes are approximately 200-250 students. These three were in the same law school at the same time. One failed Character & Fitness and spent 14 years using a fraudulent J.D. The other was sanctioned $73K in federal court. The third sits on the Wayne County bench and never reported the first.
+
+**The question:** Did Banks and Ellison know each other at MSU Law? FOIA requests to Michigan State University for class rosters, LEO program enrollment, BLSA membership, and graduation programs would answer this.
+
+### Edge 6: The Dykema Triangle (Detroit ↔ Saginaw ↔ Statewide)
+
+[Dykema Gossett PLLC](https://detroit.primals.eco/network/entities/dykema-gossett/) connects three investigation subgraphs through infrastructure:
+
+| Dykema Action | Year | Subgraph |
+|--------------|------|----------|
+| **Authored PA 362** — Michigan's charter school law | 1993 | Detroit (Banks schools enabled by this law) |
+| **Defended charter law at MI Supreme Court** | 1997 | Statewide |
+| **Formed Save Detroit Jobs** (LARA 802002459) | 2016 | Detroit (dark money → Sheffield) |
+| **Former employer of Judge Miller** | — | Detroit (Miller = PCA Board Chair) |
+| **Dykema Federal PAC → Barrett ($4K)** | 2026 | MI-7 (congressional) |
+| **Sanctioned Ellison for $73,752.45** | 2015-2023 | Saginaw (Garcia v. Title Check, W.D. Mich) |
+
+One law firm wrote the law Banks exploits, formed the dark money entity protecting Banks politically, employed the judge on Banks's board, funded the congressman who calls opponents "convicted felons," AND obtained the sanctions against Ellison. Dykema has direct institutional knowledge of both operators' misconduct — from opposite sides of the table.
+
+### Edge 7: CMU Double Role (Detroit ↔ Saginaw)
+
+Central Michigan University appears in both subgraphs:
+- **Detroit:** CMU authorized MacDowell Preparatory Academy (Banks's school, 148 miles from Detroit)
+- **Saginaw:** Ellison's MBA is from CMU (2006)
+
+CMU is a charter school authorizer AND the alma mater of a sanctioned attorney. Both roles exist within the same institutional framework of Michigan education governance.
+
+### Edge 8: The Anti-SLAPP Paradox (Saginaw ↔ Statewide)
 
 UPEPA (Michigan's anti-SLAPP statute, 2025 PA 52) was designed to protect citizens from strategic lawsuits targeting public expression. Ellison's contradictory positions reveal the statute's vulnerability:
 

@@ -127,6 +127,7 @@ Chronological record from 2013 to present. Every entry sourced.
 
 ### Infrastructure Studies — How the Systems Work
 
+- **[Hey Mikey, He Likes It!](/analysis/hey-mikey/)** — Rogers authored America's most aggressive surveillance bill (killed twice), got hired by the company whose competitor he investigated, bought a $1.6M house in Florida, and accepted $88.8M from Texas oil, Blackstone, Citadel, Koch, McConnell, and Musk. Same donors fund Barrett. Same Dykema OS. Same election. He'll eat anything.
 - **[The Enforcement Ecosystem](/analysis/enforcement-ecosystem/)** — Ten oversight bodies have the mandate, the evidence, and the authority. None has the full picture. State Bar closed the UPL file. AGC sent it back. Two letters, one day apart, each pointing at the other door. The network operates in the jurisdictional gaps between them.
 - **[Tommy Boy](/analysis/tommy-boy/)** — Barrett calls his opponent a "convicted felon" (expunged). Barrett's PAC donor runs dark money with an actual convicted felon as president. FEC receipts. Nov 3, 2026.
 - **[How To Build an OS](/analysis/how-to-build-an-os/)** — One law firm (Dykema), one compliance specialist (Moore), six dark money vehicles, both parties served. SDJ's phone number is Dykema's phone number. All public records.

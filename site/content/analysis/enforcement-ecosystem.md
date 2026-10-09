@@ -267,6 +267,7 @@ The problem is that each mandate was written to handle **one actor at a time**. 
 ## Connected Analysis
 
 **On this site:**
+- [Hey Mikey, He Likes It!](/analysis/hey-mikey/) — the man who authored CISPA wants to join the Senate that killed it. Same donors fund Barrett. Same Dykema OS. Same election day. $88.8M from people who don't live in Michigan.
 - [Institutional Immunity Pattern](/analysis/institutional-immunity/) — the mathematics of 88.8% dismissal
 - [Cross-Subgraph Patterns](/analysis/cross-subgraph-patterns/) — same oversight bodies appear across five investigations
 

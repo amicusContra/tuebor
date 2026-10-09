@@ -281,6 +281,7 @@ And one actual convicted felon — in the entity, not the opposition.
 
 ## Related Pages
 
+- **[Hey Mikey, He Likes It!](/analysis/hey-mikey/)** — Rogers shares donors (Griffin, Schwarzman) and infrastructure (Dykema) with Barrett. Same ticket. Same day. Same $88.8M system. CISPA, AT&T revolving door, Florida mansion.
 - **[How To Build an OS](/analysis/how-to-build-an-os/)** — The full Dykema architecture: kernel, scheduler, process table, filesystem, bipartisan bus
 - **[Infrastructure Grid](/analysis/infrastructure-grid/)** — Every node where entity infrastructure touches individual privacy
 - **[detroit.primals.eco](https://detroit.primals.eco)** — The charter school network Barrett's donor protects

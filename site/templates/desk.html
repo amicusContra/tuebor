@@ -468,8 +468,9 @@
     .ctx-trace-card .tn {
       font-size: 8px; padding: 0 3px;
       background: rgba(216,176,64,0.1); color: var(--yellow);
-      border-radius: 2px;
+      border-radius: 2px; cursor: pointer;
     }
+    .ctx-trace-card .tn:hover { background: rgba(216,176,64,0.3); }
     .ctx-trace-card .ta { color: var(--fg-muted); font-size: 7px; margin: 0 1px; }
 
     .ctx-heat-bar {
@@ -566,14 +567,9 @@
         </div>
       </div>
       <div class="ctx-section">
-        <div class="ctx-header">All Sections</div>
+        <div class="ctx-header">Taxonomy</div>
         <div class="ctx-body" id="ctx-stats">
-          <div class="ctx-stat"><span class="ctx-stat-label">Actors</span><span class="ctx-stat-val" style="color:var(--red)">8</span></div>
-          <div class="ctx-stat"><span class="ctx-stat-label">Evidence</span><span class="ctx-stat-val" style="color:var(--green)">10</span></div>
-          <div class="ctx-stat"><span class="ctx-stat-label">Analysis</span><span class="ctx-stat-val" style="color:var(--purple)">9</span></div>
-          <div class="ctx-stat"><span class="ctx-stat-label">Investigate</span><span class="ctx-stat-val" style="color:var(--cyan)">6</span></div>
-          <div class="ctx-stat"><span class="ctx-stat-label">Timeline</span><span class="ctx-stat-val" style="color:var(--yellow)">1</span></div>
-          <div class="ctx-stat" style="border-top:1px solid var(--border);margin-top:4px;padding-top:6px"><span class="ctx-stat-label">Total Pages</span><span class="ctx-stat-val">34</span></div>
+          <div id="ctx-stats-computed"></div>
         </div>
       </div>
     </aside>
@@ -780,7 +776,7 @@
         counties.innerHTML = '<span style="font-size:10px;color:var(--fg-muted)">No county data</span>';
       } else {
         counties.innerHTML = p.c.map(function(co) {
-          return '<a class="ctx-entity" href="javascript:void(0)">' + esc(co) + '</a>';
+          return '<a class="ctx-entity" href="javascript:void(0)" onclick="window._filterCounty(\'' + co + '\')">' + esc(co) + '</a>';
         }).join('');
       }
     }
@@ -1175,7 +1171,135 @@
       if (mapActive) { resizeMapCanvas(); drawMap(); }
     });
 
+
+    // ═══════ TAXONOMY NAVIGATION ═══════
+
+    window._filterCounty = function(county) {
+      var bc = document.getElementById('breadcrumb');
+      bc.innerHTML = '<span class="sep">\u203a</span> <span style="color:var(--yellow)">County: ' + esc(county) + '</span>' +
+        ' <span class="sep">\u00b7</span> <a style="font-size:10px;color:var(--fg-muted);cursor:pointer" onclick="window._clearFilter()">clear</a>';
+      var matching = PAGES.filter(function(p) { return p.c.indexOf(county) >= 0; });
+      var matchIds = matching.map(function(p) { return p.id; });
+      document.querySelectorAll('.sidebar-item').forEach(function(el) {
+        if (matchIds.indexOf(el.dataset.id) >= 0) {
+          el.style.opacity = '1'; el.style.borderLeftColor = 'var(--yellow)';
+        } else {
+          el.style.opacity = '0.25'; el.style.borderLeftColor = 'transparent';
+        }
+      });
+      var refs = document.getElementById('ctx-refs');
+      refs.innerHTML = '<div style="font-size:9px;color:var(--yellow);text-transform:uppercase;letter-spacing:0.06em;margin-bottom:4px">' + esc(county) + ' County \u2014 ' + matching.length + ' pages</div>' +
+        matching.map(function(p) {
+          return '<a class="ctx-item" href="javascript:void(0)" onclick="window._loadPage(\'' + p.id + '\')">' +
+            esc(p.t) + '<span class="ctx-pill ctx-pill-' + p.s + '">' + p.s + '</span></a>';
+        }).join('');
+      var allCounties = {};
+      PAGES.forEach(function(p) { p.c.forEach(function(c) { allCounties[c] = (allCounties[c]||0) + 1; }); });
+      var countyHtml = '';
+      for (var c in allCounties) {
+        var active = c === county ? 'background:rgba(216,176,64,0.2);border:1px solid var(--yellow);' : '';
+        countyHtml += '<a class="ctx-entity" style="' + active + '" href="javascript:void(0)" onclick="window._filterCounty(\'' + c + '\')">' + esc(c) + ' <span style="font-size:8px;opacity:0.6">' + allCounties[c] + '</span></a>';
+      }
+      document.getElementById('ctx-counties').innerHTML = countyHtml;
+    };
+
+    window._filterSection = function(sectionId) {
+      var bc = document.getElementById('breadcrumb');
+      var secLabel = SECTIONS.find(function(s) { return s.id === sectionId; });
+      bc.innerHTML = '<span class="sep">\u203a</span> <span style="color:var(--accent)">' + esc(secLabel ? secLabel.label : sectionId) + '</span>' +
+        ' <span class="sep">\u00b7</span> <a style="font-size:10px;color:var(--fg-muted);cursor:pointer" onclick="window._clearFilter()">clear</a>';
+      var matching = PAGES.filter(function(p) { return p.s === sectionId; });
+      var matchIds = matching.map(function(p) { return p.id; });
+      document.querySelectorAll('.sidebar-item').forEach(function(el) {
+        el.style.opacity = matchIds.indexOf(el.dataset.id) >= 0 ? '1' : '0.25';
+        el.style.borderLeftColor = matchIds.indexOf(el.dataset.id) >= 0 ? 'var(--accent)' : 'transparent';
+      });
+    };
+
+    window._clearFilter = function() {
+      document.querySelectorAll('.sidebar-item').forEach(function(el) {
+        el.style.opacity = '1'; el.style.borderLeftColor = 'transparent';
+      });
+      var bc = document.getElementById('breadcrumb');
+      if (currentPage) {
+        bc.innerHTML = '<span class="sep">\u203a</span> <span style="color:var(--fg-muted)">' + esc(currentPage.s) + '</span>' +
+          ' <span class="sep">\u203a</span> <span class="current">' + esc(currentPage.t) + '</span>';
+      } else {
+        bc.innerHTML = '<span class="sep">\u203a</span> <span class="current">Select a page</span>';
+      }
+    };
+
+    // ═══════ MAP CLICK ═══════
+    var mc = document.getElementById('map-canvas');
+    if (mc) {
+      mc.addEventListener('click', function(e) {
+        if (!mapActive || mapNodes.length === 0) return;
+        var rect = e.target.getBoundingClientRect();
+        var mx = e.clientX - rect.left, my = e.clientY - rect.top;
+        var closest = null, closestDist = Infinity;
+        for (var i = 0; i < mapNodes.length; i++) {
+          var n = mapNodes[i];
+          var dx = n.x * mapW - mx, dy = n.y * mapH - my;
+          var d = Math.sqrt(dx*dx + dy*dy);
+          if (d < closestDist && d < 20) { closestDist = d; closest = n; }
+        }
+        if (closest) {
+          var target = findPageByUrl(closest.path);
+          if (target) loadPage(target.id);
+          else if (closest.site !== 'tuebor') window.open('https://' + closest.site + '.primals.eco' + closest.path, '_blank');
+        }
+      });
+      mc.addEventListener('mousemove', function(e) {
+        if (!mapActive || mapNodes.length === 0) return;
+        var rect = e.target.getBoundingClientRect();
+        var mx = e.clientX - rect.left, my = e.clientY - rect.top;
+        var hovered = false;
+        for (var i = 0; i < mapNodes.length; i++) {
+          var n = mapNodes[i]; var dx = n.x * mapW - mx, dy = n.y * mapH - my;
+          if (Math.sqrt(dx*dx + dy*dy) < 15) { hovered = true; break; }
+        }
+        e.target.style.cursor = hovered ? 'pointer' : 'default';
+      });
+    }
+
+    // ═══════ TRACE PATH NODE CLICK ═══════
+    document.addEventListener('click', function(e) {
+      var tn = e.target.closest('.tn');
+      if (!tn) return;
+      var label = tn.textContent.trim();
+      var target = PAGES.find(function(p) {
+        var parts = p.u.split('/').filter(function(s){return s;});
+        var slug = parts.length > 0 ? parts[parts.length-1].replace(/-/g, ' ') : '';
+        return slug === label || slug.indexOf(label) === 0;
+      });
+      if (target) loadPage(target.id);
+    });
+
     })();
+  </script>
+
+  <script>
+  (function() {
+    var secs = [
+      { id:'actors', label:'Actors', color:'var(--red)' },
+      { id:'evidence', label:'Evidence', color:'var(--green)' },
+      { id:'analysis', label:'Analysis', color:'var(--purple)' },
+      { id:'investigate', label:'Investigate', color:'var(--cyan)' },
+      { id:'timeline', label:'Timeline', color:'var(--yellow)' },
+    ];
+    var el = document.getElementById('ctx-stats-computed');
+    if (!el) return;
+    var html = '', total = 0;
+    secs.forEach(function(s) {
+      var list = document.querySelectorAll('#sl-' + s.id + ' .sidebar-item');
+      var n = list.length; total += n;
+      html += '<div class="ctx-stat" style="cursor:pointer" onclick="window._filterSection(\'' + s.id + '\')">' +
+        '<span class="ctx-stat-label">' + s.label + '</span><span class="ctx-stat-val" style="color:' + s.color + '">' + n + '</span></div>';
+    });
+    html += '<div class="ctx-stat" style="border-top:1px solid var(--border);margin-top:4px;padding-top:6px;cursor:pointer" onclick="window._clearFilter()">' +
+      '<span class="ctx-stat-label">Total Pages</span><span class="ctx-stat-val">' + total + '</span></div>';
+    el.innerHTML = html;
+  })();
   </script>
 </body>
 </html>

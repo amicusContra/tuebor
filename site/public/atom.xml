@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Tuebor — Michigan Public Record</title>
+    <subtitle>I will defend. Evidence-based accountability documentation across Michigan courts. Ghost witnesses, disappeared judges, fabricated evidence. Every claim sourced to public records.</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://barry.primals.eco/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://barry.primals.eco"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2026-10-06T00:00:00+00:00</updated>
+    <id>https://barry.primals.eco/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Ghost Witness — The Samantha Aljouny Investigation</title>
+        <published>2026-10-06T00:00:00+00:00</published>
+        <updated>2026-10-06T00:00:00+00:00</updated>
+        
+        <author>
+          <name>Unknown</name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://barry.primals.eco/evidence/ghost-witness-aljouny/"/>
+        <id>https://barry.primals.eco/evidence/ghost-witness-aljouny/</id>
+        
+        <content type="html" xml:base="https://barry.primals.eco/evidence/ghost-witness-aljouny/">&lt;h2 id=&quot;summary&quot;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;An attorney submitted correspondence from a purported journalist named
+&quot;Samantha Aljouny&quot; of &quot;Aljouny Media Consulting&quot; as evidence in
+Saginaw County Circuit Court proceedings before Judge Andre Borrello.&lt;/p&gt;
+&lt;p&gt;The journalist does not appear to exist. No articles. No bylines. No
+LinkedIn profile. No Michigan business registration. No professional
+footprint of any kind. The only traceable artifact is a ProtonMail
+address: &lt;code&gt;SAljounyMediaConsulting@proton.me&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;The attorney then:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Listed Aljouny as a potential witness&lt;/li&gt;
+&lt;li&gt;Demanded the opposing party admit under oath that &lt;em&gt;they&lt;/em&gt; created the identity&lt;/li&gt;
+&lt;li&gt;Swore in an affidavit that he had &quot;no connection whatsoever&quot; to the account&lt;/li&gt;
+&lt;li&gt;Pursued contempt proceedings carrying possible incarceration&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;A forensic investigation has produced 13 independent convergence points.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2 id=&quot;the-convergence&quot;&gt;The Convergence&lt;/h2&gt;
+&lt;h3 id=&quot;1-the-account-september-2023&quot;&gt;1. The Account — September 2023&lt;/h3&gt;
+&lt;p&gt;The ProtonMail public PGP key for &lt;code&gt;SAljounyMediaConsulting@proton.me&lt;/code&gt;
+carries a creation timestamp of:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;September 20, 2023 at 11:26:35 UTC&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Hex creation-time field: &lt;code&gt;650AD6EB&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Decimal timestamp: &lt;code&gt;1695209195&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;OpenPGP fingerprint: &lt;code&gt;8D59 A462 1930 5ABE 2021 9F07 6EE0 32D8 A3A3 E6D4&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Proton states it normally generates encryption keys when an account or
+new email address is created. This is the best technical provenance date
+for the Aljouny address.&lt;/p&gt;
+&lt;p&gt;No professional journalist or media consultant operating under the name
+&quot;Aljouny Media Consulting&quot; has a documentable professional presence
+predating or postdating September 2023 — no bylines, no press credentials,
+no client work product, no directory listings, no trace anywhere.&lt;/p&gt;
+&lt;h3 id=&quot;2-the-ahmad-v-university-of-michigan-timing&quot;&gt;2. The Ahmad v. University of Michigan Timing&lt;/h3&gt;
+&lt;p&gt;Philip L. Ellison of Outside Legal Counsel PLC represented Hassan Ahmad
+in &lt;em&gt;Ahmad v. University of Michigan&lt;/em&gt;, a significant Michigan FOIA case.&lt;/p&gt;
+&lt;p&gt;The chronology:&lt;/p&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Date&lt;/th&gt;&lt;th&gt;Event&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;September 15, 2023&lt;/td&gt;&lt;td&gt;Opinion issued in &lt;em&gt;Ahmad v. University of Michigan&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;September 16, 2023&lt;/td&gt;&lt;td&gt;Outside Legal Counsel published press release&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;September 20, 2023&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Aljouny ProtonMail key created&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;September 21, 2023&lt;/td&gt;&lt;td&gt;Wayback Machine captured OLC&#39;s Ahmad page&lt;/td&gt;&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;p&gt;The Aljouny address was created &lt;strong&gt;four days after&lt;/strong&gt; Ellison publicly
+announced his Ahmad result — during the exact window of activity
+surrounding that case.&lt;/p&gt;
+&lt;h3 id=&quot;3-the-controlled-link-test-july-2026&quot;&gt;3. The Controlled Link Test — July 2026&lt;/h3&gt;
+&lt;p&gt;A unique Bitly URL (&lt;code&gt;https://bit.ly/AboutClutch&lt;/code&gt;) was sent &lt;strong&gt;only to
+the Aljouny account&lt;/strong&gt;. It was not published anywhere.&lt;/p&gt;
+&lt;p&gt;The link was opened:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;July 31, 2026 at approximately 10:59 PM EDT&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Technical capture:&lt;/p&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Field&lt;/th&gt;&lt;th&gt;Value&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;IP&lt;/td&gt;&lt;td&gt;&lt;code&gt;146.75.128.219&lt;/code&gt; (Fastly)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Device&lt;/td&gt;&lt;td&gt;iPhone&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;OS&lt;/td&gt;&lt;td&gt;iOS 18.7&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Browser&lt;/td&gt;&lt;td&gt;Mobile Safari 26.5&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;WebKit&lt;/td&gt;&lt;td&gt;605.1.15&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Mobile ID&lt;/td&gt;&lt;td&gt;&lt;code&gt;15E148&lt;/code&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Time zone&lt;/td&gt;&lt;td&gt;America/Detroit&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Screen&lt;/td&gt;&lt;td&gt;430 × 932&lt;/td&gt;&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;p&gt;Because the link was sent &lt;strong&gt;only&lt;/strong&gt; to Aljouny, the opening establishes
+that someone with access to the Aljouny mailbox accessed the site through
+this technical environment.&lt;/p&gt;
+&lt;h3 id=&quot;4-pre-test-visits-from-the-same-endpoint&quot;&gt;4. Pre-Test Visits from the Same Endpoint&lt;/h3&gt;
+&lt;p&gt;The same IPv4 endpoint (&lt;code&gt;146.75.128.219&lt;/code&gt;) appears in site records before
+the controlled test:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;June 1, 2026&lt;/li&gt;
+&lt;li&gt;June 17, 2026&lt;/li&gt;
+&lt;li&gt;July 27, 2026&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;July 31, 2026 — controlled Aljouny event&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Fastly/Apple Private Relay infrastructure can be shared — the IP alone
+is not a unique identifier. But the controlled July 31 event gives the
+endpoint contextual significance.&lt;/p&gt;
+&lt;h3 id=&quot;5-independent-journalist-confirmation&quot;&gt;5. Independent Journalist Confirmation&lt;/h3&gt;
+&lt;p&gt;On &lt;strong&gt;September 9, 2026&lt;/strong&gt;, Detroit Free Press reporter &lt;strong&gt;Violet Ikonomova&lt;/strong&gt;
+independently contacted the investigator and asked:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;&quot;did you ever figure out who Samantha Aljouny is?&quot;&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Ikonomova reported:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;She received an email &lt;strong&gt;that day&lt;/strong&gt; from the Aljouny Proton account&lt;/li&gt;
+&lt;li&gt;A troll image had been emailed to &lt;strong&gt;Conrad Mallett&lt;/strong&gt; (then head of Detroit&#39;s Law Department)&lt;/li&gt;
+&lt;li&gt;Ikonomova was &lt;strong&gt;blind copied&lt;/strong&gt; on that email&lt;/li&gt;
+&lt;li&gt;The communication came from the Aljouny Proton identity&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Most critically, Ikonomova independently stated:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;&quot;makes me think it&#39;s probably phil bc its a legal thing, no idea what
+kevin lindke&#39;s interest would be&quot;&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;She was not told to suspect anyone. Her assessment was based on the legal
+subject matter of the communication.&lt;/p&gt;
+&lt;h3 id=&quot;6-october-6-2026-the-court-filing-match&quot;&gt;6. October 6, 2026 — The Court Filing Match&lt;/h3&gt;
+&lt;p&gt;On October 6, 2026, the attorney filed a court document containing a
+printout of a Clutch Justice article. His own exhibit shows the article
+was accessed at approximately &lt;strong&gt;11:54 AM&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Site records show access to the same article through Fastly/Apple Private
+Relay using:&lt;/p&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Field&lt;/th&gt;&lt;th&gt;Controlled Aljouny (Jul 31)&lt;/th&gt;&lt;th&gt;Oct 6 Court Filing&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;Device&lt;/td&gt;&lt;td&gt;iPhone&lt;/td&gt;&lt;td&gt;iPhone&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;OS&lt;/td&gt;&lt;td&gt;iOS 18.7&lt;/td&gt;&lt;td&gt;iOS 18.7&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;WebKit&lt;/td&gt;&lt;td&gt;605.1.15&lt;/td&gt;&lt;td&gt;605.1.15&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Mobile ID&lt;/td&gt;&lt;td&gt;&lt;code&gt;15E148&lt;/code&gt;&lt;/td&gt;&lt;td&gt;&lt;code&gt;15E148&lt;/code&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Browser&lt;/td&gt;&lt;td&gt;Safari 26.5&lt;/td&gt;&lt;td&gt;Safari 26.6.1&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Network&lt;/td&gt;&lt;td&gt;Fastly&lt;/td&gt;&lt;td&gt;Fastly&lt;/td&gt;&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;p&gt;The Safari version update (26.5 → 26.6.1) over this period is ordinary.
+The rest of the environment is identical.&lt;/p&gt;
+&lt;h3 id=&quot;7-what-was-sworn-under-oath&quot;&gt;7. What Was Sworn Under Oath&lt;/h3&gt;
+&lt;p&gt;The attorney submitted a sworn affidavit stating:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;He had never used Proton Mail&lt;/li&gt;
+&lt;li&gt;He had never opened a Proton account&lt;/li&gt;
+&lt;li&gt;He had never had a third party create or operate one for him&lt;/li&gt;
+&lt;li&gt;He had &lt;strong&gt;&quot;no connection whatsoever&quot;&lt;/strong&gt; to &lt;code&gt;SAljounyMediaConsulting@proton.me&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;He had never created or directed the creation of an alias, pseudonym, or &quot;cut-out&quot; identity&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;These were sworn factual representations made in litigation.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2 id=&quot;what-is-proven-vs-what-is-not&quot;&gt;What Is Proven vs. What Is Not&lt;/h2&gt;
+&lt;h3 id=&quot;documented&quot;&gt;Documented&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;The Aljouny ProtonMail account exists/existed&lt;/li&gt;
+&lt;li&gt;Its PGP key was created September 20, 2023 at 11:26:35 UTC&lt;/li&gt;
+&lt;li&gt;That date falls within a four-day window of Ellison&#39;s Ahmad v. UM activity&lt;/li&gt;
+&lt;li&gt;The attorney listed Aljouny as a potential witness&lt;/li&gt;
+&lt;li&gt;The attorney demanded opposing counsel admit creating the identity&lt;/li&gt;
+&lt;li&gt;The attorney swore he had &quot;no connection whatsoever&quot; to the account&lt;/li&gt;
+&lt;li&gt;A controlled link sent only to Aljouny was opened from an iPhone/iOS/Fastly environment&lt;/li&gt;
+&lt;li&gt;The same endpoint visited the site before the controlled test&lt;/li&gt;
+&lt;li&gt;A Detroit Free Press reporter independently received Aljouny communications&lt;/li&gt;
+&lt;li&gt;The reporter independently suspected the attorney based on subject matter&lt;/li&gt;
+&lt;li&gt;The attorney&#39;s own Oct 6 court filing matches the same technical environment&lt;/li&gt;
+&lt;li&gt;An IC3 complaint was filed October 6, 2026 (ID: &lt;code&gt;10f80c476ef144d4a772d0b198c75a2a&lt;/code&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;not-yet-proven&quot;&gt;Not Yet Proven&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Who registered the Proton account&lt;/li&gt;
+&lt;li&gt;Who controlled it on each date&lt;/li&gt;
+&lt;li&gt;Whether the attorney personally typed every Aljouny email&lt;/li&gt;
+&lt;li&gt;Whether someone else had access&lt;/li&gt;
+&lt;li&gt;Whether the Fastly/Private Relay sessions represent one physical device&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Those questions require provider/account/device evidence.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2 id=&quot;the-central-question&quot;&gt;The Central Question&lt;/h2&gt;
+&lt;p&gt;If provider or device evidence ultimately establishes that the attorney
+created, controlled, participated in, or had access to the Aljouny
+account, the issue becomes:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Why was a journalist being accused in court of operating an identity
+connected to the person making the accusation?&lt;/strong&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2 id=&quot;status&quot;&gt;Status&lt;/h2&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Date&lt;/th&gt;&lt;th&gt;Action&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;April 25, 2026&lt;/td&gt;&lt;td&gt;Ghost Witness article published on Clutch Justice&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;April 28, 2026&lt;/td&gt;&lt;td&gt;Supplemental Notice filed with trial court documenting Aljouny non-existence&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;April 30, 2026&lt;/td&gt;&lt;td&gt;Show cause order signed (contempt based on article)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;May 7, 2026&lt;/td&gt;&lt;td&gt;UPEPA anti-SLAPP motion filed&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;July 31, 2026&lt;/td&gt;&lt;td&gt;Controlled Bitly test — Aljouny-associated device captured&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;August 5, 2026&lt;/td&gt;&lt;td&gt;Ellison notified that technical information captured&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;September 9, 2026&lt;/td&gt;&lt;td&gt;Violet Ikonomova independently receives Aljouny email, contacts investigator&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;October 6, 2026&lt;/td&gt;&lt;td&gt;Court filing provides matching access event; IC3 complaint submitted&lt;/td&gt;&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;hr /&gt;
+&lt;h2 id=&quot;sources&quot;&gt;Sources&lt;/h2&gt;
+&lt;p&gt;Every claim is sourced to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Court records&lt;/strong&gt; — Saginaw County Circuit Court, before Judge Andre Borrello&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;ProtonMail&lt;/strong&gt; — public PGP key metadata (OpenPGP standard)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Bitly&lt;/strong&gt; — controlled link access records&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Server logs&lt;/strong&gt; — Clutch Justice site access records&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Direct communication&lt;/strong&gt; — Violet Ikonomova (Detroit Free Press)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Attorney filings&lt;/strong&gt; — discovery requests, affidavits, initial disclosures&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;IC3&lt;/strong&gt; — FBI Internet Crime Complaint Center submission&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Published reporting: &lt;a rel=&quot;external&quot; href=&quot;https://clutchjustice.com&quot;&gt;Clutch Justice&lt;/a&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;em&gt;Evidence summary submitted for determination. Not legal advice.&lt;/em&gt;
+&lt;em&gt;The investigator is not an attorney and is not providing legal analysis.&lt;/em&gt;&lt;/p&gt;
+</content>
+        
+    </entry>
+</feed>

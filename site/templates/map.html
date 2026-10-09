@@ -234,7 +234,7 @@
         var x = center.x + Math.cos(angle) * r;
         var y = center.y + Math.sin(angle) * r;
 
-        var label = pages[pi].replace(/\//g, '').replace(/-/g, ' ') || site;
+        var parts = pages[pi].split("/").filter(function(s){return s;}); var label = parts.length > 0 ? parts[parts.length-1].replace(/-/g, " ") : site;
         if (label.length > 18) label = label.substring(0, 16) + '…';
 
         nodes.push({

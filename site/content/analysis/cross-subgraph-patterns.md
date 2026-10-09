@@ -222,6 +222,7 @@ The oversight system can ignore the complaints. It cannot erase the evidence tha
 - **[Institutional Immunity Pattern](/analysis/institutional-immunity/)** — the mathematics of isolated complaint processing
 - **[Philip L. Ellison — Actor Profile](/actors/ellison/)** — entity web, sanctions, fabricated witness, SLAPP
 - **[Detroit Charter School Network](https://detroit.primals.eco)** — 43+ entities, dark money pipeline, board capture
+- **[The Enforcement Ecosystem](/analysis/enforcement-ecosystem/)** — The bodies that appear across all these subgraphs: who runs them, what they did, and what they didn't
 - **[FOIAworks Analysis](/evidence/foiaworks-honeypot/)** — FOIA platform with no privacy policy
 - **[$73,752.45 Sanctions](/evidence/ellison-sanctions/)** — Sixth Circuit sanctions, SCOTUS cert denied
 - **[Hemlock FOIA Toolkit](/investigate/hemlock-foia/)** — ready-to-use FOIA templates for Saginaw County

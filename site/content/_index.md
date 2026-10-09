@@ -127,6 +127,7 @@ Chronological record from 2013 to present. Every entry sourced.
 
 ### Infrastructure Studies — How the Systems Work
 
+- **[The Enforcement Ecosystem](/analysis/enforcement-ecosystem/)** — Ten oversight bodies have the mandate, the evidence, and the authority. None has the full picture. State Bar closed the UPL file. AGC sent it back. Two letters, one day apart, each pointing at the other door. The network operates in the jurisdictional gaps between them.
 - **[Tommy Boy](/analysis/tommy-boy/)** — Barrett calls his opponent a "convicted felon" (expunged). Barrett's PAC donor runs dark money with an actual convicted felon as president. FEC receipts. Nov 3, 2026.
 - **[How To Build an OS](/analysis/how-to-build-an-os/)** — One law firm (Dykema), one compliance specialist (Moore), six dark money vehicles, both parties served. SDJ's phone number is Dykema's phone number. All public records.
 - **[Infrastructure Grid](/analysis/infrastructure-grid/)** — Fluorescent tag map: every node where entity infrastructure touches individual privacy. 11 nodes. FOIAworks has no privacy policy. SDJ hides donors. Domains By Proxy hides websites. The protections point the wrong direction.

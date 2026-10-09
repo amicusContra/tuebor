@@ -128,10 +128,18 @@ For judges, the JTC's numbers are smaller but the dynamic is the same:
 
 That is what Tuebor is for.
 
+## Related
+
+- **[The Enforcement Ecosystem](/analysis/enforcement-ecosystem/)** — From dismissal rates to named leaders: who owns what, what they did, and what they didn't. The ecosystem map that connects these numbers to faces.
+- **[Cross-Subgraph Patterns](/analysis/cross-subgraph-patterns/)** — Same bodies, different counties, same outcomes
+- **[Data Braid — GLLG Entity Graph](https://detroit.primals.eco/evidence/data-braid-gllg/)** — Defense attorney + charter authorizer on same nonprofit board. The ADB hearing panelist IS the defense attorney.
+- {{ source(key="clutch_justice", path="/2026/10/07/mind-the-gap-state-bar-agc-unauthorized-practice/", label="Mind the Gap") }} — Two letters. One day apart. The immunity mathematics in action.
+
 ## Sources
 
 - ADB Annual Reports (2019–2025)
 - JTC Annual Reports (2019–2025)
 - Clutch Justice, [No One Is Coming](https://clutchjustice.com/2026/09/24/no-one-is-coming-michigan-judicial-attorney-discipline/), Sep 24, 2026
+- Clutch Justice, [Mind the Gap](https://clutchjustice.com/2026/10/07/mind-the-gap-state-bar-agc-unauthorized-practice/), Oct 7, 2026
 - Clutch Justice, [Modernize JTC/AGC](https://clutchjustice.com/2026/09/29/modernize-jtc-agc-michigan-judicial-oversight/), Sep 29, 2026
 - Michigan Auditor General, [JTC Audit Letter](https://audgen.michigan.gov/wp-content/uploads/2026/06/Auditor-General-Letter-Judicial-Tenure-Commission-9123741.pdf), 2026

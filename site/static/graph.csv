@@ -1,0 +1,38 @@
+source_id,source_label,target_id,target_label,edge_type,epistemic_status,amount_usd,note,weight,source_doc
+dykema,Dykema Gossett,sdj,Save Detroit Jobs,formation,record,,Formed entity. IRS filing lists Dykema phone number.,9,LARA 802002459
+dykema_pac,Dykema Gossett PAC,barrett,Tom Barrett,payment,record,4000,Dykema PAC → Barrett campaign,7,FEC
+dykema,Dykema Gossett,dykema_pac,Dykema Gossett PAC,ownership,record,,,10,
+barrett,Tom Barrett,banks,Brian Roderick Banks,smear,record,,Convicted felon on C-SPAN — targeting tenant organizers,6,"C-SPAN clip, Tommy Boy analysis"
+nrcc,NRCC,barrett,Tom Barrett,amplification,record,6300000,NRCC spent $6.3M in MI-7. Amplified socialist felon mailer.,8,FEC
+glcf,Great Lakes Conservatives Fund,rogers,Mike Rogers,support,record,7155673,Super PAC independent expenditure,9,FEC C00853861
+dunn,Tim Dunn,glcf,Great Lakes Conservatives Fund,donation,record,10000000,$5M (2024) + $5M (2026),10,FEC Schedule A
+schwarzman,Stephen Schwarzman,glcf,Great Lakes Conservatives Fund,donation,record,4500000,2024 cycle,9,FEC Schedule A
+griffin,Kenneth Griffin,glcf,Great Lakes Conservatives Fund,donation,record,2500000,2024 cycle,9,FEC Schedule A
+griffin,Kenneth Griffin,barrett,Tom Barrett,donation,record,7000,Cross-ticket: same donor funds Senate + House,4,FEC
+schwarzman,Stephen Schwarzman,barrett,Tom Barrett,donation,record,,Maxed out to Barrett,4,"FEC, Rhinoceros Media"
+slf,Senate Leadership Fund,rogers,Mike Rogers,support,record,27421796,"McConnell-aligned, largest outside spend for Rogers",10,FEC C00571703
+afp,Americans for Prosperity Action,rogers,Mike Rogers,support,record,14154965,Koch network,9,FEC C00687103
+america_pac,America PAC,rogers,Mike Rogers,support,record,5764178,Musk-funded. Entered MI race recently.,7,FEC
+rogers,Mike Rogers,cispa,CISPA,authorship,record,,Primary sponsor H.R. 3523/624. ACLU + Obama opposed.,9,Congress.gov
+rogers,Mike Rogers,att,AT&T,employment,record,,Chief Security Adviser / sales consultant 2016-17,8,"PolitiFact, Business Insider"
+att,AT&T,rogers,Mike Rogers,payment,record,56000,AT&T federal PAC → Rogers during House career,6,OpenSecrets
+banks,Brian Roderick Banks,miller,Judge Cylenthia Miller,board_co_membership,record,,Miller = PCA Board Chair. Banks = superintendent.,9,purposecharteracademy.com
+banks,Brian Roderick Banks,yancey,Judge Tenisha Yancey,board_co_membership,record,,Yancey = MacDowell Board Chair. Banks = superintendent.,9,Clutch Justice
+yancey,Judge Tenisha Yancey,banks,Brian Roderick Banks,payment,record,383.82,Campaign paid Banks Strategy LLC,8,CFRS
+crump_gibson,Jehan Crump-Gibson,banks,Brian Roderick Banks,legal_representation,record,,Defense attorney. ADB Hearing Panelist.,8,Court filings
+crump_gibson,Jehan Crump-Gibson,adb,Attorney Discipline Board,appointment,record,,Hearing Panelist since May 2017,7,gllegalgroup.com
+state_bar_upl,State Bar UPL,banks,Brian Roderick Banks,investigation_closed,record,,File 26-UP-51 closed Sep 30. Standards not published.,8,"Clutch Justice Oct 7, 2026"
+agc,Attorney Grievance Commission,banks,Brian Roderick Banks,returned,record,,Bullington returned complaint Oct 1. Not a listed attorney.,8,"Clutch Justice Oct 7, 2026"
+jtc,Judicial Tenure Commission,miller,Judge Cylenthia Miller,investigation,record,,Request for Investigation acknowledged Sep 24,7,JTC acknowledgment letter
+jtc,Judicial Tenure Commission,yancey,Judge Tenisha Yancey,investigation,record,,Request for Investigation acknowledged Sep 24,7,JTC acknowledgment letter
+dpscd,DPSCD Charter Office,banks,Brian Roderick Banks,authorization,record,,Authorized PCA Jul 2025 despite bottom-3% record,8,DPSCD charter records
+mde,Michigan Dept of Education,banks,Brian Roderick Banks,investigation,record,,HOLD on permit #590606. No enforcement.,7,MDE FOIA Sep 25
+mi_supreme_court,Michigan Supreme Court,agc,Attorney Grievance Commission,appointment,record,,Appoints Grievance Administrator,10,
+mi_supreme_court,Michigan Supreme Court,adb,Attorney Discipline Board,appointment,record,,Appoints 9 board members + hearing panelists,10,
+mi_supreme_court,Michigan Supreme Court,jtc,Judicial Tenure Commission,appointment,record,,Appoints commissioners,10,
+mi_supreme_court,Michigan Supreme Court,state_bar_upl,State Bar UPL,oversight,record,,Oversees UPL program. Declined to define practice of law 2014.,9,
+sdj,Save Detroit Jobs,banks,Brian Roderick Banks,political,record,,Funded Johnson campaign (PCA Board Secretary),7,TransparencyUSA
+clutch,Clutch Justice,state_bar_upl,State Bar UPL,journalism,record,,Mind the Gap: documented enforcement failure Oct 7,6,clutchjustice.com
+clutch,Clutch Justice,agc,Attorney Grievance Commission,journalism,record,,Documented 88.8% dismissal rate,6,clutchjustice.com
+clutch,Clutch Justice,jtc,Judicial Tenure Commission,journalism,record,,Documented Glenn Page interim appointment Feb 2026,6,clutchjustice.com
+clutch,Clutch Justice,banks,Brian Roderick Banks,journalism,record,,"MacDowell financials, UPL coverage",6,clutchjustice.com

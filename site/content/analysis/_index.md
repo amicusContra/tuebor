@@ -117,3 +117,4 @@ If you are an investigator, journalist, or oversight body looking at any one of 
 | Analysis | Summary |
 |----------|---------|
 | **[The Metric Tensor — Shape, Proportion, and Dimensional Compression](/analysis/metric-tensor/)** | How a display surface's geometry determines optimal information layout. The golden ratio, π, φ, and 5 as the same structure viewed from different angles. From rectangular screens to spherical surfaces — one proportion, different projections. The mathematical framework behind the desk workbench. |
+| **[Information Entropy — Oral Tradition, Written Tradition, and Communication](/analysis/information-entropy/)** | Shannon entropy decomposes all communication into mathematics. Written tradition preserves bits exactly. Oral tradition compresses semantics. Rate-distortion theory explains why stories change but meaning endures. Speech, writing, dancing — all channels, different trade-offs. |

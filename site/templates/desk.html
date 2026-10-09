@@ -359,6 +359,130 @@
         --fg: #1a1e30; --fg-dim: #5a6080; --fg-muted: #8890a8;
       }
     }
+
+    /* ═══════════════════════════════════════════════════
+       MAP MODE — φ-subdivision of main panel
+       
+       The main panel (1/φ = 61.8%) golden-cuts vertically:
+         article = 1/φ of main = φ⁻² of total ≈ 38.2%
+         map     = 1/φ² of main = φ⁻³ of total ≈ 23.6%
+       
+       Exertion response on adjacent panels:
+         sidebar compresses from 14.6% → 12.8% (−φ⁻⁵)
+         context absorbs freed energy → trace data view
+       ═══════════════════════════════════════════════════ */
+
+    .desk.map-active {
+      grid-template-columns:
+        minmax(160px, 12.8%)
+        minmax(0, 63.6%)
+        minmax(var(--context-min), 23.6%);
+      transition: grid-template-columns 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+    }
+
+    .desk .main-panel {
+      transition: all 0.3s ease;
+    }
+
+    .desk.map-active .main-panel {
+      display: grid;
+      grid-template-rows: 61.8% 38.2%;
+      overflow: hidden;
+    }
+
+    .map-sub {
+      display: none;
+      border-top: 1px solid var(--border);
+      background: var(--bg);
+      position: relative;
+      overflow: hidden;
+    }
+
+    .desk.map-active .map-sub {
+      display: block;
+    }
+
+    .map-sub canvas {
+      width: 100%; height: 100%; display: block;
+    }
+
+    .map-sub .map-you {
+      position: absolute; bottom: 6px; left: 8px;
+      font-size: 9px; color: var(--green);
+      display: flex; align-items: center; gap: 4px;
+      background: rgba(14,16,23,0.85);
+      padding: 2px 8px; border-radius: 3px;
+      border: 1px solid rgba(80,200,120,0.3);
+    }
+    .map-sub .map-you .dot {
+      width: 6px; height: 6px; border-radius: 50%;
+      background: var(--green);
+      animation: mapPulse 1.5s ease-in-out infinite;
+    }
+    @keyframes mapPulse { 0%,100% { opacity:1; } 50% { opacity:0.4; } }
+
+    /* Exertion: sidebar border glows during transition */
+    .desk.map-active .sidebar {
+      border-right-color: rgba(107,148,204,0.25);
+      transition: border-right-color 0.6s ease;
+    }
+
+    /* Exertion: context panel gains a subtle top accent */
+    .desk.map-active .context-panel {
+      border-left-color: rgba(216,176,64,0.2);
+      transition: border-left-color 0.5s ease;
+    }
+
+    /* Map toggle button in header */
+    .map-toggle {
+      cursor: pointer; padding: 2px 6px; border-radius: 3px;
+      font-size: 11px; color: var(--fg-dim);
+      transition: all 0.15s;
+      border: 1px solid transparent;
+    }
+    .map-toggle:hover { background: var(--accent-dim); color: var(--accent); text-decoration: none !important; }
+    .map-toggle.active {
+      background: rgba(216,176,64,0.12);
+      color: var(--yellow);
+      border-color: rgba(216,176,64,0.3);
+    }
+
+    /* Context panel trace mode */
+    .ctx-traces { display: none; }
+    .desk.map-active .ctx-traces { display: block; }
+    .desk.map-active .ctx-refs-wrap { opacity: 0.4; max-height: 100px; overflow: hidden; }
+
+    .ctx-trace-card {
+      background: var(--bg); border: 1px solid var(--border);
+      border-radius: 4px; padding: 4px 6px; margin-bottom: 4px;
+      font-size: 10px; transition: border-color 0.15s;
+      cursor: pointer;
+    }
+    .ctx-trace-card:hover { border-color: var(--yellow); }
+    .ctx-trace-card .tid { font-family: monospace; color: var(--cyan); }
+    .ctx-trace-card .tdur { color: var(--fg-muted); float: right; }
+    .ctx-trace-card .tpath {
+      margin-top: 2px; display: flex; flex-wrap: wrap;
+      gap: 1px; align-items: center;
+    }
+    .ctx-trace-card .tn {
+      font-size: 8px; padding: 0 3px;
+      background: rgba(216,176,64,0.1); color: var(--yellow);
+      border-radius: 2px;
+    }
+    .ctx-trace-card .ta { color: var(--fg-muted); font-size: 7px; margin: 0 1px; }
+
+    .ctx-heat-bar {
+      display: flex; align-items: center; gap: 4px;
+      font-size: 10px; margin: 2px 0;
+    }
+    .ctx-heat-bar .bar {
+      height: 3px; border-radius: 2px;
+      background: var(--accent); flex-shrink: 0;
+    }
+    .ctx-heat-bar .name { flex: 1; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+    .ctx-heat-bar .cnt { color: var(--fg-muted); font-family: monospace; font-size: 9px; }
+
   </style>
 </head>
 <body>
@@ -382,6 +506,7 @@
       <div class="header-links">
         <a href="/">Site</a>
         <a href="/membrane/">Membrane</a>
+        <a href="javascript:void(0)" class="map-toggle" id="map-toggle" onclick="window._toggleMap()">🗺️ Map</a>
       </div>
     </header>
 
@@ -403,6 +528,11 @@
           </p>
         </div>
       </div>
+      <!-- Map sub-panel: φ-subdivision of main -->
+      <div class="map-sub" id="map-sub">
+        <canvas id="map-canvas"></canvas>
+        <div class="map-you"><span class="dot"></span> You are here</div>
+      </div>
     </div>
 
     <!-- Context panel -->
@@ -418,6 +548,16 @@
         <div class="ctx-body" id="ctx-refs">
           <span style="font-size:10px;color:var(--fg-muted)">Load a page to see references</span>
         </div>
+      </div>
+      <div class="ctx-section ctx-traces">
+        <div class="ctx-header">🗺️ Live Traces</div>
+        <div class="ctx-body" id="ctx-trace-list">
+          <span style="font-size:10px;color:var(--fg-muted)">Loading…</span>
+        </div>
+      </div>
+      <div class="ctx-section ctx-traces">
+        <div class="ctx-header">🔥 Page Heat</div>
+        <div class="ctx-body" id="ctx-heat-list"></div>
       </div>
       <div class="ctx-section">
         <div class="ctx-header">Counties</div>
@@ -755,7 +895,287 @@
       return s.replace(new RegExp('(' + escRx(q) + ')', 'gi'), '<mark>$1</mark>');
     }
 
-  })();
+  
+    // ═══════ MAP PANEL — φ-subdivision with trace visualization ═══════
+    
+    var mapActive = false;
+    var mapCanvas, mapCtx, mapW, mapH;
+    var mapTraceData = null;
+    var mapHoveredTrace = null;
+    var mapDpr = window.devicePixelRatio || 1;
+
+    // Site graph structure
+    var MAP_SITES = {
+      'tuebor': { color: '#6b94cc', cx: 0.42, cy: 0.4, pages: [
+        '/', '/analysis/', '/actors/', '/evidence/', '/investigate/', '/timeline/',
+        '/analysis/they-banked-on-banks/', '/analysis/enforcement-ecosystem/',
+        '/analysis/tommy-boy/', '/analysis/hey-mikey/', '/analysis/signal-permeability/',
+        '/analysis/how-to-build-an-os/', '/analysis/cross-subgraph-patterns/',
+        '/analysis/anderson-hemlock/', '/analysis/institutional-immunity/',
+        '/analysis/metric-tensor/',
+      ]},
+      'detroit': { color: '#e06070', cx: 0.78, cy: 0.3, pages: [
+        '/', '/network/actors/brian-banks/', '/network/entities/purpose-charter-academy/',
+        '/analysis/rico-pattern/', '/analysis/cbc-events/',
+      ]},
+      'barry': { color: '#50c878', cx: 0.2, cy: 0.7, pages: ['/', '/desk/', '/analysis/they-banked-on-banks/'] },
+      'clutch': { color: '#9880d8', cx: 0.75, cy: 0.75, pages: ['/'] },
+    };
+
+    var MAP_EDGES = [
+      ['tuebor/', 'detroit/'], ['tuebor/', 'clutch/'], ['tuebor/', 'barry/'],
+      ['tuebor/analysis/they-banked-on-banks/', 'detroit/network/actors/brian-banks/'],
+      ['tuebor/analysis/they-banked-on-banks/', 'detroit/network/entities/purpose-charter-academy/'],
+      ['tuebor/analysis/enforcement-ecosystem/', 'detroit/'],
+      ['tuebor/analysis/hey-mikey/', 'detroit/network/actors/brian-banks/'],
+      ['barry/analysis/they-banked-on-banks/', 'tuebor/analysis/they-banked-on-banks/'],
+    ];
+
+    var mapNodes = [];
+
+    function buildMapNodes() {
+      mapNodes = [];
+      var siteKeys = Object.keys(MAP_SITES);
+      for (var si = 0; si < siteKeys.length; si++) {
+        var site = siteKeys[si];
+        var info = MAP_SITES[site];
+        var pgs = info.pages;
+        var rad = site === 'tuebor' ? 0.25 : 0.09;
+        for (var pi = 0; pi < pgs.length; pi++) {
+          var angle = (pi / pgs.length) * Math.PI * 2 - Math.PI / 2;
+          var r = pi === 0 ? 0 : rad * (0.5 + Math.random() * 0.5);
+          var parts = pgs[pi].split('/').filter(function(s){return s;});
+          var label = parts.length > 0 ? parts[parts.length - 1].replace(/-/g, ' ') : site;
+          if (label.length > 16) label = label.substring(0, 14) + '…';
+          mapNodes.push({
+            id: site + pgs[pi],
+            site: site, path: pgs[pi], label: label,
+            x: info.cx + (pi === 0 ? 0 : Math.cos(angle) * r),
+            y: info.cy + (pi === 0 ? 0 : Math.sin(angle) * r),
+            color: info.color,
+            size: pi === 0 ? 6 : 3.5,
+            heat: 0,
+          });
+        }
+      }
+    }
+
+    function mapNodeById(id) {
+      for (var i = 0; i < mapNodes.length; i++) {
+        if (mapNodes[i].id === id) return mapNodes[i];
+      }
+      return null;
+    }
+
+    function resizeMapCanvas() {
+      var container = document.getElementById('map-sub');
+      if (!container || !mapCanvas) return;
+      mapW = container.clientWidth;
+      mapH = container.clientHeight;
+      if (mapW < 10 || mapH < 10) return;
+      mapCanvas.width = mapW * mapDpr;
+      mapCanvas.height = mapH * mapDpr;
+      mapCanvas.style.width = mapW + 'px';
+      mapCanvas.style.height = mapH + 'px';
+      mapCtx.setTransform(mapDpr, 0, 0, mapDpr, 0, 0);
+    }
+
+    function drawMap() {
+      if (!mapCtx || mapW < 10) return;
+      mapCtx.clearRect(0, 0, mapW, mapH);
+
+      // Edges
+      mapCtx.lineWidth = 0.4;
+      mapCtx.strokeStyle = 'rgba(107,148,204,0.08)';
+      for (var i = 0; i < MAP_EDGES.length; i++) {
+        var from = mapNodeById(MAP_EDGES[i][0]);
+        var to = mapNodeById(MAP_EDGES[i][1]);
+        if (from && to) {
+          mapCtx.beginPath();
+          mapCtx.moveTo(from.x * mapW, from.y * mapH);
+          mapCtx.lineTo(to.x * mapW, to.y * mapH);
+          mapCtx.stroke();
+        }
+      }
+
+      // Traces
+      if (mapTraceData && mapTraceData.traces) {
+        for (var ti = 0; ti < mapTraceData.traces.length; ti++) {
+          var trace = mapTraceData.traces[ti];
+          var hovered = mapHoveredTrace === trace.id;
+          mapCtx.strokeStyle = hovered ? 'rgba(216,176,64,0.7)' : 'rgba(216,176,64,0.12)';
+          mapCtx.lineWidth = hovered ? 2 : 0.8;
+          mapCtx.setLineDash([3, 2]);
+          mapCtx.beginPath();
+          var started = false;
+          for (var pi = 0; pi < trace.pages.length; pi++) {
+            var nd = mapNodeById(trace.pages[pi]) || mapNodeById(trace.pages[pi] + '/');
+            if (nd) {
+              if (!started) { mapCtx.moveTo(nd.x * mapW, nd.y * mapH); started = true; }
+              else { mapCtx.lineTo(nd.x * mapW, nd.y * mapH); }
+            }
+          }
+          mapCtx.stroke();
+          mapCtx.setLineDash([]);
+        }
+      }
+
+      // Nodes
+      for (var i = 0; i < mapNodes.length; i++) {
+        var n = mapNodes[i];
+        var sz = n.size + (n.heat > 0 ? Math.min(n.heat * 0.3, 4) : 0);
+        if (n.heat > 2) {
+          mapCtx.beginPath();
+          mapCtx.arc(n.x * mapW, n.y * mapH, sz + 3, 0, Math.PI * 2);
+          mapCtx.fillStyle = n.color.replace(')', ',0.08)').replace('#', 'rgba(').replace(/([0-9a-f]{2})([0-9a-f]{2})([0-9a-f]{2})/i, function(m,r,g,b) { return parseInt(r,16)+','+parseInt(g,16)+','+parseInt(b,16); });
+          mapCtx.fill();
+        }
+        mapCtx.beginPath();
+        mapCtx.arc(n.x * mapW, n.y * mapH, sz, 0, Math.PI * 2);
+        mapCtx.fillStyle = n.color;
+        mapCtx.fill();
+        mapCtx.font = '8px -apple-system, sans-serif';
+        mapCtx.fillStyle = 'rgba(216,220,232,0.5)';
+        mapCtx.textAlign = 'center';
+        mapCtx.fillText(n.label, n.x * mapW, n.y * mapH + sz + 9);
+      }
+
+      // You-are-here
+      var youId = currentPage ? currentPage.s + currentPage.u.replace(/\/$/, '/') : 'tuebor/';
+      var youNode = mapNodeById(youId);
+      if (youNode) {
+        mapCtx.beginPath();
+        mapCtx.arc(youNode.x * mapW, youNode.y * mapH, 10, 0, Math.PI * 2);
+        mapCtx.strokeStyle = '#50c878';
+        mapCtx.lineWidth = 1.5;
+        mapCtx.setLineDash([2, 2]);
+        mapCtx.stroke();
+        mapCtx.setLineDash([]);
+      }
+    }
+
+    function fetchMapTraces() {
+      fetch('/api/traces')
+        .then(function(r) { return r.json(); })
+        .then(function(data) {
+          mapTraceData = data;
+          // Update heat
+          for (var i = 0; i < mapNodes.length; i++) mapNodes[i].heat = 0;
+          if (data.heatmap) {
+            for (var page in data.heatmap) {
+              var nd = mapNodeById(page) || mapNodeById(page + '/');
+              if (nd) nd.heat = data.heatmap[page];
+            }
+          }
+          drawMap();
+          renderContextTraces(data);
+        })
+        .catch(function() {});
+    }
+
+    function renderContextTraces(data) {
+      var tl = document.getElementById('ctx-trace-list');
+      var hl = document.getElementById('ctx-heat-list');
+      if (!tl) return;
+
+      // Traces
+      var traces = data.traces || [];
+      if (traces.length === 0) {
+        tl.innerHTML = '<span style="font-size:10px;color:var(--fg-muted)">No multi-page sessions</span>';
+      } else {
+        var html = '';
+        for (var i = 0; i < Math.min(traces.length, 8); i++) {
+          var t = traces[i];
+          var dur = t.duration > 0 ? Math.round(t.duration) + 's' : '<1s';
+          var ago = Math.round((data.ts - t.end) / 60);
+          var agoStr = ago < 1 ? 'now' : ago + 'm';
+          html += '<div class="ctx-trace-card" data-tid="' + t.id + '">';
+          html += '<span class="tid">' + t.id + '</span><span class="tdur">' + dur + ' ' + agoStr + '</span>';
+          html += '<div class="tpath">';
+          for (var pi = 0; pi < t.pages.length; pi++) {
+            if (pi > 0) html += '<span class="ta">→</span>';
+            var parts = t.pages[pi].split('/').filter(function(s){return s;});
+            var lbl = parts.length > 0 ? parts[parts.length-1] : '~';
+            if (lbl.length > 12) lbl = lbl.substring(0, 10) + '…';
+            html += '<span class="tn">' + lbl + '</span>';
+          }
+          html += '</div></div>';
+        }
+        tl.innerHTML = html;
+        // Event delegation for trace card hover
+        var cards = tl.querySelectorAll('.ctx-trace-card');
+        for (var ci = 0; ci < cards.length; ci++) {
+          (function(card) {
+            card.addEventListener('mouseenter', function() { window._mapHover(card.dataset.tid); });
+            card.addEventListener('mouseleave', function() { window._mapHover(null); });
+          })(cards[ci]);
+        }
+      }
+
+      // Heat
+      if (!hl) return;
+      var hm = data.heatmap || {};
+      var arr = [];
+      for (var p in hm) arr.push([p, hm[p]]);
+      arr.sort(function(a,b) { return b[1] - a[1]; });
+      var maxH = arr.length > 0 ? arr[0][1] : 1;
+      var hhtml = '';
+      for (var i = 0; i < Math.min(arr.length, 10); i++) {
+        var pct = Math.round(100 * arr[i][1] / maxH);
+        var parts = arr[i][0].split('/').filter(function(s){return s;});
+        var name = parts.join('/');
+        if (name.length > 22) name = '…' + name.substring(name.length - 20);
+        hhtml += '<div class="ctx-heat-bar"><span class="name">' + name + '</span>';
+        hhtml += '<div class="bar" style="width:' + Math.max(pct, 3) + 'px"></div>';
+        hhtml += '<span class="cnt">' + arr[i][1] + '</span></div>';
+      }
+      hl.innerHTML = hhtml;
+    }
+
+    window._mapHover = function(id) {
+      mapHoveredTrace = id;
+      if (mapActive) drawMap();
+    };
+
+    window._toggleMap = function() {
+      var desk = document.querySelector('.desk');
+      var btn = document.getElementById('map-toggle');
+      mapActive = !mapActive;
+      
+      if (mapActive) {
+        desk.classList.add('map-active');
+        btn.classList.add('active');
+        btn.textContent = '🗺️ Map ✕';
+        
+        mapCanvas = document.getElementById('map-canvas');
+        mapCtx = mapCanvas.getContext('2d');
+        buildMapNodes();
+        
+        // Wait for CSS transition then size canvas
+        setTimeout(function() {
+          resizeMapCanvas();
+          drawMap();
+          fetchMapTraces();
+        }, 50);
+        
+        // Start refresh interval
+        window._mapInterval = setInterval(function() {
+          if (mapActive) fetchMapTraces();
+        }, 30000);
+      } else {
+        desk.classList.remove('map-active');
+        btn.classList.remove('active');
+        btn.textContent = '🗺️ Map';
+        if (window._mapInterval) clearInterval(window._mapInterval);
+      }
+    };
+
+    // Resize map on window resize
+    window.addEventListener('resize', function() {
+      if (mapActive) { resizeMapCanvas(); drawMap(); }
+    });
+
+    })();
   </script>
 </body>
 </html>

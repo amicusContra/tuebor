@@ -1,0 +1,496 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Live Map — Tuebor Evidence Network</title>
+  <meta name="robots" content="noindex">
+  <style>
+    :root {
+      --bg: #0a0c12; --surface: #141824; --border: #1e2640;
+      --fg: #d0d8e8; --dim: #607090; --muted: #404860;
+      --accent: #60a5fa; --red: #f06070; --green: #40c870;
+      --purple: #9070d8; --yellow: #d8b040; --cyan: #40b8c8;
+      --orange: #d89050;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    html, body { height: 100%; overflow: hidden; }
+    body {
+      font-family: -apple-system, 'SF Pro', system-ui, sans-serif;
+      background: var(--bg); color: var(--fg);
+      font-size: 13px;
+    }
+    a { color: var(--accent); text-decoration: none; }
+
+    .map-layout {
+      display: grid; height: 100vh;
+      grid-template-rows: 36px 1fr;
+      grid-template-columns: 1fr 280px;
+      grid-template-areas: "header header" "canvas sidebar";
+    }
+
+    .map-header {
+      grid-area: header;
+      background: var(--surface); border-bottom: 1px solid var(--border);
+      display: flex; align-items: center; padding: 0 1rem; gap: 1rem;
+    }
+    .map-header h1 { font-size: 13px; font-weight: 700; }
+    .map-header .tag {
+      font-size: 9px; font-weight: 700; padding: 2px 6px;
+      background: rgba(240,96,112,0.15); color: var(--red);
+      border-radius: 3px; text-transform: uppercase; letter-spacing: 0.08em;
+      animation: pulse 2s ease-in-out infinite;
+    }
+    @keyframes pulse { 0%,100% { opacity: 1; } 50% { opacity: 0.5; } }
+    .map-header .stats {
+      margin-left: auto; font-size: 11px; color: var(--dim);
+      display: flex; gap: 1rem;
+    }
+    .map-header .stats .val { color: var(--fg); font-weight: 600; }
+
+    .map-canvas {
+      grid-area: canvas; position: relative; overflow: hidden;
+    }
+    .map-canvas canvas {
+      width: 100%; height: 100%; display: block;
+    }
+
+    .map-sidebar {
+      grid-area: sidebar;
+      background: var(--surface); border-left: 1px solid var(--border);
+      overflow-y: auto; padding: 0.75rem;
+      scrollbar-width: thin; scrollbar-color: var(--border) transparent;
+    }
+
+    .sidebar-section { margin-bottom: 1rem; }
+    .sidebar-section h3 {
+      font-size: 10px; font-weight: 700; text-transform: uppercase;
+      letter-spacing: 0.08em; color: var(--muted); margin-bottom: 0.4rem;
+    }
+
+    .trace-card {
+      background: var(--bg); border: 1px solid var(--border);
+      border-radius: 6px; padding: 0.5rem 0.6rem; margin-bottom: 0.4rem;
+      font-size: 11px; transition: border-color 0.15s; cursor: pointer;
+    }
+    .trace-card:hover { border-color: var(--accent); }
+    .trace-card .trace-header {
+      display: flex; justify-content: space-between; margin-bottom: 0.3rem;
+    }
+    .trace-card .trace-id { font-family: monospace; color: var(--cyan); font-size: 10px; }
+    .trace-card .trace-dur { color: var(--dim); font-size: 10px; }
+    .trace-card .trace-path {
+      display: flex; flex-wrap: wrap; gap: 2px; align-items: center;
+    }
+    .trace-card .trace-node {
+      padding: 1px 4px; border-radius: 2px; font-size: 9px;
+      background: rgba(96,165,250,0.1); color: var(--accent);
+    }
+    .trace-card .trace-arrow { color: var(--muted); font-size: 8px; margin: 0 1px; }
+    .trace-card.active { border-color: var(--red); background: rgba(240,96,112,0.05); }
+
+    .heat-list { list-style: none; }
+    .heat-item {
+      display: flex; justify-content: space-between; align-items: center;
+      padding: 2px 4px; font-size: 11px; border-radius: 2px;
+    }
+    .heat-item:hover { background: rgba(96,165,250,0.05); }
+    .heat-bar {
+      height: 3px; border-radius: 2px; background: var(--accent);
+      margin-top: 1px; transition: width 0.3s;
+    }
+    .heat-count { color: var(--dim); font-size: 10px; font-family: monospace; }
+
+    .you-marker {
+      position: absolute; bottom: 1rem; left: 1rem;
+      background: var(--surface); border: 1px solid var(--green);
+      border-radius: 6px; padding: 0.4rem 0.7rem;
+      font-size: 11px; color: var(--green);
+      display: flex; align-items: center; gap: 0.4rem;
+    }
+    .you-dot {
+      width: 8px; height: 8px; border-radius: 50%;
+      background: var(--green); animation: pulse 1.5s ease-in-out infinite;
+    }
+
+    .legend {
+      position: absolute; top: 0.5rem; left: 0.5rem;
+      background: rgba(10,12,18,0.85); border: 1px solid var(--border);
+      border-radius: 4px; padding: 0.4rem 0.6rem; font-size: 10px;
+    }
+    .legend-item { display: flex; align-items: center; gap: 4px; margin: 2px 0; }
+    .legend-dot { width: 6px; height: 6px; border-radius: 50%; }
+
+    @media (max-width: 700px) {
+      .map-layout { grid-template-columns: 1fr; grid-template-areas: "header" "canvas"; }
+      .map-sidebar { display: none; }
+    }
+  </style>
+</head>
+<body>
+  <div class="map-layout">
+    <header class="map-header">
+      <h1>🗺️ Network Map</h1>
+      <span class="tag">Live</span>
+      <div class="stats">
+        <span>Sessions: <span class="val" id="stat-sessions">—</span></span>
+        <span>Pages hit: <span class="val" id="stat-pages">—</span></span>
+        <span><span class="val" id="stat-time">—</span></span>
+      </div>
+    </header>
+
+    <div class="map-canvas" id="map-canvas">
+      <canvas id="graph"></canvas>
+      <div class="legend">
+        <div class="legend-item"><span class="legend-dot" style="background:var(--accent)"></span> tuebor</div>
+        <div class="legend-item"><span class="legend-dot" style="background:var(--red)"></span> detroit</div>
+        <div class="legend-item"><span class="legend-dot" style="background:var(--green)"></span> barry</div>
+        <div class="legend-item"><span class="legend-dot" style="background:var(--purple)"></span> clutch</div>
+        <div class="legend-item"><span class="legend-dot" style="background:var(--yellow)"></span> visitor trace</div>
+      </div>
+      <div class="you-marker">
+        <span class="you-dot"></span>
+        <span>You are here</span>
+      </div>
+    </div>
+
+    <aside class="map-sidebar" id="sidebar">
+      <div class="sidebar-section">
+        <h3>🔬 Active Traces</h3>
+        <div id="trace-list"></div>
+      </div>
+      <div class="sidebar-section">
+        <h3>🔥 Heat Map</h3>
+        <ul class="heat-list" id="heat-list"></ul>
+      </div>
+    </aside>
+  </div>
+
+<script>
+(function() {
+  // Site structure — nodes and edges from the link graph
+  var SITES = {
+    'tuebor': { color: '#60a5fa', pages: [
+      '/', '/analysis/', '/actors/', '/evidence/', '/investigate/', '/timeline/',
+      '/analysis/they-banked-on-banks/', '/analysis/enforcement-ecosystem/',
+      '/analysis/tommy-boy/', '/analysis/hey-mikey/', '/analysis/signal-permeability/',
+      '/analysis/how-to-build-an-os/', '/analysis/cross-subgraph-patterns/',
+      '/analysis/anderson-hemlock/', '/analysis/institutional-immunity/',
+      '/analysis/metric-tensor/', '/analysis/lakenet-signal-trace/',
+      '/analysis/infrastructure-grid/',
+    ]},
+    'detroit': { color: '#f06070', pages: [
+      '/', '/network/actors/brian-banks/', '/network/entities/purpose-charter-academy/',
+      '/analysis/rico-pattern/', '/analysis/cbc-events/',
+    ]},
+    'barry': { color: '#40c870', pages: [
+      '/', '/desk/', '/analysis/they-banked-on-banks/',
+    ]},
+    'clutch': { color: '#9070d8', pages: ['/'] },
+  };
+
+  var canvas = document.getElementById('graph');
+  var ctx = canvas.getContext('2d');
+  var W, H;
+  var nodes = [];
+  var edges = [];
+  var traceData = null;
+  var hoveredTrace = null;
+  var dpr = window.devicePixelRatio || 1;
+
+  function resize() {
+    var rect = canvas.parentElement.getBoundingClientRect();
+    W = rect.width;
+    H = rect.height;
+    canvas.width = W * dpr;
+    canvas.height = H * dpr;
+    canvas.style.width = W + 'px';
+    canvas.style.height = H + 'px';
+    ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+  }
+
+  // Build node positions — force-directed-ish layout
+  function buildGraph() {
+    nodes = [];
+    var idx = 0;
+    var siteOrder = ['tuebor', 'detroit', 'barry', 'clutch'];
+    var siteCenters = {
+      'tuebor': { x: 0.45, y: 0.45 },
+      'detroit': { x: 0.75, y: 0.35 },
+      'barry': { x: 0.25, y: 0.65 },
+      'clutch': { x: 0.7, y: 0.72 },
+    };
+
+    for (var si = 0; si < siteOrder.length; si++) {
+      var site = siteOrder[si];
+      var info = SITES[site];
+      var center = siteCenters[site];
+      var pages = info.pages;
+      var radius = site === 'tuebor' ? 0.22 : 0.08;
+
+      for (var pi = 0; pi < pages.length; pi++) {
+        var angle = (pi / pages.length) * Math.PI * 2 - Math.PI / 2;
+        var r = pi === 0 ? 0 : radius * (0.6 + Math.random() * 0.4);
+        var x = center.x + Math.cos(angle) * r;
+        var y = center.y + Math.sin(angle) * r;
+
+        var label = pages[pi].replace(/\//g, '').replace(/-/g, ' ') || site;
+        if (label.length > 18) label = label.substring(0, 16) + '…';
+
+        nodes.push({
+          id: site + pages[pi],
+          site: site,
+          path: pages[pi],
+          label: label,
+          x: x, y: y,
+          color: info.color,
+          size: pi === 0 ? 8 : 5,
+          heat: 0,
+        });
+        idx++;
+      }
+    }
+
+    // Cross-site edges
+    edges = [
+      { from: 'tuebor/', to: 'detroit/' },
+      { from: 'tuebor/', to: 'clutch/' },
+      { from: 'tuebor/', to: 'barry/' },
+      { from: 'tuebor/analysis/they-banked-on-banks/', to: 'detroit/network/actors/brian-banks/' },
+      { from: 'tuebor/analysis/they-banked-on-banks/', to: 'detroit/network/entities/purpose-charter-academy/' },
+      { from: 'tuebor/analysis/they-banked-on-banks/', to: 'detroit/analysis/rico-pattern/' },
+      { from: 'tuebor/analysis/enforcement-ecosystem/', to: 'detroit/' },
+      { from: 'tuebor/analysis/hey-mikey/', to: 'detroit/network/actors/brian-banks/' },
+      { from: 'barry/', to: 'tuebor/' },
+      { from: 'barry/analysis/they-banked-on-banks/', to: 'tuebor/analysis/they-banked-on-banks/' },
+    ];
+  }
+
+  function nodeById(id) {
+    for (var i = 0; i < nodes.length; i++) {
+      if (nodes[i].id === id) return nodes[i];
+    }
+    return null;
+  }
+
+  function draw() {
+    ctx.clearRect(0, 0, W, H);
+
+    // Draw edges
+    ctx.lineWidth = 0.5;
+    ctx.strokeStyle = 'rgba(96,165,250,0.1)';
+    for (var i = 0; i < edges.length; i++) {
+      var from = nodeById(edges[i].from);
+      var to = nodeById(edges[i].to);
+      if (from && to) {
+        ctx.beginPath();
+        ctx.moveTo(from.x * W, from.y * H);
+        ctx.lineTo(to.x * W, to.y * H);
+        ctx.stroke();
+      }
+    }
+
+    // Draw trace paths
+    if (traceData && traceData.traces) {
+      for (var ti = 0; ti < traceData.traces.length; ti++) {
+        var trace = traceData.traces[ti];
+        var isHovered = hoveredTrace === trace.id;
+        var alpha = isHovered ? 0.8 : 0.15;
+        var width = isHovered ? 2.5 : 1;
+
+        ctx.strokeStyle = 'rgba(216,176,64,' + alpha + ')';
+        ctx.lineWidth = width;
+        ctx.setLineDash([4, 3]);
+        ctx.beginPath();
+
+        var started = false;
+        for (var pi = 0; pi < trace.pages.length; pi++) {
+          var pageId = trace.pages[pi];
+          // Normalize: "tuebor/analysis/..." -> find node
+          var node = nodeById(pageId);
+          if (!node) {
+            // Try adding trailing slash
+            node = nodeById(pageId.endsWith('/') ? pageId : pageId + '/');
+          }
+          if (node) {
+            if (!started) {
+              ctx.moveTo(node.x * W, node.y * H);
+              started = true;
+            } else {
+              ctx.lineTo(node.x * W, node.y * H);
+            }
+          }
+        }
+        ctx.stroke();
+        ctx.setLineDash([]);
+
+        // Draw direction arrows on hovered trace
+        if (isHovered) {
+          for (var pi = 0; pi < trace.pages.length; pi++) {
+            var node = nodeById(trace.pages[pi]) || nodeById(trace.pages[pi] + '/');
+            if (node) {
+              ctx.beginPath();
+              ctx.arc(node.x * W, node.y * H, 6, 0, Math.PI * 2);
+              ctx.fillStyle = 'rgba(216,176,64,0.3)';
+              ctx.fill();
+              // Number
+              ctx.fillStyle = '#d8b040';
+              ctx.font = '8px monospace';
+              ctx.textAlign = 'center';
+              ctx.fillText('' + (pi + 1), node.x * W, node.y * H + 3);
+            }
+          }
+        }
+      }
+    }
+
+    // Draw nodes
+    for (var i = 0; i < nodes.length; i++) {
+      var n = nodes[i];
+      var size = n.size + (n.heat > 0 ? Math.min(n.heat * 0.5, 6) : 0);
+
+      // Glow for hot nodes
+      if (n.heat > 2) {
+        ctx.beginPath();
+        ctx.arc(n.x * W, n.y * H, size + 4, 0, Math.PI * 2);
+        ctx.fillStyle = n.color.replace(')', ',0.1)').replace('rgb', 'rgba');
+        ctx.fill();
+      }
+
+      ctx.beginPath();
+      ctx.arc(n.x * W, n.y * H, size, 0, Math.PI * 2);
+      ctx.fillStyle = n.color;
+      ctx.fill();
+
+      // Label
+      ctx.font = (n.size > 6 ? '10px' : '9px') + ' -apple-system, sans-serif';
+      ctx.fillStyle = 'rgba(208,216,232,0.7)';
+      ctx.textAlign = 'center';
+      ctx.fillText(n.label, n.x * W, n.y * H + size + 11);
+    }
+
+    // "You are here" — highlight current page
+    var currentPage = 'tuebor/';
+    var youNode = nodeById(currentPage);
+    if (youNode) {
+      ctx.beginPath();
+      ctx.arc(youNode.x * W, youNode.y * H, 14, 0, Math.PI * 2);
+      ctx.strokeStyle = '#40c870';
+      ctx.lineWidth = 2;
+      ctx.setLineDash([3, 3]);
+      ctx.stroke();
+      ctx.setLineDash([]);
+    }
+  }
+
+  function updateHeat() {
+    // Reset
+    for (var i = 0; i < nodes.length; i++) nodes[i].heat = 0;
+    
+    if (!traceData || !traceData.heatmap) return;
+    
+    var maxHeat = 1;
+    for (var page in traceData.heatmap) {
+      if (traceData.heatmap[page] > maxHeat) maxHeat = traceData.heatmap[page];
+    }
+    
+    for (var page in traceData.heatmap) {
+      var node = nodeById(page) || nodeById(page + '/');
+      if (node) {
+        node.heat = traceData.heatmap[page];
+      }
+    }
+  }
+
+  function renderSidebar() {
+    if (!traceData) return;
+
+    // Traces
+    var traceList = document.getElementById('trace-list');
+    var html = '';
+    var traces = traceData.traces || [];
+    for (var i = 0; i < Math.min(traces.length, 12); i++) {
+      var t = traces[i];
+      var dur = t.duration > 0 ? Math.round(t.duration) + 's' : '<1s';
+      var ago = Math.round((traceData.ts - t.end) / 60);
+      var agoStr = ago < 1 ? 'now' : ago + 'm ago';
+
+      html += '<div class="trace-card" data-trace="' + t.id + '" onmouseenter="window._hoverTrace(\'' + t.id + '\')" onmouseleave="window._hoverTrace(null)">';
+      html += '<div class="trace-header"><span class="trace-id">' + t.id + '</span>';
+      html += '<span class="trace-dur">' + dur + ' · ' + agoStr + '</span></div>';
+      html += '<div class="trace-path">';
+      for (var pi = 0; pi < t.pages.length; pi++) {
+        if (pi > 0) html += '<span class="trace-arrow">→</span>';
+        var short = t.pages[pi].split('/').filter(function(s) { return s; });
+        var label = short.length > 1 ? short[short.length - 1] : short[0] || '~';
+        if (label.length > 15) label = label.substring(0, 13) + '…';
+        html += '<span class="trace-node">' + label + '</span>';
+      }
+      html += '</div></div>';
+    }
+    traceList.innerHTML = html || '<div style="color:var(--dim);font-size:11px;padding:0.5rem">No multi-page sessions yet</div>';
+
+    // Heatmap
+    var heatList = document.getElementById('heat-list');
+    var heatHtml = '';
+    var heatmap = traceData.heatmap || {};
+    var heatArr = [];
+    for (var page in heatmap) heatArr.push([page, heatmap[page]]);
+    heatArr.sort(function(a, b) { return b[1] - a[1]; });
+    var maxH = heatArr.length > 0 ? heatArr[0][1] : 1;
+
+    for (var i = 0; i < Math.min(heatArr.length, 15); i++) {
+      var page = heatArr[i][0];
+      var count = heatArr[i][1];
+      var pct = Math.round(100 * count / maxH);
+      var short = page.split('/').filter(function(s) { return s; });
+      var label = short.join('/');
+      if (label.length > 25) label = '…' + label.substring(label.length - 23);
+
+      heatHtml += '<li class="heat-item"><span>' + label + '</span>';
+      heatHtml += '<span class="heat-count">' + count + '</span></li>';
+      heatHtml += '<li><div class="heat-bar" style="width:' + pct + '%"></div></li>';
+    }
+    heatList.innerHTML = heatHtml;
+
+    // Stats
+    document.getElementById('stat-sessions').textContent = traceData.total_sessions || 0;
+    document.getElementById('stat-pages').textContent = Object.keys(heatmap).length;
+    var now = new Date();
+    document.getElementById('stat-time').textContent = now.toLocaleTimeString();
+  }
+
+  window._hoverTrace = function(id) {
+    hoveredTrace = id;
+    draw();
+    // Highlight card
+    document.querySelectorAll('.trace-card').forEach(function(el) {
+      el.classList.toggle('active', el.dataset.trace === id);
+    });
+  };
+
+  function fetchTraces() {
+    fetch('/api/traces')
+      .then(function(r) { return r.json(); })
+      .then(function(data) {
+        traceData = data;
+        updateHeat();
+        renderSidebar();
+        draw();
+      })
+      .catch(function() {});
+  }
+
+  // Init
+  resize();
+  buildGraph();
+  draw();
+  fetchTraces();
+
+  // Refresh every 30 seconds
+  setInterval(fetchTraces, 30000);
+  window.addEventListener('resize', function() { resize(); draw(); });
+})();
+</script>
+</body>
+</html>

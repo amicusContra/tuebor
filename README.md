@@ -73,11 +73,33 @@ Every actor page has an **Investigation Path** section with unchecked items:
 
 These are the next research targets. Pick one, run it, and add findings to the page.
 
-## Cross-References
+## Evidence Network
 
-- **Detroit investigation:** [detroit.primals.eco](https://detroit.primals.eco) · [github.com/defendDetroit/publicRecord](https://github.com/defendDetroit/publicRecord)
+This is one node in the [primals.eco](https://primals.eco) investigation network:
+
+| Surface | URL | Description |
+|---------|-----|-------------|
+| **Tuebor** | [tuebor.primals.eco](https://tuebor.primals.eco) | Michigan court accountability (this repo) |
+| **Barry** | [barry.primals.eco](https://barry.primals.eco) | Barry County mirror + desk workbench |
+| **Detroit** | [detroit.primals.eco](https://detroit.primals.eco) | Detroit public schools investigation |
+| **Clutch Justice** | [clutchjustice.com](https://clutchjustice.com) | Walkable investigation graph |
+| **Thesis** | [thesis.primals.eco](https://thesis.primals.eco) | Live research — Stomachs With No Eyes |
+| **sporePrint** | [sporeprint.primals.eco](https://sporeprint.primals.eco) | Ecosystem documentation + philosophy |
+| **Signal** | [signal.primals.eco](https://signal.primals.eco) | Live behavioral topology monitor |
+| **Gorilla** | [gorilla.primals.eco](https://gorilla.primals.eco) | Real-time fleet observation |
+| **Source** | [git.primals.eco](https://git.primals.eco) | Sovereign Forgejo — AGPL source |
+
+### Repositories
+
 - **This repo:** [github.com/amicusContra/tuebor](https://github.com/amicusContra/tuebor)
-- **Contact:** hello@clutchjustice.com (public)
+- **Clutch Justice:** [github.com/amicusContra/clutch](https://github.com/amicusContra/clutch)
+- **Detroit:** [github.com/defendDetroit/publicRecord](https://github.com/defendDetroit/publicRecord)
+- **Full source:** [git.primals.eco/ecoPrimals](https://git.primals.eco/ecoPrimals) (AGPL-3.0-or-later)
+
+### Contact
+
+- hello@clutchjustice.com (public)
+- eco.primal@pm.me (encrypted)
 
 ## License
 

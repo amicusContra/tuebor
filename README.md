@@ -104,3 +104,8 @@ This is one node in the [primals.eco](https://primals.eco) investigation network
 ## License
 
 Public record documentation. Source materials are public records, court filings, and published reporting.
+
+---
+
+<p align="center"><i>hello world — Artisan</i></p>
+<p align="center"><sub><a href="https://sporeprint.primals.eco/philosophy/the-elements-of-style/">φ design system</a> · 55 repos · 6 orgs · 9 surfaces · <a href="https://primals.eco">primals.eco</a></sub></p>

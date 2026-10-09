@@ -264,3 +264,11 @@ Multi-capture means the signal can trace everyone who shared it.
 - LARA Business Search: [mibusinessregistry.lara.state.mi.us](https://mibusinessregistry.lara.state.mi.us/search/business)
 - DayStarr Communications: [daystarr.net](https://daystarr.net/)
 - Peninsula Fiber Network: [pfnllc.net](https://www.pfnllc.net/)
+
+---
+
+## Related Pages
+
+- **[Infrastructure Grid](/analysis/infrastructure-grid/)** — This page is Node 2 of 11. The complete map shows every point where entity infrastructure touches individual privacy — not just LakeNet, but FOIAworks, GoDaddy, M365, dark money vehicles, harassment domains, and court filings.
+- **[How To Build an OS](/analysis/how-to-build-an-os/)** — The parallel infrastructure: while LakeNet enables surveillance from Hemlock, Dykema enables dark money from Lansing. Both use privacy tools designed for individuals to shield entity operations.
+- **[FOIAworks Infrastructure Scan](/evidence/foiaworks-infrastructure/)** — The platform built on top of LakeNet. Same town, same attorney, same infrastructure stack.

@@ -92,12 +92,21 @@ If you are an investigator, journalist, or oversight body looking at any one of 
 
 ## Analysis Pages
 
+### Infrastructure Studies
+
+| Analysis | Summary |
+|----------|---------|
+| **[How To Build an OS](/analysis/how-to-build-an-os/)** | One law firm. One compliance specialist. Six dark money vehicles. Both parties served. Dykema Gossett as parasitic operating system — kernel (Wilk), scheduler (Moore), process table (spawn/rename/dissolve/respawn), filesystem (Domains By Proxy). The phone number test: SDJ's IRS filing lists Dykema's office phone. All public records. |
+| **[Infrastructure Grid](/analysis/infrastructure-grid/)** | Fluorescent tag map: every node where entity infrastructure touches individual human data. 11 nodes tagged across FOIAworks, LakeNet, GoDaddy, M365, SDJ, ONF, RFFW. Each node: what it collects, how, what legal protection exists (or doesn't), and the public record that makes it visible. |
+| **[LakeNet Signal Trace](/analysis/lakenet-signal-trace/)** | One IP (162.247.150.54) captured in three independent evidence streams — surveillance, court filing, domain registration — all resolving to the only ISP in a town of 1,500. Multi-capture means the signal traces everyone who shared the infrastructure. Network topology, trace paths, and the Quagmire → ISP pipeline. |
+| **[Anderson Localization — Hemlock Subgraph](/analysis/anderson-hemlock/)** | How one family captures an entire community's infrastructure: ISP, school boards, courts, FOIA, law practice. Same physics as Detroit, smaller lattice, more complete capture. |
+
+### Pattern Analysis
+
 | Analysis | Summary |
 |----------|---------|
 | **[Cross-Subgraph Patterns](/analysis/cross-subgraph-patterns/)** | The same AGC, JTC, SCAO, and LARA appear across five investigations. Detroit ↔ Saginaw ↔ Barry ↔ Macomb ↔ Allegan — connected through shared institutional nodes, credential-washing, and identical failure modes. |
-| **[Anderson Localization — Hemlock Subgraph](/analysis/anderson-hemlock/)** | How one family captures an entire community's infrastructure: ISP, school boards, courts, FOIA, law practice. Same physics as Detroit, smaller lattice, more complete capture. |
 | **[Ghost Witness: Samantha Aljouny](/evidence/ghost-witness-aljouny/)** | Fabricated identity submitted as witness in SLAPP suit. 13 forensic convergence points. IC3 filed. |
 | **[The UPEPA Contradiction](/analysis/upepa-contradiction/)** | How one attorney broke Michigan's brand-new anti-SLAPP statute by invoking it as a shield and opposing it as a sword — before the same judge, in the same court. UPEPA's first real stress test. |
 | **[Institutional Immunity Pattern](/analysis/institutional-immunity/)** | How 88.8% complaint dismissal creates de facto immunity. The mathematics of isolated processing. Now with AGC's own annual report data (2023–2024). |
 | **[Credential vs. Conduct — The Ellison Paradox](/analysis/credential-vs-conduct/)** | Every credential claim vs. the documented docket. SCOTUS win (genuine) next to $74K sanctions. Blood spots "victory" (reversed on appeal). FOIA expert (own case dismissed for notary failure). Police corruption exposé (now running structural parallel). |
-| **[LakeNet Signal Trace](/analysis/lakenet-signal-trace/)** | One IP (162.247.150.54) captured in three independent evidence streams — surveillance, court filing, domain registration — all resolving to the only ISP in a town of 1,500. Multi-capture means the signal traces everyone who shared the infrastructure. Network topology, trace paths, and the Quagmire → ISP pipeline. |

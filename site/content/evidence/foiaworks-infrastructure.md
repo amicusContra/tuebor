@@ -279,3 +279,11 @@ Every finding on this page can be reproduced from any computer:
 - sitemap.xml: [foiaworks.com/sitemap.xml](https://www.foiaworks.com/sitemap.xml)
 - Terms of Service: [foiaworks.com/terms](https://www.foiaworks.com/terms/)
 - Privacy policy: [foiaworks.com/privacy](https://foiaworks.com/privacy/) → **404 Not Found**
+
+---
+
+## Related Pages
+
+- **[Infrastructure Grid](/analysis/infrastructure-grid/)** — This page is Node 1 of 11 in the complete infrastructure map. See every point where entity infrastructure touches individual privacy — FOIAworks, LakeNet, GoDaddy, M365, dark money vehicles — all tagged simultaneously.
+- **[How To Build an OS](/analysis/how-to-build-an-os/)** — The Dykema dark money architecture that connects Save Detroit Jobs to both parties through one compliance specialist. FOIAworks and Dykema operate parallel privacy-inversion systems: one collects investigator data, the other hides donor data.
+- **[LakeNet Signal Trace](/analysis/lakenet-signal-trace/)** — The ISP infrastructure beneath FOIAworks. Same town, same attorney, same tracer isotope.

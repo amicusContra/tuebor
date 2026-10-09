@@ -125,9 +125,16 @@ Chronological record from 2013 to present. Every entry sourced.
 
 ## [Analysis](/analysis/)
 
-Pattern analysis across all investigations:
-- **[Cross-Subgraph Patterns](/analysis/cross-subgraph-patterns/)** — How Detroit, Saginaw, Barry, Macomb, and Allegan connect through the same AGC, JTC, SCAO, and LARA nodes
+### Infrastructure Studies — How the Systems Work
+
+- **[How To Build an OS](/analysis/how-to-build-an-os/)** — One law firm (Dykema), one compliance specialist (Moore), six dark money vehicles, both parties served. SDJ's phone number is Dykema's phone number. All public records.
+- **[Infrastructure Grid](/analysis/infrastructure-grid/)** — Fluorescent tag map: every node where entity infrastructure touches individual privacy. 11 nodes. FOIAworks has no privacy policy. SDJ hides donors. Domains By Proxy hides websites. The protections point the wrong direction.
+- **[LakeNet Signal Trace](/analysis/lakenet-signal-trace/)** — One IP, three captures, one ISP in a town of 1,500. The tracer isotope that illuminates every connection sharing the infrastructure.
 - **[Anderson Localization — Hemlock](/analysis/anderson-hemlock/)** — Same physics as Detroit, population 2,000, one family captures every layer
+
+### Pattern Analysis — How Oversight Fails
+
+- **[Cross-Subgraph Patterns](/analysis/cross-subgraph-patterns/)** — How Detroit, Saginaw, Barry, Macomb, and Allegan connect through the same AGC, JTC, SCAO, and LARA nodes
 - **[The UPEPA Contradiction](/analysis/upepa-contradiction/)** — Michigan's anti-SLAPP statute weaponized by its first stress-tester
 - **[Institutional Immunity](/analysis/institutional-immunity/)** — AGC dismisses 88.8% of complaints (their own data)
 - **[Credential vs. Conduct](/analysis/credential-vs-conduct/)** — The resume says SCOTUS champion. The docket says sanctioned, reversed, SLAPP-filing, representing a convicted harasser.

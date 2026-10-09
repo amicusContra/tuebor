@@ -282,22 +282,74 @@
     .sd-snippet { font-size: 10px; color: var(--fg-muted); margin-top: 1px; }
     .sd-snippet mark { background: rgba(216,176,64,0.2); color: var(--yellow); padding: 0 1px; border-radius: 1px; }
 
-    /* Responsive — degrade gracefully through dimensional compression.
-     * Full 3-panel at ≥1100px (5D → 3 columns).
-     * 2-panel at 768–1099px (collapse context → sidebar+main).
-     * 1-panel at <768px (collapse to main only).
+    /*
+     * METRIC-AWARE LAYOUT
+     *
+     * The screen's aspect ratio is its metric — it determines how
+     * the golden ratio projects onto the display surface.
+     *
+     *   metric          shape       φ projection         layout
+     *   ─────────────── ─────────── ──────────────────── ──────────
+     *   w/h > φ (1.6)   landscape   3 vertical columns   H H H
+     *                    (wide)      14.6 : 61.8 : 23.6   S M C
+     *
+     *   1/φ < w/h < φ   square-ish  2 columns + drawer   H H
+     *                                golden split both    S M
+     *                                axes                 D D
+     *
+     *   w/h < 1/φ       portrait    stacked panels        H
+     *                    (tall)      golden cut on height  M
+     *                                                      C
+     *
+     * On a circle: φ → golden angle (2π/φ² ≈ 137.5°)
+     * On a sphere: φ → Fibonacci spiral (phyllotaxis)
+     * On a blob:   φ → geodesic golden cuts
+     *
+     * The mathematical object unifying all these is the METRIC
+     * TENSOR g_ij — it encodes distance on any surface. For a
+     * flat rectangle, g = diag(1,1) and φ gives linear ratios.
+     * For a sphere, g = diag(1, sin²θ) and φ gives angular ones.
      */
-    @media (max-width: 767px) {
-      .desk { grid-template-columns: 0 1fr 0; }
+
+    /* NARROW — single column (phone, narrow portrait) */
+    @media (max-width: 599px) {
+      .desk {
+        grid-template-columns: 1fr;
+        grid-template-rows: var(--header-h) 1fr;
+        grid-template-areas: "header" "main";
+      }
       .sidebar, .context-panel { display: none; }
     }
-    @media (min-width: 768px) and (max-width: 1099px) {
+
+    /* PORTRAIT / SQUARE-ISH — sidebar overlay, context as bottom drawer */
+    @media (min-width: 600px) and (max-aspect-ratio: 13/10) {
       .desk {
-        grid-template-columns: minmax(160px, 20%) 1fr 0;
-        grid-template-areas: "header header header" "sidebar main main";
+        grid-template-columns: minmax(180px, 23.6%) 1fr;
+        grid-template-rows: var(--header-h) minmax(0, 61.8%) minmax(0, 38.2%);
+        grid-template-areas:
+          "header header"
+          "sidebar main"
+          "sidebar context";
+      }
+      .context-panel {
+        border-left: none;
+        border-top: 1px solid var(--border);
+        overflow-y: auto;
+      }
+    }
+
+    /* COMPACT LANDSCAPE — 2 columns, no context */
+    @media (min-aspect-ratio: 13/10) and (max-width: 1099px) {
+      .desk {
+        grid-template-columns: minmax(160px, 23.6%) 1fr;
+        grid-template-rows: var(--header-h) 1fr;
+        grid-template-areas: "header header" "sidebar main";
       }
       .context-panel { display: none; }
     }
+
+    /* WIDE LANDSCAPE — full 3-column golden layout (the default at top) */
+    /* (covered by the base .desk rule when ≥1100px and wide aspect) */
 
     @media (prefers-color-scheme: light) {
       :root {
@@ -326,6 +378,7 @@
         <input type="text" id="search-input" placeholder="Search… (Ctrl+K)" autocomplete="off">
         <div class="search-dropdown" id="search-dropdown"></div>
       </div>
+      <span id="metric-indicator" style="font-size:9px;padding:1px 5px;background:var(--accent-dim);color:var(--accent);border-radius:3px;letter-spacing:0.05em;font-weight:600"></span>
       <div class="header-links">
         <a href="/">Site</a>
         <a href="/membrane/">Membrane</a>
@@ -652,6 +705,38 @@
     }
     loadFromHash();
     window.addEventListener('hashchange', loadFromHash);
+
+    // ======== METRIC INDICATOR ========
+    // Detects the viewport's geometric metric and shows which
+    // layout projection is active. The φ-based proportions adapt
+    // to the aspect ratio of the display surface.
+    function updateMetric() {
+      var w = window.innerWidth, h = window.innerHeight;
+      var ar = w / h;
+      var phi = 1.618;
+      var el = document.getElementById('metric-indicator');
+      if (!el) return;
+
+      var shape, mode;
+      if (w < 600) {
+        shape = '▮'; mode = 'single';
+      } else if (ar < 1.3) {
+        shape = '▢'; mode = 'square ' + w + '×' + h;
+      } else if (w < 1100) {
+        shape = '▬'; mode = 'compact ' + w + '×' + h;
+      } else {
+        shape = '▭'; mode = 'φ-split ' + w + '×' + h;
+      }
+
+      var arStr = ar.toFixed(2);
+      // How close is the aspect ratio to φ?
+      var phiDist = Math.abs(ar - phi);
+      var phiNote = phiDist < 0.1 ? ' ≈φ' : '';
+
+      el.textContent = shape + ' ' + arStr + phiNote + ' · ' + mode;
+    }
+    updateMetric();
+    window.addEventListener('resize', updateMetric);
 
     // ======== UTILS ========
     function esc(s) { var d = document.createElement('div'); d.textContent = s; return d.innerHTML; }

@@ -228,3 +228,4 @@ The property is **shape**. The encoding is the **metric**. The proportion is **�
 - **[Cross-Subgraph Patterns](/analysis/cross-subgraph-patterns/)** — the shared institutional nodes define a metric: distance = number of referral hops between any two complaints
 - **[The Desk](/desk/)** — live implementation of the metric-aware golden-ratio layout described here
 - **[The Membrane](/membrane/)** — the entity graph visualization uses force-directed layout, which converges to positions determined by the graph's intrinsic metric
+- **[Elements of Style — Artisan](https://sporeprint.primals.eco/philosophy/the-elements-of-style/)** — atlasHugged essay 18: why φ-subdivision makes human-AI design collaboration lossless. The design philosophy behind this layout

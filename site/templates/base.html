@@ -9,7 +9,7 @@
   <meta property="og:title" content="{% block og_title %}{{ config.title }}{% endblock og_title %}">
   <meta property="og:description" content="{% block og_desc %}{{ config.description }}{% endblock og_desc %}">
   <meta property="og:type" content="website">
-  <meta property="og:url" content="{{ current_url | default(value=config.base_url) }}">
+  <meta property="og:url" content="{{ current_url | default(value=config.base_url) | safe }}">
   <meta property="og:site_name" content="Tuebor — Michigan Public Record">
   <meta name="keywords" content="{% block keywords %}{{ config.extra.keywords | default(value='') }}{% endblock keywords %}">
   <meta name="twitter:card" content="summary">

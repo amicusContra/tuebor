@@ -5,6 +5,8 @@
 {% block keywords %}{{ page.extra.keywords | default(value='') }}{% endblock keywords %}
 {% block og_title %}{{ page.title }}{% endblock og_title %}
 {% block og_desc %}{{ page.description | default(value=config.description) }}{% endblock og_desc %}
+{% block twitter_title %}{{ page.title }}{% endblock twitter_title %}
+{% block twitter_desc %}{{ page.description | default(value=config.description) }}{% endblock twitter_desc %}
 
 {% block structured_data %}
 <script type="application/ld+json">
@@ -13,13 +15,13 @@
   "@type": "Article",
   "headline": "{{ page.title }}",
   "description": "{{ page.description | default(value='') }}",
-  "url": "{{ page.permalink }}",
+  "url": "{{ page.permalink | safe }}",
   {% if page.date %}"datePublished": "{{ page.date | date(format='%Y-%m-%d') }}",{% endif %}
   {% if page.date %}"dateModified": "{{ page.updated | default(value=page.date) | date(format='%Y-%m-%d') }}",{% endif %}
   "publisher": {
     "@type": "Organization",
     "name": "Tuebor — Michigan Public Record",
-    "url": "{{ config.base_url }}"
+    "url": "{{ config.base_url | safe }}"
   },
   "author": {
     "@type": "Organization",
@@ -29,7 +31,7 @@
   "license": "https://creativecommons.org/licenses/by-sa/4.0/",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "{{ page.permalink }}"
+    "@id": "{{ page.permalink | safe }}"
   }
 }
 </script>

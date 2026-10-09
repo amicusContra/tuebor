@@ -1,0 +1,77 @@
+# Tuebor — Michigan Public Record
+
+> I will defend. Evidence-based accountability documentation across Michigan courts, charter schools, and political networks. Every claim sourced to public records. 38 pages.
+
+## About
+
+Tuebor documents institutional failures across Michigan — courts ignoring evidence, oversight bodies failing to act, convicted felons running charter schools with sitting judges on their boards. This is not partisan. It is structural. When oversight stops working, the only defense left is the record itself.
+
+Part of the [primals.eco](https://primals.eco) evidence network. Detroit node: [detroit.primals.eco](https://detroit.primals.eco).
+
+## Sections
+
+- [Actors](/actors/) — Sourced profiles of investigated individuals (attorneys, judges, political operatives)
+- [Evidence](/evidence/) — Court records, domain forensics, FOIA analysis, financial documentation
+- [Analysis](/analysis/) — Infrastructure studies, pattern analysis, enforcement ecosystem mapping
+- [Investigate](/investigate/) — FOIA toolkits, oversight filing guides, court records guides
+- [Timeline](/timeline/) — Chronological record from 1998 to present, every entry sourced
+- [Desk](/desk/) — 3-panel workbench: sidebar, reader, context panel with inline article loading
+- [Membrane](/membrane/) — Interactive dashboard: search, entity graph, cross-reference matrix
+
+## Analysis — Infrastructure Studies
+
+- [They Banked on Banks](/analysis/they-banked-on-banks/) — A convicted felon runs charter schools. His board chair is the judge in the court that handles custody. Parents blocked at the door. PPO weaponized against the parent who complained.
+- [Hey Mikey, He Likes It!](/analysis/hey-mikey/) — Rogers authored America's most aggressive surveillance bill, got hired by the company whose competitor he investigated, bought a $1.6M house, and accepted $88.8M from dark money. Same donors fund Barrett. Same election.
+- [Tommy Boy](/analysis/tommy-boy/) — Barrett calls his opponent a "convicted felon" (expunged). Barrett's PAC donor runs dark money with an actual convicted felon as president. FEC receipts.
+- [The Enforcement Ecosystem](/analysis/enforcement-ecosystem/) — Ten oversight bodies have the mandate, the evidence, and the authority. None has the full picture. The network operates in the jurisdictional gaps.
+- [How To Build an OS](/analysis/how-to-build-an-os/) — One law firm (Dykema), one compliance specialist, six dark money vehicles, both parties served.
+- [Infrastructure Grid](/analysis/infrastructure-grid/) — Fluorescent tag map: every node where entity infrastructure touches individual privacy.
+- [LakeNet Signal Trace](/analysis/lakenet-signal-trace/) — One IP, three captures, one ISP in a town of 1,500.
+- [Anderson Localization — Hemlock](/analysis/anderson-hemlock/) — Same physics as Detroit, population 2,000.
+
+## Analysis — Pattern Analysis
+
+- [Cross-Subgraph Patterns](/analysis/cross-subgraph-patterns/) — How Detroit, Saginaw, Barry, Macomb, and Allegan connect through AGC, JTC, SCAO, LARA
+- [The UPEPA Contradiction](/analysis/upepa-contradiction/) — Michigan's anti-SLAPP statute weaponized by its first stress-tester
+- [Institutional Immunity](/analysis/institutional-immunity/) — AGC dismisses 88.8% of complaints (their own data)
+- [Credential vs. Conduct](/analysis/credential-vs-conduct/) — SCOTUS champion or sanctioned, reversed, SLAPP-filing attorney?
+- [Information Entropy](/analysis/information-entropy/) — Oral tradition, written tradition, and the mathematics of communication
+- [The Metric Tensor](/analysis/metric-tensor/) — Shape, proportion, and dimensional compression
+
+## Evidence
+
+- [Ghost Witness — Samantha Aljouny](/evidence/ghost-witness-aljouny/) — Fabricated witness in Saginaw County court
+- [Data Braid — Public vs. Private Evidence](/evidence/data-braid-aljouny/) — 6 reverse target searches, independently confirmed
+- [Domain Registration Campaign](/evidence/domain-registrations/) — 3 domains targeting PPO holders registered in 30 min
+- [FOIAworks Honeypot Analysis](/evidence/foiaworks-honeypot/) — Fabricated-witness attorney operates FOIA platform
+- [FOIAworks as Early Warning System](/evidence/foiaworks-early-warning/) — Attorney who sued FOIA coordinators now runs the platform
+- [$74,752.45: Federal Sanctions](/evidence/ellison-sanctions/) — Two courts, SCOTUS cert denied
+- [Complete Litigation Docket](/evidence/litigation-docket/) — Every active and resolved case
+- [Impersonation Domain](/evidence/impersonation-domain/) — ritafelinewilliams.com — live, collecting data
+
+## Investigation Toolkit
+
+- [FOIA Toolkit](/investigate/foia-toolkit/) — Templates, deadlines, exemption challenges
+- [Hemlock FOIA Toolkit](/investigate/hemlock-foia/) — Ready-to-use templates for Saginaw ISD
+- [Oversight Filing Guide](/investigate/oversight-guide/) — How to file with AGC, JTC, SCAO, MCOLES, IC3
+- [Court Records Guide](/investigate/court-records/) — Dockets, appellate opinions, PACER, LARA
+- [Evidence Documentation](/investigate/evidence-documentation/) — Incident logs, document indexes, preservation notices
+
+## Actors
+
+- [Philip L. Ellison](/actors/ellison/) — Attorney, 4 entities, 153-domain portfolio, $74K federal sanctions
+- [Kevin Lindke](/actors/lindke/) — Convicted: computer crime. 272 days. 21K-member Facebook group.
+- [Judge Julie A. Gafkay](/actors/gafkay/) — Chief Judge, 10th Circuit. 3 simultaneous Ellison cases.
+- [Judge Andre R. Borrello](/actors/borrello/) — Signed contempt, then recused
+- [Kelly D. Ellsworth](/actors/ellsworth/) — SCBA insider, family in bar since 1986
+- [Judge Kathleen G. Galen](/actors/galen/) — JTC admonition. Jailed pregnant woman.
+- [Judge Michael Schipper](/actors/schipper/) — Active JTC investigation. 6-10x guideline sentencing.
+- [Julie Nakfoor Pratt](/actors/nakfoor-pratt/) — Private admonishment. Brady/Giglio failures.
+
+## Technical
+
+- Source repository: [github.com/amicusContra/tuebor](https://github.com/amicusContra/tuebor)
+- Built with Zola static site generator
+- No cookies, no tracking, no identifying data
+- License: CC-BY-SA 4.0 (original analysis), public domain (court filings)
+- Contact: hello@clutchjustice.com

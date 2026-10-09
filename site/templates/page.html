@@ -35,6 +35,28 @@
   }
 }
 </script>
+{% if page.extra.person_name is defined %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "{{ page.extra.person_name }}",
+  {% if page.extra.person_alternate_name is defined %}"alternateName": "{{ page.extra.person_alternate_name }}",{% endif %}
+  {% if page.extra.person_description is defined %}"description": "{{ page.extra.person_description }}",{% endif %}
+  {% if page.extra.person_url is defined %}"url": "{{ page.extra.person_url | safe }}",{% endif %}
+  {% if page.extra.person_same_as is defined %}"sameAs": [{% for url in page.extra.person_same_as %}"{{ url | safe }}"{% if not loop.last %}, {% endif %}{% endfor %}],{% endif %}
+  {% if page.extra.person_job_title is defined %}"jobTitle": "{{ page.extra.person_job_title }}",{% endif %}
+  {% if page.extra.person_works_for is defined %}"worksFor": {
+    "@type": "Organization",
+    "name": "{{ page.extra.person_works_for }}"
+  },{% endif %}
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ page.permalink | safe }}"
+  }
+}
+</script>
+{% endif %}
 {% if page.extra.claim_review is defined %}
 <script type="application/ld+json">
 {{ page.extra.claim_review | safe }}

@@ -209,11 +209,11 @@ The CEO of Blackstone gave $4.5 million to Rogers' super PAC. Blackstone employe
 
 **Grand total benefiting Rogers: $88.8 million.**
 
-His opponent — Abdul El-Sayed — has $51.7 million total benefiting. Rogers has a **$37 million outside money advantage**.
-
 Rogers raised $10.9 million himself. Outside groups spent $82.1 million for him. **For every dollar Rogers raised, outside groups spent seven.**
 
-Who is the candidate? The man from Michigan? Or the $82 million?
+His opponent — Abdul El-Sayed — has $51.7 million total benefiting (VoteLog). That includes approximately **$20.1 million from United Democracy Project** (AIPAC's super PAC) **opposing** El-Sayed. Outside money doesn't just flow in one direction. It flows in every direction. Billionaires fund Rogers. A foreign-policy lobby targets his opponent. Michigan voters are the smallest voice in their own Senate race.
+
+This is not a page about Rogers vs. El-Sayed. Both candidates are swimming in outside money. This is a page about what Rogers' record says — CISPA, AT&T, Florida, $88.8 million — because the record is what voters can verify. El-Sayed's record is his to answer for. Rogers' record is documented below.
 
 ### Who Feeds the Machine
 
@@ -233,7 +233,7 @@ $17 million from three men. None of them lives in Michigan.
 
 Tim Dunn is a **Texas oil executive**. He gave $10 million to elect a Michigan senator. He does not live in Michigan. He does not vote in Michigan. He runs CrownQuest Operating in Midland, Texas — a town named after oil.
 
-Stephen Schwarzman runs Blackstone — the world's largest alternative investment firm. The same Blackstone that is one of America's [largest institutional landlords](https://www.propublica.org/article/when-private-equity-becomes-your-landlord). He maxed out to [Barrett](/analysis/tommy-boy/) too.
+Stephen Schwarzman runs Blackstone — the world's largest alternative investment firm. He maxed out to [Barrett](/analysis/tommy-boy/) too.
 
 Kenneth Griffin runs Citadel — one of the world's largest hedge funds. He also gave $7,000 to Barrett. Same donor. Senate AND House. Cross-ticket.
 
@@ -382,4 +382,6 @@ One career. One direction. Always upward. Always fed.
 
 *He'll eat anything.*
 
-*Nov 3, 2026. You decide what he gets.*
+*This is not an endorsement. This is not a recommendation. This is a record. We don't pick sides. We refute falsity. When Rogers says "my whole life is here" from a Florida living room, that is falsity. When his campaign says he had no role in AT&T decisions while he says he persuaded them, one of those is falsity. When $82 million in outside money speaks for a candidate, that is a fact Michigan voters should see — regardless of party.*
+
+*Nov 3, 2026. Read the record. Verify it. Vote your conscience.*

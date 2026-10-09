@@ -15,7 +15,7 @@
   "description": "{{ page.description | default(value='') }}",
   "url": "{{ page.permalink }}",
   {% if page.date %}"datePublished": "{{ page.date | date(format='%Y-%m-%d') }}",{% endif %}
-  "dateModified": "{{ page.updated | default(value=page.date) | default(value=now()) | date(format='%Y-%m-%d') }}",
+  {% if page.date %}"dateModified": "{{ page.updated | default(value=page.date) | date(format='%Y-%m-%d') }}",{% endif %}
   "publisher": {
     "@type": "Organization",
     "name": "Tuebor — Michigan Public Record",

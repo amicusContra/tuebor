@@ -1,0 +1,6 @@
+{%- set sources = load_data(path="static/sources.toml", required=false) -%}
+{%- if sources and sources[key] -%}
+<a href="{{ sources[key].base }}{{ path }}" rel="external" title="{{ label }}">{{ label }}</a>
+{%- else -%}
+<a href="https://clutchjustice.com{{ path }}" rel="external" title="{{ label }}">{{ label }}</a>
+{%- endif -%}

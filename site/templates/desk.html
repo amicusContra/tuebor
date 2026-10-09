@@ -572,6 +572,8 @@
           // Intercept internal links to stay in workbench
           main.querySelectorAll('a[href]').forEach(function(a) {
             var href = a.getAttribute('href');
+            // Normalize absolute same-origin URLs to relative
+            if (href && href.startsWith(location.origin)) { href = href.slice(location.origin.length); }
             if (href && href.startsWith('/') && !href.startsWith('//')) {
               a.addEventListener('click', function(ev) {
                 ev.preventDefault();

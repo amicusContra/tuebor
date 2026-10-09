@@ -1,0 +1,33 @@
+base_url = "https://tuebor.primals.eco"
+title = "Tuebor — Michigan Public Record"
+description = "I will defend. Evidence-based accountability documentation across Michigan courts. Ghost witnesses, disappeared judges, fabricated evidence. Every claim sourced to public records."
+compile_sass = false
+build_search_index = true
+generate_feeds = true
+feed_filenames = ["atom.xml"]
+generate_sitemap = true
+minify_html = true
+
+[link_checker]
+external_level = "warn"
+skip_prefixes = [
+    "https://mibusinessregistry.lara.state.mi.us",
+    "https://apps.michigan.gov/ichat",
+    "https://cfrs.michigan.gov",
+    "https://www.michbar.org",
+    "https://eu.freep.com",
+    "https://www.freep.com",
+    "https://www.detroitnews.com",
+]
+
+[[taxonomies]]
+name = "counties"
+feed = true
+
+[[taxonomies]]
+name = "status"
+
+[extra]
+author = "Citizens of Michigan"
+repo_url = "https://github.com/amicusContra/barry"
+contact_email = "hello@clutchjustice.com"

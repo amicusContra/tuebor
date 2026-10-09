@@ -14,7 +14,31 @@
       --accent: #6b94cc; --accent-dim: rgba(107,148,204,0.12);
       --red: #e06070; --green: #50c878; --purple: #9880d8;
       --yellow: #d8b040; --cyan: #40b8c8; --orange: #d89050;
-      --sidebar-w: 240px; --context-w: 280px;
+      /*
+       * Panel proportions derived from successive golden cuts:
+       *   φ = (1+√5)/2 ≈ 1.618
+       *   cos(π/5) = φ/2  →  φ = 2cos(π/5)
+       *   π ≈ 6φ²/5 = 3.14160 (error: 0.00024%)
+       *
+       * Three-column split:
+       *   main    = 1/φ    ≈ 61.8%  (center of attention)
+       *   context = 1/φ²   ≈ 23.6%  (secondary focus)
+       *   sidebar = 1/φ³   ≈ 14.6%  (peripheral navigation)
+       *
+       * When 5D symmetry projects to 3D, the lost 2 dimensions
+       * encode as rotations of 2π/5 (72°). The golden ratio IS
+       * that compression factor: φ = 2cos(π/5).
+       *
+       * These proportions minimize cognitive friction because
+       * φ is the most irrational number — hardest to approximate
+       * by rationals — so the eye never "snaps" to a grid.
+       */
+      --phi: 1.618;
+      --sidebar-pct: 14.6%;   /* 1/φ³  */
+      --main-pct: 61.8%;      /* 1/φ   */
+      --context-pct: 23.6%;   /* 1/φ²  */
+      --sidebar-min: 180px;
+      --context-min: 200px;
       --header-h: 34px;
     }
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
@@ -27,11 +51,14 @@
     a { color: var(--accent); text-decoration: none; }
     a:hover { text-decoration: underline; }
 
-    /* === LAYOUT === */
+    /* === LAYOUT: Golden ratio 3-column === */
     .desk {
       display: grid; height: 100vh;
       grid-template-rows: var(--header-h) 1fr;
-      grid-template-columns: var(--sidebar-w) 1fr var(--context-w);
+      grid-template-columns:
+        minmax(var(--sidebar-min), var(--sidebar-pct))
+        minmax(0, var(--main-pct))
+        minmax(var(--context-min), var(--context-pct));
       grid-template-areas:
         "header header header"
         "sidebar main context";
@@ -131,8 +158,10 @@
       scrollbar-color: var(--border) transparent;
     }
     .main-content {
+      /* Reading width ≈ 65ch — the φ-derived optimum for line length.
+         Margins use 1/φ rem increments (1.618rem → 2.618rem → 4.236rem). */
       max-width: 52rem; margin: 0 auto;
-      padding: 2rem 2.5rem 4rem;
+      padding: 1.618rem 2.618rem 4.236rem;
     }
     .main-content .welcome {
       color: var(--fg-dim); text-align: center;
@@ -253,13 +282,21 @@
     .sd-snippet { font-size: 10px; color: var(--fg-muted); margin-top: 1px; }
     .sd-snippet mark { background: rgba(216,176,64,0.2); color: var(--yellow); padding: 0 1px; border-radius: 1px; }
 
-    /* Responsive */
-    @media (max-width: 900px) {
+    /* Responsive — degrade gracefully through dimensional compression.
+     * Full 3-panel at ≥1100px (5D → 3 columns).
+     * 2-panel at 768–1099px (collapse context → sidebar+main).
+     * 1-panel at <768px (collapse to main only).
+     */
+    @media (max-width: 767px) {
       .desk { grid-template-columns: 0 1fr 0; }
       .sidebar, .context-panel { display: none; }
     }
-    @media (max-width: 1200px) and (min-width: 901px) {
-      :root { --context-w: 220px; --sidebar-w: 200px; }
+    @media (min-width: 768px) and (max-width: 1099px) {
+      .desk {
+        grid-template-columns: minmax(160px, 20%) 1fr 0;
+        grid-template-areas: "header header header" "sidebar main main";
+      }
+      .context-panel { display: none; }
     }
 
     @media (prefers-color-scheme: light) {

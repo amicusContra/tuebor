@@ -70,4 +70,229 @@
   {% if page.date %}<time class="page-date">{{ page.date | date(format="%B %e, %Y") }}</time>{% endif %}
   {{ page.content | safe }}
 </article>
+
+{# ═══════════════════════════════════════════════════════════
+   OPSONIZATION LAYER — Collaborative Immune Tagging
+   
+   Three channels for building partial immunity:
+   1. Signal Form  → private tip to operators
+   2. Discussion   → public discourse (Giscus / GitHub Discussions)
+   3. Secure Email → encrypted channel for sensitive contacts
+   ═══════════════════════════════════════════════════════════ #}
+
+<section class="opsonize" id="opsonize" aria-label="Share what you know">
+  <div class="opsn-header">
+    <h2>🔬 Share What You Know</h2>
+    <p class="opsn-subtitle">
+      Every observation strengthens the network. Tag what you see,
+      share what you know, build immunity together.
+    </p>
+  </div>
+
+  <div class="opsn-channels">
+
+    {# ── CHANNEL 1: Signal Form ── #}
+    <div class="opsn-channel opsn-signal">
+      <div class="opsn-channel-header">
+        <span class="opsn-icon">📡</span>
+        <h3>Signal</h3>
+        <span class="opsn-badge">Private</span>
+      </div>
+      <p class="opsn-desc">Submit observations directly to the network. Reviewed before publication. Your IP is hashed, never stored raw.</p>
+
+      <form id="opsn-form" class="opsn-form" autocomplete="off">
+        <input type="hidden" name="page" value="{{ page.path | default(value='unknown') }}">
+
+        <div class="opsn-field">
+          <label for="opsn-tag">What type of observation?</label>
+          <select id="opsn-tag" name="tag" required>
+            <option value="">Select a tag…</option>
+            <option value="witness">🔍 Witness — I have direct knowledge</option>
+            <option value="document">📄 Document — I have supporting documents</option>
+            <option value="connection">🔗 Connection — I know additional links</option>
+            <option value="correction">✏️ Correction — Something needs fixing</option>
+            <option value="confirmation">✅ Confirmation — I can confirm these facts</option>
+            <option value="threat">⚠️ Threat — I face ongoing harm</option>
+            <option value="pattern">🗺️ Pattern — I see this elsewhere</option>
+            <option value="resource">🤝 Resource — I can offer assistance</option>
+          </select>
+        </div>
+
+        <div class="opsn-field">
+          <label for="opsn-body">Your observation</label>
+          <textarea id="opsn-body" name="body" rows="4" required
+                    minlength="10" maxlength="2000"
+                    placeholder="What do you know? Be specific — names, dates, documents, case numbers."></textarea>
+          <span class="opsn-hint">Min 10 characters. No personal data stored without consent.</span>
+        </div>
+
+        <div class="opsn-field">
+          <label for="opsn-contact">Contact (optional, encrypted)</label>
+          <input type="text" id="opsn-contact" name="contact"
+                 placeholder="ProtonMail, Signal number, or leave blank"
+                 maxlength="200">
+          <span class="opsn-hint">Only used if we need to verify. Never published.</span>
+        </div>
+
+        <button type="submit" class="opsn-submit" id="opsn-submit">
+          <span class="opsn-submit-text">Send Signal</span>
+          <span class="opsn-submit-sending" style="display:none">Sending…</span>
+        </button>
+
+        <div id="opsn-result" class="opsn-result" style="display:none"></div>
+      </form>
+    </div>
+
+    {# ── CHANNEL 2: Public Discussion (Giscus) ── #}
+    <div class="opsn-channel opsn-discuss">
+      <div class="opsn-channel-header">
+        <span class="opsn-icon">💬</span>
+        <h3>Discuss</h3>
+        <span class="opsn-badge opsn-badge-public">Public</span>
+      </div>
+      <p class="opsn-desc">Open discussion via GitHub. Your comments are public and help others find this evidence.</p>
+
+      <div id="giscus-container">
+        <script src="https://giscus.app/client.js"
+                data-repo="amicusContra/tuebor"
+                data-repo-id=""
+                data-category="Observations"
+                data-category-id=""
+                data-mapping="pathname"
+                data-strict="0"
+                data-reactions-enabled="1"
+                data-emit-metadata="0"
+                data-input-position="top"
+                data-theme="dark_dimmed"
+                data-lang="en"
+                data-loading="lazy"
+                crossorigin="anonymous"
+                async>
+        </script>
+      </div>
+      <noscript>
+        <p class="opsn-noscript">
+          Discussion requires JavaScript. You can also
+          <a href="https://github.com/amicusContra/tuebor/discussions">view discussions on GitHub</a>.
+        </p>
+      </noscript>
+    </div>
+
+    {# ── CHANNEL 3: Secure Email ── #}
+    <div class="opsn-channel opsn-email">
+      <div class="opsn-channel-header">
+        <span class="opsn-icon">🔐</span>
+        <h3>Secure Contact</h3>
+        <span class="opsn-badge opsn-badge-secure">Encrypted</span>
+      </div>
+      <p class="opsn-desc">
+        For sensitive information, use encrypted email. ProtonMail-to-ProtonMail
+        is end-to-end encrypted by default.
+      </p>
+      <div class="opsn-email-actions">
+        <a href="mailto:eco.primal@pm.me?subject=Signal%3A%20{{ page.title | urlencode }}%20%E2%80%94%20{{ page.path | default(value='page') | urlencode }}&body=Page%3A%20{{ page.permalink | safe | urlencode }}%0A%0AObservation%3A%0A%0A"
+           class="opsn-email-btn" rel="noopener">
+          ✉️ Email via ProtonMail
+        </a>
+        <a href="mailto:hello@clutchjustice.com?subject=Re%3A%20{{ page.title | urlencode }}&body=Page%3A%20{{ page.permalink | safe | urlencode }}%0A%0A"
+           class="opsn-email-btn opsn-email-alt" rel="noopener">
+          📬 Clutch Justice
+        </a>
+      </div>
+      <p class="opsn-tip">
+        💡 <strong>Tip:</strong> If you're a government employee or officer of the court,
+        consider using a personal email account for sensitive disclosures.
+      </p>
+    </div>
+
+  </div>
+
+  {# ── Approved Signals Feed ── #}
+  <div class="opsn-feed" id="opsn-feed" style="display:none">
+    <h3>🧬 Network Signals</h3>
+    <p class="opsn-desc">Verified observations from the community.</p>
+    <div id="opsn-feed-list"></div>
+  </div>
+</section>
+
+<script>
+(function() {
+  var form = document.getElementById('opsn-form');
+  var result = document.getElementById('opsn-result');
+  var submitBtn = document.getElementById('opsn-submit');
+  var submitText = submitBtn.querySelector('.opsn-submit-text');
+  var submitSending = submitBtn.querySelector('.opsn-submit-sending');
+
+  form.addEventListener('submit', function(e) {
+    e.preventDefault();
+    submitText.style.display = 'none';
+    submitSending.style.display = 'inline';
+    submitBtn.disabled = true;
+    result.style.display = 'none';
+
+    var fd = new FormData(form);
+    var body = {};
+    fd.forEach(function(v, k) { body[k] = v; });
+
+    fetch('/api/opsonize', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(body)
+    })
+    .then(function(r) { return r.json().then(function(d) { return {status: r.status, data: d}; }); })
+    .then(function(res) {
+      result.style.display = 'block';
+      if (res.data.ok) {
+        result.className = 'opsn-result opsn-result-ok';
+        result.innerHTML = '<strong>✓ ' + escHtml(res.data.message) + '</strong><br>' +
+          '<span class="opsn-tag-label">' + escHtml(res.data.tag) + '</span>: ' +
+          escHtml(res.data.tag_meaning);
+        form.reset();
+      } else {
+        result.className = 'opsn-result opsn-result-err';
+        result.textContent = res.data.error + (res.data.detail ? ' — ' + res.data.detail : '');
+      }
+    })
+    .catch(function(err) {
+      result.style.display = 'block';
+      result.className = 'opsn-result opsn-result-err';
+      result.textContent = 'Network error — try the email channel instead.';
+    })
+    .finally(function() {
+      submitText.style.display = 'inline';
+      submitSending.style.display = 'none';
+      submitBtn.disabled = false;
+    });
+  });
+
+  // Load approved signals feed
+  fetch('/api/opsonize/feed')
+    .then(function(r) { return r.json(); })
+    .then(function(data) {
+      if (data.signals && data.signals.length > 0) {
+        var feed = document.getElementById('opsn-feed');
+        var list = document.getElementById('opsn-feed-list');
+        var currentPage = form.querySelector('[name=page]').value;
+        var relevant = data.signals.filter(function(s) { return s.page === currentPage; });
+        if (relevant.length > 0) {
+          feed.style.display = 'block';
+          list.innerHTML = relevant.map(function(s) {
+            return '<div class="opsn-signal-card">' +
+              '<span class="opsn-tag-label">' + escHtml(s.tag) + '</span> ' +
+              '<span class="opsn-signal-time">' + escHtml(s.ts.split('T')[0]) + '</span>' +
+              '<p>' + escHtml(s.body) + '</p>' +
+              '</div>';
+          }).join('');
+        }
+      }
+    })
+    .catch(function() {});
+
+  function escHtml(s) {
+    var d = document.createElement('div');
+    d.textContent = s || '';
+    return d.innerHTML;
+  }
+})();
+</script>
 {% endblock content %}

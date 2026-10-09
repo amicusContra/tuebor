@@ -1,3 +1,4 @@
+@import url("phi.css");
 /* Tuebor — barry.primals.eco — minimal accountability site */
 
 :root {
@@ -24,7 +25,7 @@ body {
   font-family: var(--font);
   background: var(--bg);
   color: var(--text);
-  line-height: 1.7;
+  line-height: var(--lh);
   min-height: 100vh;
 }
 

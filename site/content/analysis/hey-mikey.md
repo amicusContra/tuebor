@@ -369,8 +369,12 @@ One career. One direction. Always upward. Always fed.
 - **[Institutional Immunity](/analysis/institutional-immunity/)** — The 88.8% dismissal rate at the AGC that Rogers' oversight role would perpetuate.
 - **[Cross-Subgraph Patterns](/analysis/cross-subgraph-patterns/)** — Same oversight failures, five counties, one system.
 
+- **[They Banked on Banks](/analysis/they-banked-on-banks/)** — Brian Roderick Banks: 9 convictions, 2 charter schools, board chaired by Judge Miller. Same ballot day. Same system. The convicted felon the system protects.
+- **[Signal Permeability](/analysis/signal-permeability/)** — Live Anderson study: does the evidence propagate through oversight boundaries, or localize?
+
 **On detroit.primals.eco:**
 - **[The Network](https://detroit.primals.eco)** — The charter school network connected to Miller, Yancey, and Banks — all on the same ballot, same day, same infrastructure.
+- **[Brian Roderick Banks — Full Profile](https://detroit.primals.eco/network/actors/brian-banks/)** — 9 convictions, credential chain, entity control, email admissions.
 - **[Data Braid — GLLG](https://detroit.primals.eco/evidence/data-braid-gllg/)** — Six independent searches converge on the defense attorney + charter authorizer sitting on the same nonprofit board.
 - **[Agency Referrals](https://detroit.primals.eco/evidence/agency-referrals/)** — Eight federal agencies, state referrals, JTC investigations. The enforcement ecosystem in action — or inaction.
 

@@ -135,6 +135,9 @@ That is what Tuebor is for.
 - **[Data Braid — GLLG Entity Graph](https://detroit.primals.eco/evidence/data-braid-gllg/)** — Defense attorney + charter authorizer on same nonprofit board. The ADB hearing panelist IS the defense attorney.
 - {{ source(key="clutch_justice", path="/2026/10/07/mind-the-gap-state-bar-agc-unauthorized-practice/", label="Mind the Gap") }} — Two letters. One day apart. The immunity mathematics in action.
 
+- **[They Banked on Banks](/analysis/they-banked-on-banks/)** — The live case study: Brian Roderick Banks has 9 convictions and runs 2 charter schools. The immunity mathematics applied to real children.
+- **[Signal Permeability](/analysis/signal-permeability/)** — Measuring whether evidence can propagate through the 88.8% dismissal wall.
+
 ## Sources
 
 - ADB Annual Reports (2019–2025)

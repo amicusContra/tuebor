@@ -271,6 +271,9 @@ The problem is that each mandate was written to handle **one actor at a time**. 
 - [Institutional Immunity Pattern](/analysis/institutional-immunity/) — the mathematics of 88.8% dismissal
 - [Cross-Subgraph Patterns](/analysis/cross-subgraph-patterns/) — same oversight bodies appear across five investigations
 
+- [They Banked on Banks](/analysis/they-banked-on-banks/) — the man the ecosystem failed to stop. Brian Roderick Banks: 9 convictions, 2 charter schools, board chair is a sitting judge, parent blocked at the door, PPO weaponized. The enforcement ecosystem measured against a live case.
+- [Signal Permeability](/analysis/signal-permeability/) — Live Anderson study: evidence sent to all ten oversight bodies. Measuring who opens it, who forwards it, who ignores it.
+
 **On detroit.primals.eco:**
 - [Data Braid — GLLG Entity Graph](https://detroit.primals.eco/evidence/data-braid-gllg/) — six independent searches converge: defense attorney + charter authorizer on same nonprofit board
 - [Corporate Network — LARA](https://detroit.primals.eco/analysis/corporate-network-lara/) — the entity infrastructure

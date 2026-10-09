@@ -305,3 +305,11 @@ original to this investigation.*
 filings, government registries, or independently verifiable
 data. The methodology is described at
 [gorilla.primals.eco](https://gorilla.primals.eco).*
+
+
+---
+
+## The Detroit Parallel
+
+- **[They Banked on Banks](/analysis/they-banked-on-banks/)** — Same Anderson localization, different lattice. In Hemlock, one family captures the ISP, schools, and courts. In Detroit, one man with 9 convictions captures two charter schools, a judge, an AG employee, and a council member. The physics is identical.
+- **[Signal Permeability](/analysis/signal-permeability/)** — Live measurement: can evidence propagate through the disordered medium, or does it localize?

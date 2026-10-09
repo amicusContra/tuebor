@@ -230,3 +230,12 @@ The oversight system can ignore the complaints. It cannot erase the evidence tha
 ---
 
 *Every connection documented above is sourced to court records, government registries, or independently verifiable public data. The cross-subgraph edges exist because the same institutional nodes appear in multiple investigations — not because anyone decided to connect them. The pattern emerged from the evidence.*
+
+
+---
+
+## Related Analysis
+
+- **[They Banked on Banks](/analysis/they-banked-on-banks/)** — The Detroit subgraph's most documented node: Brian Roderick Banks, 9 convictions, 2 charter schools, board chaired by Judge Miller, AG employee as vice chair. The cross-subgraph pattern in a single entity.
+- **[Signal Permeability](/analysis/signal-permeability/)** — Live experiment: does evidence propagate through the oversight nodes mapped above?
+- **[The Enforcement Ecosystem](/analysis/enforcement-ecosystem/)** — The ten oversight bodies that connect all subgraphs.

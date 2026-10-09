@@ -16,6 +16,14 @@ document the failure themselves.
 
 ---
 
+## 🔴 Now Live: Brian Roderick Banks — 9 Convictions, 2 Charter Schools
+
+**[They Banked on Banks](/analysis/they-banked-on-banks/)** — Brian Roderick Banks has 9 criminal convictions and runs Purpose Charter Academy and MacDowell Preparatory Academy in Detroit. His board chair is a sitting Wayne County judge. His receptionist blocks parents at the door. His PPO motion blocks them in court. 362 students. 99.2% Black. 3% math proficiency. 72.67% revenue extracted by a single-member LLC.
+
+**[Signal Permeability](/analysis/signal-permeability/)** — Live experiment: we sent the evidence to every oversight body. Now we're measuring who opens it. First confirmed reader: **Lansing, Michigan** — the state capital. [Read the live data →](/analysis/signal-permeability/)
+
+---
+
 ## Why This Site Exists
 
 Michigan's oversight systems are failing across counties.

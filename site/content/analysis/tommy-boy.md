@@ -282,6 +282,7 @@ And one actual convicted felon — in the entity, not the opposition.
 ## Related Pages
 
 - **[Hey Mikey, He Likes It!](/analysis/hey-mikey/)** — Rogers shares donors (Griffin, Schwarzman) and infrastructure (Dykema) with Barrett. Same ticket. Same day. Same $88.8M system. CISPA, AT&T revolving door, Florida mansion.
+- **[Sitting in a Tree](/analysis/sitting-in-a-tree/)** — The complete picture: Mike and Tom and Dykema and Banks. One law firm, one compliance specialist, four branches. First comes money. Then comes power. Then comes a charter school with convicted felons in the tower.
 - **[How To Build an OS](/analysis/how-to-build-an-os/)** — The full Dykema architecture: kernel, scheduler, process table, filesystem, bipartisan bus
 - **[Infrastructure Grid](/analysis/infrastructure-grid/)** — Every node where entity infrastructure touches individual privacy
 - **[They Banked on Banks](/analysis/they-banked-on-banks/)** — Brian Roderick Banks: 9 convictions, 2 charter schools, board chaired by a sitting judge. The convicted felon Barrett's donor infrastructure protects.

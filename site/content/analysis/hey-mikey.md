@@ -365,6 +365,7 @@ One career. One direction. Always upward. Always fed.
 **On this site:**
 - **[The Enforcement Ecosystem](/analysis/enforcement-ecosystem/)** — The ten oversight bodies Rogers' Senate seat would influence. They can't coordinate two letters. He wanted to give them everyone's email.
 - **[Tommy Boy](/analysis/tommy-boy/)** — Barrett shares donors (Griffin, Schwarzman) and infrastructure (Dykema). Same ticket. Same day. Same system.
+- **[Sitting in a Tree](/analysis/sitting-in-a-tree/)** — The complete picture: Mike and Tom and Dykema and Banks. One law firm, one compliance specialist, four branches. Same tree, same roots, same Renae Moore watering all of it.
 - **[How To Build an OS](/analysis/how-to-build-an-os/)** — The Dykema architecture both candidates plug into.
 - **[Institutional Immunity](/analysis/institutional-immunity/)** — The 88.8% dismissal rate at the AGC that Rogers' oversight role would perpetuate.
 - **[Cross-Subgraph Patterns](/analysis/cross-subgraph-patterns/)** — Same oversight failures, five counties, one system.

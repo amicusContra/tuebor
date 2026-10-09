@@ -596,6 +596,7 @@
     }
 
     function findPageByUrl(url) {
+      if (url && url.indexOf(location.origin) === 0) { url = url.slice(location.origin.length); }
       url = url.replace(/\/+$/, '/');
       return PAGES.find(function(p) { return p.u === url || p.u === url + '/' || p.u.replace(/\/$/, '') === url.replace(/\/$/, ''); });
     }

@@ -154,8 +154,10 @@ This is how you read a process table.
 Dark money vehicles are spawned, renamed, dissolved, and respawned. New campaign finance filings emerge every cycle. LARA entity status changes. This study follows the process table as it evolves.
 
 **Connection to other investigations:**
+- [Tommy Boy](/analysis/tommy-boy/) — Where the OS outputs: Dykema PAC → $4K → Barrett → "convicted felon" smear against tenant advocates. The operating system's user-facing terminal.
 - [FOIAworks Infrastructure Scan](/evidence/foiaworks-infrastructure/) — Another entity using privacy infrastructure to avoid accountability
 - [LakeNet Signal Trace](/analysis/lakenet-signal-trace/) — Hard infrastructure layer beneath the privacy stack
+- [Infrastructure Grid](/analysis/infrastructure-grid/) — Every node where entity infrastructure touches individual privacy
 
 ---
 

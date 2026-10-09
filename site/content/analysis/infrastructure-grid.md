@@ -261,6 +261,7 @@ When you light up every node simultaneously, the pattern is:
 All public records, published journalism, and independently verifiable technical data. No private information, no hacking, no account creation, no social engineering. The servers were asked public questions and they answered them. The filings are on public databases. The journalism is published and linked.
 
 **Related pages:**
+- [Tommy Boy](/analysis/tommy-boy/) — The Barrett node: where Dykema PAC money becomes "convicted felon" smear against tenant advocates. FEC → LARA → IRS → projection.
 - [FOIAworks Infrastructure Scan](/evidence/foiaworks-infrastructure/)
 - [LakeNet Signal Trace](/analysis/lakenet-signal-trace/)
 - [How To Build an OS](/analysis/how-to-build-an-os/)

@@ -5,6 +5,9 @@ weight = 1
 
 [extra]
 keywords = "Dykema Gossett dark money Michigan, W Alan Wilk political compliance, Renae Moore compliance specialist, Save Detroit Jobs Detroit Leaders, Our Neighborhoods First Duggan, RFFW LLC money laundering, Detroit Jobs First Prop A, Domains By Proxy dark money, bipartisan dark money infrastructure, parasitic operating system Michigan politics, Dykema State PAC both parties, Michigan dark money law firm"
+
+[taxonomies]
+counties = ["Wayne", "Ingham"]
 +++
 
 ## The Architecture

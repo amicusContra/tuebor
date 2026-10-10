@@ -1,0 +1,11 @@
+[clutch_justice]
+base = "https://clutchjustice.com"
+name = "Clutch Justice"
+
+[detroit]
+base = "https://detroit.primals.eco"
+name = "Detroit Investigation"
+
+[tuebor]
+base = "https://tuebor.primals.eco"
+name = "Tuebor"

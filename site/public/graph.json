@@ -1,0 +1,741 @@
+{
+  "_generated": "2026-10-09T19:00:00Z",
+  "_source": "Statewide enforcement + election graph. Built for unsupervised bingoCube observation.",
+  "_schema": "ecoPrimals/tuebor-graph/v1",
+  "nodes": [
+    {
+      "id": "rogers",
+      "label": "Mike Rogers",
+      "type": "candidate",
+      "tier": 1,
+      "role": "U.S. Senate candidate (R)",
+      "fec_id": "S4MI00595",
+      "page": "/analysis/enforcement-ecosystem/",
+      "decomposition": {
+        "point": "FEC S4MI00595, former House Intel Chair, FBI, Army",
+        "wave": "Intel Committee → CISPA → AT&T revolving door → $88.8M campaign machine",
+        "reaction": "CISPA killed twice. Lost 2024. Running 2026. Would oversee enforcement system."
+      }
+    },
+    {
+      "id": "barrett",
+      "label": "Tom Barrett",
+      "type": "candidate",
+      "tier": 1,
+      "role": "U.S. House MI-7 candidate (R)",
+      "page": "/analysis/tommy-boy/",
+      "decomposition": {
+        "point": "MI-7 candidate, former State Sen, Army veteran",
+        "wave": "Dykema PAC → $4K → 'convicted felon' smear → NRCC amplification",
+        "reaction": "Chilling effect on RITDH/TRC volunteers. Wrong election date in Black newspaper."
+      }
+    },
+    {
+      "id": "el_sayed",
+      "label": "Abdul El-Sayed",
+      "type": "candidate",
+      "tier": 1,
+      "role": "U.S. Senate candidate (D)",
+      "decomposition": {
+        "point": "Former Detroit Health Director, epidemiologist",
+        "wave": "Grassroots + AIPAC opposition ($20.1M UDP opposing)",
+        "reaction": "Outfundraised Rogers in direct contributions but $37M outside money gap"
+      }
+    },
+    {
+      "id": "miller",
+      "label": "Judge Cylenthia Miller",
+      "type": "candidate",
+      "tier": 2,
+      "role": "Wayne County 3rd Circuit — on ballot Nov 3",
+      "page": "https://detroit.primals.eco/network/judges/cylenthia-miller/",
+      "decomposition": {
+        "point": "3rd Circuit bench, PCA Board Chair, Anchor Rock Board Chair",
+        "wave": "Judicial + board dual role, endorsement network",
+        "reaction": "Infant murder dismissal. JTC investigating. On the ballot."
+      }
+    },
+    {
+      "id": "yancey",
+      "label": "Judge Tenisha Yancey",
+      "type": "candidate",
+      "tier": 2,
+      "role": "36th District Court — on ballot Nov 3",
+      "page": "https://detroit.primals.eco/network/judges/tenisha-yancey/",
+      "decomposition": {
+        "point": "36th District bench, MacDowell Board Chair",
+        "wave": "Campaign payment to Banks Strategy ($383.82), Inner Link ($8K)",
+        "reaction": "Sole contribution = sole expenditure. JTC investigating."
+      }
+    },
+    {
+      "id": "banks",
+      "label": "Brian Roderick Banks",
+      "type": "actor",
+      "tier": 1,
+      "role": "Enterprise leader — 9 convictions, 2 charter schools",
+      "page": "https://detroit.primals.eco/network/actors/brian-banks/",
+      "decomposition": {
+        "point": "SID 2029469K, no bar admission, LARA agent (7+ entities)",
+        "wave": "Credential wash → school hire → CMO extraction → political network",
+        "reaction": "$4.28M/yr extraction. 3% math. UPL complaint closed."
+      }
+    },
+    {
+      "id": "dykema",
+      "label": "Dykema Gossett",
+      "type": "entity",
+      "tier": 1,
+      "role": "Bipartisan operating system — MI's largest law firm",
+      "page": "/analysis/how-to-build-an-os/",
+      "decomposition": {
+        "point": "201 Townsend, Lansing. compliance@dykema.com",
+        "wave": "Forms dark money vehicles (SDJ). Funds both parties. Infrastructure kernel.",
+        "reaction": "SDJ → Johnson campaign. Dykema PAC → Senate R + Senate D + House R + House D. Barrett $4K."
+      }
+    },
+    {
+      "id": "sdj",
+      "label": "Save Detroit Jobs / Impact Detroit / Detroit Leaders",
+      "type": "entity",
+      "tier": 2,
+      "role": "Dark money vehicle — 3 names, 1 entity",
+      "lara_id": "802002459",
+      "page": "https://detroit.primals.eco/analysis/dark-money-pipeline/",
+      "decomposition": {
+        "point": "LARA 802002459, IRS filing lists Dykema phone number",
+        "wave": "Dykema forms → Daniels operates → funds Johnson campaign",
+        "reaction": "Johnson = PCA Board Secretary + City Council D2"
+      }
+    },
+    {
+      "id": "glcf",
+      "label": "Great Lakes Conservatives Fund",
+      "type": "entity",
+      "tier": 2,
+      "role": "Super PAC — Rogers' primary outside support",
+      "fec_id": "C00853861",
+      "decomposition": {
+        "point": "FEC C00853861, registered Oct 2023",
+        "wave": "Dunn ($10M) + Schwarzman ($4.5M) + Griffin ($2.5M) → $20M+ spent for Rogers",
+        "reaction": "Rogers' outside money advantage over El-Sayed"
+      }
+    },
+    {
+      "id": "slf",
+      "label": "Senate Leadership Fund",
+      "type": "entity",
+      "tier": 2,
+      "role": "McConnell-aligned Super PAC",
+      "fec_id": "C00571703",
+      "decomposition": {
+        "point": "FEC C00571703, GOP leadership super PAC",
+        "wave": "McConnell → SLF → $27.4M for Rogers + $32.3M opposing Slotkin (2024)",
+        "reaction": "Largest single outside money source in MI Senate race"
+      }
+    },
+    {
+      "id": "afp",
+      "label": "Americans for Prosperity Action",
+      "type": "entity",
+      "tier": 2,
+      "role": "Koch network Super PAC",
+      "fec_id": "C00687103",
+      "decomposition": {
+        "point": "FEC C00687103, Koch-aligned",
+        "wave": "Koch Industries → AFP → $14.2M for Rogers",
+        "reaction": "National infrastructure, not MI-specific"
+      }
+    },
+    {
+      "id": "america_pac",
+      "label": "America PAC",
+      "type": "entity",
+      "tier": 3,
+      "role": "Musk-funded Super PAC",
+      "decomposition": {
+        "point": "Elon Musk vehicle",
+        "wave": "Musk → America PAC → $5.8M for Rogers",
+        "reaction": "Entered MI race recently"
+      }
+    },
+    {
+      "id": "nrcc",
+      "label": "NRCC",
+      "type": "entity",
+      "tier": 2,
+      "role": "National Republican Congressional Committee",
+      "decomposition": {
+        "point": "National party committee for House races",
+        "wave": "Amplified Barrett's 'convicted felon' smear via mailer",
+        "reaction": "NRCC spent $6.3M in MI-7"
+      }
+    },
+    {
+      "id": "dykema_pac",
+      "label": "Dykema Gossett PAC",
+      "type": "entity",
+      "tier": 3,
+      "role": "Bipartisan PAC — funds both parties",
+      "decomposition": {
+        "point": "TransparencyUSA, Lansing MI 48933",
+        "wave": "$9.5K → Senate R. $7.5K → Senate D. $7.5K → House R. $8K → House D.",
+        "reaction": "Infrastructure serves all sides simultaneously"
+      }
+    },
+    {
+      "id": "agc",
+      "label": "Attorney Grievance Commission",
+      "type": "enforcement",
+      "tier": 2,
+      "role": "Attorney misconduct — Goetz (Admin), Bullington (44yr)",
+      "page": "/analysis/enforcement-ecosystem/",
+      "decomposition": {
+        "point": "MCR 9.109, Supreme Court appoints. 13 attorneys, 3 investigators.",
+        "wave": "Complaint → 15-day hold → return to complainant",
+        "reaction": "88.8% dismissal rate. Silent on licensed attorneys."
+      }
+    },
+    {
+      "id": "state_bar_upl",
+      "label": "State Bar UPL Department",
+      "type": "enforcement",
+      "tier": 2,
+      "role": "Unauthorized practice of law — Rule 16",
+      "page": "/analysis/enforcement-ecosystem/",
+      "decomposition": {
+        "point": "Rule 16, Supreme Court Rules. UPL Committee advises Board of Commissioners.",
+        "wave": "Complaint → investigation → standards screen → closure",
+        "reaction": "File 26-UP-51 closed. Standards not published."
+      }
+    },
+    {
+      "id": "adb",
+      "label": "Attorney Discipline Board",
+      "type": "enforcement",
+      "tier": 2,
+      "role": "Adjudicates discipline — Smit (Chair), Neeley (ED)",
+      "page": "/analysis/enforcement-ecosystem/",
+      "decomposition": {
+        "point": "MCR 9.110. 9 members. Hearing panelists conduct evidentiary hearings.",
+        "wave": "AGC prosecutes → ADB adjudicates. No AGC action = no ADB action.",
+        "reaction": "Crump-Gibson serves as hearing panelist while defending Banks."
+      }
+    },
+    {
+      "id": "jtc",
+      "label": "Judicial Tenure Commission",
+      "type": "enforcement",
+      "tier": 2,
+      "role": "Judicial misconduct — Page (Interim ED, from retirement)",
+      "page": "/analysis/enforcement-ecosystem/",
+      "decomposition": {
+        "point": "Art. VI § 30. 15 staff. 3034 W Grand Blvd, Detroit.",
+        "wave": "Complaint → staff investigation → [no public proceeding yet]",
+        "reaction": "5 investigations acknowledged. No permanent ED. Miller on ballot in 25 days."
+      }
+    },
+    {
+      "id": "lara",
+      "label": "LARA Corporations Division",
+      "type": "enforcement",
+      "tier": 3,
+      "role": "Entity compliance — Brown (Dir), Lupo (Corps)",
+      "page": "/analysis/enforcement-ecosystem/",
+      "decomposition": {
+        "point": "MCL 450. Facilitation mandate, not enforcement.",
+        "wave": "Entity filed → annual reports → 'Not Good' → dissolution",
+        "reaction": "Passive compliance. No substantive review of officers."
+      }
+    },
+    {
+      "id": "ag_charitable",
+      "label": "AG Charitable Trust Section",
+      "type": "enforcement",
+      "tier": 3,
+      "role": "Nonprofit oversight — ct_email@michigan.gov",
+      "page": "/analysis/enforcement-ecosystem/",
+      "decomposition": {
+        "point": "MCL 400.271, MCL 14.251. Under AG Nessel.",
+        "wave": "Registration → oversight → enforcement",
+        "reaction": "Active on $20M Global Link. Silent on $4.9M Purpose Foundation."
+      }
+    },
+    {
+      "id": "dpscd",
+      "label": "DPSCD Office of Charter Schools",
+      "type": "enforcement",
+      "tier": 2,
+      "role": "Charter authorizer — Verdusco (13yr Dir), Vitti (Supt)",
+      "page": "/analysis/enforcement-ecosystem/",
+      "decomposition": {
+        "point": "MCL 380.502/507. 7 PSAs authorized.",
+        "wave": "Application → scoring rubric → Board vote",
+        "reaction": "Authorized PCA (bottom 3%). Declined BOLA. Different outcomes."
+      }
+    },
+    {
+      "id": "mde",
+      "label": "Michigan Department of Education",
+      "type": "enforcement",
+      "tier": 3,
+      "role": "Educator certification — HOLD on Banks permit",
+      "decomposition": {
+        "point": "Application #590606, HOLD status.",
+        "wave": "Investigation → letter → HOLD → [no enforcement]",
+        "reaction": "HOLD maintained. Banks still operates as superintendent."
+      }
+    },
+    {
+      "id": "mi_supreme_court",
+      "label": "Michigan Supreme Court",
+      "type": "enforcement",
+      "tier": 1,
+      "role": "System architect — appoints AGC, ADB, JTC",
+      "decomposition": {
+        "point": "Appoints Goetz, ADB 9 members, JTC 9 commissioners.",
+        "wave": "Built the enforcement system. Declined to define 'practice of law' (2014).",
+        "reaction": "System produced the gap. Two letters, one day apart."
+      }
+    },
+    {
+      "id": "cispa",
+      "label": "CISPA (Cyber Intelligence Sharing and Protection Act)",
+      "type": "legislation",
+      "tier": 3,
+      "role": "Rogers-authored surveillance bill — killed twice",
+      "decomposition": {
+        "point": "H.R. 3523 (112th), H.R. 624 (113th)",
+        "wave": "Exemption to all privacy laws → companies share with govt → NSA/DoD access",
+        "reaction": "ACLU + Obama + 41 orgs opposed. Senate killed twice."
+      }
+    },
+    {
+      "id": "att",
+      "label": "AT&T",
+      "type": "entity",
+      "tier": 3,
+      "role": "Telecom — hired Rogers post-Congress while negotiating with Huawei",
+      "decomposition": {
+        "point": "Fed PAC gave Rogers $56K during House career.",
+        "wave": "Rogers investigated Huawei → left Congress → AT&T hired Rogers → AT&T negotiated with Huawei",
+        "reaction": "Deal collapsed. Contradictory statements on Rogers' role."
+      }
+    },
+    {
+      "id": "dunn",
+      "label": "Tim Dunn",
+      "type": "donor",
+      "tier": 2,
+      "role": "CrownQuest Operating — $10M to GLCF",
+      "decomposition": {
+        "point": "Midland TX. Oil executive. CrownQuest Operating.",
+        "wave": "$5M (2024) + $5M (2026) → GLCF → $20M+ spent for Rogers",
+        "reaction": "Largest single donor to Rogers ecosystem. Texas oil → Michigan Senate."
+      }
+    },
+    {
+      "id": "schwarzman",
+      "label": "Stephen Schwarzman",
+      "type": "donor",
+      "tier": 2,
+      "role": "Blackstone CEO — $4.5M to GLCF",
+      "decomposition": {
+        "point": "Blackstone Group. Also maxed out to Barrett.",
+        "wave": "$4.5M (GLCF 2024). Top employer of Rogers individual donors = Blackstone.",
+        "reaction": "CEO funds the super PAC. Employees fund the campaign. Both channels."
+      }
+    },
+    {
+      "id": "griffin",
+      "label": "Kenneth Griffin",
+      "type": "donor",
+      "tier": 2,
+      "role": "Citadel — $2.5M to GLCF + $7K to Barrett",
+      "decomposition": {
+        "point": "Citadel Investment Group, Miami FL.",
+        "wave": "$2.5M (GLCF 2024). Also gave $7K to Barrett.",
+        "reaction": "Same donor funds both Rogers (Senate) and Barrett (MI-7)."
+      }
+    },
+    {
+      "id": "crump_gibson",
+      "label": "Jehan Crump-Gibson",
+      "type": "actor",
+      "tier": 2,
+      "role": "Banks attorney + ADB Panelist",
+      "page": "https://detroit.primals.eco/evidence/data-braid-gllg/",
+      "decomposition": {
+        "point": "GLLG agent, ADB Hearing Panelist, CitizenDetroit Chair",
+        "wave": "Government → nonprofit → legal representation",
+        "reaction": "Scope limitation 24hrs. Believed aligned."
+      }
+    },
+    {
+      "id": "clutch",
+      "label": "Clutch Justice",
+      "type": "journalism",
+      "tier": 3,
+      "role": "Independent investigative journalism",
+      "decomposition": {
+        "point": "clutchjustice.com. Rita Williams.",
+        "wave": "MacDowell financials → No One Is Coming → Mind the Gap → JTC leadership",
+        "reaction": "Documents what enforcement bodies won't."
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "dykema",
+      "target": "sdj",
+      "type": "formation",
+      "epistemic_status": "record",
+      "note": "Formed entity. IRS filing lists Dykema phone number.",
+      "weight": 9,
+      "source_doc": "LARA 802002459"
+    },
+    {
+      "source": "dykema_pac",
+      "target": "barrett",
+      "type": "payment",
+      "epistemic_status": "record",
+      "amount": "4000",
+      "note": "Dykema PAC → Barrett campaign",
+      "weight": 7,
+      "source_doc": "FEC"
+    },
+    {
+      "source": "dykema",
+      "target": "dykema_pac",
+      "type": "ownership",
+      "epistemic_status": "record",
+      "weight": 10
+    },
+    {
+      "source": "barrett",
+      "target": "banks",
+      "type": "smear",
+      "epistemic_status": "record",
+      "note": "'Convicted felon' on C-SPAN — targeting tenant organizers with expunged records",
+      "weight": 6,
+      "source_doc": "C-SPAN clip, tuebor Tommy Boy analysis"
+    },
+    {
+      "source": "nrcc",
+      "target": "barrett",
+      "type": "amplification",
+      "epistemic_status": "record",
+      "amount": "6300000",
+      "note": "NRCC spent $6.3M in MI-7. Amplified 'socialist felon' mailer.",
+      "weight": 8,
+      "source_doc": "FEC"
+    },
+    {
+      "source": "glcf",
+      "target": "rogers",
+      "type": "support",
+      "epistemic_status": "record",
+      "amount": "7155673",
+      "note": "Super PAC independent expenditure for Rogers",
+      "weight": 9,
+      "source_doc": "FEC C00853861"
+    },
+    {
+      "source": "dunn",
+      "target": "glcf",
+      "type": "donation",
+      "epistemic_status": "record",
+      "amount": "10000000",
+      "note": "$5M (2024) + $5M (2026)",
+      "weight": 10,
+      "source_doc": "FEC Schedule A"
+    },
+    {
+      "source": "schwarzman",
+      "target": "glcf",
+      "type": "donation",
+      "epistemic_status": "record",
+      "amount": "4500000",
+      "note": "2024 cycle",
+      "weight": 9,
+      "source_doc": "FEC Schedule A"
+    },
+    {
+      "source": "griffin",
+      "target": "glcf",
+      "type": "donation",
+      "epistemic_status": "record",
+      "amount": "2500000",
+      "note": "2024 cycle",
+      "weight": 9,
+      "source_doc": "FEC Schedule A"
+    },
+    {
+      "source": "griffin",
+      "target": "barrett",
+      "type": "donation",
+      "epistemic_status": "record",
+      "amount": "7000",
+      "note": "Cross-ticket: same donor funds Senate + House",
+      "weight": 4,
+      "source_doc": "FEC"
+    },
+    {
+      "source": "schwarzman",
+      "target": "barrett",
+      "type": "donation",
+      "epistemic_status": "record",
+      "note": "Maxed out to Barrett",
+      "weight": 4,
+      "source_doc": "FEC, Rhinoceros Media"
+    },
+    {
+      "source": "slf",
+      "target": "rogers",
+      "type": "support",
+      "epistemic_status": "record",
+      "amount": "27421796",
+      "note": "McConnell-aligned, largest outside spend for Rogers",
+      "weight": 10,
+      "source_doc": "FEC C00571703"
+    },
+    {
+      "source": "afp",
+      "target": "rogers",
+      "type": "support",
+      "epistemic_status": "record",
+      "amount": "14154965",
+      "note": "Koch network",
+      "weight": 9,
+      "source_doc": "FEC C00687103"
+    },
+    {
+      "source": "america_pac",
+      "target": "rogers",
+      "type": "support",
+      "epistemic_status": "record",
+      "amount": "5764178",
+      "note": "Musk-funded. Entered MI race recently.",
+      "weight": 7,
+      "source_doc": "FEC"
+    },
+    {
+      "source": "rogers",
+      "target": "cispa",
+      "type": "authorship",
+      "epistemic_status": "record",
+      "note": "Primary sponsor H.R. 3523/624. ACLU + Obama opposed.",
+      "weight": 9,
+      "source_doc": "Congress.gov"
+    },
+    {
+      "source": "rogers",
+      "target": "att",
+      "type": "employment",
+      "epistemic_status": "record",
+      "note": "Chief Security Adviser / sales consultant 2016-17",
+      "weight": 8,
+      "source_doc": "PolitiFact, Business Insider"
+    },
+    {
+      "source": "att",
+      "target": "rogers",
+      "type": "payment",
+      "epistemic_status": "record",
+      "amount": "56000",
+      "note": "AT&T federal PAC → Rogers during House career",
+      "weight": 6,
+      "source_doc": "OpenSecrets"
+    },
+    {
+      "source": "banks",
+      "target": "miller",
+      "type": "board_co_membership",
+      "epistemic_status": "record",
+      "note": "Miller = PCA Board Chair. Banks = superintendent.",
+      "weight": 9,
+      "source_doc": "purposecharteracademy.com"
+    },
+    {
+      "source": "banks",
+      "target": "yancey",
+      "type": "board_co_membership",
+      "epistemic_status": "record",
+      "note": "Yancey = MacDowell Board Chair. Banks = superintendent.",
+      "weight": 9,
+      "source_doc": "Clutch Justice"
+    },
+    {
+      "source": "yancey",
+      "target": "banks",
+      "type": "payment",
+      "epistemic_status": "record",
+      "amount": "383.82",
+      "note": "Campaign paid Banks Strategy LLC",
+      "weight": 8,
+      "source_doc": "CFRS"
+    },
+    {
+      "source": "crump_gibson",
+      "target": "banks",
+      "type": "legal_representation",
+      "epistemic_status": "record",
+      "note": "Defense attorney. ADB Hearing Panelist.",
+      "weight": 8,
+      "source_doc": "Court filings"
+    },
+    {
+      "source": "crump_gibson",
+      "target": "adb",
+      "type": "appointment",
+      "epistemic_status": "record",
+      "note": "Hearing Panelist since May 2017",
+      "weight": 7,
+      "source_doc": "gllegalgroup.com"
+    },
+    {
+      "source": "state_bar_upl",
+      "target": "banks",
+      "type": "investigation_closed",
+      "epistemic_status": "record",
+      "note": "File 26-UP-51 closed Sep 30. Standards not published.",
+      "weight": 8,
+      "source_doc": "Clutch Justice Oct 7, 2026"
+    },
+    {
+      "source": "agc",
+      "target": "banks",
+      "type": "returned",
+      "epistemic_status": "record",
+      "note": "Bullington returned complaint Oct 1. 'Not a listed attorney.'",
+      "weight": 8,
+      "source_doc": "Clutch Justice Oct 7, 2026"
+    },
+    {
+      "source": "jtc",
+      "target": "miller",
+      "type": "investigation",
+      "epistemic_status": "record",
+      "note": "Request for Investigation acknowledged Sep 24",
+      "weight": 7,
+      "source_doc": "JTC acknowledgment letter"
+    },
+    {
+      "source": "jtc",
+      "target": "yancey",
+      "type": "investigation",
+      "epistemic_status": "record",
+      "note": "Request for Investigation acknowledged Sep 24",
+      "weight": 7,
+      "source_doc": "JTC acknowledgment letter"
+    },
+    {
+      "source": "dpscd",
+      "target": "banks",
+      "type": "authorization",
+      "epistemic_status": "record",
+      "note": "Authorized PCA Jul 2025 despite bottom-3% record",
+      "weight": 8,
+      "source_doc": "DPSCD charter records"
+    },
+    {
+      "source": "mde",
+      "target": "banks",
+      "type": "investigation",
+      "epistemic_status": "record",
+      "note": "HOLD on permit #590606. No enforcement.",
+      "weight": 7,
+      "source_doc": "MDE FOIA Sep 25"
+    },
+    {
+      "source": "mi_supreme_court",
+      "target": "agc",
+      "type": "appointment",
+      "epistemic_status": "record",
+      "note": "Appoints Grievance Administrator",
+      "weight": 10
+    },
+    {
+      "source": "mi_supreme_court",
+      "target": "adb",
+      "type": "appointment",
+      "epistemic_status": "record",
+      "note": "Appoints 9 board members + hearing panelists",
+      "weight": 10
+    },
+    {
+      "source": "mi_supreme_court",
+      "target": "jtc",
+      "type": "appointment",
+      "epistemic_status": "record",
+      "note": "Appoints commissioners",
+      "weight": 10
+    },
+    {
+      "source": "mi_supreme_court",
+      "target": "state_bar_upl",
+      "type": "oversight",
+      "epistemic_status": "record",
+      "note": "Oversees State Bar UPL program. Declined to define 'practice of law' 2014.",
+      "weight": 9
+    },
+    {
+      "source": "sdj",
+      "target": "banks",
+      "type": "political",
+      "epistemic_status": "record",
+      "note": "Funded Johnson campaign (PCA Board Secretary)",
+      "weight": 7,
+      "source_doc": "TransparencyUSA"
+    },
+    {
+      "source": "clutch",
+      "target": "state_bar_upl",
+      "type": "journalism",
+      "epistemic_status": "record",
+      "note": "Mind the Gap: documented enforcement failure Oct 7",
+      "weight": 6,
+      "source_doc": "clutchjustice.com"
+    },
+    {
+      "source": "clutch",
+      "target": "agc",
+      "type": "journalism",
+      "epistemic_status": "record",
+      "note": "Documented 88.8% dismissal rate, enforcement gap",
+      "weight": 6,
+      "source_doc": "clutchjustice.com"
+    },
+    {
+      "source": "clutch",
+      "target": "jtc",
+      "type": "journalism",
+      "epistemic_status": "record",
+      "note": "Documented Glenn Page interim appointment Feb 2026",
+      "weight": 6,
+      "source_doc": "clutchjustice.com"
+    },
+    {
+      "source": "clutch",
+      "target": "banks",
+      "type": "journalism",
+      "epistemic_status": "record",
+      "note": "MacDowell financials, UPL coverage",
+      "weight": 6,
+      "source_doc": "clutchjustice.com"
+    }
+  ],
+  "metadata": {
+    "election_date": "2026-11-03",
+    "days_remaining": 25,
+    "total_nodes": 29,
+    "total_edges": 36,
+    "graph_type": "statewide enforcement + election infrastructure",
+    "purpose": "Unsupervised bingoCube observation target. HIIT decomposition: each node carries point/wave/reaction."
+  },
+  "epistemic_grammar": {
+    "record": "Verifiable public record (FEC, LARA, court filing, published reporting).",
+    "corroborated": "Independently confirmed by 2+ sources.",
+    "inference": "Analytical conclusion drawn from records."
+  }
+}

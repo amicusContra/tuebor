@@ -5,6 +5,9 @@ weight = 5
 
 [extra]
 keywords = "Philip Ellison credentials, Outside Legal Counsel reputation, Ellison Super Lawyers, Ellison SCOTUS win, Ellison sanctions, Ellison FOIA expert, Ellison civil rights, Philip Ellison hypocrisy, Ellison SLAPP suit, Ellison credential analysis, Michigan attorney credential washing, Ellison Kanuszewski reversed, Ellison FOIAworks operator, Philip Ellison OLC, Clutch Justice Ellison analysis, Ellison Pung SCOTUS, Ellison tire chalking, Ellison Oakley police corruption"
+
+[taxonomies]
+counties = ["Saginaw"]
 +++
 
 ## The Resume

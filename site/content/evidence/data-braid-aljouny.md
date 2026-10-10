@@ -5,6 +5,9 @@ weight = 2
 
 [extra]
 keywords = "Samantha Aljouny data braid, Aljouny ARIN WHOIS, LakeNet LLC Hemlock Michigan, LakeNet AS11910, MPSC ITSP registry LakeNet, Philip Ellison IP address, Outside Legal Counsel IP, Clutch Justice data braid, Aljouny forensic investigation, LakeNet broadband ISP Hemlock"
+
+[taxonomies]
+counties = ["Saginaw"]
 +++
 
 ## Purpose

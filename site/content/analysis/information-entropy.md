@@ -5,6 +5,9 @@ weight = 12
 
 [extra]
 keywords = "Shannon entropy communication, information theory oral tradition, written tradition information preservation, semantic compression, rate-distortion theory culture, channel capacity human communication, entropy knowledge transfer, information flow entities, evolutionary prediction imagination, dance as information, communication mathematics, lossy compression oral tradition, lossless archival written word, mutual information knowledge, predictive coding imagination"
+
+[taxonomies]
+counties = ["Wayne", "Ingham"]
 +++
 
 ## Co-Generation: The Two Traditions

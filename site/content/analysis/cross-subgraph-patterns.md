@@ -5,6 +5,9 @@ weight = 2
 
 [extra]
 keywords = "Michigan judicial accountability, AGC complaint dismissal rate, JTC Michigan statistics, SCAO oversight failure, Michigan institutional capture, charter school accountability Detroit, attorney misconduct Michigan, Michigan FOIA obstruction, Anderson localization institutional, Michigan court corruption pattern, Detroit charter school Brian Banks, Saginaw County Ellison, Barry County Schipper, Macomb County courts, Allegan County shooting, Conrad Mallett Detroit, Clutch Justice cross-investigation, Michigan oversight failure statewide, credential washing Michigan"
+
+[taxonomies]
+counties = ["Wayne", "Saginaw", "Barry", "Macomb", "Allegan"]
 +++
 
 ## The Same System, Everywhere

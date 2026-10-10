@@ -5,6 +5,9 @@ weight = 3
 
 [extra]
 keywords = "Kathleen Galen Eastpointe judge, Judge Galen 38th District Court, Galen JTC admonition, Galen jailed pregnant woman, Eastpointe court misconduct, Galen campaign committee court staff, Mark Makoski Galen, Heather Froias Galen, Michigan judicial misconduct Eastpointe, Clutch Justice Galen"
+
+[taxonomies]
+counties = ["Macomb"]
 +++
 
 ## Identity

@@ -5,6 +5,9 @@ weight = 5
 
 [extra]
 keywords = "Julie Nakfoor Pratt Barry County prosecutor, Nakfoor Pratt private admonishment, Barry County prosecuting attorney, Nakfoor Pratt Brady violation, Nakfoor Pratt FOIA obstruction, Jeremiah Johnson shooting Barry County, Bryan Fuller MSP Barry County, Nakfoor Pratt MRPC 3.4, Michigan prosecutor misconduct, Clutch Justice Nakfoor Pratt"
+
+[taxonomies]
+counties = ["Barry"]
 +++
 
 ## Identity

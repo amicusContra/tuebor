@@ -5,6 +5,9 @@ weight = 7
 
 [extra]
 keywords = "Kevin Lindke Through My Eyes, Kevin Lindke Facebook, Kevin Lindke Port Huron, Kevin Lindke convicted, Kevin Lindke Ellison, Lindke v Freed Supreme Court, Kevin Lindke harassment, Kevin Lindke PPO, Kevin Lindke St Clair County, Kevin Lindke sentenced, Through My Eyes Facebook group, Kevin Lindke domains, Kevin Lindke stalking, Clutch Justice Lindke, Kevin Lindke SLAPP suit, Kevin Lindke Rita Williams"
+
+[taxonomies]
+counties = ["St. Clair", "Macomb"]
 +++
 
 ## Identity

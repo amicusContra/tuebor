@@ -1,0 +1,99 @@
+/* phi.css — Elements of Style design tokens
+   SPDX-License-Identifier: AGPL-3.0-or-later
+
+   φ-derived proportions for the ecoPrimals ecosystem.
+   Import this file in any site's CSS to replace hand-rolled values
+   with mathematically constrained tokens.
+
+   φ = (1+√5)/2 ≈ 1.618033988749895
+   The most irrational number. Hardest to approximate by rationals.
+   Every proportion below is a power of φ — no arbitrary choices.
+
+   Reference: atlasHugged 18 — The Elements of Style
+   https://sporeprint.primals.eco/philosophy/the-elements-of-style/
+*/
+
+:root {
+  /* ──── The ratio ──── */
+  --phi: 1.618;
+
+  /* ──── Spacing scale (rem) ────
+     Each step is φ× the previous.
+     φ⁻⁵  φ⁻⁴  φ⁻³  φ⁻²  φ⁻¹  φ⁰  φ¹  φ²  φ³  φ⁴  */
+  --sp-5: 0.09rem;
+  --sp-4: 0.146rem;
+  --sp-3: 0.236rem;
+  --sp-2: 0.382rem;
+  --sp-1: 0.618rem;
+  --sp0:  1rem;
+  --sp1:  1.618rem;
+  --sp2:  2.618rem;
+  --sp3:  4.236rem;
+  --sp4:  6.854rem;
+
+  /* ──── Type scale (rem) ────
+     Body = 1rem. Each heading is φ× larger.
+     label  caption  body  large  title  display  */
+  --ts-xs:  0.382rem;
+  --ts-sm:  0.618rem;
+  --ts-base: 1rem;
+  --ts-lg:  1.618rem;
+  --ts-xl:  2.618rem;
+  --ts-xxl: 4.236rem;
+
+  /* ──── Line height ────
+     φ itself. Not 1.5, not 1.65, not 1.7, not 1.75.
+     The golden line-height: 1.618  */
+  --lh: 1.618;
+
+  /* ──── Content widths (rem) ────
+     Derived from φ-powers of 1rem:
+     φ⁷ ≈ 29rem   narrow (sidebar, mobile)
+     φ⁸ ≈ 47rem   reading (articles, thesis)
+     φ⁹ ≈ 76rem   expanded (dashboards, wide content)
+     φ¹⁰ ≈ 123rem  full (edge-to-edge layouts)  */
+  --w-narrow:   29.03rem;
+  --w-reading:  46.98rem;
+  --w-expanded: 76.01rem;
+  --w-full:     122.99rem;
+
+  /* ──── Grid proportions ────
+     Three-column golden grid (desk standard):
+     sidebar : main : context = 1/φ³ : 1/φ : 1/φ²  */
+  --g-sidebar: 14.6%;
+  --g-main:    61.8%;
+  --g-context: 23.6%;
+
+  /* Two-part golden cut */
+  --g-major: 61.8%;
+  --g-minor: 38.2%;
+
+  /* Exertion response — successive φ-powers for cascading changes */
+  --exert-1: 6.18%;    /* φ⁻¹ × 10 — primary response */
+  --exert-2: 3.82%;    /* φ⁻² × 10 — secondary */
+  --exert-3: 2.36%;    /* φ⁻³ × 10 — tertiary */
+  --exert-4: 1.46%;    /* φ⁻⁴ × 10 — whisper */
+  --exert-5: 0.90%;    /* φ⁻⁵ × 10 — acknowledgment */
+
+  /* ──── Timing (ms) ────
+     Transitions follow the same φ scale.  */
+  --t-instant: 62ms;   /* φ⁻¹ × 100 */
+  --t-fast:    100ms;   /* φ⁰ × 100 */
+  --t-normal:  162ms;   /* φ¹ × 100 */
+  --t-slow:    262ms;   /* φ² × 100 */
+  --t-gentle:  424ms;   /* φ³ × 100 */
+
+  /* ──── Border radius ────
+     Small/medium/large from the spacing scale  */
+  --r-sm: var(--sp-3);
+  --r-md: var(--sp-2);
+  --r-lg: var(--sp-1);
+
+  /* ──── Opacity scale ────
+     For muted text, disabled states, hover ghosts  */
+  --o-ghost:  0.146;   /* φ⁻⁴ */
+  --o-muted:  0.236;   /* φ⁻³ */
+  --o-dim:    0.382;   /* φ⁻² */
+  --o-soft:   0.618;   /* φ⁻¹ */
+  --o-full:   1.0;
+}

@@ -5,6 +5,9 @@ weight = 4
 
 [extra]
 keywords = "Michael Schipper Barry County judge, Judge Schipper JTC investigation, Barry County Circuit Court, Schipper extreme sentencing, Schipper Michigan Supreme Court remand, Schipper competency exam, Barry County court problems, Michigan judicial investigation Barry County, Clutch Justice Schipper, Schipper ADA retaliation"
+
+[taxonomies]
+counties = ["Barry"]
 +++
 
 ## Identity

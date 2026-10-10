@@ -1,1 +1,306 @@
-<!doctype html><html lang=en><head><meta charset=utf-8><meta content="width=device-width,initial-scale=1" name=viewport><title>Inner Membrane — Tuebor Investigation Navigator</title><meta content="Interactive search, entity graph, and cross-reference navigator for all Tuebor investigations." name=description><meta content=noindex name=robots><style>:root{--bg:#0c0e14;--surface:#151825;--surface2:#1c2035;--border:#2a2e45;--border-hover:#3a3e55;--fg:#e0e2f0;--fg-dim:#8088a8;--fg-muted:#5a6080;--accent:#7ba0d4;--accent-dim:#7ba0d426;--red:#f87171;--red-dim:#f871711f;--green:#4ade80;--green-dim:#4ade801f;--yellow:#fbbf24;--yellow-dim:#fbbf241f;--purple:#a78bfa;--purple-dim:#a78bfa1f;--orange:#fb923c;--orange-dim:#fb923c1f;--cyan:#22d3ee;--cyan-dim:#22d3ee1f}*,:before,:after{box-sizing:border-box;margin:0;padding:0}body{background:var(--bg);color:var(--fg);min-height:100vh;font-family:system-ui,-apple-system,Segoe UI,sans-serif;line-height:1.5}a{color:var(--accent);text-decoration:none}a:hover{text-decoration:underline}.membrane-header{z-index:100;background:var(--surface);border-bottom:1px solid var(--border);align-items:center;gap:1rem;padding:.5rem 1.25rem;display:flex;position:sticky;top:0}.membrane-header .brand{color:var(--fg);align-items:center;gap:.5rem;font-size:.95rem;font-weight:700;display:flex}.membrane-header .brand .layer-tag{background:var(--purple-dim);color:var(--purple);text-transform:uppercase;letter-spacing:.05em;border-radius:.75rem;padding:.1rem .4rem;font-size:.65rem;font-weight:600}.membrane-header .nav-links{gap:.15rem;margin-left:1rem;display:flex}.membrane-header .nav-links a{color:var(--fg-dim);border-radius:.3rem;padding:.3rem .6rem;font-size:.78rem;transition:all .15s}.membrane-header .nav-links a:hover,.membrane-header .nav-links a.active{background:var(--accent-dim);color:var(--accent);text-decoration:none}.header-meta{color:var(--fg-dim);align-items:center;gap:1rem;margin-left:auto;font-size:.75rem;display:flex}.header-meta a{color:var(--fg-dim)}.search-bar{background:var(--surface);border-bottom:1px solid var(--border);padding:.75rem 1.25rem}.search-input-wrap{max-width:48rem;position:relative}.search-input-wrap input{background:var(--bg);border:1px solid var(--border);color:var(--fg);border-radius:.4rem;outline:none;width:100%;padding:.6rem .8rem .6rem 2.2rem;font-size:.85rem;transition:border-color .15s}.search-input-wrap input:focus{border-color:var(--accent)}.search-input-wrap input::placeholder{color:var(--fg-muted)}.search-input-wrap .search-icon{color:var(--fg-muted);pointer-events:none;font-size:.9rem;position:absolute;top:50%;left:.7rem;transform:translateY(-50%)}.search-results{max-width:48rem;max-height:24rem;margin-top:.5rem;overflow-y:auto}.search-results:empty{display:none}.sr-item{border-bottom:1px solid var(--border);cursor:pointer;padding:.5rem .6rem;transition:background .1s;display:block}.sr-item:hover{background:var(--surface2);text-decoration:none}.sr-title{color:var(--fg);font-size:.85rem;font-weight:600}.sr-section{margin-left:.4rem;font-size:.7rem}.sr-snippet{color:var(--fg-dim);margin-top:.15rem;font-size:.75rem}.sr-snippet mark{background:var(--yellow-dim);color:var(--yellow);border-radius:2px;padding:0 .15rem}.membrane-main{grid-template-columns:1fr;gap:1rem;max-width:90rem;margin:0 auto;padding:1rem 1.25rem;display:grid}@media (width>=64rem){.membrane-main{grid-template-columns:1fr 1fr}}.m-card{background:var(--surface);border:1px solid var(--border);border-radius:.5rem;overflow:hidden}.m-card-header{border-bottom:1px solid var(--border);justify-content:space-between;align-items:center;padding:.6rem .8rem;display:flex}.m-card-header h3{text-transform:uppercase;letter-spacing:.06em;color:var(--fg-dim);font-size:.75rem;font-weight:600}.m-card-body{padding:.6rem .8rem}.m-card-full{grid-column:1/-1}.pill{border-radius:.75rem;padding:.1rem .45rem;font-size:.65rem;font-weight:600;display:inline-block}.pill-actor{background:var(--red-dim);color:var(--red)}.pill-evidence{background:var(--green-dim);color:var(--green)}.pill-analysis{background:var(--purple-dim);color:var(--purple)}.pill-investigate{background:var(--cyan-dim);color:var(--cyan)}.pill-timeline{background:var(--yellow-dim);color:var(--yellow)}.pill-county{background:var(--orange-dim);color:var(--orange)}.pill-count{background:var(--accent-dim);color:var(--accent)}.nav-grid{grid-template-columns:repeat(auto-fill,minmax(14rem,1fr));gap:.5rem;display:grid}.nav-item{background:var(--surface2);border:1px solid var(--border);cursor:pointer;border-left:3px solid #0000;border-radius:.4rem;padding:.6rem .7rem;transition:all .15s;display:block}.nav-item:hover{border-color:var(--border-hover);background:var(--bg);text-decoration:none}.nav-item .ni-title{color:var(--fg);font-size:.82rem;font-weight:600}.nav-item .ni-desc{color:var(--fg-dim);margin-top:.15rem;font-size:.72rem}.nav-item .ni-meta{flex-wrap:wrap;gap:.3rem;margin-top:.3rem;display:flex}.nav-item[data-section=actors]{border-left-color:var(--red)}.nav-item[data-section=evidence]{border-left-color:var(--green)}.nav-item[data-section=analysis]{border-left-color:var(--purple)}.nav-item[data-section=investigate]{border-left-color:var(--cyan)}.graph-container{background:var(--bg);border-radius:.3rem;width:100%;min-height:22rem;position:relative;overflow:hidden}.graph-container svg{width:100%;height:100%}.graph-node{cursor:pointer}.graph-node circle{transition:r .15s,stroke-width .15s}.graph-node:hover circle{r:10;stroke-width:2.5px}.graph-node text{pointer-events:none;font-family:system-ui,sans-serif}.graph-edge{stroke:var(--border);stroke-width:1px;opacity:.5}.xref-table{border-collapse:collapse;width:100%;font-size:.72rem}.xref-table th{text-align:left;color:var(--fg-dim);border-bottom:1px solid var(--border);padding:.3rem .4rem;font-weight:500}.xref-table td{border-bottom:1px solid var(--border);padding:.3rem .4rem}.xref-table tr:last-child td{border-bottom:none}.xref-table .xref-from{font-size:.78rem;font-weight:600}.xref-tag{cursor:pointer;border-radius:.2rem;margin:.1rem;padding:.05rem .3rem;font-size:.65rem;display:inline-block}.xref-tag:hover{opacity:.8}.timeline-strip{white-space:nowrap;padding:.5rem 0;overflow-x:auto}.tl-year{vertical-align:top;background:var(--surface2);border:1px solid var(--border);white-space:normal;border-radius:.3rem;width:12rem;margin-right:.5rem;padding:.4rem .6rem;display:inline-block}.tl-year-label{color:var(--accent);margin-bottom:.3rem;font-size:.85rem;font-weight:700}.tl-event{color:var(--fg-dim);border-bottom:1px solid var(--border);padding:.15rem 0;font-size:.7rem}.tl-event:last-child{border-bottom:none}.tl-date{color:var(--fg-muted);font-size:.65rem}.filter-bar{flex-wrap:wrap;gap:.3rem;padding:.5rem 0;display:flex}.filter-btn{cursor:pointer;border:1px solid var(--border);color:var(--fg-dim);background:0 0;border-radius:.3rem;padding:.25rem .6rem;font-size:.72rem;font-weight:500;transition:all .15s}.filter-btn:hover{border-color:var(--accent);color:var(--accent)}.filter-btn.active{background:var(--accent-dim);border-color:var(--accent);color:var(--accent)}.stats-row{flex-wrap:wrap;gap:1.5rem;padding:.3rem 0;display:flex}.stat-item{flex-direction:column;display:flex}.stat-val{font-size:1.3rem;font-weight:700}.stat-label{color:var(--fg-dim);text-transform:uppercase;letter-spacing:.05em;font-size:.65rem}@media (width<=48rem){.membrane-header .nav-links{display:none}.nav-grid{grid-template-columns:1fr}.stats-row{gap:1rem}}@media (prefers-color-scheme:light){:root{--bg:#f5f6fa;--surface:#fff;--surface2:#f0f1f5;--border:#d8dbe5;--border-hover:#c0c5d5;--fg:#1a1d2e;--fg-dim:#5a6080;--fg-muted:#8890a8}}</style><body><header class=membrane-header><div class=brand><a href=/ style=color:inherit;text-decoration:none>tuebor</a><span class=layer-tag>inner membrane</span></div><div class=nav-links><a class=active href=#search>Search</a><a href=#pages>Pages</a><a href=#graph>Graph</a><a href=#xref>Cross-Ref</a><a href=#timeline>Timeline</a></div><div class=header-meta><span id=page-count>33 pages</span><span>·</span><span id=section-count>5 sections</span><a href=/>← outer membrane</a></div></header><div class=search-bar id=search><div class=search-input-wrap><span class=search-icon>⌕</span><input placeholder="Search all pages, actors, evidence, analysis… (Ctrl+K)" autocomplete=off autofocus id=search-input></div><div class=search-results id=search-results></div></div><div class=membrane-main><div class="m-card m-card-full"><div class=m-card-body><div class=stats-row><div class=stat-item><span class=stat-val style=color:var(--red)>8</span><span class=stat-label>Actors</span></div><div class=stat-item><span class=stat-val style=color:var(--green)>10</span><span class=stat-label>Evidence</span></div><div class=stat-item><span class=stat-val style=color:var(--purple)>9</span><span class=stat-label>Analysis</span></div><div class=stat-item><span class=stat-val style=color:var(--cyan)>6</span><span class=stat-label>Investigate</span></div><div class=stat-item><span class=stat-val style=color:var(--yellow)>60+</span><span class=stat-label>Timeline Events</span></div><div class=stat-item><span class=stat-val style=color:var(--orange)>7</span><span class=stat-label>Counties</span></div></div></div></div><div class="m-card m-card-full" id=pages><div class=m-card-header><h3>All Pages</h3><div class=filter-bar id=section-filters><button class="filter-btn active" data-filter=all>All</button><button class=filter-btn data-filter=actors>Actors</button><button class=filter-btn data-filter=evidence>Evidence</button><button class=filter-btn data-filter=analysis>Analysis</button><button class=filter-btn data-filter=investigate>Investigate</button></div></div><div class=m-card-body><div class=nav-grid id=nav-grid></div></div></div><div class=m-card id=graph><div class=m-card-header><h3>Entity Relationship Graph</h3></div><div class=m-card-body><div class=graph-container id=graph-container></div></div></div><div class=m-card id=xref><div class=m-card-header><h3>Cross-Reference Matrix</h3></div><div class=m-card-body style=max-height:28rem;overflow-y:auto><table class=xref-table id=xref-table></table></div></div><div class="m-card m-card-full" id=timeline><div class=m-card-header><h3>Investigation Timeline</h3></div><div class=m-card-body><div class=timeline-strip id=timeline-strip></div></div></div></div><script src=/elasticlunr.min.js></script><script src=/search_index.en.js></script><script>(()=>{let t=`actors`,w=`gafkay`,y=`ghost-witness`,V=`evidence`,aD=`var(--green)`,I=`infrastructure-grid`,aF=`var(--cyan)`,ah=`<div style="padding:0.5rem;color:var(--fg-dim);font-size:0.8rem">No results for "`,M=`galen`,aj=`<a class="sr-item" href="`,X=`data-braid-aljouny`,A=`lindke`,ax=`click`,W=`Wayne`,au=`…`,H=`how-to-build-an-os`,aw=`all`,S=`nakfoor-pratt`,a0=`Allegan`,T=`Barry`,ak=`">`,E=`foiaworks-infrastructure`,U=`schipper`,D=`foiaworks-honeypot`,ac=3,K=`tommy-boy`,ab=``,F=`domain-registrations`,v=`ellison`,_=`foiaworks-warning`,u=`Saginaw`,$=`analysis`,G=`litigation-docket`,ao=`</span></div>`,a9=`Nov 3`,aG=`var(--fg-dim)`,aE=`var(--purple)`,B=`credential-vs-conduct`,aC=`var(--red)`,av=`)`,s=`borrello`,a2=`information-entropy`,x=`slapp-timeline`,ap=`<div class="sr-snippet">`,a3=`investigate`,O=`cross-subgraph-patterns`,N=`Eastpointe`,an=`<span class="sr-section pill pill-`,a6=`2020`,a5=`2014`,ai=`"</div>`,R=`impersonation-domain`,Q=`St. Clair`,ad=1,ag=` `,ae=0,ay=`active`,a8=`2024`,aa=2,am=`</span>`,a7=`2022`,a1=`metric-tensor`,af=12,z=`Macomb`,Z=`Federal`,Y=`ellison-sanctions`,P=`institutional-immunity`,aH=`.membrane-header .nav-links a`,L=`upepa-contradiction`,J=`lakenet-signal-trace`,al=`<div><span class="sr-title">`,az=`</div>`,aq=`</div></a>`,a4=`2013`,C=`anderson-hemlock`,aB=Math,aA=Math.PI,ar=Math.max,at=Math.min;var r=((a,b)=>{var c;return (()=>{clearTimeout(c);c=setTimeout(a,b)})});var i=(a=>{if(a.indexOf(`/actors/`)>=ae)return t;if(a.indexOf(`/evidence/`)>=ae)return V;if(a.indexOf(`/analysis/`)>=ae)return $;if(a.indexOf(`/investigate/`)>=ae)return a3;if(a.indexOf(`/timeline`)>=ae)return `timeline`;return $});var j=((a,b,c)=>{var d=a.toLowerCase();var e=b.toLowerCase();var f=d.indexOf(e);var g=ar(ae,f- 40);var h=at(a.length,g+ c);var i=a.substring(g,h);if(g>ae)i=au+ i;if(h<a.length)i=i+ au;return i.replace(new RegExp(`(`+ q(b)+ av,`gi`),`<mark>\$1</mark>`)});var g=((a,b)=>{if(!a.length){f.innerHTML=ah+ p(b)+ ai;return};f.innerHTML=a.map((a=>{var c=d.documentStore.getDoc(a.ref);var e=i(a.ref);var f=j(c.body||ab,b,120);return aj+ p(a.ref)+ ak+ al+ p(c.title)+ am+ an+ e+ ak+ e+ ao+ ap+ f+ aq})).join(ab)});var o=(()=>{var a=document.getElementById(`timeline-strip`);a.innerHTML=b.map((a=>{var b=a.events.map((a=>`<div class="tl-event"><span class="tl-date">`+ p(a.date)+ `</span> `+ p(a.text)+ az)).join(ab);return `<div class="tl-year"><div class="tl-year-label">`+ p(a.year)+ az+ b+ az})).join(ab)});var q=(a=>a.replace(/[.*+?^${}()|[\]\\]/g,`\\\\\$&`));var h=((a,b)=>{if(!a.length){f.innerHTML=ah+ p(b)+ ai;return};f.innerHTML=a.map((a=>aj+ p(a.url)+ ak+ al+ p(a.title)+ am+ an+ a.section+ ak+ a.section+ ao+ ap+ p(a.desc)+ aq)).join(ab)});var n=(()=>{var b=document.getElementById(`xref-table`);var c=`<thead><tr><th>Page</th><th>Section</th><th>Cross-References</th></tr></thead><tbody>`;a.filter((a=>a.refs.length>ae)).sort(((a,b)=>b.refs.length- a.refs.length)).forEach((b=>{var d=b.refs.map((b=>{var c=a.find((a=>a.id===b));if(!c)return ab;var d={actors:aC,evidence:aD,analysis:aE,investigate:aF}[c.section]||aG;return `<a class="xref-tag" href="`+ p(c.url)+ `" style="background:`+ d.replace(av,`,0.12)`).replace(`var(`,`rgba(`)+ `;background:color-mix(in srgb, `+ d+ ` 12%, transparent);color:`+ d+ ak+ p(c.title.length>28?c.title.substring(ae,26)+ au:c.title)+ `</a>`})).join(ab);c+=`<tr><td class="xref-from"><a href="`+ p(b.url)+ ak+ p(b.title.length>32?b.title.substring(ae,30)+ au:b.title)+ `</a></td>`+ `<td><span class="pill pill-`+ b.section+ ak+ b.section+ `</span></td>`+ `<td>`+ d+ `</td></tr>`}));c+=`</tbody>`;b.innerHTML=c});var m=(()=>{var b=document.getElementById(`graph-container`);var c=b.clientWidth||600;var d=ar(360,c*0.5);var e=a.map(((b,e)=>{var f=(e/a.length)*aa*aA;var g=b.section;var h=g===t?0.25:g===V?0.45:g===$?0.65:0.82;h*=at(c,d)*0.42;return {id:b.id,section:b.section,title:b.title.length>22?b.title.substring(ae,20)+ au:b.title,x:c/aa+ h*aB.cos(f- aA/aa),y:d/aa+ h*aB.sin(f- aA/aa),url:b.url,refs:b.refs}}));var f={};e.forEach((a=>{f[a.id]=a}));var g=[];a.forEach((a=>{a.refs.forEach((b=>{if(f[b]&&a.id<b){g.push({from:a.id,to:b})}}))}));var h={actors:aC,evidence:aD,analysis:aE,investigate:aF};var i=`<svg viewBox="0 0 `+ c+ ag+ d+ `" xmlns="http://www.w3.org/2000/svg">`;g.forEach((a=>{var b=f[a.from],c=f[a.to];if(b&&c)i+=`<line class="graph-edge" x1="`+ b.x+ `" y1="`+ b.y+ `" x2="`+ c.x+ `" y2="`+ c.y+ `"/>`}));e.forEach((a=>{var b=h[a.section]||aG;i+=`<a href="`+ a.url+ `" class="graph-node">`+ `<circle cx="`+ a.x+ `" cy="`+ a.y+ `" r="7" fill="`+ b+ `" stroke="`+ b+ `" stroke-width="1.5" opacity="0.85"/>`+ `<text x="`+ (a.x+ 10)+ `" y="`+ (a.y+ ac)+ `" fill="var(--fg-dim)" font-size="9">`+ p(a.title)+ `</text></a>`}));i+=`</svg>`;b.innerHTML=i;b.style.height=d+ `px`});var l=(b=>{var c=b===aw?a:a.filter((a=>a.section===b));k.innerHTML=c.map((a=>{var b=a.counties.map((a=>`<span class="pill pill-county">`+ p(a)+ am)).join(ab);var c=a.refs.length;return `<a class="nav-item" href="`+ p(a.url)+ `" data-section="`+ a.section+ ak+ `<div class="ni-title">`+ p(a.title)+ az+ `<div class="ni-desc">`+ p(a.desc)+ az+ `<div class="ni-meta">`+ `<span class="pill pill-`+ a.section+ ak+ a.section+ am+ b+ (c>ae?`<span class="pill pill-count">`+ c+ ` refs</span>`:ab)+ aq})).join(ab)});var p=(a=>{var b=document.createElement(`div`);b.textContent=a;return b.innerHTML});`use strict`;var a=[{id:s,section:t,title:`Judge Andre R. Borrello`,desc:`Saginaw County Circuit Court. Signed contempt order. Recused himself.`,url:`/actors/borrello/`,counties:[u],refs:[v,w,x,y]},{id:v,section:t,title:`Philip L. Ellison`,desc:`Filed SLAPP suit. Submitted fabricated witness. Invoked anti-SLAPP while running SLAPP.`,url:`/actors/ellison/`,counties:[u,z],refs:[s,w,A,y,x,B,C,D,E,F,G,H,I,J,K]},{id:`ellsworth`,section:t,title:`Kelly D. Ellsworth`,desc:`Briefly represented Williams. SCBA member with Gafkay and Ellison.`,url:`/actors/ellsworth/`,counties:[u],refs:[v,w]},{id:w,section:t,title:`Judge Julie A. Gafkay`,desc:`Chief Judge, 10th Circuit. Successor in SLAPP suit. Three simultaneous Ellison cases.`,url:`/actors/gafkay/`,counties:[u],refs:[v,s,x,L]},{id:M,section:t,title:`Judge Kathleen G. Galen`,desc:`Eastpointe 38th District. JTC admonition. Jailed pregnant woman.`,url:`/actors/galen/`,counties:[z,N],refs:[O,P]},{id:A,section:t,title:`Kevin Lindke`,desc:`Convicted felon. SCOTUS client. Registered domains in child\\'s name. 272 days sentenced.`,url:`/actors/lindke/`,counties:[Q,z],refs:[v,R,K]},{id:S,section:t,title:`Julie Nakfoor Pratt`,desc:`Barry County Prosecutor. Private admonishment. Brady/Giglio failures.`,url:`/actors/nakfoor-pratt/`,counties:[T],refs:[U,O,P]},{id:U,section:t,title:`Judge Michael Schipper`,desc:`Active JTC investigation. Two MSC remands in 3 months.`,url:`/actors/schipper/`,counties:[T],refs:[S,O]},{id:y,section:V,title:`Ghost Witness — Samantha Aljouny`,desc:`Attorney submitted witness who doesn\\'t exist. 13-month forensic investigation.`,url:`/evidence/ghost-witness-aljouny/`,counties:[u,W],refs:[v,s,X,x]},{id:X,section:V,title:`Data Braid — Aljouny`,desc:`ProtonMail/PGP/timing convergence on fabricated witness identity.`,url:`/evidence/data-braid-aljouny/`,counties:[u],refs:[y,v]},{id:F,section:V,title:`Domain Registrations`,desc:`Three-domain harassment campaign. Child\\'s name used as registrant.`,url:`/evidence/domain-registrations/`,counties:[u],refs:[v,A,R]},{id:Y,section:V,title:`Ellison Sanctions Record`,desc:`\$74,752.45 in sanctions. Frivolous claims. Pattern across courts.`,url:`/evidence/ellison-sanctions/`,counties:[u,W,Z],refs:[v,B,G]},{id:`foiaworks-early-warning`,section:V,title:`FOIAworks Early Warning`,desc:`First red flags in the FOIA platform\\'s data practices.`,url:`/evidence/foiaworks-early-warning/`,counties:[],refs:[v,D,E]},{id:D,section:V,title:`FOIAworks — Honeypot, Not a Witness`,desc:`Quagmire Solutions collects requester identities with no privacy policy.`,url:`/evidence/foiaworks-honeypot/`,counties:[],refs:[v,C,E,_]},{id:E,section:V,title:`FOIAworks Infrastructure Scan`,desc:`GoDaddy hosting, exposed cPanel, no privacy policy, 3,537-entity database.`,url:`/evidence/foiaworks-infrastructure/`,counties:[],refs:[v,D,I]},{id:R,section:V,title:`ritafelinewilliams.com`,desc:`Active impersonation domain. Collecting names and emails.`,url:`/evidence/impersonation-domain/`,counties:[],refs:[v,A,F]},{id:G,section:V,title:`Complete Ellison Docket`,desc:`Every known case — federal, state, appellate, Supreme Court.`,url:`/evidence/litigation-docket/`,counties:[u,W,Z],refs:[v,Y,B]},{id:x,section:V,title:`SLAPP Suit Timeline`,desc:`OLC v. Williams: filed, contested, recused, reassigned, pending.`,url:`/evidence/slapp-timeline/`,counties:[u],refs:[v,s,w,y,L]},{id:C,section:$,title:`Anderson Localization — Hemlock Subgraph`,desc:`One family capturing an entire community\\'s institutional infrastructure.`,url:`/analysis/anderson-hemlock/`,counties:[u],refs:[v,D,J,I]},{id:B,section:$,title:`Credential vs. Conduct`,desc:`Every credential claim vs. the documented conduct that contradicts it.`,url:`/analysis/credential-vs-conduct/`,counties:[u],refs:[v,Y,G]},{id:O,section:$,title:`Cross-Subgraph Patterns`,desc:`Same institutional nodes — AGC, JTC, SCAO, LARA — across all investigations.`,url:`/analysis/cross-subgraph-patterns/`,counties:[W,u,T,z,a0],refs:[M,U,S,P]},{id:H,section:$,title:`How To Build an OS`,desc:`One law firm, six dark money vehicles, both parties. Dykema Gossett architecture.`,url:`/analysis/how-to-build-an-os/`,counties:[W],refs:[v,K,I]},{id:I,section:$,title:`Infrastructure Grid`,desc:`Fluorescent tag map of every node where entity infrastructure touches individual privacy.`,url:`/analysis/infrastructure-grid/`,counties:[u],refs:[v,E,C,J,H]},{id:P,section:$,title:`Institutional Immunity`,desc:`When oversight bodies become the architecture of impunity.`,url:`/analysis/institutional-immunity/`,counties:[W,u,T,z],refs:[O,M,S,U]},{id:J,section:$,title:`LakeNet Signal Trace`,desc:`LakeNet LLC ISP infrastructure from Hemlock.`,url:`/analysis/lakenet-signal-trace/`,counties:[u],refs:[v,C,I]},{id:K,section:$,title:`Tommy Boy`,desc:`Barrett entity chain. FEC/LARA/IRS sourced. Projection analysis.`,url:`/analysis/tommy-boy/`,counties:[W],refs:[v,A,H]},{id:L,section:$,title:`UPEPA Contradiction`,desc:`Attorney invokes anti-SLAPP in one case while running SLAPP in another.`,url:`/analysis/upepa-contradiction/`,counties:[u],refs:[v,w,x]},{id:a1,section:$,title:`The Metric Tensor`,desc:`Shape, proportion, and dimensional compression — how φ projects onto any display surface.`,url:`/analysis/metric-tensor/`,counties:[],refs:[C,I,O,a2]},{id:a2,section:$,title:`Information Entropy`,desc:`Shannon entropy decomposes communication into math. Written=lossless. Oral=semantic compression. Rate-distortion theory.`,url:`/analysis/information-entropy/`,counties:[],refs:[a1,C,O]},{id:`court-records`,section:a3,title:`Court Records Guide`,desc:`How to find, read, and use Michigan court records.`,url:`/investigate/court-records/`,counties:[],refs:[]},{id:`evidence-documentation`,section:a3,title:`Evidence Documentation`,desc:`Build a contemporaneous record that oversight bodies can use.`,url:`/investigate/evidence-documentation/`,counties:[],refs:[]},{id:`foia-toolkit`,section:a3,title:`Michigan FOIA Toolkit`,desc:`File FOIA requests that produce results. Templates + deadlines.`,url:`/investigate/foia-toolkit/`,counties:[],refs:[_]},{id:_,section:a3,title:`Do Not Use FOIAworks`,desc:`No privacy policy. Sanctioned operator. Free alternative available.`,url:`/investigate/foiaworks-warning/`,counties:[],refs:[v,D,E]},{id:`hemlock-foia`,section:a3,title:`Hemlock FOIA Toolkit`,desc:`Ready-to-use templates for Saginaw County agencies.`,url:`/investigate/hemlock-foia/`,counties:[u],refs:[v,C]},{id:`oversight-guide`,section:a3,title:`Oversight Filing Guide`,desc:`How to file complaints with JTC, AGC, SCAO, MCOLES, IC3.`,url:`/investigate/oversight-guide/`,counties:[],refs:[O,P]}];var b=[{year:a4,events:[{date:a4,text:`Galen signs Cork Wine Pub agreement`}]},{year:a5,events:[{date:a5,text:`Schipper: prior JTC-confirmed misconduct`}]},{year:`2019`,events:[{date:`Dec 2019`,text:`McCann v. Fuller filed (federal)`}]},{year:a6,events:[{date:`Jan 2020`,text:`Bartlett files AGC complaint against Nakfoor Pratt`},{date:a6,text:`Galen campaign: Makoski treasurer, Froias record keeper`}]},{year:a7,events:[{date:a7,text:`Joey Nagle killed by Allegan deputy. No body camera.`}]},{year:`2023`,events:[{date:`May 5`,text:`Barry retains CMDA for Nakfoor Pratt grievances`},{date:`Sep 15`,text:`Email warning about Fuller misconduct sent`},{date:`Sep 19`,text:`Federal jury awards McCann \$14.5M vs. Fuller`},{date:`Sep 20`,text:`"Aljouny" PGP key created — 4 days after Ahmad press`}]},{year:a8,events:[{date:a8,text:`JTC annual report: confidential admonition matching Galen`},{date:`Oct 28`,text:`Jeremiah Johnson shot 5× in back. No cameras.`}]},{year:`2025`,events:[{date:`Jun`,text:`Barry County approves ~\$840K body cameras`},{date:`Jul 21`,text:`JTC acknowledges RFIs for formal review`},{date:`Nov`,text:`MSC remands Schipper case (first remand)`},{date:a9,text:`Ellison SLAPP suit filed: OLC v. Williams`}]},{year:`2026`,events:[{date:`Jan`,text:`MSC remands Schipper again — 2nd in 3 months`},{date:`Mar 24`,text:`UPEPA (anti-SLAPP) effective date`},{date:`May 6`,text:`UPEPA special motion filed in SLAPP suit`},{date:`May 12`,text:`Borrello recuses himself after denying DQ`},{date:`Sep 9`,text:`"Aljouny" email sent to Conrad Mallett`},{date:`Oct 6`,text:`IC3 complaint filed re: Aljouny fabrication`},{date:a9,text:`38th District Court election: Galen vs. Goodman`}]}];var c=[u,T,W,z,a0,Q,N,Z];var d=null;if(typeof window.searchIndex!==`undefined`){d=elasticlunr.Index.load(window.searchIndex)};var e=document.getElementById(`search-input`);var f=document.getElementById(`search-results`);e.addEventListener(`input`,function(){var b=this.value.trim();if(b.length<aa){f.innerHTML=ab;return};if(d){var c=d.search(b,{fields:{title:{boost:ac},body:{boost:ad}},expand:!0});g(c.slice(ae,af),b)}else{var e=a.filter((a=>{var c=(a.title+ ag+ a.desc).toLowerCase();return c.indexOf(b.toLowerCase())>=ae}));h(e.slice(ae,af),b)}});document.addEventListener(`keydown`,(a=>{if((a.ctrlKey||a.metaKey)&&a.key===`k`){a.preventDefault();e.focus();e.select()}}));var k=document.getElementById(`nav-grid`);l(aw);document.getElementById(`section-filters`).addEventListener(ax,function(a){if(!a.target.classList.contains(`filter-btn`))return;this.querySelectorAll(`.filter-btn`).forEach((a=>{a.classList.remove(ay)}));a.target.classList.add(ay);l(a.target.dataset.filter)});m();n();o();document.querySelectorAll(aH).forEach((a=>{a.addEventListener(ax,function(a){var b=this.getAttribute(`href`);if(b&&b.startsWith(`#`)){a.preventDefault();var c=document.getElementById(b.substring(ad));if(c){c.scrollIntoView({behavior:`smooth`,block:`start`});document.querySelectorAll(aH).forEach((a=>{a.classList.remove(ay)}));this.classList.add(ay)}}})}));window.addEventListener(`resize`,r(m,250))})()</script>
+<!doctype html><html lang=en><head><meta charset=utf-8><meta content="width=device-width,initial-scale=1" name=viewport><title>Inner Membrane — Tuebor Investigation Navigator</title><meta content="Interactive search, entity graph, and cross-reference navigator for all Tuebor investigations." name=description><meta content=noindex name=robots><style>:root{--bg:#0c0e14;--surface:#151825;--surface2:#1c2035;--border:#2a2e45;--border-hover:#3a3e55;--fg:#e0e2f0;--fg-dim:#8088a8;--fg-muted:#5a6080;--accent:#7ba0d4;--accent-dim:#7ba0d426;--red:#f87171;--red-dim:#f871711f;--green:#4ade80;--green-dim:#4ade801f;--yellow:#fbbf24;--yellow-dim:#fbbf241f;--purple:#a78bfa;--purple-dim:#a78bfa1f;--orange:#fb923c;--orange-dim:#fb923c1f;--cyan:#22d3ee;--cyan-dim:#22d3ee1f}*,:before,:after{box-sizing:border-box;margin:0;padding:0}body{background:var(--bg);color:var(--fg);min-height:100vh;font-family:system-ui,-apple-system,Segoe UI,sans-serif;line-height:1.5}a{color:var(--accent);text-decoration:none}a:hover{text-decoration:underline}.membrane-header{z-index:100;background:var(--surface);border-bottom:1px solid var(--border);align-items:center;gap:1rem;padding:.5rem 1.25rem;display:flex;position:sticky;top:0}.membrane-header .brand{color:var(--fg);align-items:center;gap:.5rem;font-size:.95rem;font-weight:700;display:flex}.membrane-header .brand .layer-tag{background:var(--purple-dim);color:var(--purple);text-transform:uppercase;letter-spacing:.05em;border-radius:.75rem;padding:.1rem .4rem;font-size:.65rem;font-weight:600}.membrane-header .nav-links{gap:.15rem;margin-left:1rem;display:flex}.membrane-header .nav-links a{color:var(--fg-dim);border-radius:.3rem;padding:.3rem .6rem;font-size:.78rem;transition:all .15s}.membrane-header .nav-links a:hover,.membrane-header .nav-links a.active{background:var(--accent-dim);color:var(--accent);text-decoration:none}.header-meta{color:var(--fg-dim);align-items:center;gap:1rem;margin-left:auto;font-size:.75rem;display:flex}.header-meta a{color:var(--fg-dim)}.search-bar{background:var(--surface);border-bottom:1px solid var(--border);padding:.75rem 1.25rem}.search-input-wrap{max-width:48rem;position:relative}.search-input-wrap input{background:var(--bg);border:1px solid var(--border);width:100%;color:var(--fg);border-radius:.4rem;outline:none;padding:.6rem .8rem .6rem 2.2rem;font-size:.85rem;transition:border-color .15s}.search-input-wrap input:focus{border-color:var(--accent)}.search-input-wrap input::placeholder{color:var(--fg-muted)}.search-input-wrap .search-icon{color:var(--fg-muted);pointer-events:none;font-size:.9rem;position:absolute;top:50%;left:.7rem;transform:translateY(-50%)}.search-results{max-width:48rem;max-height:24rem;margin-top:.5rem;overflow-y:auto}.search-results:empty{display:none}.sr-item{border-bottom:1px solid var(--border);cursor:pointer;padding:.5rem .6rem;transition:background .1s;display:block}.sr-item:hover{background:var(--surface2);text-decoration:none}.sr-title{color:var(--fg);font-size:.85rem;font-weight:600}.sr-section{margin-left:.4rem;font-size:.7rem}.sr-snippet{color:var(--fg-dim);margin-top:.15rem;font-size:.75rem}.sr-snippet mark{background:var(--yellow-dim);color:var(--yellow);border-radius:2px;padding:0 .15rem}.membrane-main{grid-template-columns:1fr;gap:1rem;max-width:90rem;margin:0 auto;padding:1rem 1.25rem;display:grid}@media (width>=64rem){.membrane-main{grid-template-columns:1fr 1fr}}.m-card{background:var(--surface);border:1px solid var(--border);border-radius:.5rem;overflow:hidden}.m-card-header{border-bottom:1px solid var(--border);justify-content:space-between;align-items:center;padding:.6rem .8rem;display:flex}.m-card-header h3{text-transform:uppercase;letter-spacing:.06em;color:var(--fg-dim);font-size:.75rem;font-weight:600}.m-card-body{padding:.6rem .8rem}.m-card-full{grid-column:1/-1}.pill{border-radius:.75rem;padding:.1rem .45rem;font-size:.65rem;font-weight:600;display:inline-block}.pill-actor{background:var(--red-dim);color:var(--red)}.pill-evidence{background:var(--green-dim);color:var(--green)}.pill-analysis{background:var(--purple-dim);color:var(--purple)}.pill-investigate{background:var(--cyan-dim);color:var(--cyan)}.pill-timeline{background:var(--yellow-dim);color:var(--yellow)}.pill-county{background:var(--orange-dim);color:var(--orange)}.pill-count{background:var(--accent-dim);color:var(--accent)}.nav-grid{grid-template-columns:repeat(auto-fill,minmax(14rem,1fr));gap:.5rem;display:grid}.nav-item{background:var(--surface2);border:1px solid var(--border);cursor:pointer;border-left:3px solid #0000;border-radius:.4rem;padding:.6rem .7rem;transition:all .15s;display:block}.nav-item:hover{border-color:var(--border-hover);background:var(--bg);text-decoration:none}.nav-item .ni-title{color:var(--fg);font-size:.82rem;font-weight:600}.nav-item .ni-desc{color:var(--fg-dim);margin-top:.15rem;font-size:.72rem}.nav-item .ni-meta{flex-wrap:wrap;gap:.3rem;margin-top:.3rem;display:flex}.nav-item[data-section=actors]{border-left-color:var(--red)}.nav-item[data-section=evidence]{border-left-color:var(--green)}.nav-item[data-section=analysis]{border-left-color:var(--purple)}.nav-item[data-section=investigate]{border-left-color:var(--cyan)}.graph-container{background:var(--bg);border-radius:.3rem;width:100%;min-height:22rem;position:relative;overflow:hidden}.graph-container svg{width:100%;height:100%}.graph-node{cursor:pointer}.graph-node circle{transition:r .15s,stroke-width .15s}.graph-node:hover circle{r:10;stroke-width:2.5px}.graph-node text{pointer-events:none;font-family:system-ui,sans-serif}.graph-edge{stroke:var(--border);stroke-width:1px;opacity:.5}.xref-table{border-collapse:collapse;width:100%;font-size:.72rem}.xref-table th{text-align:left;color:var(--fg-dim);border-bottom:1px solid var(--border);padding:.3rem .4rem;font-weight:500}.xref-table td{border-bottom:1px solid var(--border);padding:.3rem .4rem}.xref-table tr:last-child td{border-bottom:none}.xref-table .xref-from{font-size:.78rem;font-weight:600}.xref-tag{cursor:pointer;border-radius:.2rem;margin:.1rem;padding:.05rem .3rem;font-size:.65rem;display:inline-block}.xref-tag:hover{opacity:.8}.timeline-strip{white-space:nowrap;padding:.5rem 0;overflow-x:auto}.tl-year{vertical-align:top;background:var(--surface2);border:1px solid var(--border);white-space:normal;border-radius:.3rem;width:12rem;margin-right:.5rem;padding:.4rem .6rem;display:inline-block}.tl-year-label{color:var(--accent);margin-bottom:.3rem;font-size:.85rem;font-weight:700}.tl-event{color:var(--fg-dim);border-bottom:1px solid var(--border);padding:.15rem 0;font-size:.7rem}.tl-event:last-child{border-bottom:none}.tl-date{color:var(--fg-muted);font-size:.65rem}.filter-bar{flex-wrap:wrap;gap:.3rem;padding:.5rem 0;display:flex}.filter-btn{cursor:pointer;border:1px solid var(--border);color:var(--fg-dim);background:0 0;border-radius:.3rem;padding:.25rem .6rem;font-size:.72rem;font-weight:500;transition:all .15s}.filter-btn:hover{border-color:var(--accent);color:var(--accent)}.filter-btn.active{background:var(--accent-dim);border-color:var(--accent);color:var(--accent)}.stats-row{flex-wrap:wrap;gap:1.5rem;padding:.3rem 0;display:flex}.stat-item{flex-direction:column;display:flex}.stat-val{font-size:1.3rem;font-weight:700}.stat-label{color:var(--fg-dim);text-transform:uppercase;letter-spacing:.05em;font-size:.65rem}@media (width<=48rem){.membrane-header .nav-links{display:none}.nav-grid{grid-template-columns:1fr}.stats-row{gap:1rem}}@media (prefers-color-scheme:light){:root{--bg:#f5f6fa;--surface:#fff;--surface2:#f0f1f5;--border:#d8dbe5;--border-hover:#c0c5d5;--fg:#1a1d2e;--fg-dim:#5a6080;--fg-muted:#8890a8}}</style><body><header class=membrane-header><div class=brand><a href=/ style=color:inherit;text-decoration:none>tuebor</a><span class=layer-tag>inner membrane</span></div><div class=nav-links><a class=active href=#search>Search</a><a href=#pages>Pages</a><a href=#graph>Graph</a><a href=#xref>Cross-Ref</a><a href=#timeline>Timeline</a></div><div class=header-meta><span id=page-count>33 pages</span><span>·</span><span id=section-count>5 sections</span><a href=/>← outer membrane</a></div></header><div class=search-bar id=search><div class=search-input-wrap><span class=search-icon>⌕</span><input placeholder="Search all pages, actors, evidence, analysis… (Ctrl+K)" autocomplete=off autofocus id=search-input></div><div class=search-results id=search-results></div></div><div class=membrane-main><div class="m-card m-card-full"><div class=m-card-body><div class=stats-row><div class=stat-item><span class=stat-val style=color:var(--red)>8</span><span class=stat-label>Actors</span></div><div class=stat-item><span class=stat-val style=color:var(--green)>10</span><span class=stat-label>Evidence</span></div><div class=stat-item><span class=stat-val style=color:var(--purple)>9</span><span class=stat-label>Analysis</span></div><div class=stat-item><span class=stat-val style=color:var(--cyan)>6</span><span class=stat-label>Investigate</span></div><div class=stat-item><span class=stat-val style=color:var(--yellow)>60+</span><span class=stat-label>Timeline Events</span></div><div class=stat-item><span class=stat-val style=color:var(--orange)>7</span><span class=stat-label>Counties</span></div></div></div></div><div class="m-card m-card-full" id=pages><div class=m-card-header><h3>All Pages</h3><div class=filter-bar id=section-filters><button class="filter-btn active" data-filter=all>All</button><button class=filter-btn data-filter=actors>Actors</button><button class=filter-btn data-filter=evidence>Evidence</button><button class=filter-btn data-filter=analysis>Analysis</button><button class=filter-btn data-filter=investigate>Investigate</button></div></div><div class=m-card-body><div class=nav-grid id=nav-grid></div></div></div><div class=m-card id=graph><div class=m-card-header><h3>Entity Relationship Graph</h3></div><div class=m-card-body><div class=graph-container id=graph-container></div></div></div><div class=m-card id=xref><div class=m-card-header><h3>Cross-Reference Matrix</h3></div><div class=m-card-body style=max-height:28rem;overflow-y:auto><table class=xref-table id=xref-table></table></div></div><div class="m-card m-card-full" id=timeline><div class=m-card-header><h3>Investigation Timeline</h3></div><div class=m-card-body><div class=timeline-strip id=timeline-strip></div></div></div></div><script src=/elasticlunr.min.js></script><script src=/search_index.en.js></script><script>(function() {
+    'use strict';
+
+    // ======== DATA MODEL ========
+    var PAGES = [
+      // Actors
+      { id: 'borrello', section: 'actors', title: 'Judge Andre R. Borrello', desc: 'Saginaw County Circuit Court. Signed contempt order. Recused himself.', url: '/actors/borrello/', counties: ['Saginaw'], refs: ['ellison','gafkay','slapp-timeline','ghost-witness'] },
+      { id: 'ellison', section: 'actors', title: 'Philip L. Ellison', desc: 'Filed SLAPP suit. Submitted fabricated witness. Invoked anti-SLAPP while running SLAPP.', url: '/actors/ellison/', counties: ['Saginaw','Macomb'], refs: ['borrello','gafkay','lindke','ghost-witness','slapp-timeline','credential-vs-conduct','anderson-hemlock','foiaworks-honeypot','foiaworks-infrastructure','domain-registrations','litigation-docket','how-to-build-an-os','infrastructure-grid','lakenet-signal-trace','tommy-boy'] },
+      { id: 'ellsworth', section: 'actors', title: 'Kelly D. Ellsworth', desc: 'Briefly represented Williams. SCBA member with Gafkay and Ellison.', url: '/actors/ellsworth/', counties: ['Saginaw'], refs: ['ellison','gafkay'] },
+      { id: 'gafkay', section: 'actors', title: 'Judge Julie A. Gafkay', desc: 'Chief Judge, 10th Circuit. Successor in SLAPP suit. Three simultaneous Ellison cases.', url: '/actors/gafkay/', counties: ['Saginaw'], refs: ['ellison','borrello','slapp-timeline','upepa-contradiction'] },
+      { id: 'galen', section: 'actors', title: 'Judge Kathleen G. Galen', desc: 'Eastpointe 38th District. JTC admonition. Jailed pregnant woman.', url: '/actors/galen/', counties: ['Macomb','Eastpointe'], refs: ['cross-subgraph-patterns','institutional-immunity'] },
+      { id: 'lindke', section: 'actors', title: 'Kevin Lindke', desc: 'Convicted felon. SCOTUS client. Registered domains in child\'s name. 272 days sentenced.', url: '/actors/lindke/', counties: ['St. Clair','Macomb'], refs: ['ellison','impersonation-domain','tommy-boy'] },
+      { id: 'nakfoor-pratt', section: 'actors', title: 'Julie Nakfoor Pratt', desc: 'Barry County Prosecutor. Private admonishment. Brady/Giglio failures.', url: '/actors/nakfoor-pratt/', counties: ['Barry'], refs: ['schipper','cross-subgraph-patterns','institutional-immunity'] },
+      { id: 'schipper', section: 'actors', title: 'Judge Michael Schipper', desc: 'Active JTC investigation. Two MSC remands in 3 months.', url: '/actors/schipper/', counties: ['Barry'], refs: ['nakfoor-pratt','cross-subgraph-patterns'] },
+
+      // Evidence
+      { id: 'ghost-witness', section: 'evidence', title: 'Ghost Witness — Samantha Aljouny', desc: 'Attorney submitted witness who doesn\'t exist. 13-month forensic investigation.', url: '/evidence/ghost-witness-aljouny/', counties: ['Saginaw','Wayne'], refs: ['ellison','borrello','data-braid-aljouny','slapp-timeline'] },
+      { id: 'data-braid-aljouny', section: 'evidence', title: 'Data Braid — Aljouny', desc: 'ProtonMail/PGP/timing convergence on fabricated witness identity.', url: '/evidence/data-braid-aljouny/', counties: ['Saginaw'], refs: ['ghost-witness','ellison'] },
+      { id: 'domain-registrations', section: 'evidence', title: 'Domain Registrations', desc: 'Three-domain harassment campaign. Child\'s name used as registrant.', url: '/evidence/domain-registrations/', counties: ['Saginaw'], refs: ['ellison','lindke','impersonation-domain'] },
+      { id: 'ellison-sanctions', section: 'evidence', title: 'Ellison Sanctions Record', desc: '$74,752.45 in sanctions. Frivolous claims. Pattern across courts.', url: '/evidence/ellison-sanctions/', counties: ['Saginaw','Wayne','Federal'], refs: ['ellison','credential-vs-conduct','litigation-docket'] },
+      { id: 'foiaworks-early-warning', section: 'evidence', title: 'FOIAworks Early Warning', desc: 'First red flags in the FOIA platform\'s data practices.', url: '/evidence/foiaworks-early-warning/', counties: [], refs: ['ellison','foiaworks-honeypot','foiaworks-infrastructure'] },
+      { id: 'foiaworks-honeypot', section: 'evidence', title: 'FOIAworks — Honeypot, Not a Witness', desc: 'Quagmire Solutions collects requester identities with no privacy policy.', url: '/evidence/foiaworks-honeypot/', counties: [], refs: ['ellison','anderson-hemlock','foiaworks-infrastructure','foiaworks-warning'] },
+      { id: 'foiaworks-infrastructure', section: 'evidence', title: 'FOIAworks Infrastructure Scan', desc: 'GoDaddy hosting, exposed cPanel, no privacy policy, 3,537-entity database.', url: '/evidence/foiaworks-infrastructure/', counties: [], refs: ['ellison','foiaworks-honeypot','infrastructure-grid'] },
+      { id: 'impersonation-domain', section: 'evidence', title: 'ritafelinewilliams.com', desc: 'Active impersonation domain. Collecting names and emails.', url: '/evidence/impersonation-domain/', counties: [], refs: ['ellison','lindke','domain-registrations'] },
+      { id: 'litigation-docket', section: 'evidence', title: 'Complete Ellison Docket', desc: 'Every known case — federal, state, appellate, Supreme Court.', url: '/evidence/litigation-docket/', counties: ['Saginaw','Wayne','Federal'], refs: ['ellison','ellison-sanctions','credential-vs-conduct'] },
+      { id: 'slapp-timeline', section: 'evidence', title: 'SLAPP Suit Timeline', desc: 'OLC v. Williams: filed, contested, recused, reassigned, pending.', url: '/evidence/slapp-timeline/', counties: ['Saginaw'], refs: ['ellison','borrello','gafkay','ghost-witness','upepa-contradiction'] },
+
+      // Analysis
+      { id: 'anderson-hemlock', section: 'analysis', title: 'Anderson Localization — Hemlock Subgraph', desc: 'One family capturing an entire community\'s institutional infrastructure.', url: '/analysis/anderson-hemlock/', counties: ['Saginaw'], refs: ['ellison','foiaworks-honeypot','lakenet-signal-trace','infrastructure-grid'] },
+      { id: 'credential-vs-conduct', section: 'analysis', title: 'Credential vs. Conduct', desc: 'Every credential claim vs. the documented conduct that contradicts it.', url: '/analysis/credential-vs-conduct/', counties: ['Saginaw'], refs: ['ellison','ellison-sanctions','litigation-docket'] },
+      { id: 'cross-subgraph-patterns', section: 'analysis', title: 'Cross-Subgraph Patterns', desc: 'Same institutional nodes — AGC, JTC, SCAO, LARA — across all investigations.', url: '/analysis/cross-subgraph-patterns/', counties: ['Wayne','Saginaw','Barry','Macomb','Allegan'], refs: ['galen','schipper','nakfoor-pratt','institutional-immunity'] },
+      { id: 'how-to-build-an-os', section: 'analysis', title: 'How To Build an OS', desc: 'One law firm, six dark money vehicles, both parties. Dykema Gossett architecture.', url: '/analysis/how-to-build-an-os/', counties: ['Wayne'], refs: ['ellison','tommy-boy','infrastructure-grid'] },
+      { id: 'infrastructure-grid', section: 'analysis', title: 'Infrastructure Grid', desc: 'Fluorescent tag map of every node where entity infrastructure touches individual privacy.', url: '/analysis/infrastructure-grid/', counties: ['Saginaw'], refs: ['ellison','foiaworks-infrastructure','anderson-hemlock','lakenet-signal-trace','how-to-build-an-os'] },
+      { id: 'institutional-immunity', section: 'analysis', title: 'Institutional Immunity', desc: 'When oversight bodies become the architecture of impunity.', url: '/analysis/institutional-immunity/', counties: ['Wayne','Saginaw','Barry','Macomb'], refs: ['cross-subgraph-patterns','galen','nakfoor-pratt','schipper'] },
+      { id: 'lakenet-signal-trace', section: 'analysis', title: 'LakeNet Signal Trace', desc: 'LakeNet LLC ISP infrastructure from Hemlock.', url: '/analysis/lakenet-signal-trace/', counties: ['Saginaw'], refs: ['ellison','anderson-hemlock','infrastructure-grid'] },
+      { id: 'tommy-boy', section: 'analysis', title: 'Tommy Boy', desc: 'Barrett entity chain. FEC/LARA/IRS sourced. Projection analysis.', url: '/analysis/tommy-boy/', counties: ['Wayne'], refs: ['ellison','lindke','how-to-build-an-os'] },
+      { id: 'upepa-contradiction', section: 'analysis', title: 'UPEPA Contradiction', desc: 'Attorney invokes anti-SLAPP in one case while running SLAPP in another.', url: '/analysis/upepa-contradiction/', counties: ['Saginaw'], refs: ['ellison','gafkay','slapp-timeline'] },
+      { id: 'metric-tensor', section: 'analysis', title: 'The Metric Tensor', desc: 'Shape, proportion, and dimensional compression — how φ projects onto any display surface.', url: '/analysis/metric-tensor/', counties: [], refs: ['anderson-hemlock','infrastructure-grid','cross-subgraph-patterns','information-entropy'] },
+      { id: 'information-entropy', section: 'analysis', title: 'Information Entropy', desc: 'Shannon entropy decomposes communication into math. Written=lossless. Oral=semantic compression. Rate-distortion theory.', url: '/analysis/information-entropy/', counties: [], refs: ['metric-tensor','anderson-hemlock','cross-subgraph-patterns'] },
+
+      // Investigate
+      { id: 'court-records', section: 'investigate', title: 'Court Records Guide', desc: 'How to find, read, and use Michigan court records.', url: '/investigate/court-records/', counties: [], refs: [] },
+      { id: 'evidence-documentation', section: 'investigate', title: 'Evidence Documentation', desc: 'Build a contemporaneous record that oversight bodies can use.', url: '/investigate/evidence-documentation/', counties: [], refs: [] },
+      { id: 'foia-toolkit', section: 'investigate', title: 'Michigan FOIA Toolkit', desc: 'File FOIA requests that produce results. Templates + deadlines.', url: '/investigate/foia-toolkit/', counties: [], refs: ['foiaworks-warning'] },
+      { id: 'foiaworks-warning', section: 'investigate', title: 'Do Not Use FOIAworks', desc: 'No privacy policy. Sanctioned operator. Free alternative available.', url: '/investigate/foiaworks-warning/', counties: [], refs: ['ellison','foiaworks-honeypot','foiaworks-infrastructure'] },
+      { id: 'hemlock-foia', section: 'investigate', title: 'Hemlock FOIA Toolkit', desc: 'Ready-to-use templates for Saginaw County agencies.', url: '/investigate/hemlock-foia/', counties: ['Saginaw'], refs: ['ellison','anderson-hemlock'] },
+      { id: 'oversight-guide', section: 'investigate', title: 'Oversight Filing Guide', desc: 'How to file complaints with JTC, AGC, SCAO, MCOLES, IC3.', url: '/investigate/oversight-guide/', counties: [], refs: ['cross-subgraph-patterns','institutional-immunity'] }
+    ];
+
+    var TIMELINE = [
+      { year: '2013', events: [{ date: '2013', text: 'Galen signs Cork Wine Pub agreement' }]},
+      { year: '2014', events: [{ date: '2014', text: 'Schipper: prior JTC-confirmed misconduct' }]},
+      { year: '2019', events: [{ date: 'Dec 2019', text: 'McCann v. Fuller filed (federal)' }]},
+      { year: '2020', events: [
+        { date: 'Jan 2020', text: 'Bartlett files AGC complaint against Nakfoor Pratt' },
+        { date: '2020', text: 'Galen campaign: Makoski treasurer, Froias record keeper' }
+      ]},
+      { year: '2022', events: [{ date: '2022', text: 'Joey Nagle killed by Allegan deputy. No body camera.' }]},
+      { year: '2023', events: [
+        { date: 'May 5', text: 'Barry retains CMDA for Nakfoor Pratt grievances' },
+        { date: 'Sep 15', text: 'Email warning about Fuller misconduct sent' },
+        { date: 'Sep 19', text: 'Federal jury awards McCann $14.5M vs. Fuller' },
+        { date: 'Sep 20', text: '"Aljouny" PGP key created — 4 days after Ahmad press' }
+      ]},
+      { year: '2024', events: [
+        { date: '2024', text: 'JTC annual report: confidential admonition matching Galen' },
+        { date: 'Oct 28', text: 'Jeremiah Johnson shot 5× in back. No cameras.' }
+      ]},
+      { year: '2025', events: [
+        { date: 'Jun', text: 'Barry County approves ~$840K body cameras' },
+        { date: 'Jul 21', text: 'JTC acknowledges RFIs for formal review' },
+        { date: 'Nov', text: 'MSC remands Schipper case (first remand)' },
+        { date: 'Nov 3', text: 'Ellison SLAPP suit filed: OLC v. Williams' }
+      ]},
+      { year: '2026', events: [
+        { date: 'Jan', text: 'MSC remands Schipper again — 2nd in 3 months' },
+        { date: 'Mar 24', text: 'UPEPA (anti-SLAPP) effective date' },
+        { date: 'May 6', text: 'UPEPA special motion filed in SLAPP suit' },
+        { date: 'May 12', text: 'Borrello recuses himself after denying DQ' },
+        { date: 'Sep 9', text: '"Aljouny" email sent to Conrad Mallett' },
+        { date: 'Oct 6', text: 'IC3 complaint filed re: Aljouny fabrication' },
+        { date: 'Nov 3', text: '38th District Court election: Galen vs. Goodman' }
+      ]}
+    ];
+
+    var COUNTIES = ['Saginaw','Barry','Wayne','Macomb','Allegan','St. Clair','Eastpointe','Federal'];
+
+    // ======== SEARCH ========
+    var searchIndex = null;
+    if (typeof window.searchIndex !== 'undefined') {
+      searchIndex = elasticlunr.Index.load(window.searchIndex);
+    }
+
+    var searchInput = document.getElementById('search-input');
+    var searchResults = document.getElementById('search-results');
+
+    searchInput.addEventListener('input', function() {
+      var q = this.value.trim();
+      if (q.length < 2) { searchResults.innerHTML = ''; return; }
+
+      if (searchIndex) {
+        var results = searchIndex.search(q, { fields: { title: { boost: 3 }, body: { boost: 1 } }, expand: true });
+        renderSearchResults(results.slice(0, 12), q);
+      } else {
+        var filtered = PAGES.filter(function(p) {
+          var hay = (p.title + ' ' + p.desc).toLowerCase();
+          return hay.indexOf(q.toLowerCase()) >= 0;
+        });
+        renderLocalResults(filtered.slice(0, 12), q);
+      }
+    });
+
+    document.addEventListener('keydown', function(e) {
+      if ((e.ctrlKey || e.metaKey) && e.key === 'k') {
+        e.preventDefault();
+        searchInput.focus();
+        searchInput.select();
+      }
+    });
+
+    function renderSearchResults(results, q) {
+      if (!results.length) {
+        searchResults.innerHTML = '<div style="padding:0.5rem;color:var(--fg-dim);font-size:0.8rem">No results for "' + esc(q) + '"</div>';
+        return;
+      }
+      searchResults.innerHTML = results.map(function(r) {
+        var doc = searchIndex.documentStore.getDoc(r.ref);
+        var section = guessSectionFromUrl(r.ref);
+        var snippet = highlightSnippet(doc.body || '', q, 120);
+        return '<a class="sr-item" href="' + esc(r.ref) + '">' +
+          '<div><span class="sr-title">' + esc(doc.title) + '</span>' +
+          '<span class="sr-section pill pill-' + section + '">' + section + '</span></div>' +
+          '<div class="sr-snippet">' + snippet + '</div></a>';
+      }).join('');
+    }
+
+    function renderLocalResults(pages, q) {
+      if (!pages.length) {
+        searchResults.innerHTML = '<div style="padding:0.5rem;color:var(--fg-dim);font-size:0.8rem">No results for "' + esc(q) + '"</div>';
+        return;
+      }
+      searchResults.innerHTML = pages.map(function(p) {
+        return '<a class="sr-item" href="' + esc(p.url) + '">' +
+          '<div><span class="sr-title">' + esc(p.title) + '</span>' +
+          '<span class="sr-section pill pill-' + p.section + '">' + p.section + '</span></div>' +
+          '<div class="sr-snippet">' + esc(p.desc) + '</div></a>';
+      }).join('');
+    }
+
+    function guessSectionFromUrl(url) {
+      if (url.indexOf('/actors/') >= 0) return 'actors';
+      if (url.indexOf('/evidence/') >= 0) return 'evidence';
+      if (url.indexOf('/analysis/') >= 0) return 'analysis';
+      if (url.indexOf('/investigate/') >= 0) return 'investigate';
+      if (url.indexOf('/timeline') >= 0) return 'timeline';
+      return 'analysis';
+    }
+
+    function highlightSnippet(body, q, maxLen) {
+      var lower = body.toLowerCase();
+      var qLower = q.toLowerCase();
+      var idx = lower.indexOf(qLower);
+      var start = Math.max(0, idx - 40);
+      var end = Math.min(body.length, start + maxLen);
+      var snippet = body.substring(start, end);
+      if (start > 0) snippet = '…' + snippet;
+      if (end < body.length) snippet = snippet + '…';
+      return snippet.replace(new RegExp('(' + escRegex(q) + ')', 'gi'), '<mark>$1</mark>');
+    }
+
+    // ======== NAV GRID ========
+    var navGrid = document.getElementById('nav-grid');
+    renderNavGrid('all');
+
+    document.getElementById('section-filters').addEventListener('click', function(e) {
+      if (!e.target.classList.contains('filter-btn')) return;
+      this.querySelectorAll('.filter-btn').forEach(function(b) { b.classList.remove('active'); });
+      e.target.classList.add('active');
+      renderNavGrid(e.target.dataset.filter);
+    });
+
+    function renderNavGrid(filter) {
+      var filtered = filter === 'all' ? PAGES : PAGES.filter(function(p) { return p.section === filter; });
+      navGrid.innerHTML = filtered.map(function(p) {
+        var countyPills = p.counties.map(function(c) { return '<span class="pill pill-county">' + esc(c) + '</span>'; }).join('');
+        var refCount = p.refs.length;
+        return '<a class="nav-item" href="' + esc(p.url) + '" data-section="' + p.section + '">' +
+          '<div class="ni-title">' + esc(p.title) + '</div>' +
+          '<div class="ni-desc">' + esc(p.desc) + '</div>' +
+          '<div class="ni-meta">' +
+            '<span class="pill pill-' + p.section + '">' + p.section + '</span>' +
+            countyPills +
+            (refCount > 0 ? '<span class="pill pill-count">' + refCount + ' refs</span>' : '') +
+          '</div></a>';
+      }).join('');
+    }
+
+    // ======== ENTITY GRAPH ========
+    renderGraph();
+
+    function renderGraph() {
+      var container = document.getElementById('graph-container');
+      var W = container.clientWidth || 600;
+      var H = Math.max(360, W * 0.5);
+
+      var nodes = PAGES.map(function(p, i) {
+        var angle = (i / PAGES.length) * 2 * Math.PI;
+        var section = p.section;
+        var r = section === 'actors' ? 0.25 : section === 'evidence' ? 0.45 : section === 'analysis' ? 0.65 : 0.82;
+        r *= Math.min(W, H) * 0.42;
+        return {
+          id: p.id, section: p.section, title: p.title.length > 22 ? p.title.substring(0,20) + '…' : p.title,
+          x: W/2 + r * Math.cos(angle - Math.PI/2),
+          y: H/2 + r * Math.sin(angle - Math.PI/2),
+          url: p.url, refs: p.refs
+        };
+      });
+      var nodeMap = {};
+      nodes.forEach(function(n) { nodeMap[n.id] = n; });
+
+      var edges = [];
+      PAGES.forEach(function(p) {
+        p.refs.forEach(function(ref) {
+          if (nodeMap[ref] && p.id < ref) {
+            edges.push({ from: p.id, to: ref });
+          }
+        });
+      });
+
+      var colors = { actors: 'var(--red)', evidence: 'var(--green)', analysis: 'var(--purple)', investigate: 'var(--cyan)' };
+
+      var svg = '<svg viewBox="0 0 ' + W + ' ' + H + '" xmlns="http://www.w3.org/2000/svg">';
+      edges.forEach(function(e) {
+        var a = nodeMap[e.from], b = nodeMap[e.to];
+        if (a && b) svg += '<line class="graph-edge" x1="' + a.x + '" y1="' + a.y + '" x2="' + b.x + '" y2="' + b.y + '"/>';
+      });
+      nodes.forEach(function(n) {
+        var c = colors[n.section] || 'var(--fg-dim)';
+        svg += '<a href="' + n.url + '" class="graph-node">' +
+          '<circle cx="' + n.x + '" cy="' + n.y + '" r="7" fill="' + c + '" stroke="' + c + '" stroke-width="1.5" opacity="0.85"/>' +
+          '<text x="' + (n.x + 10) + '" y="' + (n.y + 3) + '" fill="var(--fg-dim)" font-size="9">' + esc(n.title) + '</text></a>';
+      });
+      svg += '</svg>';
+      container.innerHTML = svg;
+      container.style.height = H + 'px';
+    }
+
+    // ======== CROSS-REF MATRIX ========
+    renderXref();
+
+    function renderXref() {
+      var table = document.getElementById('xref-table');
+      var html = '<thead><tr><th>Page</th><th>Section</th><th>Cross-References</th></tr></thead><tbody>';
+      PAGES.filter(function(p) { return p.refs.length > 0; }).sort(function(a,b) { return b.refs.length - a.refs.length; }).forEach(function(p) {
+        var refTags = p.refs.map(function(ref) {
+          var rp = PAGES.find(function(x) { return x.id === ref; });
+          if (!rp) return '';
+          var c = { actors: 'var(--red)', evidence: 'var(--green)', analysis: 'var(--purple)', investigate: 'var(--cyan)' }[rp.section] || 'var(--fg-dim)';
+          return '<a class="xref-tag" href="' + esc(rp.url) + '" style="background:' + c.replace(')', ',0.12)').replace('var(', 'rgba(') + ';background:color-mix(in srgb, ' + c + ' 12%, transparent);color:' + c + '">' + esc(rp.title.length > 28 ? rp.title.substring(0,26)+'…' : rp.title) + '</a>';
+        }).join('');
+        html += '<tr><td class="xref-from"><a href="' + esc(p.url) + '">' + esc(p.title.length > 32 ? p.title.substring(0,30)+'…' : p.title) + '</a></td>' +
+          '<td><span class="pill pill-' + p.section + '">' + p.section + '</span></td>' +
+          '<td>' + refTags + '</td></tr>';
+      });
+      html += '</tbody>';
+      table.innerHTML = html;
+    }
+
+    // ======== TIMELINE ========
+    renderTimeline();
+
+    function renderTimeline() {
+      var strip = document.getElementById('timeline-strip');
+      strip.innerHTML = TIMELINE.map(function(y) {
+        var eventsHtml = y.events.map(function(e) {
+          return '<div class="tl-event"><span class="tl-date">' + esc(e.date) + '</span> ' + esc(e.text) + '</div>';
+        }).join('');
+        return '<div class="tl-year"><div class="tl-year-label">' + esc(y.year) + '</div>' + eventsHtml + '</div>';
+      }).join('');
+    }
+
+    // ======== NAV ANCHOR SCROLLING ========
+    document.querySelectorAll('.membrane-header .nav-links a').forEach(function(a) {
+      a.addEventListener('click', function(e) {
+        var href = this.getAttribute('href');
+        if (href && href.startsWith('#')) {
+          e.preventDefault();
+          var el = document.getElementById(href.substring(1));
+          if (el) {
+            el.scrollIntoView({ behavior: 'smooth', block: 'start' });
+            document.querySelectorAll('.membrane-header .nav-links a').forEach(function(x) { x.classList.remove('active'); });
+            this.classList.add('active');
+          }
+        }
+      });
+    });
+
+    // ======== UTILITIES ========
+    function esc(s) { var d = document.createElement('div'); d.textContent = s; return d.innerHTML; }
+    function escRegex(s) { return s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'); }
+
+    // Responsive graph
+    window.addEventListener('resize', debounce(renderGraph, 250));
+    function debounce(fn, ms) { var t; return function() { clearTimeout(t); t = setTimeout(fn, ms); }; }
+
+  })();</script>

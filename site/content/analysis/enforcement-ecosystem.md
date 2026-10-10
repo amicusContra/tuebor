@@ -28,6 +28,9 @@ claim_review = """
   }
 }
 """
+
+[taxonomies]
+counties = ["Wayne", "Ingham", "Saginaw", "Barry"]
 +++
 
 ## The Question

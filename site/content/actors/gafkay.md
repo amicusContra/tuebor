@@ -5,6 +5,9 @@ weight = 6
 
 [extra]
 keywords = "Julie Gafkay Saginaw County, Judge Gafkay chief judge, Gafkay 10th Circuit Court, Julie Gafkay SVSU adjunct, Gafkay Ellison SLAPP suit, Saginaw County Circuit Court chief judge, Gafkay Whitmer appointment, Gafkay three cases Ellison, Julie Gafkay Saginaw County Bar, Gafkay UPEPA judicial estoppel, Saginaw County court Consumers Energy, Clutch Justice Gafkay"
+
+[taxonomies]
+counties = ["Saginaw"]
 +++
 
 ## Identity

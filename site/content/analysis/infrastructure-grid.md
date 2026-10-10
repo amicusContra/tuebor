@@ -5,6 +5,9 @@ weight = 2
 
 [extra]
 keywords = "FOIAworks privacy, LakeNet surveillance, Domains By Proxy dark money, GoDaddy cPanel exposed, Microsoft 365 tenant FOIAworks, Quagmire Solutions data collection, Through My Eyes Facebook group, Philip Ellison infrastructure, dark money individual privacy, FOIA platform data collection, Dykema dark money privacy, Save Detroit Jobs phone number, infrastructure surveillance map"
+
+[taxonomies]
+counties = ["Saginaw"]
 +++
 
 ## What This Page Is

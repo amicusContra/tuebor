@@ -5,6 +5,9 @@ weight = 10
 
 [extra]
 keywords = "OLC v Williams, Ellison SLAPP suit, Saginaw County 25-2441-CZ, UPEPA Michigan, anti-SLAPP Michigan, Clutch Justice SLAPP, Philip Ellison defamation lawsuit, Rita Williams SLAPP, Judge Borrello recusal, Judge Gafkay SLAPP, UPEPA judicial estoppel, Michigan anti-SLAPP first case, SLAPP suit journalist, Michigan defamation lawsuit 2026, Saginaw County SLAPP timeline, Outside Legal Counsel PLC v Williams"
+
+[taxonomies]
+counties = ["Saginaw"]
 +++
 
 ## Case Information

@@ -6,6 +6,9 @@ weight = 1
 
 [extra]
 keywords = "Samantha Aljouny ProtonMail ghost witness, Philip Ellison SLAPP fabricated witness, Aljouny Media Consulting fake journalist, Saginaw County Circuit Court Borrello, UPEPA anti-SLAPP Michigan, fabricated evidence Michigan court, ProtonMail forensic investigation PGP key, Clutch Justice Ellison investigation, IC3 cyber evidence complaint, Conrad Mallett Aljouny email, Outside Legal Counsel fabricated witness, Ellison sworn affidavit Aljouny, Lisa Edgecomb notary Ellison, fabricated witness Michigan SLAPP, OLC v Williams 25-2441-CZ, Violet Ikonomova Aljouny, Detroit Free Press Aljouny"
+
+[taxonomies]
+counties = ["Saginaw", "Wayne"]
 +++
 
 ## Summary

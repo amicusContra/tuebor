@@ -5,6 +5,9 @@ weight = 8
 
 [extra]
 keywords = "Philip Ellison cases, Outside Legal Counsel PLC docket, Ellison v Scripps, Sova v Consumers Energy, Kanuszewski v MDHHS, Ellison sanctions list, Garcia Title Check, Fakhreddine Sabree Ellison, Taylor v Saginaw tire chalking, Bitterman v Oakley FOIA, Pung v Isabella County SCOTUS, OLC v Treasury FOIA, Ahmad v University of Michigan, Ellison active cases 2026, Outside Legal Counsel lawsuits, Philip Ellison federal cases, Ellison class action Michigan, Ellison SLAPP suit Williams, Michigan attorney litigation history"
+
+[taxonomies]
+counties = ["Saginaw", "Wayne"]
 +++
 
 ## Active Docket (as of October 2026)

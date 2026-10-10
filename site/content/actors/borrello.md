@@ -5,6 +5,9 @@ weight = 2
 
 [extra]
 keywords = "Andre Borrello Saginaw County judge, Borrello recusal SLAPP suit, Judge Borrello 10th Circuit Court, Borrello contempt order Williams, Borrello Outside Legal Counsel, Saginaw County Circuit Court judge, Clutch Justice Borrello"
+
+[taxonomies]
+counties = ["Saginaw"]
 +++
 
 ## Identity

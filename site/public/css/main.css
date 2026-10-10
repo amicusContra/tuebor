@@ -1,3 +1,4 @@
+@import url("phi.css");
 /* Tuebor — barry.primals.eco — minimal accountability site */
 
 :root {
@@ -24,7 +25,7 @@ body {
   font-family: var(--font);
   background: var(--bg);
   color: var(--text);
-  line-height: 1.7;
+  line-height: var(--lh);
   min-height: 100vh;
 }
 
@@ -176,4 +177,276 @@ body {
   .site-main { padding: 1.5rem 1rem 3rem; }
   .page-content table { font-size: 0.8rem; }
   .page-content th, .page-content td { padding: 0.35rem 0.5rem; }
+}
+
+/* ═══════════════════════════════════════════════════════════
+   OPSONIZATION LAYER — Collaborative Immune Tagging
+   
+   Like complement proteins marking pathogens for recognition,
+   this layer lets visitors tag evidence for the network.
+   ═══════════════════════════════════════════════════════════ */
+
+.opsonize {
+  margin-top: 3rem;
+  padding-top: 2rem;
+  border-top: 2px solid var(--border);
+}
+
+.opsn-header {
+  margin-bottom: 1.5rem;
+}
+.opsn-header h2 {
+  font-size: 1.35rem;
+  font-weight: 700;
+  border-bottom: none;
+  margin-top: 0;
+  padding-bottom: 0;
+}
+.opsn-subtitle {
+  color: var(--text-secondary);
+  font-size: 0.9rem;
+  margin-top: 0.25rem;
+}
+
+.opsn-channels {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.5rem;
+}
+
+@media (min-width: 900px) {
+  .opsn-channels {
+    grid-template-columns: 1fr 1fr;
+  }
+  .opsn-signal {
+    grid-row: span 2;
+  }
+}
+
+.opsn-channel {
+  background: var(--bg-surface);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 1.25rem;
+  transition: border-color 0.15s;
+}
+.opsn-channel:hover {
+  border-color: var(--accent);
+}
+
+.opsn-channel-header {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 0.75rem;
+}
+.opsn-channel-header h3 {
+  font-size: 1rem;
+  font-weight: 600;
+  margin: 0;
+}
+.opsn-icon {
+  font-size: 1.1rem;
+}
+.opsn-badge {
+  font-size: 0.65rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  padding: 2px 6px;
+  border-radius: 3px;
+  background: rgba(96, 165, 250, 0.15);
+  color: var(--accent);
+  margin-left: auto;
+}
+.opsn-badge-public {
+  background: rgba(74, 222, 128, 0.15);
+  color: var(--success);
+}
+.opsn-badge-secure {
+  background: rgba(168, 85, 247, 0.15);
+  color: #a855f7;
+}
+
+.opsn-desc {
+  color: var(--text-secondary);
+  font-size: 0.85rem;
+  margin-bottom: 1rem;
+  line-height: 1.5;
+}
+
+/* ── Signal Form ── */
+.opsn-form {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+.opsn-field {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+.opsn-field label {
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: var(--text-secondary);
+}
+.opsn-field select,
+.opsn-field input,
+.opsn-field textarea {
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  padding: 0.5rem 0.75rem;
+  color: var(--text);
+  font-family: var(--font);
+  font-size: 0.85rem;
+  transition: border-color 0.15s;
+  resize: vertical;
+}
+.opsn-field select:focus,
+.opsn-field input:focus,
+.opsn-field textarea:focus {
+  outline: none;
+  border-color: var(--accent);
+  box-shadow: 0 0 0 2px rgba(96, 165, 250, 0.15);
+}
+.opsn-hint {
+  font-size: 0.72rem;
+  color: var(--text-secondary);
+  opacity: 0.7;
+}
+
+.opsn-submit {
+  background: var(--accent);
+  color: var(--bg);
+  border: none;
+  border-radius: 4px;
+  padding: 0.6rem 1.25rem;
+  font-size: 0.85rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background 0.15s, transform 0.1s;
+  align-self: flex-start;
+}
+.opsn-submit:hover {
+  background: var(--accent-hover);
+  transform: translateY(-1px);
+}
+.opsn-submit:active {
+  transform: translateY(0);
+}
+.opsn-submit:disabled {
+  opacity: 0.5;
+  cursor: wait;
+}
+
+.opsn-result {
+  padding: 0.75rem;
+  border-radius: 4px;
+  font-size: 0.85rem;
+  line-height: 1.5;
+}
+.opsn-result-ok {
+  background: rgba(74, 222, 128, 0.1);
+  border: 1px solid rgba(74, 222, 128, 0.3);
+  color: var(--success);
+}
+.opsn-result-err {
+  background: rgba(248, 113, 113, 0.1);
+  border: 1px solid rgba(248, 113, 113, 0.3);
+  color: var(--danger);
+}
+
+/* ── Email Actions ── */
+.opsn-email-actions {
+  display: flex;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+  margin-bottom: 0.75rem;
+}
+.opsn-email-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  padding: 0.5rem 1rem;
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  color: var(--text) !important;
+  font-size: 0.85rem;
+  font-weight: 500;
+  text-decoration: none !important;
+  transition: border-color 0.15s, background 0.15s;
+}
+.opsn-email-btn:hover {
+  border-color: var(--accent);
+  background: rgba(96, 165, 250, 0.05);
+}
+.opsn-email-alt {
+  opacity: 0.7;
+}
+
+.opsn-tip {
+  font-size: 0.8rem;
+  color: var(--text-secondary);
+  background: rgba(251, 191, 36, 0.08);
+  border: 1px solid rgba(251, 191, 36, 0.2);
+  border-radius: 4px;
+  padding: 0.5rem 0.75rem;
+  line-height: 1.5;
+}
+
+.opsn-noscript {
+  color: var(--text-secondary);
+  font-size: 0.85rem;
+  padding: 1rem;
+  text-align: center;
+}
+
+/* ── Signals Feed ── */
+.opsn-feed {
+  margin-top: 1.5rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--border);
+}
+.opsn-feed h3 {
+  font-size: 1.1rem;
+  margin-bottom: 0.5rem;
+}
+.opsn-signal-card {
+  background: var(--bg-surface);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 0.75rem 1rem;
+  margin-bottom: 0.5rem;
+}
+.opsn-signal-card p {
+  margin: 0.25rem 0 0;
+  font-size: 0.85rem;
+  line-height: 1.5;
+}
+.opsn-tag-label {
+  display: inline-block;
+  font-size: 0.7rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  padding: 1px 5px;
+  border-radius: 3px;
+  background: rgba(96, 165, 250, 0.15);
+  color: var(--accent);
+}
+.opsn-signal-time {
+  font-size: 0.72rem;
+  color: var(--text-secondary);
+  margin-left: 0.5rem;
+}
+
+/* ── Giscus container ── */
+#giscus-container {
+  min-height: 200px;
+}
+#giscus-container .giscus {
+  margin-top: 0.5rem;
 }

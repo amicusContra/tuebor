@@ -5,6 +5,9 @@ weight = 1
 
 [extra]
 keywords = "LakeNet LLC Hemlock Michigan, AS11910 IP trace, 162.247.150.54 LakeNet, Philip Ellison ISP, Quagmire Solutions ISP clients, LakeNet Hemlock fiber, Ellison LakeNet surveillance, Outside Legal Counsel IP address, Hemlock Michigan ISP trace, LakeNet AS11910 ARIN, domain registration IP trace, Rita Williams surveillance IP, Clutch Justice IP forensics, LakeNet 123NET peering, LakeNet Daystarr upstream, LakeNet Peninsula Fiber Network, Hemlock network forensics"
+
+[taxonomies]
+counties = ["Saginaw"]
 +++
 
 ## The Signal

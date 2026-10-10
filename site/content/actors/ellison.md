@@ -5,6 +5,9 @@ weight = 1
 
 [extra]
 keywords = "Philip Ellison attorney Michigan, Philip Ellison Hemlock, Outside Legal Counsel PLC, Philip Ellison sanctions, Philip Ellison SLAPP suit, Ellison fabricated witness Aljouny, Ellison Saginaw County, Quagmire Solutions LLC, FOIAworks Philip Ellison, Philip Ellison SCOTUS, Pung v Isabella County Ellison, Ellison UPEPA anti-SLAPP, Katherine Ellison Saginaw ISD, Katie Ellison school board, Ellison domain registration harassment, Philip Ellison Super Lawyers, Ellison Consumers Energy tree trespass, Garcia Title Check Ellison sanctions, Ellison Gronda sanctions, ritafelinewilliams.com, Ellison LakeNet Hemlock, Philip Ellison AGC investigation, Clutch Justice Ellison, Lindke v Freed Ellison"
+
+[taxonomies]
+counties = ["Saginaw", "Macomb"]
 +++
 
 ## Identity

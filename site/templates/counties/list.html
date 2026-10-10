@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+{% block title %}Counties — {{ config.title }}{% endblock %}
+{% block description %}Michigan counties covered by this investigation — supervised geographic sort for the evidence network.{% endblock %}
+{% block content %}
+<article class="page-content">
+  <h1>Counties</h1>
+  <p>Geographic coverage across Michigan counties. Each county page collects all actors, evidence, and analysis touching that jurisdiction.</p>
+  <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:1rem;margin-top:1.5rem">
+    {% for term in terms %}
+    <a href="{{ term.permalink | safe }}" style="display:block;padding:1rem;border:1px solid var(--accent,#666);border-radius:4px;text-decoration:none">
+      <strong>{{ term.name }}</strong>
+      <br><span style="opacity:0.7">{{ term.pages | length }} page{{ term.pages | length | pluralize }}</span>
+    </a>
+    {% endfor %}
+  </div>
+  <p style="margin-top:2rem;font-size:0.9rem;opacity:0.7">
+    Geographic sites: <a href="https://detroit.primals.eco">detroit</a> (Wayne) ·
+    <a href="https://lansing.primals.eco">lansing</a> (Ingham) ·
+    tuebor (statewide)
+  </p>
+</article>
+{% endblock %}

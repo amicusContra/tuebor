@@ -115,7 +115,7 @@ MSU Law's class sizes are approximately 200-250 students. These three were in th
 
 ### Edge 6: The Dykema Triangle (Detroit ↔ Saginaw ↔ Statewide)
 
-[Dykema Gossett PLLC](https://detroit.primals.eco/network/entities/dykema-gossett/) connects three investigation subgraphs through infrastructure:
+[Dykema Gossett PLLC](https://lansing.primals.eco/actors/dykema-gossett/) connects three investigation subgraphs through infrastructure:
 
 | Dykema Action | Year | Subgraph |
 |--------------|------|----------|

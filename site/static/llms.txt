@@ -6,7 +6,7 @@
 
 Tuebor documents institutional failures across Michigan — courts ignoring evidence, oversight bodies failing to act, convicted felons running charter schools with sitting judges on their boards. This is not partisan. It is structural. When oversight stops working, the only defense left is the record itself.
 
-Part of the [primals.eco](https://primals.eco) evidence network. Detroit node: [detroit.primals.eco](https://detroit.primals.eco).
+Part of the [primals.eco](https://primals.eco) evidence network. Detroit node: [detroit.primals.eco](https://detroit.primals.eco). Lansing node: [lansing.primals.eco](https://lansing.primals.eco).
 
 ## Sections
 
@@ -68,6 +68,16 @@ Part of the [primals.eco](https://primals.eco) evidence network. Detroit node: [
 - [Judge Kathleen G. Galen](/actors/galen/) — JTC admonition. Jailed pregnant woman.
 - [Judge Michael Schipper](/actors/schipper/) — Active JTC investigation. 6-10x guideline sentencing.
 - [Julie Nakfoor Pratt](/actors/nakfoor-pratt/) — Private admonishment. Brady/Giglio failures.
+
+## Evidence Network
+
+| Site | Focus |
+|------|-------|
+| [detroit.primals.eco](https://detroit.primals.eco) | Charter school RICO pattern — Banks, Miller, corporate network |
+| [barry.primals.eco](https://barry.primals.eco) | Statewide political infrastructure — Barrett, Rogers, Dykema tree |
+| [lansing.primals.eco](https://lansing.primals.eco) | Capital infrastructure kernel — Dykema Gossett, Wilk, Moore, Tremblay |
+| [signal.primals.eco](https://signal.primals.eco) | Observation layer |
+| [sporeprint.primals.eco](https://sporeprint.primals.eco) | Research papers |
 
 ## Technical
 

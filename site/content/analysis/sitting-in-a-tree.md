@@ -262,6 +262,7 @@ Every claim on this page can be verified from public records:
 - **[The Enforcement Ecosystem](/analysis/enforcement-ecosystem/)** — The ten oversight bodies sitting under the tree
 
 **The network:**
+- **[lansing.primals.eco](https://lansing.primals.eco)** — The capital infrastructure kernel. Dykema Gossett, Wilk, Moore, Tremblay — where the operating system runs.
 - **[detroit.primals.eco](https://detroit.primals.eco)** — The charter school investigation. 57 actors, 34 entities, ~170 edges.
 - **[Anderson Permeability](https://detroit.primals.eco/analysis/anderson-permeability/)** — When the institutions served by the tree lose their membranes entirely.
 - **[Data Braid — PCA Staff](https://detroit.primals.eco/evidence/data-braid-pca-staff/)** — Who runs the school. Three DPSCD crossovers. Two ghost nodes.

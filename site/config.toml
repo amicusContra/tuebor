@@ -31,3 +31,134 @@ name = "status"
 author = "Citizens of Michigan"
 repo_url = "https://github.com/amicusContra/barry"
 contact_email = "hello@clutchjustice.com"
+
+# ── Actor registries ──────────────────────────────────────────────────────
+# Single correction point for all cross-site numbers.
+# Registry key → fact() shortcode → content-manifest BLAKE3 → braid.
+
+[extra.actors.barrett]
+display = "Tom Barrett"
+short = "Barrett"
+role = "U.S. House MI-7 (R)"
+dykema_pac_amount = "$4,000"
+dykema_pac_source = "FEC C00342113"
+afp_action_amount = "$477,780"
+afp_action_pct = "44.8%"
+afp_action_source = "FEC independent expenditure filings"
+nrcc_spend = "$6,300,000"
+nrcc_source = "FEC party committee spending, MI-7 2026"
+griffin_amount = "$7,000"
+griffin_source = "FEC individual contributions"
+roe_consulting = "$782,000"
+roe_consulting_source = "FEC disbursement records"
+
+[extra.actors.banks]
+display = "Brian Roderick Banks"
+short = "Banks"
+sid = "2029469K"
+convictions = "9 criminal convictions (6 felony, 3 misdemeanor)"
+conviction_count = "9"
+felony_count = "6"
+misdemeanor_count = "3"
+conviction_source = "ICHAT SID 2029469K"
+agencies = "5"
+courts = "5"
+
+[extra.actors.moore]
+display = "Renae Moore"
+short = "Moore"
+role = "Senior Compliance Specialist, Dykema Gossett PLLC"
+account_count = "80+"
+account_source = "Chatfield preliminary examination testimony, Feb 26, 2025"
+entity_roles = "6+"
+entity_source = "SDJ, ONF, DJF, RFFW, Peninsula Fund, Promise to the People"
+
+[extra.actors.wilk]
+display = "W. Alan Wilk"
+short = "Wilk"
+role = "Member, Team Leader Political Compliance, Dykema Gossett PLLC"
+vehicle_count = "7+"
+vehicle_source = "LARA incorporation filings"
+
+[extra.actors.chatfield]
+display = "Lee Chatfield"
+short = "Chatfield"
+role = "Former House Speaker, 13 felony charges"
+felony_count = "13"
+felony_source = "Ingham County criminal charges"
+
+[extra.actors.rogers]
+display = "Mike Rogers"
+short = "Rogers"
+role = "U.S. Senate candidate"
+outside_money = "$88,800,000"
+outside_money_short = "$88.8M"
+outside_source = "FEC independent expenditure filings, MI 2024 Senate"
+
+[extra.actors.yancey]
+display = "Gary Yancey"
+short = "Yancey"
+role = "Campaign consultant"
+campaign_payment = "$383.82"
+campaign_source = "Banks Strategy LLC CFRS filing"
+
+# ── Entity registries ─────────────────────────────────────────────────────
+
+[extra.entities.dykema]
+display = "Dykema Gossett PLLC"
+phone = "517-374-9100"
+address = "201 Townsend Street, Lansing, MI 48933"
+
+[extra.entities.dykema_federal_pac]
+display = "Dykema Gossett Federal PAC"
+fec_id = "C00342113"
+total_disbursed = "$131,000"
+candidate_count = "47"
+total_source = "FEC committee disbursements"
+
+[extra.entities.dykema_state_pac]
+display = "Dykema Gossett State PAC"
+total_since_2017 = "$725,000+"
+duggan_amount = "$13,500"
+yancey_amount = "$7,850"
+total_source = "TransparencyUSA"
+
+[extra.entities.sdj]
+display = "Save Detroit Jobs"
+lara_id = "802002459"
+expenditure = "$84,000"
+expenditure_source = "TransparencyUSA, 2021 Detroit City Council District 2"
+
+[extra.entities.rffw]
+display = "RFFW LLC"
+complaint_amount = "$1,000,000"
+complaint_source = "Campaign finance complaint"
+
+[extra.entities.macdowell]
+display = "MacDowell Preparatory Academy"
+math_proficiency = "3%"
+math_source = "MDE School Report Card"
+extraction_pct = "72.67%"
+extraction_source = "IRS Form 990, Purpose Group management fee analysis"
+revenue = "$4,900,000"
+revenue_short = "$4.9M"
+revenue_source = "IRS Form 990"
+instruction_pct = "32.1%"
+instruction_source = "MDE financial reporting"
+
+[extra.entities.agc]
+display = "Attorney Grievance Commission"
+dismissal_rate = "88.8%"
+dismissal_headline = "94%"
+dismissal_source = "AGC Annual Report, Michigan Supreme Court"
+
+[extra.entities.jtc]
+display = "Judicial Tenure Commission"
+dismissal_rate = "97.1%"
+dismissal_source = "JTC Annual Report"
+
+[extra.entities.purpose_group]
+display = "Purpose Group / Purpose Preparatory Management"
+extraction = "$3,400,000"
+extraction_short = "$3.4M"
+extraction_source = "IRS Form 990, management fee analysis"

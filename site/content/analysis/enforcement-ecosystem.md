@@ -93,7 +93,7 @@ The AGC returned the Banks UPL filing on October 1. Cynthia Bullington's letter 
 **The gap:** The supplemental complaint also addressed licensed attorneys (Moreland, Meihn, Hall). The return letter addresses only Banks. It is silent on the licensed attorneys who ARE within AGC jurisdiction.
 
 As documented in the [Institutional Immunity Pattern](/analysis/institutional-immunity/), the AGC's own annual reports show:
-- **2024:** 88.8% of dispositions dismissed (1,627/1,832)
+- **2024:** {{ fact(registry="entities", key="agc", field="dismissal_rate") }} of dispositions dismissed (1,627/1,832)
 - **2023:** 72.2% dismissed at intake
 - **2012–2020:** Three of every four complaints dismissed by the Grievance Administrator before reaching a hearing panel
 
@@ -127,7 +127,7 @@ The ADB processes what the AGC sends it. If the AGC doesn't prosecute, the ADB h
 **Evidence available:**
 Five Wayne County judges with documented connections to the Banks network:
 - Judge Miller — PCA Board Chair while on the bench. Dismissed infant murder case.
-- Judge Yancey — MacDowell Board Chair. Campaign paid $383.82 to Banks Strategy LLC.
+- Judge Yancey — MacDowell Board Chair. Campaign paid {{ fact(registry="actors", key="yancey", field="campaign_payment") }} to Banks Strategy LLC.
 - Judge Aliyah Sabree — MSU Law classmate of Banks' claimed JD cohort.
 - Judge Sean Perkins — Brother of Todd Perkins (Banks' attorney). Previously worked at Perkins Law Group.
 - Judge David Perkins — Family donated to Banks-aligned campaigns.
@@ -182,7 +182,7 @@ The AG just charged Fay Beydoun with **16 felonies** for $20M grant abuse at Glo
 **What happened here:**
 No public record of action against any Banks network entity.
 
-Purpose Foundation: two convicted felons, $4.9M revenue school, 3% math proficiency, 72.67% of revenue extracted by management company. Global Link: $20M grant, prosecution. The scale is different. The pattern — felon-controlled entity, government funding, inadequate governance — is identical.
+Purpose Foundation: two convicted felons, {{ fact(registry="entities", key="macdowell", field="revenue_short") }} revenue school, {{ fact(registry="entities", key="macdowell", field="math_proficiency") }} math proficiency, {{ fact(registry="entities", key="macdowell", field="extraction_pct") }} of revenue extracted by management company. Global Link: $20M grant, prosecution. The scale is different. The pattern — felon-controlled entity, government funding, inadequate governance — is identical.
 
 ---
 
@@ -195,7 +195,7 @@ Purpose Foundation: two convicted felons, $4.9M revenue school, 3% math proficie
 **MCL 380.507(1)(d):** *"Oversee each public school academy operating under a contract issued by the authorizing body. The oversight must be sufficient to ensure that the board of directors is in compliance with the terms of the contract and with applicable law."*
 
 **What happened:**
-PCA was authorized in July 2025 despite the operator's bottom-3% academic record at MacDowell (3% math proficiency, statewide rank 1,443/1,488).
+PCA was authorized in July 2025 despite the operator's bottom-{{ fact(registry="entities", key="macdowell", field="math_proficiency") }} academic record at MacDowell ({{ fact(registry="entities", key="macdowell", field="math_proficiency") }} math proficiency, statewide rank 1,443/1,488).
 
 DPSCD recently **declined** to reauthorize Barack Obama Leadership Academy (BOLA). Superintendent Vitti publicly explained that decision by citing "contractual compliance, academic outcomes, and fiscal stewardship." Those same criteria apply to Banks' schools. Different outcome.
 
@@ -270,11 +270,11 @@ The problem is that each mandate was written to handle **one actor at a time**. 
 ## Connected Analysis
 
 **On this site:**
-- [Hey Mikey, He Likes It!](/analysis/hey-mikey/) — the man who authored CISPA wants to join the Senate that killed it. Same donors fund Barrett. Same Dykema OS. Same election day. $88.8M from people who don't live in Michigan.
-- [Institutional Immunity Pattern](/analysis/institutional-immunity/) — the mathematics of 88.8% dismissal
+- [Hey Mikey, He Likes It!](/analysis/hey-mikey/) — the man who authored CISPA wants to join the Senate that killed it. Same donors fund Barrett. Same Dykema OS. Same election day. {{ fact(registry="actors", key="rogers", field="outside_money_short") }} from people who don't live in Michigan.
+- [Institutional Immunity Pattern](/analysis/institutional-immunity/) — the mathematics of {{ fact(registry="entities", key="agc", field="dismissal_rate") }} dismissal
 - [Cross-Subgraph Patterns](/analysis/cross-subgraph-patterns/) — same oversight bodies appear across five investigations
 
-- [They Banked on Banks](/analysis/they-banked-on-banks/) — the man the ecosystem failed to stop. Brian Roderick Banks: 9 convictions, 2 charter schools, board chair is a sitting judge, parent blocked at the door, PPO weaponized. The enforcement ecosystem measured against a live case.
+- [They Banked on Banks](/analysis/they-banked-on-banks/) — the man the ecosystem failed to stop. Brian Roderick Banks: {{ fact(registry="actors", key="banks", field="conviction_count") }} convictions, 2 charter schools, board chair is a sitting judge, parent blocked at the door, PPO weaponized. The enforcement ecosystem measured against a live case.
 - [Signal Permeability](/analysis/signal-permeability/) — Live Anderson study: evidence sent to all ten oversight bodies. Measuring who opens it, who forwards it, who ignores it.
 
 **On detroit.primals.eco:**
@@ -298,7 +298,7 @@ The problem is that each mandate was written to handle **one actor at a time**. 
 | Bullington at AGC since 1982 | agcmi.org/about-us/our-team | Team page |
 | JTC interim director since Feb 2026 | jtc.courts.mi.gov/the_staff | Staff page |
 | No permanent JTC ED (apps closed Jul 13) | jtc.courts.mi.gov | News page |
-| AGC 88.8% dismissal rate (2024) | AGC 2024 Annual Report | agcmi.org/documents |
+| AGC {{ fact(registry="entities", key="agc", field="dismissal_rate") }} dismissal rate (2024) | AGC 2024 Annual Report | agcmi.org/documents |
 | MCL 600.916 three prohibitions | legislature.mi.gov | MCL 600.916(1) |
 | Verdusco at DPSCD since Feb 2013 | LinkedIn | Profile |
 | AG charged Beydoun (16 felonies) | FOX 2 Detroit | Published report |

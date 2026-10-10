@@ -16,9 +16,9 @@ document the failure themselves.
 
 ---
 
-## 🔴 Now Live: Brian Roderick Banks — 9 Convictions, 2 Charter Schools
+## 🔴 Now Live: Brian Roderick Banks — {{ fact(registry="actors", key="banks", field="conviction_count") }} Convictions, 2 Charter Schools
 
-**[They Banked on Banks](/analysis/they-banked-on-banks/)** — Brian Roderick Banks has 9 criminal convictions and runs Purpose Charter Academy and MacDowell Preparatory Academy in Detroit. His board chair is a sitting Wayne County judge. His receptionist blocks parents at the door. His PPO motion blocks them in court. 362 students. 99.2% Black. 3% math proficiency. 72.67% revenue extracted by a single-member LLC.
+**[They Banked on Banks](/analysis/they-banked-on-banks/)** — Brian Roderick Banks has {{ fact(registry="actors", key="banks", field="conviction_count") }} criminal convictions and runs Purpose Charter Academy and MacDowell Preparatory Academy in Detroit. His board chair is a sitting Wayne County judge. His receptionist blocks parents at the door. His PPO motion blocks them in court. 362 students. 99.2% Black. {{ fact(registry="entities", key="macdowell", field="math_proficiency") }} math proficiency. {{ fact(registry="entities", key="macdowell", field="extraction_pct") }} revenue extracted by a single-member LLC.
 
 **[Signal Permeability](/analysis/signal-permeability/)** — Live experiment: we sent the evidence to every oversight body. Now we're measuring who opens it. First confirmed reader: **Lansing, Michigan** — the state capital. [Read the live data →](/analysis/signal-permeability/)
 
@@ -28,7 +28,7 @@ document the failure themselves.
 
 Michigan's oversight systems are failing across counties.
 
-The **Attorney Grievance Commission** dismisses 94% of complaints.
+The **Attorney Grievance Commission** dismisses {{ fact(registry="entities", key="agc", field="dismissal_headline") }} of complaints.
 The **Judicial Tenure Commission** operates on timelines measured
 in years. The **State Court Administrative Office** receives
 documented structural failures and responds with silence. Courts
@@ -56,7 +56,7 @@ When oversight stops working, the only defense left is the record itself.
 
 These are not separate problems. They share the same root:
 
-**The AGC that dismisses 94% of complaints** is the same AGC that
+**The AGC that dismisses {{ fact(registry="entities", key="agc", field="dismissal_headline") }} of complaints** is the same AGC that
 received documented evidence of an assistant attorney general
 sitting on a convicted felon's charter school board — and has
 not acted.
@@ -69,7 +69,7 @@ convicted felon — and has not acted.
 **The court in Saginaw that ignored a fabricated witness** is the
 same judicial system where a court in Wayne County processes
 custody matters that send children to schools run by people
-with nine criminal convictions.
+with {{ fact(registry="actors", key="banks", field="conviction_count") }} criminal convictions.
 
 When one node fails, the others should catch it. They don't.
 The system does not self-correct. So citizens correct the record.
@@ -136,10 +136,10 @@ Chronological record from 2013 to present. Every entry sourced.
 ### Infrastructure Studies — How the Systems Work
 
 - **[Sitting in a Tree](/analysis/sitting-in-a-tree/)** — Mike and Tom and Dykema and Banks, K-I-S-S-I-N-G. One law firm, one compliance specialist, four branches. Same donors, same dark money, same day. First comes money, then comes power, then comes a charter school with convicted felons in the tower. The trilogy completes.
-- **[Hey Mikey, He Likes It!](/analysis/hey-mikey/)** — Rogers authored America's most aggressive surveillance bill (killed twice), got hired by the company whose competitor he investigated, bought a $1.6M house in Florida, and accepted $88.8M from Texas oil, Blackstone, Citadel, Koch, McConnell, and Musk. Same donors fund Barrett. Same Dykema OS. Same election. He'll eat anything.
+- **[Hey Mikey, He Likes It!](/analysis/hey-mikey/)** — Rogers authored America's most aggressive surveillance bill (killed twice), got hired by the company whose competitor he investigated, bought a $1.6M house in Florida, and accepted {{ fact(registry="actors", key="rogers", field="outside_money_short") }} from Texas oil, Blackstone, Citadel, Koch, McConnell, and Musk. Same donors fund Barrett. Same Dykema OS. Same election. He'll eat anything.
 - **[The Enforcement Ecosystem](/analysis/enforcement-ecosystem/)** — Ten oversight bodies have the mandate, the evidence, and the authority. None has the full picture. State Bar closed the UPL file. AGC sent it back. Two letters, one day apart, each pointing at the other door. The network operates in the jurisdictional gaps between them.
 - **[Tommy Boy](/analysis/tommy-boy/)** — Barrett calls his opponent a "convicted felon" (expunged). Barrett's PAC donor runs dark money with an actual convicted felon as president. FEC receipts. Nov 3, 2026.
-- **[How To Build an OS](/analysis/how-to-build-an-os/)** — One law firm (Dykema), one compliance specialist (Moore), six dark money vehicles, both parties served. SDJ's phone number is Dykema's phone number. All public records.
+- **[How To Build an OS](/analysis/how-to-build-an-os/)** — One law firm (Dykema), one compliance specialist (Moore), {{ fact(registry="actors", key="wilk", field="vehicle_count") }} dark money vehicles, both parties served. SDJ's phone number is Dykema's phone number. All public records.
 - **[Infrastructure Grid](/analysis/infrastructure-grid/)** — Fluorescent tag map: every node where entity infrastructure touches individual privacy. 11 nodes. FOIAworks has no privacy policy. SDJ hides donors. Domains By Proxy hides websites. The protections point the wrong direction.
 - **[LakeNet Signal Trace](/analysis/lakenet-signal-trace/)** — One IP, three captures, one ISP in a town of 1,500. The tracer isotope that illuminates every connection sharing the infrastructure.
 - **[Anderson Localization — Hemlock](/analysis/anderson-hemlock/)** — Same physics as Detroit, population 2,000, one family captures every layer
@@ -148,7 +148,7 @@ Chronological record from 2013 to present. Every entry sourced.
 
 - **[Cross-Subgraph Patterns](/analysis/cross-subgraph-patterns/)** — How Detroit, Saginaw, Barry, Macomb, and Allegan connect through the same AGC, JTC, SCAO, and LARA nodes
 - **[The UPEPA Contradiction](/analysis/upepa-contradiction/)** — Michigan's anti-SLAPP statute weaponized by its first stress-tester
-- **[Institutional Immunity](/analysis/institutional-immunity/)** — AGC dismisses 88.8% of complaints (their own data)
+- **[Institutional Immunity](/analysis/institutional-immunity/)** — AGC dismisses {{ fact(registry="entities", key="agc", field="dismissal_rate") }} of complaints (their own data)
 - **[Credential vs. Conduct](/analysis/credential-vs-conduct/)** — The resume says SCOTUS champion. The docket says sanctioned, reversed, SLAPP-filing, representing a convicted harasser.
 
 ---

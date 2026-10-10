@@ -21,7 +21,7 @@ counties = ["Ingham"]
 
 ## The Experiment
 
-At 4:43 PM EDT on October 9, 2026, an email was sent from a secure address to recipients including oversight bodies, journalists, and enforcement contacts. The email contained links to documented evidence about **Brian Roderick Banks** — a man with 9 criminal convictions operating two publicly funded charter schools in Detroit.
+At 4:43 PM EDT on October 9, 2026, an email was sent from a secure address to recipients including oversight bodies, journalists, and enforcement contacts. The email contained links to documented evidence about **Brian Roderick Banks** — a man with {{ fact(registry="actors", key="banks", field="conviction_count") }} criminal convictions operating two publicly funded charter schools in Detroit.
 
 The email contained:
 - A link to ["They Banked on Banks"](/analysis/they-banked-on-banks/) — the full analysis
@@ -61,12 +61,12 @@ If the oversight system is **permeable**, the signal propagates: evidence reache
 ### T+0:00 — Signal Emitted (20:43 UTC)
 
 Email sent from secure address. Contains documented evidence:
-- Brian Roderick Banks: 9 convictions (ICHAT SID 2029469K)
+- Brian Roderick Banks: {{ fact(registry="actors", key="banks", field="conviction_count") }} convictions (ICHAT SID 2029469K)
 - False attorney claim (DPD Report #26-0909-0176)
 - Parent custody access denied at school
 - PPO filed against parent who complained
 - Board chair is a sitting judge in the court that processes the PPO
-- 3% math proficiency, 72.67% revenue extraction
+- {{ fact(registry="entities", key="macdowell", field="math_proficiency") }} math proficiency, {{ fact(registry="entities", key="macdowell", field="extraction_pct") }} revenue extraction
 
 ### T+0:36 — First Permeability Confirmation (20:44:03 UTC)
 
@@ -189,7 +189,7 @@ Multiple IPs from around the world began accessing **detroit.primals.eco** evide
 | 20:59:41 | **172.56.198.40** | **T-Mobile USA** | **/connections/credential-washing/** |
 | 20:59:46 | 178.34.136.31 | Rostelecom (Russia) | /connections/weekly-meetings/ |
 
-The **T-Mobile USA** hit is notable — a mobile phone in the United States reading about credential washing. T-Mobile IPs don't resolve to geography, but this is an American reading about how Banks obtained credentials despite 9 convictions.
+The **T-Mobile USA** hit is notable — a mobile phone in the United States reading about credential washing. T-Mobile IPs don't resolve to geography, but this is an American reading about how Banks obtained credentials despite {{ fact(registry="actors", key="banks", field="conviction_count") }} convictions.
 
 ### T+16:30 — .env Scanner Detected (20:59:31 UTC)
 
@@ -317,9 +317,9 @@ The [Enforcement Ecosystem](/analysis/enforcement-ecosystem/) documents ten over
 
 ## Why This Matters
 
-362 students attend MacDowell Preparatory Academy. More attend Purpose Charter Academy. **99.2% are Black. 92% are economically disadvantaged.** Math proficiency is **3%.**
+362 students attend MacDowell Preparatory Academy. More attend Purpose Charter Academy. **99.2% are Black. 92% are economically disadvantaged.** Math proficiency is **{{ fact(registry="entities", key="macdowell", field="math_proficiency") }}.**
 
-The man running both schools has **9 criminal convictions**. He falsely claims to be an attorney. He denied a parent with custody rights access to their child. He filed a PPO against the parent who complained. His board chair is a sitting judge in the court that processes the PPO.
+The man running both schools has **{{ fact(registry="actors", key="banks", field="conviction_count") }} criminal convictions**. He falsely claims to be an attorney. He denied a parent with custody rights access to their child. He filed a PPO against the parent who complained. His board chair is a sitting judge in the court that processes the PPO.
 
 Every fact is independently verifiable. The evidence library is 287+ pages. The criminal record is public. The board of directors is on the school's own website.
 

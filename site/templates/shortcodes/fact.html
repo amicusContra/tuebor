@@ -1,0 +1,7 @@
+{# Render a canonical fact from any registry section.
+   Usage: {{ fact(registry="actors", key="barrett", field="dykema_pac_amount") }}
+          {{ fact(registry="entities", key="dykema_federal_pac", field="total_disbursed") }}
+   Numbers are braided through the registry, not hand-rolled in markdown.
+   When a number changes, the registry is the single correction point.
+   The content-manifest BLAKE3 changes → new braid entry → function correction citation. #}
+{% if registry == "actors" %}{{ config.extra.actors[key][field] }}{% elif registry == "entities" %}{{ config.extra.entities[key][field] }}{% else %}<em>unknown registry "{{ registry }}"</em>{% endif %}

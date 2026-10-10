@@ -27,7 +27,7 @@ Job from the company whose competitor he investigated? He likes it.
 
 $1.6 million house in Florida while running for Michigan? He likes it.
 
-$88.8 million from Texas oil, Blackstone, Citadel, Koch, McConnell, and Musk? He likes it.
+{{ fact(registry="actors", key="rogers", field="outside_money_short") }} from Texas oil, Blackstone, Citadel, Koch, McConnell, and Musk? He likes it.
 
 Every claim below is sourced to FEC filings, published fact-checks, congressional records, or reporting from Bridge Michigan, PolitiFact, Metro Times, the ACLU, and Business Insider. No private information. No tracking. Verify everything at the bottom.
 
@@ -210,13 +210,13 @@ The CEO of Blackstone gave $4.5 million to Rogers' super PAC. Blackstone employe
 | Other | $2,215,451 | Various |
 | **Total outside money benefiting Rogers** | **$82,100,057** | |
 
-**Grand total benefiting Rogers: $88.8 million.**
+**Grand total benefiting Rogers: {{ fact(registry="actors", key="rogers", field="outside_money_short") }}.**
 
 Rogers raised $10.9 million himself. Outside groups spent $82.1 million for him. **For every dollar Rogers raised, outside groups spent seven.**
 
 His opponent — Abdul El-Sayed — has $51.7 million total benefiting (VoteLog). That includes approximately **$20.1 million from United Democracy Project** (AIPAC's super PAC) **opposing** El-Sayed. Outside money doesn't just flow in one direction. It flows in every direction. Billionaires fund Rogers. A foreign-policy lobby targets his opponent. Michigan voters are the smallest voice in their own Senate race.
 
-This is not a page about Rogers vs. El-Sayed. Both candidates are swimming in outside money. This is a page about what Rogers' record says — CISPA, AT&T, Florida, $88.8 million — because the record is what voters can verify. El-Sayed's record is his to answer for. Rogers' record is documented below.
+This is not a page about Rogers vs. El-Sayed. Both candidates are swimming in outside money. This is a page about what Rogers' record says — CISPA, AT&T, Florida, {{ fact(registry="actors", key="rogers", field="outside_money_short") }} — because the record is what voters can verify. El-Sayed's record is his to answer for. Rogers' record is documented below.
 
 ### Who Feeds the Machine
 
@@ -238,7 +238,7 @@ Tim Dunn is a **Texas oil executive**. He gave $10 million to elect a Michigan s
 
 Stephen Schwarzman runs Blackstone — the world's largest alternative investment firm. He maxed out to [Barrett](/analysis/tommy-boy/) too.
 
-Kenneth Griffin runs Citadel — one of the world's largest hedge funds. He also gave $7,000 to Barrett. Same donor. Senate AND House. Cross-ticket.
+Kenneth Griffin runs Citadel — one of the world's largest hedge funds. He also gave {{ fact(registry="actors", key="barrett", field="griffin_amount") }} to Barrett. Same donor. Senate AND House. Cross-ticket.
 
 **The cross-ticket signal:** Griffin and Schwarzman both fund Rogers (Senate) AND Barrett (MI-7). The infrastructure is not candidate-specific. It is party-wide.
 
@@ -279,18 +279,18 @@ November 3, 2026. Four candidates. One date. One infrastructure.
 
 | Race | Candidate | Connection |
 |------|-----------|-----------|
-| **U.S. Senate** | Mike Rogers (R) | $88.8M total. GLCF, AFP, SLF, America PAC. Griffin + Schwarzman. |
-| **U.S. House MI-7** | [Tom Barrett (R)](/analysis/tommy-boy/) | Dykema PAC → $4K. Griffin $7K. Schwarzman maxed. NRCC $6.3M. |
+| **U.S. Senate** | Mike Rogers (R) | {{ fact(registry="actors", key="rogers", field="outside_money_short") }} total. GLCF, AFP, SLF, America PAC. Griffin + Schwarzman. |
+| **U.S. House MI-7** | [Tom Barrett (R)](/analysis/tommy-boy/) | Dykema PAC → {{ fact(registry="actors", key="barrett", field="dykema_pac_amount") }}. Griffin {{ fact(registry="actors", key="barrett", field="griffin_amount") }}. Schwarzman maxed. NRCC {{ fact(registry="actors", key="barrett", field="nrcc_spend") }}. |
 | **Wayne County 3rd Circuit** | Judge Cylenthia Miller | PCA Board Chair. JTC investigating. On the ballot. |
-| **36th District Court** | Judge Tenisha Yancey | MacDowell Board Chair. Paid $383.82 to Banks Strategy LLC. |
+| **36th District Court** | Judge Tenisha Yancey | MacDowell Board Chair. Paid {{ fact(registry="actors", key="yancey", field="campaign_payment") }} to Banks Strategy LLC. |
 
 Different levels. Different races. Same day. Same donor base. Same dark money infrastructure. Same [enforcement ecosystem that can't coordinate two letters](/analysis/enforcement-ecosystem/).
 
-Miller and Yancey sit on school boards with a [man with nine criminal convictions who calls himself an attorney](https://detroit.primals.eco/network/actors/brian-banks/). The JTC is investigating. The election is in 25 days.
+Miller and Yancey sit on school boards with a [man with {{ fact(registry="actors", key="banks", field="conviction_count") }} criminal convictions who calls himself an attorney](https://detroit.primals.eco/network/actors/brian-banks/). The JTC is investigating. The election is in 25 days.
 
 Barrett calls tenant organizers felons while his donor's dark money entity is run by an actual felon. The election is in 25 days.
 
-Rogers authored America's most aggressive surveillance bill, got hired by the company whose competitor he investigated, bought a house in Florida, and accepted $88.8 million from people who don't live in Michigan. The election is in 25 days.
+Rogers authored America's most aggressive surveillance bill, got hired by the company whose competitor he investigated, bought a house in Florida, and accepted {{ fact(registry="actors", key="rogers", field="outside_money_short") }} from people who don't live in Michigan. The election is in 25 days.
 
 Same system. Same day. Different wrappers.
 
@@ -358,7 +358,7 @@ One career. One direction. Always upward. Always fed.
 | Dykema state PAC bipartisan | TransparencyUSA | [transparencyusa.org](https://transparencyusa.org/mi/committee/dykema-gossett-state-pac) |
 | CGCN Group $30K | FEC | Disbursement search |
 | El-Sayed total benefiting | VoteLog | votelog.org |
-| Griffin → Barrett $7K | FEC | Committee C00793976 |
+| Griffin → Barrett {{ fact(registry="actors", key="barrett", field="griffin_amount") }} | FEC | Committee C00793976 |
 | Schwarzman → Barrett maxed | FEC, Rhinoceros Media | Published reporting |
 
 ---
@@ -370,15 +370,15 @@ One career. One direction. Always upward. Always fed.
 - **[Tommy Boy](/analysis/tommy-boy/)** — Barrett shares donors (Griffin, Schwarzman) and infrastructure (Dykema). Same ticket. Same day. Same system.
 - **[Sitting in a Tree](/analysis/sitting-in-a-tree/)** — The complete picture: Mike and Tom and Dykema and Banks. One law firm, one compliance specialist, four branches. Same tree, same roots, same Renae Moore watering all of it.
 - **[How To Build an OS](/analysis/how-to-build-an-os/)** — The Dykema architecture both candidates plug into.
-- **[Institutional Immunity](/analysis/institutional-immunity/)** — The 88.8% dismissal rate at the AGC that Rogers' oversight role would perpetuate.
+- **[Institutional Immunity](/analysis/institutional-immunity/)** — The {{ fact(registry="entities", key="agc", field="dismissal_rate") }} dismissal rate at the AGC that Rogers' oversight role would perpetuate.
 - **[Cross-Subgraph Patterns](/analysis/cross-subgraph-patterns/)** — Same oversight failures, five counties, one system.
 
-- **[They Banked on Banks](/analysis/they-banked-on-banks/)** — Brian Roderick Banks: 9 convictions, 2 charter schools, board chaired by Judge Miller. Same ballot day. Same system. The convicted felon the system protects.
+- **[They Banked on Banks](/analysis/they-banked-on-banks/)** — Brian Roderick Banks: {{ fact(registry="actors", key="banks", field="conviction_count") }} convictions, 2 charter schools, board chaired by Judge Miller. Same ballot day. Same system. The convicted felon the system protects.
 - **[Signal Permeability](/analysis/signal-permeability/)** — Live Anderson study: does the evidence propagate through oversight boundaries, or localize?
 
 **On detroit.primals.eco:**
 - **[The Network](https://detroit.primals.eco)** — The charter school network connected to Miller, Yancey, and Banks — all on the same ballot, same day, same infrastructure.
-- **[Brian Roderick Banks — Full Profile](https://detroit.primals.eco/network/actors/brian-banks/)** — 9 convictions, credential chain, entity control, email admissions.
+- **[Brian Roderick Banks — Full Profile](https://detroit.primals.eco/network/actors/brian-banks/)** — {{ fact(registry="actors", key="banks", field="conviction_count") }} convictions, credential chain, entity control, email admissions.
 - **[Data Braid — GLLG](https://detroit.primals.eco/evidence/data-braid-gllg/)** — Six independent searches converge on the defense attorney + charter authorizer sitting on the same nonprofit board.
 - **[Agency Referrals](https://detroit.primals.eco/evidence/agency-referrals/)** — Eight federal agencies, state referrals, JTC investigations. The enforcement ecosystem in action — or inaction.
 
@@ -386,7 +386,7 @@ One career. One direction. Always upward. Always fed.
 
 *Every claim on this page is sourced to FEC filings, congressional records, published reporting from Bridge Michigan, PolitiFact, Metro Times, MI Advance, CNN, NYT, Business Insider, the ACLU, and Rhinoceros Media. No private information is disclosed. No tracking. No cookies.*
 
-*Hey Mikey. He likes it. He likes everything they feed him. The surveillance bill. The revolving door. The Florida mansion. The $88.8 million. The seat in the body that killed his bill twice.*
+*Hey Mikey. He likes it. He likes everything they feed him. The surveillance bill. The revolving door. The Florida mansion. The {{ fact(registry="actors", key="rogers", field="outside_money_short") }}. The seat in the body that killed his bill twice.*
 
 *He'll eat anything.*
 

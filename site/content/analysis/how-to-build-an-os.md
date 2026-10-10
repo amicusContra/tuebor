@@ -12,7 +12,7 @@ counties = ["Wayne", "Ingham"]
 
 ## The Architecture
 
-One law firm. One compliance specialist. Six dark money vehicles. Both parties served.
+One law firm. One compliance specialist. {{ fact(registry="actors", key="wilk", field="vehicle_count") }} dark money vehicles. Both parties served.
 
 This page maps how Dykema Gossett PLLC — a national law firm with offices in Michigan, Illinois, Texas, California, and D.C. — operates as the infrastructure layer beneath Michigan's dark money ecosystem. Not as outside counsel. As the operating system itself.
 
@@ -86,7 +86,7 @@ Individual privacy is a right. Entity privacy, when the entity spends six figure
 
 ## The Bipartisan Bus
 
-Dykema Gossett State PAC — total expenditures since 2017: **$725,017**
+Dykema Gossett State PAC — total expenditures since 2017: **{{ fact(registry="entities", key="dykema_state_pac", field="total_since_2017") }}**
 
 | Recipient | Total | Party |
 |-----------|-------|-------|
@@ -94,9 +94,9 @@ Dykema Gossett State PAC — total expenditures since 2017: **$725,017**
 | Senate Republican Campaign Committee | $58,750 | R |
 | Michigan House Democratic Fund | $45,000 | D |
 | Michigan Senate Democratic Fund | $44,000 | D |
-| Duggan Campaign | $13,500 | D |
+| Duggan Campaign | {{ fact(registry="entities", key="dykema_state_pac", field="duggan_amount") }} | D |
 
-Plus Dykema Federal PAC: **$4,000 → Tom Barrett for Congress** (R, MI-7).
+Plus Dykema Federal PAC: **{{ fact(registry="actors", key="barrett", field="dykema_pac_amount") }} → Tom Barrett for Congress** (R, MI-7).
 
 Plus $3,000 to Detroit Forward Together — a SuperPAC that [shares a PO Box](https://www.deadlinedetroit.com/articles/26310/leduff_how_low_does_the_bar_go_in_detroit_real_low) at the Renaissance Center with Our Neighborhoods First. That same SuperPAC [paid Dykema $5,105.90](https://www.transparencyusa.org/mi/committee/detroit-forward-together-superpac-519123-pol?cycle=2017-to-now) for legal services. Dykema funds the PAC and gets paid by the PAC.
 
@@ -104,13 +104,13 @@ Plus $3,000 to Detroit Forward Together — a SuperPAC that [shares a PO Box](ht
 
 ---
 
-## The RFFW Complaint — A $1 Million Case Study
+## The RFFW Complaint — A {{ fact(registry="entities", key="rffw", field="complaint_amount") }} Case Study
 
-On July 14, 2022, RFFW LLC was formed in Michigan. Within 15 days, it donated **$1,000,000** to Reproductive Freedom for All (the abortion rights ballot campaign). RFFW had no website, no public presence, and no disclosed donors.
+On July 14, 2022, RFFW LLC was formed in Michigan. Within 15 days, it donated **{{ fact(registry="entities", key="rffw", field="complaint_amount") }}** to Reproductive Freedom for All (the abortion rights ballot campaign). RFFW had no website, no public presence, and no disclosed donors.
 
-After a [campaign finance complaint](https://www.michigan.gov/sos/-/media/Project/Websites/sos/CFR-Complaints/2023/Meyers-v-RFFW-2.pdf), the Secretary of State's office concluded **"there may be reason to believe"** RFFW violated state campaign finance law. RFFW was forced to register, disclose that **Shery Cotton** (co-founder of Meridian Health Plan, sold for $2.5 billion) provided the $1M, and pay $1,300 in late fees.
+After a [campaign finance complaint](https://www.michigan.gov/sos/-/media/Project/Websites/sos/CFR-Complaints/2023/Meyers-v-RFFW-2.pdf), the Secretary of State's office concluded **"there may be reason to believe"** RFFW violated state campaign finance law. RFFW was forced to register, disclose that **Shery Cotton** (co-founder of Meridian Health Plan, sold for $2.5 billion) provided the {{ fact(registry="entities", key="rffw", field="complaint_amount") }}, and pay $1,300 in late fees.
 
-The complaint characterized the arrangement as a **"$1,000,000 money laundering scheme"** — forming an LLC for the sole purpose of hiding a donor's identity from the public for 353 days.
+The complaint characterized the arrangement as a **"{{ fact(registry="entities", key="rffw", field="complaint_amount") }} money laundering scheme"** — forming an LLC for the sole purpose of hiding a donor's identity from the public for 353 days.
 
 **RFFW's treasurer:** Renae Moore (Dykema).
 **RFFW's attorney:** W. Alan Wilk (Dykema).
@@ -128,8 +128,8 @@ When a single law firm operates the infrastructure beneath political action on b
 | What Was Lost | How | Source |
 |--------------|-----|--------|
 | Community benefits ordinance (2016) | Two Dykema dark money vehicles spent $100K+ to defeat Prop A | [Metro Times](https://www.metrotimes.com/news/exclusive-former-duggan-liaison-heads-dark-money-fund-opposing-detroit-community-benefits-ordinance-2468328/) · [Motor City Muckraker](https://motorcitymuckraker.com/2016/11/03/dirty-money-lies-mayor-duggan-behind-controversial-misleading-nonprofit/) |
-| Investigative journalist in District 4 | SDJ spent $84K to defeat ML Elrick, replace him with PCA board member | [Deadline Detroit](https://www.deadlinedetroit.com/articles/28930/benson-tied_non-profit_pivots_to_fighting_elrick_in_detroit_district_4_council_race) |
-| Donor transparency in ballot campaigns | RFFW hid $1M donor for 353 days; penalty: $1,300 | [MI SOS](https://www.michigan.gov/sos/-/media/Project/Websites/sos/CFR-Complaints/2023/Meyers-v-RFFW-2.pdf) |
+| Investigative journalist in District 4 | SDJ spent {{ fact(registry="entities", key="sdj", field="expenditure") }} to defeat ML Elrick, replace him with PCA board member | [Deadline Detroit](https://www.deadlinedetroit.com/articles/28930/benson-tied_non-profit_pivots_to_fighting_elrick_in_detroit_district_4_council_race) |
+| Donor transparency in ballot campaigns | RFFW hid {{ fact(registry="entities", key="rffw", field="complaint_amount") }} donor for 353 days; penalty: $1,300 | [MI SOS](https://www.michigan.gov/sos/-/media/Project/Websites/sos/CFR-Complaints/2023/Meyers-v-RFFW-2.pdf) |
 
 ---
 
@@ -157,7 +157,7 @@ This is how you read a process table.
 Dark money vehicles are spawned, renamed, dissolved, and respawned. New campaign finance filings emerge every cycle. LARA entity status changes. This study follows the process table as it evolves.
 
 **Connection to other investigations:**
-- [Tommy Boy](/analysis/tommy-boy/) — Where the OS outputs: Dykema PAC → $4K → Barrett → "convicted felon" smear against tenant advocates. The operating system's user-facing terminal.
+- [Tommy Boy](/analysis/tommy-boy/) — Where the OS outputs: Dykema PAC → {{ fact(registry="actors", key="barrett", field="dykema_pac_amount") }} → Barrett → "convicted felon" smear against tenant advocates. The operating system's user-facing terminal.
 - [FOIAworks Infrastructure Scan](/evidence/foiaworks-infrastructure/) — Another entity using privacy infrastructure to avoid accountability
 - [LakeNet Signal Trace](/analysis/lakenet-signal-trace/) — Hard infrastructure layer beneath the privacy stack
 - [Infrastructure Grid](/analysis/infrastructure-grid/) — Every node where entity infrastructure touches individual privacy

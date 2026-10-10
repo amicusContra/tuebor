@@ -16,7 +16,7 @@ Michigan's attorney discipline system dismisses the vast majority of complaints.
 
 | Year | Grievances Received | Rejected by GA at Intake | Closed by Commission | Total Dismissed | Formal Complaints Filed |
 |------|---|---|---|---|---|
-| **2024** | 2,393 | 1,422 (59.4%) | 205 | **1,627 / 1,832 dispositions (88.8%)** | 59 |
+| **2024** | 2,393 | 1,422 (59.4%) | 205 | **1,627 / 1,832 dispositions ({{ fact(registry="entities", key="agc", field="dismissal_rate") }})** | 59 |
 | **2023** | 1,989 | 1,221 (61.4%) | 216 | **1,437 / 1,989 (72.2%)** | 64 |
 | **2012–2020** | 21,048 total | 15,816 by GA alone | — | **75% dismissed at intake** | — |
 
@@ -32,7 +32,7 @@ The JTC's own annual reports tell the same story for judges:
 
 | Year | Grievances Filed | Against Judges | Resolved | Closed Without Action | Private Discipline | Public Complaints |
 |------|---|---|---|---|---|---|
-| **2025** | 698 | 401 judges | 556 | **540 (97.1%)** | 14 (2 admonitions, 7 cautions, 5 letters) | **5** |
+| **2025** | 698 | 401 judges | 556 | **540 ({{ fact(registry="entities", key="jtc", field="dismissal_rate") }})** | 14 (2 admonitions, 7 cautions, 5 letters) | **5** |
 | **2024** | 530 | 331 judges | 622 | **586 (94.2%)** | 30 (9 admonitions, 12 cautions, 4 letters) | **0** |
 
 In 2025, **99% of resolved judicial grievances closed without any finding of misconduct.** Only five became public complaints. Fourteen received confidential discipline — their names never released.
@@ -47,8 +47,8 @@ Source: [JTC 2024 Annual Report (PDF)](http://cms4files.revize.com/mjtc/docs/202
 
 | Body | Year | Filed | Dismissed | Rate |
 |---|---|---|---|---|
-| **AGC** | 2024 | 2,393 | 1,627 | **88.8%** |
-| **JTC** | 2025 | 698 | 540 | **97.1%** |
+| **AGC** | 2024 | 2,393 | 1,627 | **{{ fact(registry="entities", key="agc", field="dismissal_rate") }}** |
+| **JTC** | 2025 | 698 | 540 | **{{ fact(registry="entities", key="jtc", field="dismissal_rate") }}** |
 
 The AGC and JTC together process over 3,000 complaints per year. Fewer than 100 result in any public consequence. The system does not fail to receive complaints. It fails to act on them.
 
@@ -106,7 +106,7 @@ It does not mean no one cares. It means the system is not built to find patterns
 
 ## The Mathematics
 
-If the AGC receives 2,500 complaints per year (approximate) and dismisses 94%:
+If the AGC receives 2,500 complaints per year (approximate) and dismisses {{ fact(registry="entities", key="agc", field="dismissal_headline") }}:
 - **2,350** are dismissed or confidentially resolved
 - **150** result in some form of visible action
 - Of those 150, many are consent dispositions or reprimands
@@ -138,8 +138,8 @@ That is what Tuebor is for.
 - **[Data Braid — GLLG Entity Graph](https://detroit.primals.eco/evidence/data-braid-gllg/)** — Defense attorney + charter authorizer on same nonprofit board. The ADB hearing panelist IS the defense attorney.
 - {{ source(key="clutch_justice", path="/2026/10/07/mind-the-gap-state-bar-agc-unauthorized-practice/", label="Mind the Gap") }} — Two letters. One day apart. The immunity mathematics in action.
 
-- **[They Banked on Banks](/analysis/they-banked-on-banks/)** — The live case study: Brian Roderick Banks has 9 convictions and runs 2 charter schools. The immunity mathematics applied to real children.
-- **[Signal Permeability](/analysis/signal-permeability/)** — Measuring whether evidence can propagate through the 88.8% dismissal wall.
+- **[They Banked on Banks](/analysis/they-banked-on-banks/)** — The live case study: Brian Roderick Banks has {{ fact(registry="actors", key="banks", field="conviction_count") }} convictions and runs 2 charter schools. The immunity mathematics applied to real children.
+- **[Signal Permeability](/analysis/signal-permeability/)** — Measuring whether evidence can propagate through the {{ fact(registry="entities", key="agc", field="dismissal_rate") }} dismissal wall.
 
 ## Sources
 

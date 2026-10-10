@@ -33,7 +33,7 @@ They banked on Banks, and parents are paying the interest.
 
 ## Who Is Brian Roderick Banks?
 
-**Brian Roderick Banks** (Michigan ICHAT SID **2029469K**) has **9 criminal convictions** — 6 felony, 3 misdemeanor — across 5 agencies and 5 courts in Michigan. He runs **Purpose Charter Academy** and **MacDowell Preparatory Academy** in Detroit. His dissertation from Walden University (Ph.D., 2022) lists a fabricated credential: **"J.D., MSU Law, 2010."** The State Bar of Michigan returns zero results for "Brian Banks." He has never been admitted to any bar.
+**Brian Roderick Banks** (Michigan ICHAT SID **2029469K**) has **{{ fact(registry="actors", key="banks", field="conviction_count") }} criminal convictions** — {{ fact(registry="actors", key="banks", field="felony_count") }} felony, {{ fact(registry="actors", key="banks", field="misdemeanor_count") }} misdemeanor — across 5 agencies and 5 courts in Michigan. He runs **Purpose Charter Academy** and **MacDowell Preparatory Academy** in Detroit. His dissertation from Walden University (Ph.D., 2022) lists a fabricated credential: **"J.D., MSU Law, 2010."** The State Bar of Michigan returns zero results for "Brian Banks." He has never been admitted to any bar.
 
 ### Brian Roderick Banks — Criminal Record Summary
 
@@ -48,7 +48,7 @@ They banked on Banks, and parents are paying the interest.
 
 **Source:** Michigan ICHAT — SID 2029469K. [Verify at michigan.gov/msp](https://www.michigan.gov/msp).
 
-Despite these 9 convictions, Brian Roderick Banks obtained a Michigan School Administrator Certificate from the Michigan Department of Education on **September 2, 2022** — 3 days after the school year started. He now operates two publicly funded charter schools.
+Despite these {{ fact(registry="actors", key="banks", field="conviction_count") }} convictions, Brian Roderick Banks obtained a Michigan School Administrator Certificate from the Michigan Department of Education on **September 2, 2022** — 3 days after the school year started. He now operates two publicly funded charter schools.
 
 ---
 
@@ -56,7 +56,7 @@ Despite these 9 convictions, Brian Roderick Banks obtained a Michigan School Adm
 
 **DPD Report #26-0909-0176.** A parent with legal custody attended Purpose Charter Academy. **Brian Roderick Banks** denied the parent access to their child and told Detroit Police he is **"an attorney."**
 
-He is not an attorney. The State Bar of Michigan returns zero results for "Brian Banks." He has never been admitted to any bar. His nine criminal convictions — six felonies — prevented bar admission.
+He is not an attorney. The State Bar of Michigan returns zero results for "Brian Banks." He has never been admitted to any bar. His {{ fact(registry="actors", key="banks", field="conviction_count") }} criminal convictions — {{ fact(registry="actors", key="banks", field="felony_count") }} felonies — prevented bar admission.
 
 When Brian Roderick Banks told police he was an attorney, he committed Unauthorized Practice of Law under **MCL 450.681**. When he used that false claim to deny a parent access to their child, he weaponized it.
 
@@ -119,9 +119,9 @@ While blocking parents at the school door, Brian Roderick Banks hosts parties:
 | 2024 | Inaugural Black Tie Gala — **Purpose Charter Academy** | — |
 | 2026 | Michigan CBC Reception at Kitchen + Kocktails, DC | $20K–$50K |
 
-The 2024 CBC party honored **Sherry Gay-Dagnogo** — the DPSCD board member who authorized Banks' charter. Banks honors the politician who authorized his school. At a party in Washington. While his school has **3% math proficiency**.
+The 2024 CBC party honored **Sherry Gay-Dagnogo** — the DPSCD board member who authorized Banks' charter. Banks honors the politician who authorized his school. At a party in Washington. While his school has **{{ fact(registry="entities", key="macdowell", field="math_proficiency") }} math proficiency**.
 
-The Inaugural Black Tie Gala used **the school's name** — Purpose Charter Academy. A school funded by public dollars. Hosting a gala. For a man with nine convictions.
+The Inaugural Black Tie Gala used **the school's name** — Purpose Charter Academy. A school funded by public dollars. Hosting a gala. For a man with {{ fact(registry="actors", key="banks", field="conviction_count") }} convictions.
 
 **4-year estimated event total: $73K–$225K.**
 
@@ -132,11 +132,11 @@ Open question: which entity paid? Personal funds? Purpose Foundation (501c3)? Sc
 ## The Cycle
 
 ```
-PUBLIC MONEY ($4.9M/yr)
+PUBLIC MONEY ({{ fact(registry="entities", key="macdowell", field="revenue_short") }}/yr)
     │
     └── Purpose Charter Academy
             │
-            ├── The Purpose Group, LLC ──► takes 72.67% ($3.4M)
+            ├── The Purpose Group, LLC ──► takes {{ fact(registry="entities", key="macdowell", field="extraction_pct") }} ({{ fact(registry="entities", key="purpose_group", field="extraction_short") }})
             │       │
             │       └── Brian Roderick Banks controls
             │
@@ -181,9 +181,9 @@ A felon's campaign, managed by a felon, named "Bank on Banks."
 The name was aspirational. Michigan banked on Banks. The charter system banked on Banks. The judiciary banked on Banks. They are still banking on Banks.
 
 The returns are:
-- **3% math proficiency**
-- **$3.4M extracted annually** through a single-member LLC
-- **9 criminal convictions** running two schools
+- **{{ fact(registry="entities", key="macdowell", field="math_proficiency") }} math proficiency**
+- **{{ fact(registry="entities", key="purpose_group", field="extraction_short") }} extracted annually** through a single-member LLC
+- **{{ fact(registry="actors", key="banks", field="conviction_count") }} criminal convictions** running two schools
 - **A parent denied access to their child at the school door**
 - **A PPO filed against the parent who complained**
 - **A board chaired by a judge in the court that processes the PPO**
@@ -213,7 +213,7 @@ The returns are:
 - **[How To Build an OS](/analysis/how-to-build-an-os/)** — The Dykema architecture that connects all of them.
 
 **On detroit.primals.eco:**
-- **[Brian Roderick Banks — Full Profile](https://detroit.primals.eco/network/actors/brian-banks/)** — 9 convictions, credential chain, entity control, email admissions.
+- **[Brian Roderick Banks — Full Profile](https://detroit.primals.eco/network/actors/brian-banks/)** — {{ fact(registry="actors", key="banks", field="conviction_count") }} convictions, credential chain, entity control, email admissions.
 - **[Purpose Charter Academy](https://detroit.primals.eco/network/entities/purpose-charter-academy/)** — Board, authorizer, management structure.
 - **[CBC Week Events](https://detroit.primals.eco/analysis/cbc-events/)** — Four years of political networking parties. $73K–$225K estimated.
 - **[The RICO Pattern](https://detroit.primals.eco/analysis/rico-pattern/)** — Six predicate acts, 14 years, one enterprise.
@@ -227,14 +227,14 @@ The returns are:
 | Brian Roderick Banks denied parent access, Aug 29 | DPD Report #26-0909-0176 | Request from DPD Records |
 | Banks told police "I am an attorney" | Same police report | Same |
 | State Bar: zero results for "Brian Banks" | State Bar of Michigan | [michbar.org](https://www.michbar.org) → Member Directory |
-| Brian Roderick Banks — 9 convictions (6 felony) | Michigan ICHAT | SID 2029469K |
+| Brian Roderick Banks — {{ fact(registry="actors", key="banks", field="conviction_count") }} convictions ({{ fact(registry="actors", key="banks", field="felony_count") }} felony) | Michigan ICHAT | SID 2029469K |
 | Banks dissertation lists fake "J.D., MSU Law, 2010" | Walden University #12627 | ProQuest |
 | PPO motion filed Sep 17 | Wayne County court records | Case search |
 | PCA Board of Directors | PCA website | [purposecharteracademy.com/boardofdirectors](https://www.purposecharteracademy.com/boardofdirectors) |
 | Judge Sabree appointed Family Division May 2025 | Governor's office | Press release |
 | DPSCD authorized PCA Jul 2025 | DPSCD Board minutes | Public records |
 | CBC events 2023–2026 | Eventbrite | Archived URLs |
-| Purpose Group takes 72.67% | Financial records | Clutch Justice analysis |
+| Purpose Group takes {{ fact(registry="entities", key="macdowell", field="extraction_pct") }} | Financial records | Clutch Justice analysis |
 | "Bank on Banks" PAC, Holland treasurer | MI Campaign Finance | CFRS search |
 | Holland MDOC discharge "WITHOUT IMPROVEMENT" | MDOC OTIS | #443789 |
 | PCA phone: (313) 767-3100 | PCA website | [purposecharteracademy.com](https://www.purposecharteracademy.com) |

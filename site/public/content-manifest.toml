@@ -1,0 +1,252 @@
+# BLAKE3 Content Manifest
+# Generated: 2026-10-10T02:26:02Z
+# Pages: 49
+generated = "2026-10-10T02:26:02Z"
+root_hash = "8ec5ce87336e93bbf1ba8dae4dc16dc46bb058764764aac8e2d28f83ce39af5b"
+page_count = 49
+
+[pages."content/_index.md"]
+blake3 = "6e3e96c1624181b64929353d4939839cb72d1c98db9f90c613d34f78a2aa0aaf"
+size_bytes = 13060
+title = "Tuebor — Michigan Public Record"
+
+[pages."content/actors/_index.md"]
+blake3 = "cfada35ffd01ecd01ea3f885fa47cca5e51640a1ead0687f0b79f4d682bb14e0"
+size_bytes = 6050
+title = "Actors"
+
+[pages."content/actors/borrello.md"]
+blake3 = "c3644ee13036d6782c147dd5b373917df89de6781e9e178905d87e7e4d3c6913"
+size_bytes = 4571
+title = "Judge Andre R. Borrello"
+
+[pages."content/actors/ellison.md"]
+blake3 = "dd08a946c4385f1bb0ef8a4418fb93cee16075c383e2a02215527f8daef9139a"
+size_bytes = 34206
+title = "Philip L. Ellison"
+
+[pages."content/actors/ellsworth.md"]
+blake3 = "49dbbb27b136f40380d674c4df6f2d44f793ccb954fd4df7bf2987e71e6ae460"
+size_bytes = 5631
+title = "Kelly D. Ellsworth"
+
+[pages."content/actors/gafkay.md"]
+blake3 = "b8cccff0cb0511951e9e8af6c1b10e8bacf6b634f783a243e992d68f4847462d"
+size_bytes = 9176
+title = "Judge Julie A. Gafkay"
+
+[pages."content/actors/galen.md"]
+blake3 = "fef2b233471d99ef3b9107f416c88bcf63a1019f03b179bf5b2e518de7cb59a7"
+size_bytes = 8610
+title = "Judge Kathleen G. Galen"
+
+[pages."content/actors/lindke.md"]
+blake3 = "854500df994829be6e5aed6ff2988db509b18343763edfdc6cf92e14c6c7ece3"
+size_bytes = 9122
+title = "Kevin Lindke — The Client"
+
+[pages."content/actors/nakfoor-pratt.md"]
+blake3 = "e99338467b75d192f99153d6d073a3ae7a4ed039bcdaf8486bc4f131291d750f"
+size_bytes = 7360
+title = "Julie Nakfoor Pratt"
+
+[pages."content/actors/schipper.md"]
+blake3 = "8da7f1abb4d82c3ca35476801849b7373734b2c318fcabd073802323aebb2f92"
+size_bytes = 5894
+title = "Judge Michael Schipper"
+
+[pages."content/analysis/_index.md"]
+blake3 = "fe9268f12200a099afa6efdca126a8c6eddb102409ca4b860dff753a72f417fb"
+size_bytes = 11656
+title = "Analysis"
+
+[pages."content/analysis/anderson-hemlock.md"]
+blake3 = "8b4d534e6eded9f33edf4588eab8d78c808b3e55391a21171acb9a9f7be816df"
+size_bytes = 14334
+title = "Anderson Localization — The Hemlock Subgraph"
+
+[pages."content/analysis/credential-vs-conduct.md"]
+blake3 = "76ea6be462613b4c9ed389a98b0a9a72d380fe639aa42c0bdd771dfbb5956da4"
+size_bytes = 13130
+title = "Credential vs. Conduct — The Ellison Paradox"
+
+[pages."content/analysis/cross-subgraph-patterns.md"]
+blake3 = "610bd66965494810cbc70004b9158cecf2d9a14ff745303eb83cc72ebf834345"
+size_bytes = 18149
+title = "Cross-Subgraph Patterns — How Michigan's Oversight Failures Connect"
+
+[pages."content/analysis/enforcement-ecosystem.md"]
+blake3 = "1374bf965d82bf0e4ace0e8b28fa63b16b53aa8f2c6c075526cdc20b765f9288"
+size_bytes = 18629
+title = "The Enforcement Ecosystem — Who Is Supposed to Be Doing This?"
+
+[pages."content/analysis/hey-mikey.md"]
+blake3 = "c166f83db17e2548f68f20455541ad1e010f840a71f0b16ea2b27e2f92ab282a"
+size_bytes = 23949
+title = "Hey Mikey, He Likes It! — The Senate Candidate Who Ate Everything They Fed Him"
+
+[pages."content/analysis/how-to-build-an-os.md"]
+blake3 = "ca4bac0745c32813b453696770c298e3296bf47dbd48355664d550c7bea59feb"
+size_bytes = 12739
+title = "How To Build an OS — One Law Firm, Six Dark Money Vehicles, Both Parties"
+
+[pages."content/analysis/information-entropy.md"]
+blake3 = "9e9d3671c9e7a574aca99aad6a030542037adf314e5ad2d0a8f86e021f3603f1"
+size_bytes = 18930
+title = "Information Entropy — Oral Tradition, Written Tradition, and the Mathematics of Communication"
+
+[pages."content/analysis/infrastructure-grid.md"]
+blake3 = "2d67ac23dfb2da473ba6debf530c70d3e8d7c2465ca61bcac6ab2454cf86c606"
+size_bytes = 24520
+title = "Infrastructure Grid — Every Point Where Entity Infrastructure Touches Individual Privacy"
+
+[pages."content/analysis/institutional-immunity.md"]
+blake3 = "356ac8298e3e60f2812d4c668a99d57cae34bd9dd2802e213957d29367728045"
+size_bytes = 10931
+title = "Institutional Immunity Pattern"
+
+[pages."content/analysis/lakenet-signal-trace.md"]
+blake3 = "c81cbf6f3d6d22176bcb58d3542695d46fd5d101ee72204a345b7c0d18bc9405"
+size_bytes = 19951
+title = "LakeNet Signal Trace — One ISP, One Town, Every Thread"
+
+[pages."content/analysis/metric-tensor.md"]
+blake3 = "d109e0835d0837e328a7cb7074418c7276d6b2cfa7fe77be0a5fd194e77ad240"
+size_bytes = 14651
+title = "The Metric Tensor — Shape, Proportion, and Dimensional Compression"
+
+[pages."content/analysis/signal-permeability.md"]
+blake3 = "c51ba8ad944fc729687913b185af3fde39cec23d8176bee4ac87e950c653157c"
+size_bytes = 17414
+title = "Signal Permeability — Live Anderson Study of Institutional Response"
+
+[pages."content/analysis/sitting-in-a-tree.md"]
+blake3 = "6a04127ef0e7fa6f57fcb94c26e1ca1d31976b59db243238f1339dcdf66e3a13"
+size_bytes = 17442
+title = "Sitting in a Tree — Mike and Tom and Dykema and Banks"
+
+[pages."content/analysis/they-banked-on-banks.md"]
+blake3 = "c1fc3e5ec972396f02e3afae76ee245f363b26d9bb1c95e21010d15de2905e88"
+size_bytes = 15232
+title = "They Banked on Banks — Brian Roderick Banks, 9 Convictions, 2 Charter Schools, Detroit"
+
+[pages."content/analysis/tommy-boy.md"]
+blake3 = "44d2a150e918369cd33db843f71b0007024066749da47b707e08540a20b97fff"
+size_bytes = 21416
+title = "Tommy Boy — The Congressman Who Calls Tenant Organizers Felons While His Donors Employ Actual Felons"
+
+[pages."content/analysis/upepa-contradiction.md"]
+blake3 = "d5d3038abcc01360be58b84613185d63e55cdcf3ec6ad3626b526841f711dc66"
+size_bytes = 10551
+title = "The UPEPA Contradiction — How One Attorney Broke Michigan's Anti-SLAPP Statute"
+
+[pages."content/desk/_index.md"]
+blake3 = "499471996db5db2ee18ecf91cde95d6598fd636f4604986c31f0d6f50e2a1c05"
+size_bytes = 292
+title = "Desk — Investigation Workbench"
+
+[pages."content/evidence/_index.md"]
+blake3 = "4facd3cb88ee7c1ec98eff51c3c002a5de24304c746d8fff07d8df2bb77b4b73"
+size_bytes = 5016
+title = "Evidence"
+
+[pages."content/evidence/data-braid-aljouny.md"]
+blake3 = "d43e9cb39cb29f80d4156d4ba6ef13637212f880d119a860465265ed854d3675"
+size_bytes = 18744
+title = "Data Braid — Aljouny Investigation: Public vs. Private Evidence Layers"
+
+[pages."content/evidence/domain-registrations.md"]
+blake3 = "6ba2cc57cc80753d376c6bd8b283f4471d6b21571fe960ca0c23cbc19a71f69c"
+size_bytes = 8655
+title = "Domain Registration Campaign: Three PPO Holders Targeted in 30 Minutes"
+
+[pages."content/evidence/ellison-sanctions.md"]
+blake3 = "add7c34474caf09c139a6f6dba6fae5229f80b8ca24830e746dc4e27b19aada6"
+size_bytes = 12533
+title = "$73,752.45: The Federal Sanctions Against Philip L. Ellison"
+
+[pages."content/evidence/foiaworks-early-warning.md"]
+blake3 = "0fcc0d5ab9ae2a2de7316d35da9ebe187bff84615b60cf22ac2d189fbee3c2b0"
+size_bytes = 15748
+title = "FOIAworks as an Early Warning System — The Attorney Who Sees Every Investigation Before It Starts"
+
+[pages."content/evidence/foiaworks-honeypot.md"]
+blake3 = "09fc76b09926d8b8bbbdd8c930a9e6f85473a28c9bb782da5ebd0ddf43059eca"
+size_bytes = 13113
+title = "FOIAworks: A Transparency Tool With No Privacy Policy, Operated by the Attorney Who Fabricated a Witness"
+
+[pages."content/evidence/foiaworks-infrastructure.md"]
+blake3 = "7d581843a120d30f70bee641ceb3b69d1283d1bfaf397ff28f448f25701e7308"
+size_bytes = 17442
+title = "FOIAworks Infrastructure Scan — What the Server Tells Anyone Who Asks"
+
+[pages."content/evidence/ghost-witness-aljouny.md"]
+blake3 = "8ffa6ef2503eccdfae790cd8362a988dc39a55f4c4febf9295e34613a20f6464"
+size_bytes = 9366
+title = "Ghost Witness — The Samantha Aljouny Investigation"
+
+[pages."content/evidence/impersonation-domain.md"]
+blake3 = "32383eb8766e5696d2c08d1428f6ecc4bfdd8b0b02b4ba353019f0fc5a40f521"
+size_bytes = 5642
+title = "ritafelinewilliams.com — The Impersonation Domain"
+
+[pages."content/evidence/litigation-docket.md"]
+blake3 = "67da2ec347fe31d2bf82b4953f09d8cca9e6289dc383f69056b9ee3d4026e325"
+size_bytes = 12457
+title = "The Complete Ellison Litigation Docket"
+
+[pages."content/evidence/slapp-timeline.md"]
+blake3 = "7e1f994964745ff7393475bdd2b8db15fa1f95b6817e6f0f342f3e9a06ee7418"
+size_bytes = 9116
+title = "The SLAPP Suit — Complete Timeline"
+
+[pages."content/investigate/_index.md"]
+blake3 = "95deb984e9aa74cbf997b94c1cb04002a7a658db4dfe57087e6e8b32c0c0f4c6"
+size_bytes = 4153
+title = "Investigate"
+
+[pages."content/investigate/court-records.md"]
+blake3 = "1d634a058cb600be2d90ba1b619866c08e7792597aa8e89de49768c576ac6300"
+size_bytes = 8627
+title = "Court Records Guide"
+
+[pages."content/investigate/evidence-documentation.md"]
+blake3 = "5680b70066af08b0cd3ab2baa4ed90b4127143a50e8ce2a9859c71e5dcd46031"
+size_bytes = 7131
+title = "Evidence Documentation"
+
+[pages."content/investigate/foia-toolkit.md"]
+blake3 = "5997bcc56fa41c3e1a06ff3e386e9a7b298d276dffdd1583d6f14460053f2082"
+size_bytes = 7210
+title = "Michigan FOIA Toolkit"
+
+[pages."content/investigate/foiaworks-warning.md"]
+blake3 = "b468e0b04e7774092da9c2d52ee3a80bf6d4025932d4d01c1c886baa92abdb79"
+size_bytes = 6715
+title = "Do Not Use FOIAworks — Use the Free FOIA Generator Instead"
+
+[pages."content/investigate/hemlock-foia.md"]
+blake3 = "12e365f3c6de7b116ce523c10407cf4e75b0407c624812221c5d577d7ece7b24"
+size_bytes = 11889
+title = "Hemlock FOIA Toolkit — How to Request Records About the Ellison Network"
+
+[pages."content/investigate/oversight-guide.md"]
+blake3 = "555fcfd5e6140b65717d7e5ac9205dd307835b07a93418227ef9f203be7b5dd9"
+size_bytes = 9292
+title = "Michigan Oversight Filing Guide"
+
+[pages."content/map/_index.md"]
+blake3 = "4ea462b719029004c106a0c65bc5779f8f217447b803b4ca7803961f5808a2b1"
+size_bytes = 146
+title = "Network Map"
+
+[pages."content/membrane/_index.md"]
+blake3 = "7e467f6aaeda0dd2ccb3312776ef590d4ec84d24cb99ea60f2dc365471096213"
+size_bytes = 338
+title = "Inner Membrane — Rapid Navigation"
+
+[pages."content/timeline/_index.md"]
+blake3 = "9bcccc77a92f056e0a1233bfd778b4839e2fb717cdb7b3a29c772c609ad8189c"
+size_bytes = 10134
+title = "Timeline"
+

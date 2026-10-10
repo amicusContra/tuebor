@@ -17,7 +17,7 @@ counties = ["Ingham", "Eaton", "Clinton"]
 
 U.S. Rep. Tom Barrett (R-Charlotte) represents Michigan's 7th Congressional District. On August 13, 2026, Barrett called his Democratic opponent — a tenant organizer, water protector, and co-founder of Mid-Michigan's tenant advocacy infrastructure — a **"convicted felon."**
 
-Barrett's campaign received **$4,000** from Dykema Gossett Federal PAC.
+Barrett's campaign received **{{ fact(registry="actors", key="barrett", field="dykema_pac_amount") }}** from Dykema Gossett Federal PAC.
 
 Dykema Gossett incorporated a dark money entity whose president is **Kenneth Daniels** — a convicted federal felon who structured cash for a **$21 million drug ring** ([DEA press release, May 12, 2014](https://www.dea.gov)).
 
@@ -77,7 +77,7 @@ When Barrett calls Lawrence a "convicted felon," he is calling the co-founder of
 |------|--------|------|-----------|
 | June 7, 2026 | $1,000 | Contribution | [FEC Schedule A, Line 11C](https://docquery.fec.gov/cgi-bin/forms/C00793976/2010169/sa/11C) |
 | June 16, 2026 | $1,000 | Direct Contribution | FEC Schedule A, Line 11C |
-| **Cycle total** | **$4,000** | | FEC aggregate on [yourstate.us](https://yourstate.us/member/B001321/funding) |
+| **Cycle total** | **{{ fact(registry="actors", key="barrett", field="dykema_pac_amount") }}** | | FEC aggregate on [yourstate.us](https://yourstate.us/member/B001321/funding) |
 
 PAC address on filing: **201 Townsend St, Lansing MI 48933** — Dykema Gossett's Lansing office.
 
@@ -148,13 +148,13 @@ When Barrett deployed the label in August 2026, the infrastructure was already b
 
 NRCC spokesman Zach Bannon: *"Socialist felon William Lawrence is a radical far-left liberal who puts his extreme climate agenda ahead of common sense and the priorities of hardworking Michiganders."* ([WWMT](https://wwmt.com/news/state/michigan-congressional-candidate-william-lawrence-defends-conviction-pipeline-protest-enbridge-progressive-democrat))
 
-### Stage 2: Jason Roe ($782,000)
+### Stage 2: Jason Roe ({{ fact(registry="actors", key="barrett", field="roe_consulting") }})
 
-Barrett's campaign strategist Jason Roe — Principal of Roe Strategic LLC, former Michigan Republican Party Executive Director — was paid **$782,000** by the Barrett campaign (FEC disbursement records, Committee C00793976).
+Barrett's campaign strategist Jason Roe — Principal of Roe Strategic LLC, former Michigan Republican Party Executive Director — was paid **{{ fact(registry="actors", key="barrett", field="roe_consulting") }}** by the Barrett campaign (FEC disbursement records, Committee C00793976).
 
 Roe's own website [boasts](https://roestrategic.llc/jroebio): *"2024: Strategist for Tom Barrett's victory in Michigan's 7th Congressional District, one of the most expensive and competitive seats in the nation."*
 
-$782,000 to one consultant. The Tenant Resource Center of Mid Michigan's annual budget from the Ingham County Housing Trust Fund is $600,000.
+{{ fact(registry="actors", key="barrett", field="roe_consulting") }} to one consultant. The Tenant Resource Center of Mid Michigan's annual budget from the Ingham County Housing Trust Fund is $600,000.
 
 ### Stage 3: Right-Wing Media Cascade
 
@@ -197,13 +197,13 @@ The same campaign strategist — Jason Roe — managed both the "convicted felon
 
 ## The Numbers
 
-Barrett's campaign has raised **$6.3 million** (FEC, through July 15, 2026), including **$1.48 million from PACs**.
+Barrett's campaign has raised **{{ fact(registry="actors", key="barrett", field="nrcc_spend") }}** (FEC, through July 15, 2026), including **$1.48 million from PACs**.
 
 Selected donors relevant to this analysis:
 
 | PAC | Amount | Date | Context |
 |-----|--------|------|---------|
-| **Dykema Gossett Federal PAC** | $4,000 | Jun 2026 | Dark money entity infrastructure (this page) |
+| **Dykema Gossett Federal PAC** | {{ fact(registry="actors", key="barrett", field="dykema_pac_amount") }} | Jun 2026 | Dark money entity infrastructure (this page) |
 | **AIPAC** | $11,400 | May 2026 | Intermediary contribution |
 | **Max Miller PAC** | $5,500 | 2022-2025 | Miller under House Ethics probe for domestic violence |
 
@@ -239,17 +239,17 @@ The full Dykema architecture is documented in **[How To Build an OS](/analysis/h
 DYKEMA GOSSETT PLLC (est. 1926)
     │
     ├── 1993: Authored charter school law (PA 362)
-    │     └── Enables $4.9M/yr to schools run by 9x-convicted superintendent
+    │     └── Enables {{ fact(registry="entities", key="macdowell", field="revenue_short") }}/yr to schools run by {{ fact(registry="actors", key="banks", field="conviction_count") }}x-convicted superintendent
     │
     ├── 2016: Incorporated Save Detroit Jobs (LARA 802002459)
     │     ├── President: Kenneth Daniels (convicted federal felon)
     │     ├── Address: Dykema's Lansing office
     │     ├── Phone: Dykema's Lansing phone
-    │     └── $84,500 pipeline → Detroit Next PAC → Sheffield
+    │     └── {{ fact(registry="entities", key="sdj", field="expenditure") }} pipeline → Detroit Next PAC → Sheffield
     │
     ├── 2021: SDJ renamed to Detroit Leaders (3rd name, same entity)
     │
-    └── 2026: Dykema Federal PAC → $4,000 → Tom Barrett
+    └── 2026: Dykema Federal PAC → {{ fact(registry="actors", key="barrett", field="dykema_pac_amount") }} → Tom Barrett
           ├── Barrett calls opponent "convicted felon" (expunged)
           ├── Wrong election date in Black newspaper (AG cease & desist)
           └── NRCC amplifies: "Socialist felon"
@@ -265,7 +265,7 @@ And one actual convicted felon — in the entity, not the opposition.
 
 | Claim | How to Check |
 |-------|-------------|
-| Dykema PAC → Barrett $4K | [FEC.gov](https://www.fec.gov) → Committee C00793976 → Schedule A → Line 11C |
+| Dykema PAC → Barrett {{ fact(registry="actors", key="barrett", field="dykema_pac_amount") }} | [FEC.gov](https://www.fec.gov) → Committee C00793976 → Schedule A → Line 11C |
 | Save Detroit Jobs LARA entity | [LARA Business Entity Search](https://cofs.lara.state.mi.us/SearchApi/Search/Search) → ID 802002459 |
 | SDJ address = Dykema address | Compare LARA filing to [dykema.com office listing](https://www.dykema.com/offices/lansing) |
 | SDJ compliance email | LARA filing: compliance@dykema.com |
@@ -275,7 +275,7 @@ And one actual convicted felon — in the entity, not the opposition.
 | C-SPAN video | [C-SPAN](https://www.c-span.org/program/campaign-2026/candidate-for-reelection-rep-tom-barrett-r-mi-and-transportation-secretary-sean-duffy-speak-with-reporters/683996) |
 | Wrong election date ad | [CNN, Oct 14, 2024](https://www.cnn.com/2024/10/14/politics/michigan-tom-barrett-election-ad) |
 | AG cease and desist letter | [WLNS PDF](https://www.wlns.com/wp-content/uploads/sites/50/2024/10/CD-TB7.pdf) |
-| Jason Roe $782K | FEC disbursements for C00793976 → Roe Strategic LLC |
+| Jason Roe {{ fact(registry="actors", key="barrett", field="roe_consulting") }} | FEC disbursements for C00793976 → Roe Strategic LLC |
 | TRC HTF funding | [Ingham County HTF project list](https://inghamcountyhousingtrustfund-projects.netlify.app/) |
 | Lawrence co-founded TRC | [Ballotpedia](https://ballotpedia.org/William_Lawrence_%28Michigan%29) |
 | NAACP response | [The New Citizens Press](https://tncpnews.com/lansing-branch-naacp-president-calls-barretts-ad-grossly-misleading/) |
@@ -284,13 +284,13 @@ And one actual convicted felon — in the entity, not the opposition.
 
 ## Related Pages
 
-- **[Hey Mikey, He Likes It!](/analysis/hey-mikey/)** — Rogers shares donors (Griffin, Schwarzman) and infrastructure (Dykema) with Barrett. Same ticket. Same day. Same $88.8M system. CISPA, AT&T revolving door, Florida mansion.
+- **[Hey Mikey, He Likes It!](/analysis/hey-mikey/)** — Rogers shares donors (Griffin, Schwarzman) and infrastructure (Dykema) with Barrett. Same ticket. Same day. Same {{ fact(registry="actors", key="rogers", field="outside_money_short") }} system. CISPA, AT&T revolving door, Florida mansion.
 - **[Sitting in a Tree](/analysis/sitting-in-a-tree/)** — The complete picture: Mike and Tom and Dykema and Banks. One law firm, one compliance specialist, four branches. First comes money. Then comes power. Then comes a charter school with convicted felons in the tower.
 - **[How To Build an OS](/analysis/how-to-build-an-os/)** — The full Dykema architecture: kernel, scheduler, process table, filesystem, bipartisan bus
 - **[Infrastructure Grid](/analysis/infrastructure-grid/)** — Every node where entity infrastructure touches individual privacy
-- **[They Banked on Banks](/analysis/they-banked-on-banks/)** — Brian Roderick Banks: 9 convictions, 2 charter schools, board chaired by a sitting judge. The convicted felon Barrett's donor infrastructure protects.
+- **[They Banked on Banks](/analysis/they-banked-on-banks/)** — Brian Roderick Banks: {{ fact(registry="actors", key="banks", field="conviction_count") }} convictions, 2 charter schools, board chaired by a sitting judge. The convicted felon Barrett's donor infrastructure protects.
 - **[detroit.primals.eco](https://detroit.primals.eco)** — The charter school network Barrett's donor protects
-- **[Brian Roderick Banks — Full Profile](https://detroit.primals.eco/network/actors/brian-banks/)** — 9 convictions, credential chain, PPO weaponization
+- **[Brian Roderick Banks — Full Profile](https://detroit.primals.eco/network/actors/brian-banks/)** — {{ fact(registry="actors", key="banks", field="conviction_count") }} convictions, credential chain, PPO weaponization
 - **[Institutional Immunity](/analysis/institutional-immunity/)** — Why the systems that should catch this don't
 
 ---

@@ -153,8 +153,8 @@ Each node is tagged with:
 | | |
 |---|---|
 | **COLLECTS** | Donor identities (not required to disclose as 501(c)(4)). Expenditure targets (who the money is spent against). Voter contact data (for mailers and ad targeting). Community organizing data (contact lists, event attendees). |
-| **HOW** | IRS 501(c)(4) status — not required to disclose donors. [Phone number is Dykema's (517-374-9100)](/analysis/how-to-build-an-os/). Tax returns prepared by Dykema. Officers include [two Dykema employees](/analysis/how-to-build-an-os/) and a [convicted felon](/analysis/how-to-build-an-os/). Spent [$84,017 defeating a journalist](https://www.deadlinedetroit.com/articles/28930/benson-tied_non-profit_pivots_to_fighting_elrick_in_detroit_district_4_council_race) in a city council race. Paid [$18,000+ to FBI raid target](https://www.deadlinedetroit.com/articles/28819/the_messy_intersection_of_dark_money_and_detroit_politics) Carol Banks in "unspecified reimbursements." |
-| **PROTECTION** | 501(c)(4) donor secrecy. No public accountability for who funds the entity or how it targets individuals. The voters targeted by $84K in attack mailers have no way to know who paid for them. |
+| **HOW** | IRS 501(c)(4) status — not required to disclose donors. [Phone number is Dykema's (517-374-9100)](/analysis/how-to-build-an-os/). Tax returns prepared by Dykema. Officers include [two Dykema employees](/analysis/how-to-build-an-os/) and a [convicted felon](/analysis/how-to-build-an-os/). Spent [{{ fact(registry="entities", key="sdj", field="expenditure") }} defeating a journalist](https://www.deadlinedetroit.com/articles/28930/benson-tied_non-profit_pivots_to_fighting_elrick_in_detroit_district_4_council_race) in a city council race. Paid [$18,000+ to FBI raid target](https://www.deadlinedetroit.com/articles/28819/the_messy_intersection_of_dark_money_and_detroit_politics) Carol Banks in "unspecified reimbursements." |
+| **PROTECTION** | 501(c)(4) donor secrecy. No public accountability for who funds the entity or how it targets individuals. The voters targeted by {{ fact(registry="entities", key="sdj", field="expenditure") }} in attack mailers have no way to know who paid for them. |
 | **TAG** | [IRS 990EZ](https://projects.propublica.org/nonprofits/organizations/813772058) (EIN 81-3772058). LARA entity search. [MI SOS campaign finance](https://miboecfr.nictusa.com/cfr/). [How To Build an OS](/analysis/how-to-build-an-os/). |
 
 **Who it touches:** Every voter who received attack mailers without knowing who funded them. ML Elrick (investigative journalist, defeated). Carol Banks (FBI raid target, received $18K in unspecified reimbursements). Every resident of Detroit District 4 whose representative was selected by dark money.
@@ -174,16 +174,16 @@ Each node is tagged with:
 
 ---
 
-### NODE 11: RFFW LLC — The $1M Pass-Through
+### NODE 11: RFFW LLC — The {{ fact(registry="entities", key="rffw", field="complaint_amount") }} Pass-Through
 
 | | |
 |---|---|
 | **COLLECTS** | Minimal — this was a single-purpose entity. But it collected the donor's identity (Shery Cotton) and concealed it from the public for 353 days. |
-| **HOW** | LLC formed July 14, 2022. $1M donated to Reproductive Freedom for All within 15 days. No public disclosure. [Treasurer: Renae Moore](/analysis/how-to-build-an-os/) (Dykema). Attorney: W. Alan Wilk (Dykema). Registered agent: CSC – Lawyers Incorporating Service. [Complaint](https://www.michigan.gov/sos/-/media/Project/Websites/sos/CFR-Complaints/2023/Meyers-v-RFFW-2.pdf) characterized it as a "$1,000,000 money laundering scheme." |
-| **PROTECTION** | LLC formation privacy. Complaint forced disclosure. Penalty: $1,300 in late fees. The entity's purpose was specifically to prevent the public from knowing who donated $1M to a ballot campaign. |
+| **HOW** | LLC formed July 14, 2022. {{ fact(registry="entities", key="rffw", field="complaint_amount") }} donated to Reproductive Freedom for All within 15 days. No public disclosure. [Treasurer: Renae Moore](/analysis/how-to-build-an-os/) (Dykema). Attorney: W. Alan Wilk (Dykema). Registered agent: CSC – Lawyers Incorporating Service. [Complaint](https://www.michigan.gov/sos/-/media/Project/Websites/sos/CFR-Complaints/2023/Meyers-v-RFFW-2.pdf) characterized it as a "{{ fact(registry="entities", key="rffw", field="complaint_amount") }} money laundering scheme." |
+| **PROTECTION** | LLC formation privacy. Complaint forced disclosure. Penalty: $1,300 in late fees. The entity's purpose was specifically to prevent the public from knowing who donated {{ fact(registry="entities", key="rffw", field="complaint_amount") }} to a ballot campaign. |
 | **TAG** | [MI SOS complaint](https://www.michigan.gov/sos/-/media/Project/Websites/sos/CFR-Complaints/2023/Meyers-v-RFFW-2.pdf) (Meyers v RFFW). [Detroit News](https://www.detroitnews.com/story/news/politics/2023/08/30/abortion-campaign-donation-shery-cotton-grosse-pointe-park-million-dollars-alleged-money-laundering/70708048007/). [How To Build an OS](/analysis/how-to-build-an-os/). |
 
-**Who it touches:** Every Michigan voter who voted on the reproductive rights ballot question without knowing a single person donated $1M through a shell entity.
+**Who it touches:** Every Michigan voter who voted on the reproductive rights ballot question without knowing a single person donated {{ fact(registry="entities", key="rffw", field="complaint_amount") }} through a shell entity.
 
 ---
 
@@ -204,7 +204,7 @@ PPO holders' legal names       →    GoDaddy / Domains By Proxy
   registered as domains               3 domains in 30 minutes
   including MINOR CHILD                renewed through 2027
 
-Investigative reporter         ←    SDJ/Detroit Leaders [$84K]
+Investigative reporter         ←    SDJ/Detroit Leaders [{{ fact(registry="entities", key="sdj", field="expenditure") }}]
   defeated in city election           phone = Dykema: 517-374-9100
 
 25,000 Facebook members        →    Through My Eyes group
@@ -214,7 +214,7 @@ Detroit voters                 ←    Our Neighborhoods First
   targeted by secret money            "hundreds of thousands"
                                      Domains By Proxy website
 
-Michigan voters                ←    RFFW LLC [$1M hidden 353 days]
+Michigan voters                ←    RFFW LLC [{{ fact(registry="entities", key="rffw", field="complaint_amount") }} hidden 353 days]
   uninformed of ballot donor          penalty: $1,300
 
 Every FOIAworks email          →    Microsoft 365 tenant
@@ -232,7 +232,7 @@ Court record system            ←    Fabricated witness filed
 
 When you light up every node simultaneously, the pattern is:
 
-1. **No node has adequate privacy protection for the individuals it touches.** FOIAworks has no privacy policy. SDJ hides its donors. ONF hides behind Domains By Proxy. RFFW hid a $1M donor for 353 days. The harassment domains hide behind the same privacy service.
+1. **No node has adequate privacy protection for the individuals it touches.** FOIAworks has no privacy policy. SDJ hides its donors. ONF hides behind Domains By Proxy. RFFW hid a {{ fact(registry="entities", key="rffw", field="complaint_amount") }} donor for 353 days. The harassment domains hide behind the same privacy service.
 
 2. **Privacy infrastructure designed for individuals is used by entities to avoid accountability.** Domains By Proxy protects individuals from having their home address in WHOIS. These entities use it to hide who runs political operations spending hundreds of thousands of dollars.
 

@@ -31,7 +31,7 @@ They are connected by the same four institutional nodes.
 | **Saginaw / Ellison** | Ellison told the court the AGC complaint was closed. **It was not.** | False representation to a court about an active AGC investigation. |
 | **Barry County** | Julie Nakfoor Pratt | **Privately admonished** (MRPC 3.4(e)). Public result: nothing visible. |
 
-**The pattern:** The same AGC processes complaints about a SLAPP-filing attorney who fabricated a witness (Saginaw), a prosecutor who withheld Brady material (Barry), and attorneys who serve on convicted felons' charter school boards (Detroit). Each complaint is processed in isolation. No cross-referencing occurs. The 94% dismissal rate applies uniformly.
+**The pattern:** The same AGC processes complaints about a SLAPP-filing attorney who fabricated a witness (Saginaw), a prosecutor who withheld Brady material (Barry), and attorneys who serve on convicted felons' charter school boards (Detroit). Each complaint is processed in isolation. No cross-referencing occurs. The {{ fact(registry="entities", key="agc", field="dismissal_headline") }} dismissal rate applies uniformly.
 
 ### Node 2: Judicial Tenure Commission (JTC)
 
@@ -82,7 +82,7 @@ Both investigations document the same technique — **using legitimate credentia
 
 | Actor | Credential Shield | What It Shields |
 |---|---|---|
-| **Brian Banks** (Detroit) | Pahara Fellowship. Institute for Social Policy and Understanding (ISPU) board. National charter advocacy appearances. | **Nine criminal convictions** including arson. Operates charter schools with captured board governance. |
+| **Brian Banks** (Detroit) | Pahara Fellowship. Institute for Social Policy and Understanding (ISPU) board. National charter advocacy appearances. | **{{ fact(registry="actors", key="banks", field="conviction_count") }} criminal convictions** including arson. Operates charter schools with captured board governance. |
 | **Philip Ellison** (Saginaw) | Super Lawyers. SCOTUS bar. Federally appointed class counsel. Adjunct professor. "Faces of Governance" profile. FOIA champion. | **$74,752.45 federal sanctions** across two cases. Fabricated witness. SLAPP suit. Harassment domains targeting a minor child. |
 
 The technique is identical: build a public persona through legitimate-seeming institutional affiliations, then use that persona's authority to deflect scrutiny of documented misconduct. Banks does it through national education networks. Ellison does it through legal credentialing. Both succeed because **Google returns the credentials before the court records.**
@@ -108,7 +108,7 @@ Three actors from the same MSU College of Law class of 2010 appear across two se
 
 | Classmate | Bar Status | Investigation | Misconduct |
 |-----------|-----------|---------------|------------|
-| **Brian Banks** | DENIED — Character & Fitness | Detroit (charter schools) | UPL, credential fraud, 72.67% extraction, 3% math proficiency |
+| **Brian Banks** | DENIED — Character & Fitness | Detroit (charter schools) | UPL, credential fraud, {{ fact(registry="entities", key="macdowell", field="extraction_pct") }} extraction, {{ fact(registry="entities", key="macdowell", field="math_proficiency") }} math proficiency |
 | **Philip Ellison** | Admitted Nov 2010 (P70894) | Saginaw (SLAPP, ghost witness) | $73,752.45 sanctions, fabricated witness, 153 harassment domains |
 | **Aliyah Sabree** | Admitted May 2011 (P74756) | Detroit (Wayne County bench) | Never reported classmate's UPL (MRPC 8.3 violation) |
 
@@ -126,7 +126,7 @@ MSU Law's class sizes are approximately 200-250 students. These three were in th
 | **Defended charter law at MI Supreme Court** | 1997 | Statewide |
 | **Formed Save Detroit Jobs** (LARA 802002459) | 2016 | Detroit (dark money → Sheffield) |
 | **Former employer of Judge Miller** | — | Detroit (Miller = PCA Board Chair) |
-| **Dykema Federal PAC → Barrett ($4K)** | 2026 | MI-7 (congressional) |
+| **Dykema Federal PAC → Barrett ({{ fact(registry="actors", key="barrett", field="dykema_pac_amount") }})** | 2026 | MI-7 (congressional) |
 | **Sanctioned Ellison for $73,752.45** | 2015-2023 | Saginaw (Garcia v. Title Check, W.D. Mich) |
 
 One law firm wrote the law Banks exploits, formed the dark money entity protecting Banks politically, employed the judge on Banks's board, funded the congressman who calls opponents "convicted felons," AND obtained the sanctions against Ellison. Dykema has direct institutional knowledge of both operators' misconduct — from opposite sides of the table.
@@ -172,12 +172,12 @@ From the AGC and JTC's own annual reports:
 
 | Body | Year | Complaints | Dismissed | Rate |
 |---|---|---|---|---|
-| **AGC** | 2024 | 2,393 | 1,627 | **88.8%** |
-| **JTC** | 2025 | 698 | 540 | **97.1%** |
+| **AGC** | 2024 | 2,393 | 1,627 | **{{ fact(registry="entities", key="agc", field="dismissal_rate") }}** |
+| **JTC** | 2025 | 698 | 540 | **{{ fact(registry="entities", key="jtc", field="dismissal_rate") }}** |
 
-The AGC dismisses nearly 9 of 10 complaints. The JTC dismisses 97%. These are not statistics about frivolous complaints. They are **structural throughput rates.**
+The AGC dismisses nearly 9 of 10 complaints. The JTC dismisses {{ fact(registry="entities", key="jtc", field="dismissal_rate") }}. These are not statistics about frivolous complaints. They are **structural throughput rates.**
 
-If you are the subject of a complaint, you have an 88.8% chance (AGC) or 97.1% chance (JTC) of no public consequence. If you are the subject of complaints in three different investigations processed in isolation, your chances are 0.888³ = 70% (AGC) or 0.971³ = 91.5% (JTC). The isolation multiplies protection.
+If you are the subject of a complaint, you have an {{ fact(registry="entities", key="agc", field="dismissal_rate") }} chance (AGC) or {{ fact(registry="entities", key="jtc", field="dismissal_rate") }} chance (JTC) of no public consequence. If you are the subject of complaints in three different investigations processed in isolation, your chances are 0.888³ = 70% (AGC) or 0.971³ = 91.5% (JTC). The isolation multiplies protection.
 
 If the investigations were cross-referenced — if the AGC saw that the same attorney appeared in complaints from multiple people across multiple counties — the probability calculation changes. Pattern evidence is qualitatively different from individual complaints.
 
@@ -239,6 +239,6 @@ The oversight system can ignore the complaints. It cannot erase the evidence tha
 
 ## Related Analysis
 
-- **[They Banked on Banks](/analysis/they-banked-on-banks/)** — The Detroit subgraph's most documented node: Brian Roderick Banks, 9 convictions, 2 charter schools, board chaired by Judge Miller, AG employee as vice chair. The cross-subgraph pattern in a single entity.
+- **[They Banked on Banks](/analysis/they-banked-on-banks/)** — The Detroit subgraph's most documented node: Brian Roderick Banks, {{ fact(registry="actors", key="banks", field="conviction_count") }} convictions, 2 charter schools, board chaired by Judge Miller, AG employee as vice chair. The cross-subgraph pattern in a single entity.
 - **[Signal Permeability](/analysis/signal-permeability/)** — Live experiment: does evidence propagate through the oversight nodes mapped above?
 - **[The Enforcement Ecosystem](/analysis/enforcement-ecosystem/)** — The ten oversight bodies that connect all subgraphs.

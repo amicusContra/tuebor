@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 Allow: /
-Sitemap: https://barry.primals.eco/sitemap.xml
+Sitemap: https://tuebor.primals.eco/sitemap.xml

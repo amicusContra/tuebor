@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title>Tuebor — Michigan Public Record - Ingham</title>
     <subtitle>I will defend. Evidence-based accountability documentation across Michigan courts. Ghost witnesses, disappeared judges, fabricated evidence. Every claim sourced to public records.</subtitle>
-    <link rel="self" type="application/atom+xml" href="https://barry.primals.eco/counties/ingham/atom.xml"/>
-    <link rel="alternate" type="text/html" href="https://barry.primals.eco"/>
+    <link rel="self" type="application/atom+xml" href="https://tuebor.primals.eco/counties/ingham/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://tuebor.primals.eco"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2026-10-09T00:00:00+00:00</updated>
-    <id>https://barry.primals.eco/counties/ingham/atom.xml</id>
+    <id>https://tuebor.primals.eco/counties/ingham/atom.xml</id>
     <entry xml:lang="en">
         <title>The Enforcement Ecosystem — Who Is Supposed to Be Doing This?</title>
         <published>2026-10-09T00:00:00+00:00</published>
@@ -20,10 +20,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://barry.primals.eco/analysis/enforcement-ecosystem/"/>
-        <id>https://barry.primals.eco/analysis/enforcement-ecosystem/</id>
+        <link rel="alternate" type="text/html" href="https://tuebor.primals.eco/analysis/enforcement-ecosystem/"/>
+        <id>https://tuebor.primals.eco/analysis/enforcement-ecosystem/</id>
         
-        <content type="html" xml:base="https://barry.primals.eco/analysis/enforcement-ecosystem/">&lt;h2 id=&quot;the-question&quot;&gt;The Question&lt;&#x2F;h2&gt;
+        <content type="html" xml:base="https://tuebor.primals.eco/analysis/enforcement-ecosystem/">&lt;h2 id=&quot;the-question&quot;&gt;The Question&lt;&#x2F;h2&gt;
 &lt;p&gt;Who has the &lt;strong&gt;mandate&lt;&#x2F;strong&gt;, the &lt;strong&gt;evidence&lt;&#x2F;strong&gt;, and the &lt;strong&gt;authority&lt;&#x2F;strong&gt; to act — and what did they do with it?&lt;&#x2F;p&gt;
 &lt;p&gt;This is not an investigation of the network. This is an investigation of the investigators. Every body below has statutory or court-rule authority over some piece of the documented misconduct. Not one of them has the full picture.&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
@@ -285,10 +285,10 @@ $88.8M
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://barry.primals.eco/analysis/hey-mikey/"/>
-        <id>https://barry.primals.eco/analysis/hey-mikey/</id>
+        <link rel="alternate" type="text/html" href="https://tuebor.primals.eco/analysis/hey-mikey/"/>
+        <id>https://tuebor.primals.eco/analysis/hey-mikey/</id>
         
-        <content type="html" xml:base="https://barry.primals.eco/analysis/hey-mikey/">&lt;h2 id=&quot;hey-mikey&quot;&gt;Hey Mikey&lt;&#x2F;h2&gt;
+        <content type="html" xml:base="https://tuebor.primals.eco/analysis/hey-mikey/">&lt;h2 id=&quot;hey-mikey&quot;&gt;Hey Mikey&lt;&#x2F;h2&gt;
 &lt;p&gt;You remember the commercial. Two brothers staring at a bowl of cereal. Nobody wants to try it. So they push it at Mikey.&lt;&#x2F;p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;em&gt;&quot;He likes it! Hey Mikey!&quot;&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
@@ -626,10 +626,10 @@ $88.8M
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://barry.primals.eco/analysis/signal-permeability/"/>
-        <id>https://barry.primals.eco/analysis/signal-permeability/</id>
+        <link rel="alternate" type="text/html" href="https://tuebor.primals.eco/analysis/signal-permeability/"/>
+        <id>https://tuebor.primals.eco/analysis/signal-permeability/</id>
         
-        <content type="html" xml:base="https://barry.primals.eco/analysis/signal-permeability/">&lt;h2 id=&quot;the-experiment&quot;&gt;The Experiment&lt;&#x2F;h2&gt;
+        <content type="html" xml:base="https://tuebor.primals.eco/analysis/signal-permeability/">&lt;h2 id=&quot;the-experiment&quot;&gt;The Experiment&lt;&#x2F;h2&gt;
 &lt;p&gt;At 4:43 PM EDT on October 9, 2026, an email was sent from a secure address to recipients including oversight bodies, journalists, and enforcement contacts. The email contained links to documented evidence about &lt;strong&gt;Brian Roderick Banks&lt;&#x2F;strong&gt; — a man with 
 9
  criminal convictions operating two publicly funded charter schools in Detroit.&lt;&#x2F;p&gt;
@@ -902,10 +902,10 @@ Verdict: All returned 404 or static HTML. No secrets exposed.
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://barry.primals.eco/analysis/sitting-in-a-tree/"/>
-        <id>https://barry.primals.eco/analysis/sitting-in-a-tree/</id>
+        <link rel="alternate" type="text/html" href="https://tuebor.primals.eco/analysis/sitting-in-a-tree/"/>
+        <id>https://tuebor.primals.eco/analysis/sitting-in-a-tree/</id>
         
-        <content type="html" xml:base="https://barry.primals.eco/analysis/sitting-in-a-tree/">&lt;h2 id=&quot;sitting-in-a-tree&quot;&gt;Sitting in a Tree&lt;&#x2F;h2&gt;
+        <content type="html" xml:base="https://tuebor.primals.eco/analysis/sitting-in-a-tree/">&lt;h2 id=&quot;sitting-in-a-tree&quot;&gt;Sitting in a Tree&lt;&#x2F;h2&gt;
 &lt;p&gt;You know the rhyme.&lt;&#x2F;p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;em&gt;Mike and Tom, sitting in a tree&lt;&#x2F;em&gt;
@@ -1169,10 +1169,10 @@ $782,000
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://barry.primals.eco/analysis/tommy-boy/"/>
-        <id>https://barry.primals.eco/analysis/tommy-boy/</id>
+        <link rel="alternate" type="text/html" href="https://tuebor.primals.eco/analysis/tommy-boy/"/>
+        <id>https://tuebor.primals.eco/analysis/tommy-boy/</id>
         
-        <content type="html" xml:base="https://barry.primals.eco/analysis/tommy-boy/">&lt;h2 id=&quot;tommy-boy&quot;&gt;Tommy Boy&lt;&#x2F;h2&gt;
+        <content type="html" xml:base="https://tuebor.primals.eco/analysis/tommy-boy/">&lt;h2 id=&quot;tommy-boy&quot;&gt;Tommy Boy&lt;&#x2F;h2&gt;
 &lt;p&gt;U.S. Rep. Tom Barrett (R-Charlotte) represents Michigan&#x27;s 7th Congressional District. On August 13, 2026, Barrett called his Democratic opponent — a tenant organizer, water protector, and co-founder of Mid-Michigan&#x27;s tenant advocacy infrastructure — a &lt;strong&gt;&quot;convicted felon.&quot;&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;Barrett&#x27;s campaign received &lt;strong&gt;
 $4,000

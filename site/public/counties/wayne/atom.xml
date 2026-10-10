@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title>Tuebor — Michigan Public Record - Wayne</title>
     <subtitle>I will defend. Evidence-based accountability documentation across Michigan courts. Ghost witnesses, disappeared judges, fabricated evidence. Every claim sourced to public records.</subtitle>
-    <link rel="self" type="application/atom+xml" href="https://barry.primals.eco/counties/wayne/atom.xml"/>
-    <link rel="alternate" type="text/html" href="https://barry.primals.eco"/>
+    <link rel="self" type="application/atom+xml" href="https://tuebor.primals.eco/counties/wayne/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://tuebor.primals.eco"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2026-10-09T00:00:00+00:00</updated>
-    <id>https://barry.primals.eco/counties/wayne/atom.xml</id>
+    <id>https://tuebor.primals.eco/counties/wayne/atom.xml</id>
     <entry xml:lang="en">
         <title>The Enforcement Ecosystem — Who Is Supposed to Be Doing This?</title>
         <published>2026-10-09T00:00:00+00:00</published>
@@ -20,10 +20,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://barry.primals.eco/analysis/enforcement-ecosystem/"/>
-        <id>https://barry.primals.eco/analysis/enforcement-ecosystem/</id>
+        <link rel="alternate" type="text/html" href="https://tuebor.primals.eco/analysis/enforcement-ecosystem/"/>
+        <id>https://tuebor.primals.eco/analysis/enforcement-ecosystem/</id>
         
-        <content type="html" xml:base="https://barry.primals.eco/analysis/enforcement-ecosystem/">&lt;h2 id=&quot;the-question&quot;&gt;The Question&lt;&#x2F;h2&gt;
+        <content type="html" xml:base="https://tuebor.primals.eco/analysis/enforcement-ecosystem/">&lt;h2 id=&quot;the-question&quot;&gt;The Question&lt;&#x2F;h2&gt;
 &lt;p&gt;Who has the &lt;strong&gt;mandate&lt;&#x2F;strong&gt;, the &lt;strong&gt;evidence&lt;&#x2F;strong&gt;, and the &lt;strong&gt;authority&lt;&#x2F;strong&gt; to act — and what did they do with it?&lt;&#x2F;p&gt;
 &lt;p&gt;This is not an investigation of the network. This is an investigation of the investigators. Every body below has statutory or court-rule authority over some piece of the documented misconduct. Not one of them has the full picture.&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
@@ -285,10 +285,10 @@ $88.8M
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://barry.primals.eco/analysis/hey-mikey/"/>
-        <id>https://barry.primals.eco/analysis/hey-mikey/</id>
+        <link rel="alternate" type="text/html" href="https://tuebor.primals.eco/analysis/hey-mikey/"/>
+        <id>https://tuebor.primals.eco/analysis/hey-mikey/</id>
         
-        <content type="html" xml:base="https://barry.primals.eco/analysis/hey-mikey/">&lt;h2 id=&quot;hey-mikey&quot;&gt;Hey Mikey&lt;&#x2F;h2&gt;
+        <content type="html" xml:base="https://tuebor.primals.eco/analysis/hey-mikey/">&lt;h2 id=&quot;hey-mikey&quot;&gt;Hey Mikey&lt;&#x2F;h2&gt;
 &lt;p&gt;You remember the commercial. Two brothers staring at a bowl of cereal. Nobody wants to try it. So they push it at Mikey.&lt;&#x2F;p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;em&gt;&quot;He likes it! Hey Mikey!&quot;&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
@@ -626,10 +626,10 @@ $88.8M
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://barry.primals.eco/analysis/sitting-in-a-tree/"/>
-        <id>https://barry.primals.eco/analysis/sitting-in-a-tree/</id>
+        <link rel="alternate" type="text/html" href="https://tuebor.primals.eco/analysis/sitting-in-a-tree/"/>
+        <id>https://tuebor.primals.eco/analysis/sitting-in-a-tree/</id>
         
-        <content type="html" xml:base="https://barry.primals.eco/analysis/sitting-in-a-tree/">&lt;h2 id=&quot;sitting-in-a-tree&quot;&gt;Sitting in a Tree&lt;&#x2F;h2&gt;
+        <content type="html" xml:base="https://tuebor.primals.eco/analysis/sitting-in-a-tree/">&lt;h2 id=&quot;sitting-in-a-tree&quot;&gt;Sitting in a Tree&lt;&#x2F;h2&gt;
 &lt;p&gt;You know the rhyme.&lt;&#x2F;p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;em&gt;Mike and Tom, sitting in a tree&lt;&#x2F;em&gt;
@@ -893,10 +893,10 @@ $782,000
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://barry.primals.eco/analysis/they-banked-on-banks/"/>
-        <id>https://barry.primals.eco/analysis/they-banked-on-banks/</id>
+        <link rel="alternate" type="text/html" href="https://tuebor.primals.eco/analysis/they-banked-on-banks/"/>
+        <id>https://tuebor.primals.eco/analysis/they-banked-on-banks/</id>
         
-        <content type="html" xml:base="https://barry.primals.eco/analysis/they-banked-on-banks/">&lt;h2 id=&quot;they-banked-on-banks&quot;&gt;They Banked on Banks&lt;&#x2F;h2&gt;
+        <content type="html" xml:base="https://tuebor.primals.eco/analysis/they-banked-on-banks/">&lt;h2 id=&quot;they-banked-on-banks&quot;&gt;They Banked on Banks&lt;&#x2F;h2&gt;
 &lt;p&gt;In 2014, &lt;strong&gt;Brian Roderick Banks&lt;&#x2F;strong&gt; ran for the Michigan State Senate. His PAC was called &lt;strong&gt;&quot;Bank on Banks.&quot;&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;They did.&lt;&#x2F;p&gt;
 &lt;p&gt;The judges banked on Brian Roderick Banks. The AG&#x27;s office banked on Banks. The city council banked on Banks. DPSCD banked on Banks. And now a parent with custody rights calls &lt;strong&gt;(313) 767-3100&lt;&#x2F;strong&gt; — the main line at Purpose Charter Academy — and the receptionist Giselle tells them they cannot see their child.&lt;&#x2F;p&gt;
@@ -1125,10 +1125,10 @@ $3.4M
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://barry.primals.eco/evidence/ghost-witness-aljouny/"/>
-        <id>https://barry.primals.eco/evidence/ghost-witness-aljouny/</id>
+        <link rel="alternate" type="text/html" href="https://tuebor.primals.eco/evidence/ghost-witness-aljouny/"/>
+        <id>https://tuebor.primals.eco/evidence/ghost-witness-aljouny/</id>
         
-        <content type="html" xml:base="https://barry.primals.eco/evidence/ghost-witness-aljouny/">&lt;h2 id=&quot;summary&quot;&gt;Summary&lt;&#x2F;h2&gt;
+        <content type="html" xml:base="https://tuebor.primals.eco/evidence/ghost-witness-aljouny/">&lt;h2 id=&quot;summary&quot;&gt;Summary&lt;&#x2F;h2&gt;
 &lt;p&gt;An attorney submitted correspondence from a purported journalist named
 &quot;Samantha Aljouny&quot; of &quot;Aljouny Media Consulting&quot; as evidence in
 Saginaw County Circuit Court proceedings before Judge Andre Borrello.&lt;&#x2F;p&gt;

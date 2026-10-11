@@ -269,6 +269,7 @@ Every claim on this page can be verified from public records:
 - **[detroit.primals.eco](https://detroit.primals.eco)** — The charter school investigation. 57 actors, 34 entities, ~170 edges.
 - **[Anderson Permeability](https://detroit.primals.eco/analysis/anderson-permeability/)** — When the institutions served by the tree lose their membranes entirely.
 - **[Data Braid — PCA Staff](https://detroit.primals.eco/evidence/data-braid-pca-staff/)** — Who runs the school. Three DPSCD crossovers. Two ghost nodes.
+- **[🔬 The Artisan Method](https://detroit.primals.eco/analysis/the-artisan-method/)** — **NEW: The structural fingerprint this tree is part of. 10 invariants. 4 sectors. 9.875/10 match. The artisan is not a person — it's a METHOD. Domain-agnostic. Measurable. Zero-knowledge verifiable. Preprint forthcoming on arXiv.**
 
 ---
 

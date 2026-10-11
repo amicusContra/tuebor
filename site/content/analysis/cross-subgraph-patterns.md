@@ -242,3 +242,4 @@ The oversight system can ignore the complaints. It cannot erase the evidence tha
 - **[They Banked on Banks](/analysis/they-banked-on-banks/)** — The Detroit subgraph's most documented node: Brian Roderick Banks, 9 convictions, 2 charter schools, board chaired by Judge Miller, AG employee as vice chair. The cross-subgraph pattern in a single entity.
 - **[Signal Permeability](/analysis/signal-permeability/)** — Live experiment: does evidence propagate through the oversight nodes mapped above?
 - **[The Enforcement Ecosystem](/analysis/enforcement-ecosystem/)** — The ten oversight bodies that connect all subgraphs.
+- **[🔬 The Artisan Method](https://detroit.primals.eco/analysis/the-artisan-method/)** — **These cross-subgraph patterns are instances of 10 domain-agnostic structural invariants. The same 10 fire across charter schools, sports betting, fintech, and telecom — 9.875/10 average match. Preprint forthcoming.**

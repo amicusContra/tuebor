@@ -8,6 +8,23 @@ Tuebor documents institutional failures across Michigan — courts ignoring evid
 
 Part of the [primals.eco](https://primals.eco) evidence network. Detroit node: [detroit.primals.eco](https://detroit.primals.eco). Lansing node: [lansing.primals.eco](https://lansing.primals.eco).
 
+## NEW: The Artisan Method — Cross-Sector Structural Proof (Oct 10, 2026)
+
+The evidence documented across this network has been formalized as a
+graph-theoretic finding: **10 structural invariants of institutional capture**
+validated across 4 independent sectors (education, gaming, fintech, telecom)
+with a 9.875/10 average match rate. The method transmits through professional
+infrastructure — law firms, lobbying shops, trade associations. Domain-agnostic.
+Measurable. Zero-knowledge verifiable.
+
+- Full analysis: [The Artisan Method](https://detroit.primals.eco/analysis/the-artisan-method/)
+- Graph data: [graph.json](https://detroit.primals.eco/graph.json) (121 nodes, 203 edges)
+- Structural template: [invert.json](https://detroit.primals.eco/api/invert.json) (portable to any city)
+- Actor registry: [actors.json](https://detroit.primals.eco/api/actors.json) (66 actors)
+- Preprint forthcoming: arXiv cs.SI + cs.CY
+
+**The artisan is not a person. The artisan is a method.**
+
 ## Sections
 
 - [Actors](/actors/) — Sourced profiles of investigated individuals (attorneys, judges, political operatives)

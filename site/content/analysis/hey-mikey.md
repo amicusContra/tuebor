@@ -393,3 +393,7 @@ One career. One direction. Always upward. Always fed.
 *This is not an endorsement. This is not a recommendation. This is a record. We don't pick sides. We refute falsity. When Rogers says "my whole life is here" from a Florida living room, that is falsity. When his campaign says he had no role in AT&T decisions while he says he persuaded them, one of those is falsity. When $82 million in outside money speaks for a candidate, that is a fact Michigan voters should see — regardless of party.*
 
 *Nov 3, 2026. Read the record. Verify it. Vote your conscience.*
+
+---
+
+**Cross-sector finding:** Rogers' trajectory — wrote the surveillance law, joined the company, $88.8M dark money — is textbook `revolving_door_capture`. One of [10 structural invariants](https://detroit.primals.eco/analysis/the-artisan-method/) conserved across 4 sectors. The same pattern appears in charter schools, sports betting, fintech lending, and broadband regulation. *[The Artisan Method](https://detroit.primals.eco/analysis/the-artisan-method/) — preprint forthcoming on arXiv.*

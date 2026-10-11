@@ -161,6 +161,7 @@ Dark money vehicles are spawned, renamed, dissolved, and respawned. New campaign
 - [FOIAworks Infrastructure Scan](/evidence/foiaworks-infrastructure/) — Another entity using privacy infrastructure to avoid accountability
 - [LakeNet Signal Trace](/analysis/lakenet-signal-trace/) — Hard infrastructure layer beneath the privacy stack
 - [Infrastructure Grid](/analysis/infrastructure-grid/) — Every node where entity infrastructure touches individual privacy
+- [🔬 The Artisan Method](https://detroit.primals.eco/analysis/the-artisan-method/) — **This OS IS the method. 10 structural invariants conserved across 4 independent sectors. The formation template documented here is one of the 10 load-bearing elements. Preprint forthcoming on arXiv.**
 
 ---
 

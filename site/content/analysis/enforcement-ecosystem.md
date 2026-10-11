@@ -309,3 +309,7 @@ The problem is that each mandate was written to handle **one actor at a time**. 
 ---
 
 *The enforcement system is not broken. It is fragmented. Each body does exactly what its mandate says. The network operates in the space where no mandate reaches. The complainant did everything right. The system produced two letters, one day apart, each pointing at the other door.*
+
+---
+
+**Cross-sector finding:** This jurisdictional gap pattern — enforcement_capture — is one of [10 structural invariants](https://detroit.primals.eco/analysis/the-artisan-method/) conserved across education, gaming, fintech, and telecommunications. The watchdog that doesn't bark is architecturally necessary, not accidental. *[The Artisan Method](https://detroit.primals.eco/analysis/the-artisan-method/) — preprint forthcoming on arXiv.*

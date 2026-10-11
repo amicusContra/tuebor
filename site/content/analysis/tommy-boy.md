@@ -298,3 +298,7 @@ And one actual convicted felon — in the entity, not the opposition.
 *Every claim on this page is sourced to FEC filings, LARA entity records, IRS 990 data, DEA press releases, court records, or published reporting from MLive, CNN, NYT, WWMT, WLNS, WKAR, C-SPAN, The New Citizens Press, In These Times, Vox, and Ballotpedia. No private information is disclosed. No tracking. No cookies.*
 
 *Tommy Boy. Nov 3, 2026. The tenants vote too.*
+
+---
+
+**Cross-sector finding:** Barrett's PAC donor running dark money with a convicted felon as president — `polarity_inversion_labeling` (calling opponents "convicted felon" while funded by one) and `political_machine_operation` (donations → votes → contracts). Two of [10 structural invariants](https://detroit.primals.eco/analysis/the-artisan-method/) conserved across 4 sectors. *[The Artisan Method](https://detroit.primals.eco/analysis/the-artisan-method/) — preprint forthcoming on arXiv.*

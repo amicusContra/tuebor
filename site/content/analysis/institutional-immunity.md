@@ -149,3 +149,7 @@ That is what Tuebor is for.
 - Clutch Justice, [Mind the Gap](https://clutchjustice.com/2026/10/07/mind-the-gap-state-bar-agc-unauthorized-practice/), Oct 7, 2026
 - Clutch Justice, [Modernize JTC/AGC](https://clutchjustice.com/2026/09/29/modernize-jtc-agc-michigan-judicial-oversight/), Sep 29, 2026
 - Michigan Auditor General, [JTC Audit Letter](https://audgen.michigan.gov/wp-content/uploads/2026/06/Auditor-General-Letter-Judicial-Tenure-Commission-9123741.pdf), 2026
+
+---
+
+**Cross-sector finding:** The 88.8% dismissal rate isn't dysfunction — it's `enforcement_capture`, one of [10 structural invariants](https://detroit.primals.eco/analysis/the-artisan-method/) conserved across 4 independent sectors. The watchdog's silence is load-bearing. *[The Artisan Method](https://detroit.primals.eco/analysis/the-artisan-method/) — preprint forthcoming on arXiv.*

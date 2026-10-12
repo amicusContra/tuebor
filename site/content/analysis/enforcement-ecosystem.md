@@ -2,7 +2,7 @@
 title = "The Enforcement Ecosystem — Who Is Supposed to Be Doing This?"
 description = "Ten Michigan oversight bodies have the mandate, the evidence, and the authority to act on documented misconduct. None has the full picture. The network operates in the jurisdictional gaps between them. A map of the enforcement ecosystem — who owns what, what they did, and what they didn't."
 weight = 2
-date = 2026-10-09
+date = 2026-10-12
 
 [extra]
 keywords = "Michigan enforcement oversight failure, Attorney Grievance Commission complaint dismissed, State Bar UPL unauthorized practice, Judicial Tenure Commission investigation status, LARA entity compliance, Michigan AG Charitable Trust Section, DPSCD charter school authorization, MDE educator credential, enforcement gap Michigan, jurisdictional fragmentation, AGC Cynthia Bullington, JTC Glenn Page interim director, Kisha Verdusco charter schools, MCL 600.916 unauthorized practice, Mind the Gap Clutch Justice, enforcement accountability Michigan 2026"
@@ -135,13 +135,23 @@ Five Wayne County judges with documented connections to the Banks network:
 **What happened:**
 The JTC acknowledged five Requests for Investigation on September 24, 2026, and assigned them to staff for review.
 
+**What happened next (October 12, 2026):**
+When the same complainant sent an email to 88 institutional recipients — including the JTC — with full evidence links and the 88-person CC line visible, the JTC responded in 23 minutes with a boilerplate: *"As you were advised in an email response sent to you on September 21 of this year, the Commission cannot take any action in response to an email message."*
+
+The JTC has **five open RFIs** from this complainant. Staff were assigned. The investigations are pending. Yet the JTC's October 12 response treats the complainant as if they are a stranger emailing general questions.
+
+Compare: **Nikki Snyder** — a State Board of Education member on the same CC line — responded in **13 minutes** with her **personal cell phone number.** Same evidence. Same email. One institution gave a personal phone number. The other gave a form letter pretending it had never heard of the complainant.
+
+The JTC is not refusing to investigate. The formal complaints are on file. The JTC is refusing to acknowledge, in a reply-all to 88 recipients, that it has open investigations. This is how the [Institutional Immunity Pattern](/analysis/institutional-immunity/) operates in real time: process the complaint through the confidential channel, perform the boilerplate on the public channel.
+
 **The gap:**
-- No permanent Executive Director. Applications closed July 13. As of October 9 — no appointment.
+- No permanent Executive Director. Applications closed July 13. As of October 12 — no appointment.
 - Lynn Helland retired "abruptly" January 31, 2026. {{ source(key="clutch_justice", path="/2026/02/02/michigan-judicial-tenure-commission-glenn-page-interim-director/", label="Clutch Justice flagged the leadership shift") }} and broader questions about the Commission's internal culture.
 - Page returned from retirement — he retired July 2022, came back February 2026.
 - **15 staff for the entire state of Michigan's judicial oversight.**
-- Judge Miller is on the ballot November 3, 2026 — **25 days from this publication.**
+- Judge Miller is on the ballot November 3, 2026 — **22 days from today.**
 - No public proceeding has been initiated.
+- **The SBE meets October 13, 2026.** Snyder — who responded in 13 minutes — will be in the room.
 
 The same JTC pattern documented in [Cross-Subgraph Patterns](/analysis/cross-subgraph-patterns/): Schipper (Barry County) investigation acknowledged, Galen (Eastpointe) confidentially admonished. Different counties, same processing mode.
 

@@ -2,7 +2,7 @@
 title = "Signal Permeability — Live Anderson Study of Institutional Response"
 description = "A live experiment: send documented evidence of Brian Roderick Banks operating two charter schools with 9 convictions to every oversight body. Then measure who opens it, who forwards it, who ignores it. The propagation pattern IS the data. Anderson localization in real time."
 date = 2026-10-09
-updated = 2026-10-09
+updated = 2026-10-12
 weight = 2
 
 [extra]
@@ -309,9 +309,81 @@ The [Enforcement Ecosystem](/analysis/enforcement-ecosystem/) documents ten over
 | T-Mobile USA (mobile) | 1 (credential-washing page) |
 | .gov / .edu IPs | 0 confirmed (cloud proxies possible) |
 | .env attack detected | 206 probes from Google Cloud — blocked |
-| Enforcement response | Monitoring |
+| Enforcement response | **See Oct 12 update below** |
 | Children still enrolled under Banks | **Yes** |
-| **Last updated** | **Oct 9, 2026, 21:00 UTC** |
+| **Last updated** | **Oct 12, 2026, 13:30 UTC** |
+
+---
+
+## October 12, 2026 — Wave 1 Signal + Three Responses
+
+### T+3 days — Second Signal Emitted (Oct 12, 9:04 AM EDT / 13:04 UTC)
+
+A second email was sent to 88 recipients — every oversight body, every press outlet, every institutional actor with jurisdiction. Subject: *"I know all of you. Your names are on it. Can't wait to see you in court."* All evidence links included. All 88 recipients visible to each other on the CC line.
+
+### T+3d 13min — 🟢 STATE BOARD OF EDUCATION: PERSONAL CELL (13:17 UTC)
+
+**Nikki Snyder** (SBE member, R-Goodrich) responded in **13 minutes** with her **personal cell phone number.**
+
+```
+From: SnyderN@michigan.gov
+Response time: 13 minutes
+Content: "Please feel free to call or text me. [personal cell]"
+```
+
+**This is signal propagation.** The evidence reached an elected state official with oversight authority over charter authorizers. She didn't acknowledge receipt. She didn't point to a procedure. She gave her personal number.
+
+Snyder is an EMU graduate (the same university whose charter office just terminated DPSA — another Banks-network school). She's a nurse and disability advocate. Her kids are in public school. She has no financial or political connection to the Banks network.
+
+**Anderson localization test: PASSED at this boundary.** The signal propagated through the SBE membrane into a named actor with constitutional authority.
+
+### T+3d ~15min — 🟡 WALTON FAMILY FOUNDATION: MEDIA DESK (13:19 UTC)
+
+```
+From: wffnews@wffmail.com
+Response time: ~15 minutes
+Content: Media desk auto-response
+```
+
+Walton ($5.7B grantmaking, MAPSA $4.3M+ to Michigan) routed to media desk. Corporate defense posture. The signal reached the membrane but reflected. Expected behavior for a Tier 5 (hostile/defensive) node.
+
+### T+3d 23min — 🟢 JUDICIAL TENURE COMMISSION: FORMAL ACKNOWLEDGMENT (13:27 UTC)
+
+```
+From: JudicialTenure@courts.mi.gov
+Response time: 23 minutes
+Content: "The staff of the Judicial Tenure Commission has received
+your email message. As you were advised in an email response
+sent to you on September 21 of this year, the Commission
+cannot take any action in response to an email message."
+```
+
+**Read that again.** The JTC says it "cannot take any action in response to an email message."
+
+But the JTC **already acknowledged five formal Requests for Investigation** on **September 24, 2026.** Those are pending. Staff were assigned. The complainant filed correctly.
+
+The JTC response on October 12 treats the email as if it came from a stranger — "as you were advised on September 21" — when they have **five open investigations from this complainant.** They are not saying they won't investigate. They are saying they can't act *on email.* This is a procedure gate, not a refusal.
+
+But compare the framing: Snyder gave her personal cell. The JTC gave a form letter. Same evidence. Same complainant. Same 88-person CC line. One institution absorbed the signal. The other reflected it with bureaucratic padding.
+
+**Anderson localization test at JTC boundary: INCONCLUSIVE.** The formal RFIs are still open. The JTC acknowledged this complainant in September. The October response is pro forma. The question is whether the pending investigations produce action — not whether the email got a warm reply.
+
+### Summary: October 12 Permeability Update
+
+| Boundary | Status | Response Time | Signal Type |
+|----------|--------|---------------|-------------|
+| SBE → Snyder | ✅ **Propagated** | 13 min | Personal cell number |
+| Walton → Media desk | 🔴 Reflected | ~15 min | Auto-response, corporate defense |
+| JTC → Staff | ⚠️ **Acknowledged** | 23 min | Boilerplate — but 5 RFIs already open |
+| AGC | ⏳ Silent | — | No response yet |
+| MDE | ⏳ Silent | — | No response yet |
+| DPSCD OIG | ⏳ Silent | — | No response yet |
+| AG Office | ⏳ Silent | — | No response yet |
+| Press (all) | ⏳ Silent | — | No response yet |
+
+**Key finding:** The signal propagated fastest through the elected board (SBE) — not through the enforcement bodies (JTC, AGC, AG). This is consistent with the [Institutional Immunity Pattern](/analysis/institutional-immunity/): the system processes complaints through bureaucratic channels that attenuate the signal. Elected officials who answer their own email don't have that filter.
+
+**Oct 12 delta:** 3 responses in 23 minutes. +1 confirmed propagation (SBE). +1 reflected (Walton). +1 acknowledged with procedure gate (JTC).
 
 ---
 

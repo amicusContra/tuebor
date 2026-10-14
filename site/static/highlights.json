@@ -1,0 +1,201 @@
+{
+  "banner": {
+    "text": "341 entities. 957 edges. 9 investigations. Every claim sourced to public records.",
+    "subtext": "Michigan oversight failures documented by one human with one architecture."
+  },
+  "top_stories": [
+    {
+      "icon": "\ud83d\udcb0",
+      "title": "They Banked on Banks",
+      "subtitle": "9 convictions, 2 charter schools, $4.9M public funds",
+      "url": "https://tuebor.primals.eco/analysis/they-banked-on-banks/",
+      "path_length": 5
+    },
+    {
+      "icon": "\ud83d\udc7b",
+      "title": "Ghost Witness",
+      "subtitle": "Fabricated witness in Saginaw court",
+      "url": "https://tuebor.primals.eco/evidence/ghost-witness-aljouny/",
+      "path_length": 4
+    },
+    {
+      "icon": "\ud83c\udf33",
+      "title": "Sitting in a Tree",
+      "subtitle": "Mike & Tom & Dykema & Banks \u2014 the dark money pipeline",
+      "url": "https://tuebor.primals.eco/analysis/sitting-in-a-tree/",
+      "path_length": 8
+    },
+    {
+      "icon": "\u2696\ufe0f",
+      "title": "The Enforcement Ecosystem",
+      "subtitle": "Who is supposed to be doing this?",
+      "url": "https://tuebor.primals.eco/analysis/enforcement-ecosystem/",
+      "path_length": 6
+    },
+    {
+      "icon": "\ud83c\udf10",
+      "title": "FOIAworks Honeypot",
+      "subtitle": "The attorney who sees every investigation before it starts",
+      "url": "https://tuebor.primals.eco/evidence/foiaworks-honeypot/",
+      "path_length": 3
+    }
+  ],
+  "top_entities": [
+    {
+      "id": "banks",
+      "label": "Brian Roderick Banks",
+      "edges": 134,
+      "sort_class": "non-self",
+      "tier": 1,
+      "url": "https://tuebor.primals.eco/braid/banks/"
+    },
+    {
+      "id": "mi_supreme_court",
+      "label": "Michigan Supreme Court",
+      "edges": 89,
+      "sort_class": "self",
+      "tier": 1,
+      "url": "https://tuebor.primals.eco/braid/mi-supreme-court/"
+    },
+    {
+      "id": "mde",
+      "label": "Michigan Department of Education",
+      "edges": 50,
+      "sort_class": "partial",
+      "tier": 2,
+      "url": "https://tuebor.primals.eco/braid/mde/"
+    },
+    {
+      "id": "jtc",
+      "label": "Judicial Tenure Commission",
+      "edges": 41,
+      "sort_class": "self",
+      "tier": 1,
+      "url": "https://tuebor.primals.eco/braid/jtc/"
+    },
+    {
+      "id": "pca",
+      "label": "Purpose Charter Academy",
+      "edges": 39,
+      "sort_class": "non-self",
+      "tier": 1,
+      "url": ""
+    },
+    {
+      "id": "dpscd",
+      "label": "Detroit Public Schools Community District",
+      "edges": 38,
+      "sort_class": "partial",
+      "tier": 2,
+      "url": "https://tuebor.primals.eco/braid/dpscd/"
+    },
+    {
+      "id": "macdowell",
+      "label": "MacDowell Preparatory Academy",
+      "edges": 37,
+      "sort_class": "non-self",
+      "tier": 1,
+      "url": ""
+    },
+    {
+      "id": "agc",
+      "label": "Attorney Grievance Commission",
+      "edges": 35,
+      "sort_class": "self",
+      "tier": 1,
+      "url": "https://tuebor.primals.eco/braid/agc/"
+    },
+    {
+      "id": "court_3rd",
+      "label": "court 3rd",
+      "edges": 26,
+      "sort_class": "self",
+      "tier": 2,
+      "url": "https://tuebor.primals.eco/braid/mi-supreme-court/"
+    },
+    {
+      "id": "sbm",
+      "label": "State Bar of Michigan",
+      "edges": 25,
+      "sort_class": "self",
+      "tier": 2,
+      "url": ""
+    }
+  ],
+  "evidence_highlights": [
+    {
+      "title": "Ghost Witness",
+      "subtitle": "Fabricated witness in Saginaw court",
+      "url": "https://tuebor.primals.eco/evidence/ghost-witness-aljouny/"
+    },
+    {
+      "title": "FOIAworks Honeypot",
+      "subtitle": "FOIA tool with no privacy policy, run by attorney who fabricated a witness",
+      "url": "https://tuebor.primals.eco/evidence/foiaworks-honeypot/"
+    },
+    {
+      "title": "$73,752.45 in Sanctions",
+      "subtitle": "Federal court sanctions against Philip L. Ellison",
+      "url": "https://tuebor.primals.eco/evidence/ellison-sanctions/"
+    },
+    {
+      "title": "They Banked on Banks",
+      "subtitle": "9 convictions, 2 charter schools, $4.9M public funds",
+      "url": "https://tuebor.primals.eco/analysis/they-banked-on-banks/"
+    },
+    {
+      "title": "Sitting in a Tree",
+      "subtitle": "Dark money pipeline: Rogers, Barrett, Dykema, Banks",
+      "url": "https://tuebor.primals.eco/analysis/sitting-in-a-tree/"
+    }
+  ],
+  "numbers": {
+    "entities": 341,
+    "edges": 957,
+    "evidence": 10,
+    "analyses": 16,
+    "braids": 26,
+    "actors": 8,
+    "counties": 9,
+    "confidence": 88.4,
+    "humans_genuine": 973,
+    "fleet_deflected": 242679,
+    "signal_to_noise": 421,
+    "wake_depth": 0.885,
+    "proteins": 34,
+    "genome_layers": 21
+  },
+  "actors_summary": [
+    {
+      "name": "Philip L. Ellison",
+      "role": "Attorney \u2014 9 evidence packages, $73K sanctions, fabricated witness",
+      "url": "https://tuebor.primals.eco/actors/ellison/"
+    },
+    {
+      "name": "Brian Roderick Banks",
+      "role": "9 convictions, 2 charter schools, 134 graph edges",
+      "url": "https://tuebor.primals.eco/braid/banks/"
+    },
+    {
+      "name": "Mike Rogers",
+      "role": "Senate candidate \u2014 ate everything they fed him",
+      "url": "https://tuebor.primals.eco/analysis/hey-mikey/"
+    },
+    {
+      "name": "Tom Barrett",
+      "role": "Congressman \u2014 donors employ actual felons",
+      "url": "https://tuebor.primals.eco/analysis/tommy-boy/"
+    }
+  ],
+  "membrane_live": {
+    "humans_is": 91,
+    "braids": 5,
+    "shifters": 1485,
+    "passages": 45,
+    "selectivity": "97%",
+    "external_referrers": [
+      "Google",
+      "Bing"
+    ]
+  }
+}

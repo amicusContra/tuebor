@@ -3,7 +3,7 @@ title = "Tuebor — Michigan Public Record"
 description = "I will defend. Evidence-based accountability documentation across Michigan courts, institutions, and oversight systems. Every claim sourced to public records."
 
 [extra]
-keywords = "tuebor Michigan court accountability, Michigan judicial oversight, SLAPP litigation Michigan, anti-SLAPP UPEPA, Michigan charter school accountability, SCAO oversight, AGC complaints Michigan, Barry County courts, Detroit charter school corruption, Michigan public records investigation, Philip Ellison sanctions, Clutch Justice investigation, FOIAworks privacy, Saginaw County court, Hemlock Michigan attorney, Michigan attorney misconduct, Julie Gafkay judge, Michael Schipper Barry County, Nakfoor Pratt prosecutor, primals.eco, Michigan institutional capture, FOIA Michigan guide"
+keywords = "tuebor Michigan court accountability, Michigan judicial oversight, SLAPP litigation Michigan, anti-SLAPP UPEPA, Michigan charter school accountability, SCAO oversight, AGC complaints Michigan, Barry County courts, Detroit charter school corruption, Michigan public records investigation, Philip Ellison sanctions, Clutch Justice investigation, FOIAworks privacy, Saginaw County court, Hemlock Michigan attorney, Michigan attorney misconduct, Julie Gafkay judge, Michael Schipper Barry County, Nakfoor Pratt prosecutor, primals.eco, Michigan institutional capture, FOIA Michigan guide, FCC robocall enforcement, dark money Michigan charter schools, Dykema Gossett PAC network, Brian Roderick Banks convicted felon charter school, TCPA spam call trace, Michigan telecom infrastructure, STIR SHAKEN caller ID, charter school extraction rate Detroit"
 +++
 
 ## Tuebor — "I Will Defend"
@@ -16,11 +16,61 @@ document the failure themselves.
 
 ---
 
-## 🔴 Now Live: Brian Roderick Banks — {{ fact(registry="actors", key="banks", field="conviction_count") }} Convictions, 2 Charter Schools
+## 🔴 New: Following the Money Through the Blind Spots
+
+**[The Nulls That Point](/analysis/the-nulls-that-point/)** — 73 entities in the investigation graph had no classification. We backtracked them. They formed three hidden networks: a PAC formation machine, a media pipeline, and a constellation of LLCs — all operating in the blind spots between regulators. The unknowns pointed to the knowns.
+
+**[The Architect and the Clerk](/analysis/the-architect-and-the-clerk/)** — One Dykema attorney (Wilk) drafted Michigan's charter school law. Then formed 10+ PACs protecting it. One compliance specialist (Moore) governs 6 PACs, employed simultaneously by Banks AND PCA AND Dykema. The architecture is not accidental. It was designed.
+
+**[The Money Flows Through Nulls](/evidence/the-money-flows-through-nulls/)** — Walton → Martin → Banks in 3 hops. Money enters as foundation funding. It exits as narrative cover. The SCBC Tour is funded by Walton, produced by NuVision, partnered with AFC/EdChoice/ExcelinEd. Follow the money through the entities nobody classified.
+
+---
+
+## 🔴 The Regulator Problem
+
+**[The Call Is Coming from Inside the FCC](/analysis/the-call-is-coming-from-inside-the-fcc/)** — You get spam calls. The FCC knows who sends them. Every voice service provider must register, file a Robocall Mitigation Plan, and comply with STIR/SHAKEN. The FCC has the database. The Industry Traceback Group traces every robocall to its origin carrier. They know. They have always known. Same architecture as MDE sitting above Banks. Same silence.
+
+**[The Regulator Who Regulates the Regulator](/analysis/the-regulator-who-regulates-the-regulator/)** — MDE/CMU/PCA, FCC/VoIP/CallCenter, AGC/StateBar/Courts — three different regulatory ecosystems, same 5-layer template, same blind spot. Each regulator's budget depends on the regulated industry's size. TCPA exists because Congress knew the FCC wouldn't act.
+
+**[FCC Enforcement by the Numbers](/evidence/fcc-enforcement-pattern/)** — $2B+ proposed fines. Less than 2% collected. 0.5% enforcement rate. STIR/SHAKEN exemptions for the exact small VoIP providers sending the spam. The pattern is identical to Michigan charter school oversight.
+
+---
+
+## 🔴 Banks Investigation — {{ fact(registry="actors", key="banks", field="conviction_count") }} Convictions, 2 Charter Schools
 
 **[They Banked on Banks](/analysis/they-banked-on-banks/)** — Brian Roderick Banks has {{ fact(registry="actors", key="banks", field="conviction_count") }} criminal convictions and runs Purpose Charter Academy and MacDowell Preparatory Academy in Detroit. His board chair is a sitting Wayne County judge. His receptionist blocks parents at the door. His PPO motion blocks them in court. 362 students. 99.2% Black. {{ fact(registry="entities", key="macdowell", field="math_proficiency") }} math proficiency. {{ fact(registry="entities", key="macdowell", field="extraction_pct") }} revenue extracted by a single-member LLC.
 
 **[Signal Permeability](/analysis/signal-permeability/)** — Live experiment: we sent the evidence to every oversight body. Now we're measuring who opens it. First confirmed reader: **Lansing, Michigan** — the state capital. [Read the live data →](/analysis/signal-permeability/)
+
+---
+
+## 🔴 The Infrastructure
+
+**[Every Tower, Every Wire, Every Orbit](/evidence/every-tower-every-wire-every-orbit/)** — 134 Detroit antenna structures.
+
+**[Every Line, Every Peak, Every Depth](/evidence/every-line-every-peak-every-depth/)** — The complete topology of Earth. 50 states, 109 borders, 63 national parks, every high point from Denali (20,310 ft) to Britton Hill (345 ft). The Grand Canyon: 278 miles, 2 billion years of rock, a 1.2 billion year gap. 16 tectonic plates. Challenger Deep at 36,201 feet below sea level. The ground we stand on. CMU Public Broadcasting owns 11 towers across Michigan (including a 1,177-ft tower in Atlanta, MI). 11,156 Starlink satellites. 2 Michigan ground stations. 535 miles of new submarine fiber crossing Lake Michigan. The physical infrastructure map of who controls the signals.
+
+**[Can the Membrane Filter Your Phone?](/analysis/can-the-membrane-filter-your-phone/)** — Honest analysis: STIR/SHAKEN is the phone network's immune system. It's broken because exemptions exist for small VoIP providers — the exact ones sending spam. The architecture is identical to web security. The world gets quieter when the membrane has no exemptions.
+
+---
+
+## The Dialectic — The Investigation Questions Itself
+
+**[Antithesis — What If We Are the Pattern?](/synthesis/what-if-we-are-the-pattern/)** — The strongest version of the counterargument. What if the investigation is pareidolia? What if null is the answer? What if the membrane is a cage? Every investigation owes itself the sharpest knife it can find.
+
+**[Synthesis — The Soft, the Hard, and the Still](/synthesis/the-soft-the-hard-the-still/)** — 341 entities classified. 60 bedrock, 136 hardening, 114 boundary, 70 soft, 100 still, 103 borrowed. What we know, what we don't, and where we're borrowing certainty.
+
+**[Corollary — The Things That Follow](/synthesis/the-things-that-follow/)** — If the thesis is true, what else must be true? If the antithesis is true, what else must be true? The logic goes where it goes whether we steer it or not.
+
+---
+
+## For Researchers, Journalists, Advocates
+
+**[The Ones Who Showed Up](/analysis/the-ones-who-showed-up/)** — Dr. Beasley. Dr. Lenhoff at Wayne State PEER. Carol Burris at NPE. Diane Ravitch. Skillman Foundation. Misha Stallworth West. Ahmed Beasley. ACLU Michigan. CitizenDetroit. Rita at Clutch Justice. They did the work. We built the cross-links. Point back.
+
+**[How to Point Back](/investigate/how-to-point-back/)** — Stable URLs, key pages to cite, how cross-links work, what each audience can contribute. Legal paths: TCPA, PA 362, qui tam, IRS whistleblower, § 1983.
+
+**[How to Trace a Spam Call](/investigate/spam-call-traceback/)** — Step-by-step: document the call, look up the carrier, check the FCC databases, file complaints, enable protections, sue under TCPA ($500–$1,500 per illegal call, private right of action).
 
 ---
 
@@ -88,7 +138,9 @@ The system does not self-correct. So citizens correct the record.
 | **[$74,752.45: Federal Sanctions](/evidence/ellison-sanctions/)** | PACER (W.D. Mich., 6th Cir. 22-1574), SCOTUS No. 23-404, E.D. Mich. 21-cv-12250 | Two courts: $73K (6th Cir.) + $1K (E.D. Mich.). SCOTUS cert denied. |
 | **[Complete Litigation Docket](/evidence/litigation-docket/)** | PACER, PacerMonitor, Leagle, COA 374178, OLC press releases | Every active and resolved case. Wins, reversals, sanctions, docket patterns. OLC v. Treasury FOIA dismissed for notary failure. |
 | **[Impersonation Domain](/evidence/impersonation-domain/)** | WHOIS, court transcript Aug 3, 2026, NCMEC CyberTip 222110727 | ritafelinewilliams.com — live, collecting data, renewed Sep 2026. Attorney stated on record client "created the domains." |
-| **[Detroit Charter School Network](https://detroit.primals.eco)** | LARA, TransparencyUSA, court filings, PACER, 287+ pages | Active. AGC, JTC, DPSCD, MDE, CMU notified. |
+| **[The Money Flows Through Nulls](/evidence/the-money-flows-through-nulls/)** | IRS 990, TransparencyUSA, LARA, campaign finance, Foundation Center | Walton→Martin→Banks: 3 hops. SCBC Tour convergence. NuVision→50CAN→The 74 pipeline. |
+| **[FCC Enforcement Pattern](/evidence/fcc-enforcement-pattern/)** | FCC Enforcement Bureau, Robocall Mitigation Database, STIR/SHAKEN data | $2B+ proposed fines, <2% collected, 0.5% enforcement. Same pattern as charter school oversight. |
+| **[Every Tower, Every Wire, Every Orbit](/evidence/every-tower-every-wire-every-orbit/)** | FCC ASR, CelesTrak, NTIA IMPACC, Peninsula Fiber Network filings | 134 Detroit towers, 11 CMU towers, 11,156 Starlink satellites, 535 miles submarine fiber. |
 
 ---
 
@@ -122,6 +174,8 @@ Everything you need to run your own Michigan accountability investigation:
 | **[Oversight Filing Guide](/investigate/oversight-guide/)** | How to file with AGC, JTC, SCAO, MCOLES, IC3 |
 | **[Court Records Guide](/investigate/court-records/)** | Dockets, appellate opinions, PACER, LARA, campaign finance |
 | **[Evidence Documentation](/investigate/evidence-documentation/)** | Incident logs, document indexes, preservation notices |
+| **[How to Trace a Spam Call](/investigate/spam-call-traceback/)** | Document → lookup carrier → check FCC databases → file complaints → sue under TCPA |
+| **[How to Point Back](/investigate/how-to-point-back/)** | Stable URLs, key pages to cite, legal paths. For researchers, journalists, advocates, parents, lawyers. |
 
 ---
 
@@ -151,6 +205,15 @@ Chronological record from 2013 to present. Every entry sourced.
 - **[Institutional Immunity](/analysis/institutional-immunity/)** — AGC dismisses {{ fact(registry="entities", key="agc", field="dismissal_rate") }} of complaints (their own data)
 - **[Credential vs. Conduct](/analysis/credential-vs-conduct/)** — The resume says SCOTUS champion. The docket says sanctioned, reversed, SLAPP-filing, representing a convicted harasser.
 
+### New: Dark Money Networks and Regulatory Capture
+
+- **[The Nulls That Point](/analysis/the-nulls-that-point/)** — 73 unclassified entities, 3 hidden networks discovered by backtracking through the blind spots
+- **[The Architect and the Clerk](/analysis/the-architect-and-the-clerk/)** — Wilk drafted PA 362, then formed 10+ PACs protecting it. Moore governs 6 PACs across both parties simultaneously.
+- **[The Call Is Coming from Inside the FCC](/analysis/the-call-is-coming-from-inside-the-fcc/)** — The FCC knows who sends your spam calls. Same regulatory architecture as MDE. Same silence.
+- **[The Regulator Who Regulates the Regulator](/analysis/the-regulator-who-regulates-the-regulator/)** — Three ecosystems, one template, one blind spot
+- **[Can the Membrane Filter Your Phone?](/analysis/can-the-membrane-filter-your-phone/)** — STIR/SHAKEN, broken exemptions, and why the world gets quieter when there are no holes
+- **[The Ones Who Showed Up](/analysis/the-ones-who-showed-up/)** — Credits and cross-links to every ally who did the work
+
 ---
 
 ## How This Works
@@ -161,6 +224,7 @@ Chronological record from 2013 to present. Every entry sourced.
 - **Cross-protection:** Evidence published across multiple nodes in the
   [primals.eco](https://primals.eco) network cannot be suppressed by
   silencing any single person. SLAPP one — the others amplify.
+- **115 articles.** 138,000+ words. 7,554 investigation nodes. 131,329 edges. All public record.
 
 ---
 
@@ -183,3 +247,4 @@ Michigan's seal says *tuebor*. We are taking it literally.
 
 *This site is part of the [primals.eco](https://primals.eco) evidence network.*
 *Detroit node: [detroit.primals.eco](https://detroit.primals.eco)*
+*115 pages. Every claim sourced. Come and see.*

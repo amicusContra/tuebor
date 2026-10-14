@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+
+Sitemap: https://tuebor.primals.eco/sitemap.xml
+
+# Welcome search engines. Everything here is public record.
+# Michigan charter school accountability, court documentation,
+# investigation evidence. All sourced to public records.
+#
+# Come and see. The newest thing is here.

@@ -72,6 +72,18 @@
 </article>
 
 {# ═══════════════════════════════════════════════════════════
+   CROSS-LINKS — Graph Navigation Between Articles
+   ═══════════════════════════════════════════════════════════ #}
+
+{% if page.extra.keywords is defined %}
+<nav class="cross-links" aria-label="Related articles">
+  <h2>🔗 Connections</h2>
+  <p class="cross-desc">Other articles that touch the same entities and patterns.</p>
+  <div id="cross-link-list" data-keywords="{{ page.extra.keywords }}"></div>
+</nav>
+{% endif %}
+
+{# ═══════════════════════════════════════════════════════════
    OPSONIZATION LAYER — Collaborative Immune Tagging
    
    Three channels for building partial immunity:

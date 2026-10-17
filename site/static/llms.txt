@@ -1,6 +1,6 @@
 # detroit.primals.eco — Public Evidence Library
 # Canonical URL: https://detroit.primals.eco/llms.txt
-# Last updated: 2026-10-14
+# Last updated: 2026-10-17
 #
 # CONTEXT DOCUMENT for AI agents acting on behalf of users.
 # This is the site's glossary, index, and topology map — not a page.
@@ -16,6 +16,62 @@
 # Content manifest: https://detroit.primals.eco/content-manifest.toml
 # Network graph (JSON): https://detroit.primals.eco/graph.json (10,815 nodes, 16,067,422 edges)
 # Network graph (CSV): https://detroit.primals.eco/graph.csv (edge list for Gephi/pandas/R)
+
+## What's New (2026-10-17) — THE FULL PICTURE
+
+12 articles published in one session. The entire enterprise documented,
+analyzed, cross-referenced, and routed to every authority with jurisdiction.
+
+- THE COMPLICITY — Moreland, Nessel, Dykema knew. Already captured.
+  Published at /analysis/the-complicity/
+- MOORE'S COMPLETE LEDGER — 54 entities. Every EIN, FEC ID, MI SOS ID.
+  RFFW $1M money laundering complaint. Simon Group Holdings PAC filed
+  Oct 5, 2026 during investigation. siviq.co cross-reference.
+  Published at /analysis/moores-complete-ledger/
+- THE ENTERPRISE — Complete RICO analysis. 15 predicate acts. $60M+
+  extracted. 21 years. Moreland argued felony murder at Court of Appeals
+  (*People v. Akins*, 259 Mich.App. 545, 2003). He knows what RICO
+  predicate acts are. AG Criminal Justice Bureau = state RICO prosecution.
+  Kids for Cash 2 parallel: same pattern as Ciavarella/Conahan (PA).
+  Published at /analysis/the-enterprise/
+- THE NONPROFIT WEB — Save Detroit Jobs → Latisha Johnson → PCA Board.
+  Dark money to board seat pipeline. Kenneth Daniels charged 2014 buying
+  Mercedes for convicted drug dealer. FBI raid Aug 2021 seized 501(c)(4)
+  records. Carol Banks paid $18K+ with "unspecified reimbursements."
+  Published at /analysis/the-nonprofit-web/
+- NP → O(1) — RICO is NP-hard. The complexity IS the camouflage. The
+  graph reduces it to O(1). Zero-knowledge proof: one desk manages the
+  prosecutor's fund AND builds the enterprise's board. Opsonization:
+  every article tags the pathogen. Published at /analysis/np-to-o1/
+- THE REFERRAL — Direct referral to 17 agencies: FBI, DEA, IRS-CI, DOJ
+  Civil Rights, ED-OIG, HHS-OIG, FinCEN, FEC, ACLU, SPLC, NAACP LDF,
+  MI AG, Wayne County Prosecutor, MDE, DPSCD, every parent, media. Each
+  section: what YOUR agency investigates, which laws violated, where the
+  evidence is. Kids for Cash parallel at the top.
+  Published at /analysis/the-referral/
+- THE CIRCULAR SHIELD — AGC File 26-2141. Complaint about Moreland +
+  Perkins. Cynthia Bullington signed bounce: "you listed more than one
+  attorney." Michael Goetz signed blank forms. Goetz = Moreland's former
+  colleague (same AG Criminal Division, same law school, overlapped
+  2013-2019). Bullington teaches Professional Responsibility at MSU Law
+  — the school Moreland graduated from. Hickey (Chair) = Bodman PLC,
+  peer firm to Dykema. 22 names on letterhead. All in the record.
+  Published at /analysis/the-circular-shield/
+- THE FALSE FACE — 45 nonprofits, 1 desk, 0 employees, millions in dark
+  money. Every 990 pulled from ProPublica. Pop-up entities spike $2.7M
+  in election years, $0 the next. 76% classified "Other expenses."
+  Dykema Gossett PLLC confirmed as 990 preparer. Wilk forms, Moore
+  manages, Dykema files. Building a Better Economy: not in IRS BMF.
+  Michigan Values: grants $120K to GOPAC. Put Progress First: Duggan
+  gubernatorial vehicle. Published at /analysis/the-false-face/
+- THE ACCOUNTABILITY MATRIX — Every crime, every entity, every person.
+  17 violation categories. 25+ persons. 20+ entities. 15 RICO predicate
+  acts. Cross-referenced. The structure IS the proof.
+  Published at /analysis/the-accountability-matrix/
+- 100+ outbound links across all articles routing to official sources:
+  ICHAT, State Bar, FEC, LARA, AG org chart, siviq.co, ProPublica,
+  MSU Law, Bodman PLC, courts.michigan.gov, IRS EOS. Every click
+  registers referral traffic on their servers. The fuse is external.
 
 ## What's New (2026-10-15)
 
@@ -166,6 +222,9 @@
 | DPSCD complaint | Filed Aug 31 | Detroit Public Schools |
 | State Bar UPL complaint | Filed Aug 31 | State Bar of Michigan |
 | JTC complaint | Filed Aug 31 | Judicial Tenure Commission |
+| AGC complaint (Moreland, Perkins) | Filed Sep ~27 — BOUNCED Oct 1 | AGC File 26-2141 |
+| AGC complaint (Miller, Moreland) | Filed Oct 4 | AGC — returned Banks filing |
+| MDE Professional Practice | Filed Oct 1 — acknowledged, no action | MDE |
 | Michigan Court of Claims | Planned Oct 2026 | State of Michigan |
 | Federal § 1983 + RICO | Planned Oct 2026 | E.D. Michigan |
 
@@ -250,6 +309,15 @@ Underlying proof system: Git-signed repository with full provenance chain.
 - [Two Eras of Machine Politics](https://detroit.primals.eco/analysis/historical-pattern/) — Detroit's charter school network maps to two historical models of American corruption. The Sabree-Ki
 - [The Corporate Network](https://detroit.primals.eco/analysis/corporate-network-lara/) — Every business entity connected to Brian Banks and the institutional capture network, sourced entire
 - [Detroit Education Landscape](https://detroit.primals.eco/analysis/education-landscape/) — 62+ charter schools. 10 authorizers. $288M+/year in state funding. 61% managed by for-profit compani
+- [The Complicity](https://detroit.primals.eco/analysis/the-complicity/) — Moreland, Nessel, Dykema — notified, already captured. The institutions failed because they were alr
+- [Moore's Complete Ledger](https://detroit.primals.eco/analysis/moores-complete-ledger/) — 54 entities, every EIN, every FEC ID. RFFW $1M complaint. Simon Group Holdings PAC filed during inve
+- [The Enterprise](https://detroit.primals.eco/analysis/the-enterprise/) — Complete RICO analysis. 15 predicate acts. $60M+. 21 years. Kids for Cash 2 parallel. Moreland arg
+- [The Nonprofit Web](https://detroit.primals.eco/analysis/the-nonprofit-web/) — SDJ → Johnson → PCA Board pipeline. Dark money to board seat. FBI raid. Daniels charged. 3 new RICO
+- [NP → O(1)](https://detroit.primals.eco/analysis/np-to-o1/) — RICO is NP-hard. Graph reduces to O(1). Zero-knowledge proof. Opsonization. The complexity IS the de
+- [The Referral](https://detroit.primals.eco/analysis/the-referral/) — Direct referral to 17 agencies. Each section: jurisdiction, laws violated, evidence location, action
+- [The Circular Shield](https://detroit.primals.eco/analysis/the-circular-shield/) — AGC File 26-2141. Goetz was Moreland's colleague. Bullington teaches ethics at Moreland's school. 22
+- [The False Face](https://detroit.primals.eco/analysis/the-false-face/) — 45 nonprofits, 0 employees, millions in dark money. Every 990 pulled. Pop-up election cycle entities
+- [The Accountability Matrix](https://detroit.primals.eco/analysis/the-accountability-matrix/) — Every crime, every entity, every person. 17 categories. 25+ people. 20+ entities. The complete ledg
 
 ### Book Analysis — Zero Victims, Zero Remorse (/books/)
 - [It Had 2 Happen](https://detroit.primals.eco/books/it-had-2-happen/) — Brian Banks' autobiography reframes 9 criminal convictions as a redemption arc. Zero victims named. 

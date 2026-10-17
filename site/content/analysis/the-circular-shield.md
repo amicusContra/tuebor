@@ -144,6 +144,146 @@ The response was: *fill out separate forms.*
 
 ---
 
+## The Backscatter — Who Are These People?
+
+Every name on the letterhead was backscattered. Where else are they? What are their connections? The results:
+
+### Michael V. Goetz — Grievance Administrator (SIGNED)
+
+| Fact | Source |
+|------|--------|
+| **MSU** B.S. 1983 | [AGC About Page](https://www.agcmi.org/about), [MI Supreme Court Press Release](https://www.courts.michigan.gov/4a65a4/siteassets/news-releases/news-release-new-grievance-admin-9.23_final.pdf) |
+| **Detroit College of Law** J.D. 1988 | Same sources |
+| **Former Senior Assistant Attorney General** — Criminal Division, **Drug Interdiction Unit**, 6 years | Same sources; [AG 2015-2016 Biennial Report](https://www.michigan.gov/-/media/Project/Websites/AG/publications/2015/20152016_Atty_Gen_Biennial_Report.pdf) |
+| Appointed AAG **September 2013** | AG Biennial Report |
+| Left AG for AGC **September 2019** | MI Supreme Court Press Release |
+
+**Connection to Moreland:**
+
+| | **Goetz** | **Moreland** |
+|--|-----------|-------------|
+| **Law school** | Detroit College of Law (J.D. 1988) | MSU / Detroit College of Law (J.D., admitted 1999) |
+| **Employer** | AG's Office — **Criminal Division** (2013–2019) | AG's Office — **Criminal Justice Bureau** (2004–present) |
+| **Overlap** | **6 years as colleagues in the same AG office** (Sep 2013 – Sep 2019) |
+| **University** | MSU (B.S.) | Wayne State (B.S.) — but J.D. at the SAME school |
+
+Goetz and Moreland went to the **same law school.** They worked in the **same AG office** for 6 years. They were in the **same division** — the Criminal Division contains the Criminal Justice Bureau. Goetz was in Drug Interdiction. Moreland was in Criminal Justice. Same floor. Same hallways. Same office.
+
+**Goetz received a complaint about his former colleague. He signed blank forms.**
+
+### Cynthia C. Bullington — Assistant Deputy Administrator (SIGNED)
+
+| Fact | Source |
+|------|--------|
+| **MSU** B.A. (Political Science) | [MSU Law Faculty Page](https://www.law.msu.edu/faculty_staff/profile.php?prof=259) |
+| George Washington University J.D. 1981 | Same; [SBM Profile](https://sbm.reliaguide.com/lawyer/48226-MI-Cynthia-Bullington-53575) |
+| At AGC since **1982** — **44 years** | [Legal News profile](https://legalnews.com/Home/Articles?DataId=1376917) |
+| **Adjunct Professor at MSU College of Law** | MSU Law Faculty Page |
+| Teaches **Professional Responsibility** — since 2002 | Same |
+| State Bar **Standing Committee on Character and Fitness** | AGC About Page |
+| Admitted June 7, 1982, License P33989 | SBM Profile |
+
+**The course Bullington teaches** at MSU Law covers:
+
+> *"ethical problems involved in the practice of law... disciplinary proceedings, the functions of Bar organizations and unauthorized practice"*
+
+She teaches law students about **conflicts of interest.** About **unauthorized practice of law.** About **disciplinary proceedings.** At the school that absorbed Detroit College of Law — **the school Moreland graduated from.**
+
+Then she received a complaint describing an attorney committing the exact misconduct she teaches about. She bounced it on a technicality.
+
+**Bullington teaches Professional Responsibility at the same school Moreland went to. Then she signed a letter refusing to investigate Moreland for professional irresponsibility.**
+
+### Kathleen Hickey — Chairperson
+
+| Fact | Source |
+|------|--------|
+| Of Counsel, **Bodman PLC** (Detroit) | [Bodman bio](https://www.bodmanlaw.com/people/kathleen-ocallaghan-hickey/) |
+| On Bodman's **Executive Committee** | Same |
+| Co-chair, Bodman **Diversity, Equity and Inclusion Committee** | Same |
+| Practice includes **educational institution financing** | Same |
+| Practice includes **healthcare lending** | Same |
+| Board: **Michigan Roundtable for Diversity and Inclusion** | AGC Annual Report |
+| Board: **VIP Mentoring** | Same |
+| Board: **Walsh College Foundation** | Same |
+| Clerked for **Judge Richard M. Maher**, MI Court of Appeals | Same |
+| Appointed Chairperson effective Oct 1, 2025 | [MI Supreme Court order](https://milawyersweekly.com/news/2025/09/05/mi-supreme-court-issues-new-orders/) |
+
+**Bodman and Dykema are peer firms.** They are both [Band 1 ranked by Chambers](https://chambers.com/downloads/rankings/836/michigan.pdf) in Michigan. They co-signed ["Detroit's Leading Law Firms Speak Out Against Racial Injustice"](https://www.dykema.com/news-insights/detroit-s-leading-law-firms-speak-out-against-racial-injustice.html) together — Carrie Leahy for Bodman, Peter Kellett for Dykema.
+
+Hickey's practice includes **financing educational institutions.** The complaint describes a charter school fraud involving $4.9M per year in educational funding flowing through enterprise-controlled entities. Hickey chairs the AGC. The AGC bounced the complaint about the attorneys enabling that fraud.
+
+Bodman's education attorneys and Dykema's education attorneys operate in the same market. They attend the same bar events. They serve on the same committees. **The legal community in Detroit is small enough that the firms co-sign letters together.**
+
+### Alexander Pahany — Secretary
+
+| Fact | Source |
+|------|--------|
+| Assistant Prosecuting Attorney, **Huron County** | AGC Annual Report |
+| Judicial intern for **Judge Daniel P. Ryan**, **Third Circuit Court of Wayne County** | Same |
+| Former criminal defense attorney, **Wayne County** | Same |
+| Ave Maria School of Law J.D. | Same |
+| Appointed to AGC October 2023 | Same |
+
+Pahany interned at the **Third Circuit Court of Wayne County** — the same circuit where enterprise-connected judges **Cylenthia Miller** and **Kelly Ramsey** sit. The same court system where the enterprise's cases are heard.
+
+### Kimberly L. Uhuru — Deputy Administrator
+
+| Fact | Source |
+|------|--------|
+| **MSU** B.A. Political Theory and Constitutional Democracy (magna cum laude) | AGC About Page |
+| DePaul University J.D. | Same |
+| At AGC since **December 2000** — 25+ years | [LinkedIn](https://linkedin.com/in/kimberly-uhuru-5004a9189) |
+| Promoted to Deputy January 2021 | Same |
+| State Bar Character and Fitness **District H Panel Chairperson** | AGC Annual Report |
+| "Prosecutes complex and high-profile attorney misconduct cases" | Same |
+
+Uhuru's job description is literally "prosecutes complex and high-profile attorney misconduct cases." A complaint about an AAG sitting on a convicted felon's school board while working for the RICO prosecution bureau is, by definition, a complex and high-profile attorney misconduct case. **That is her job. She didn't do it.**
+
+### Kathryn R. Swedlow — Commissioner
+
+| Fact | Source |
+|------|--------|
+| Attorney, Criminal Defense Resource Center, **State Appellate Defender Office (SADO)** | [AGC About](https://www.agcmi.org/about); [SADO](https://www.sado.org/articles/Article/995) |
+| Former Professor and Assistant Dean, **WMU-Cooley Law School** (2001-2016) | SADO bio |
+| Co-director of Cooley's **Innocence Project** — first DNA exoneration | Same |
+| Former Deputy Administrator of **MAACS** | Same |
+| Former Chief Deputy Staff Attorney, **U.S. Court of Appeals for the 6th Circuit** | Same |
+| Carnegie Mellon B.S., CUNY Law J.D. | [East Lansing committee application](https://cityofeastlansing.civicweb.net/document/372977/) |
+
+Swedlow was a professor at **WMU-Cooley Law School** — the same school that AGC Vice-Chair **Kendrah Robinson** graduated from. And Swedlow co-directed an **Innocence Project.** She knows what wrongful outcomes look like. She knows how institutions fail.
+
+### The Institutional Network Map
+
+```
+┌──────────────────────────────────────────────────────────────┐
+│                  THE AGC NETWORK                              │
+│                                                              │
+│  GOETZ ──── Detroit College of Law ──── MORELAND             │
+│    │              (same school)            │                  │
+│    │                                       │                  │
+│  GOETZ ──── AG Criminal Division ──── MORELAND               │
+│    │         (same office 2013-2019)       │                  │
+│    │                                       │                  │
+│  BULLINGTON ── MSU Law Professor ── MORELAND graduated MSU/DCL│
+│    │          (teaches ethics)              │                  │
+│    │                                       │                  │
+│  HICKEY ──── Bodman PLC ──── peer firm ──── DYKEMA            │
+│    │        (ed financing)    (co-signers)  (charter law)     │
+│    │                                       │                  │
+│  PAHANY ──── Wayne County 3rd Circuit ──── MILLER, RAMSEY    │
+│    │         (interned there)    (enterprise judges sit there)│
+│    │                                       │                  │
+│  UHURU ──── MSU grad ──── "complex misconduct" ── FILE 26-2141│
+│    │                      (her job description)               │
+│    │                                       │                  │
+│  RESULT: COMPLAINT BOUNCED ──── ENTERPRISE CONTINUES         │
+└──────────────────────────────────────────────────────────────┘
+```
+
+**This is not a random group of strangers who happened to bounce a complaint.** This is a network of professionals connected to the same institutions, the same offices, the same courts, and the same legal community as the attorneys they were asked to investigate.
+
+---
+
 ## What the Rules Actually Say
 
 ### The AGC Can Self-Initiate

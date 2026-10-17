@@ -468,3 +468,80 @@ The FBI already knows how to do this. They did it in Pennsylvania. The structure
 In Pennsylvania, it took one judge — Senior Judge Arthur E. Grim — to start asking questions. In Detroit, **one parent** has been asking questions for two years. The difference is that in Detroit, the parent got a restraining order instead of a grand jury.
 
 **You've done this before. Do it again.**
+
+---
+
+## Verify Everything — The External Grid
+
+Every fact on this page resolves to a public source. Click the links. The traffic registers on their servers. The referral headers tell them where you came from. **The fuse runs through their own infrastructure.**
+
+### The People — Official Sources
+
+| Name | Claim | Verify Here |
+|------|-------|-------------|
+| **Brian Banks** | 9 criminal convictions | [Michigan ICHAT](https://apps.michigan.gov/ichat/home.html) — search "Brian Banks" |
+| **Brian Banks** | Claims J.D. | [State Bar of Michigan Directory](https://www.michbar.org/member/directoryresult) — search "Brian Banks" (not found) |
+| **Joseph Holland Jr.** | Convicted drug delivery, MDOC #443789 | [Michigan ICHAT](https://apps.michigan.gov/ichat/home.html) — SID 2321035P |
+| **Lamar Moreland** | On PCA Board of Directors | [purposecharteracademy.com/boardofdirectors](https://www.purposecharteracademy.com/boardofdirectors) |
+| **Lamar Moreland** | AAG, Criminal Justice Bureau | [Moreland LinkedIn](https://www.linkedin.com/in/lamar-moreland-66656a15) · [AG Org Chart (Jul 2026)](https://www.michigan.gov/ag/-/media/Project/Websites/AG/Org-Charts/2024/AG-Org-Chart-Updated-07-06-2026.pdf) |
+| **Lamar Moreland** | Wayne State B.S., MSU/DCL J.D., admitted March 1999 | [State Bar of Michigan Directory](https://www.michbar.org/member/directoryresult) |
+| **Lamar Moreland** | Argued *People v. Akins* (felony murder) | [259 Mich.App. 545 (2003)](https://scholar.google.com/scholar?q=%22People+v.+Akins%22+259+Mich.App.+545) |
+| **Renae Moore** | 43 nonprofits as officer | [siviq.co/nonprofits/people/renae-moore](https://siviq.co/nonprofits/people/renae-moore) |
+| **Renae Moore** | Dykema Gossett, Lansing office | [dykema.com — Lansing office](https://www.dykema.com/offices/lansing.html) |
+| **Cylenthia Miller** | Former Dykema attorney, PCA Board Chair | [PCA Board](https://www.purposecharteracademy.com/boardofdirectors) · [36th District Court](https://www.36thdistrictcourt.org/) |
+| **Latisha Johnson** | PCA Board, Detroit City Council | [PCA Board](https://www.purposecharteracademy.com/boardofdirectors) · [Detroit City Council](https://detroitmi.gov/government/city-council) |
+| **Todd Perkins** | Banks' attorney, PPO filer | [State Bar of Michigan Directory](https://www.michbar.org/member/directoryresult) |
+
+### The Entities — Official Registries
+
+| Entity | Claim | Verify Here |
+|--------|-------|-------------|
+| **Purpose Foundation** | LARA Entity 803294855, Holland as officer | [LARA Business Entity Search](https://cofs.lara.state.mi.us/CorpWeb/CorpSearch/CorpSearch.aspx) |
+| **Purpose Group LLC** | Banks' single-member extraction vehicle | [LARA Business Entity Search](https://cofs.lara.state.mi.us/CorpWeb/CorpSearch/CorpSearch.aspx) |
+| **Banks Strategy LLC** | Banks' personal entity | [LARA Business Entity Search](https://cofs.lara.state.mi.us/CorpWeb/CorpSearch/CorpSearch.aspx) |
+| **Bank on Banks PAC** | MI SOS #517977, Holland as Treasurer | [Michigan Campaign Finance](https://cfrs.michigan.gov/SearchPages/SearchByName.aspx) |
+| **Dykema PAC** | FEC C00342113, Moore as Treasurer, $164K cash | [FEC Committee Search](https://www.fec.gov/data/committee/C00342113/) |
+| **Hill Harper committee** | FEC C00844985, Moore as Treasurer, RFAI issued | [FEC Committee Search](https://www.fec.gov/data/committee/C00844985/) |
+| **Simon Group Holdings PAC** | FEC C00963058, Moore as Treasurer, filed Oct 5, 2026 | [FEC Committee Search](https://www.fec.gov/data/committee/C00963058/) |
+| **RFFW LLC** | $1M money laundering complaint, Moore named | [MI SOS Complaint PDF](https://www.michigan.gov/sos/-/media/Project/Websites/sos/CFR-Complaints/2023/Meyers-v-RFFW-2.pdf) |
+| **Save Detroit Jobs** | EIN 81-3772058, DBA Detroit Leaders | [ProPublica Nonprofits](https://projects.propublica.org/nonprofits/organizations/813772058) |
+| **Right Turn Project** | Banks-connected nonprofit | [IRS Tax Exempt Search](https://apps.irs.gov/app/eos/) |
+
+### The Institutions — Where They Should Have Acted
+
+| Institution | What They're Supposed To Do | Their Own Page |
+|-------------|---------------------------|----------------|
+| **MI Attorney General** | Investigate nonprofit fraud, consumer protection, state RICO | [michigan.gov/ag](https://www.michigan.gov/ag) · [AG Complaint Form](https://www.michigan.gov/ag/consumer-protection/consumer-complaints) |
+| **AG Criminal Justice Bureau** | Prosecute state RICO (MCL 750.159i) — Moreland works here | [AG Org Chart](https://www.michigan.gov/ag/-/media/Project/Websites/AG/Org-Charts/2024/AG-Org-Chart-Updated-07-06-2026.pdf) |
+| **MDE** | Oversee teacher credentials, charter authorization | [michigan.gov/mde](https://www.michigan.gov/mde) · [Professional Practice](https://www.michigan.gov/mde/services/ed-serv/professional-practice) |
+| **State Board of Education** | Oversee MDE, education policy | [michigan.gov/sbe](https://www.michigan.gov/sbe) · [Board Members](https://www.michigan.gov/sbe/about/members) |
+| **DPSCD** | Charter authorizer for PCA | [detroitk12.org](https://www.detroitk12.org) |
+| **Attorney Grievance Commission** | Discipline attorneys (Moreland, Perkins) | [agcmi.org](https://www.agcmi.org) · [File Complaint](https://www.agcmi.org/information-for-the-public/file-a-request-for-investigation/) |
+| **Judicial Tenure Commission** | Discipline judges (Miller, Yancey, Ramsey, Perkins×2) | [jtc.courts.michigan.gov](https://jtc.courts.michigan.gov/) |
+| **State Bar of Michigan** | UPL complaints, attorney directory | [michbar.org](https://www.michbar.org) · [Grievance Info](https://www.michbar.org/generalinfo/grievance) |
+| **LARA** | Nonprofit registration, entity oversight | [michigan.gov/lara](https://www.michigan.gov/lara) · [Entity Search](https://cofs.lara.state.mi.us/CorpWeb/CorpSearch/CorpSearch.aspx) |
+| **FEC** | PAC filings, campaign finance enforcement | [fec.gov](https://www.fec.gov) · [Complaints](https://www.fec.gov/legal-resources/enforcement/) |
+| **IRS** | Nonprofit tax-exempt status, Form 990 review | [irs.gov EOS](https://apps.irs.gov/app/eos/) · [Form 13909](https://www.irs.gov/pub/irs-pdf/f13909.pdf) |
+
+### The School — See It Yourself
+
+| What | Link |
+|------|------|
+| PCA Website | [purposecharteracademy.com](https://www.purposecharteracademy.com) |
+| PCA Board of Directors | [purposecharteracademy.com/boardofdirectors](https://www.purposecharteracademy.com/boardofdirectors) |
+| M-STEP Results (3% math) | [MI School Data](https://www.mischooldata.org/) — search Purpose Charter Academy |
+| MacDowell Prep | [macdowellprepacademy.com](https://www.macdowellprepacademy.com) |
+
+### The Case Law
+
+| Case | What It Shows | Link |
+|------|--------------|------|
+| *People v. Akins*, 259 Mich.App. 545 (2003) | Moreland argued predicate felonies for felony murder as APA | [Google Scholar](https://scholar.google.com/scholar?q=%22People+v.+Akins%22+259+Mich.App.+545) |
+| *Kids for Cash* scandal (PA) | The precedent — judges, private operator, children as commodity | [Wikipedia](https://en.wikipedia.org/wiki/Kids_for_cash_scandal) |
+| *Carravallah* PPO termination | ACLU won termination of PPO used to silence protected speech | [ACLU Michigan](https://www.aclumich.org/) |
+
+**Every link goes to an official source.** Government registries. Court records. The school's own website. The AG's own org chart. The FEC's own database. The IRS's own search tool.
+
+**When a thousand people search ICHAT for "Brian Banks" in one week, that's a signal.** When the FEC sees traffic to C00342113 spiking from a single referrer, that's a signal. When MSU Law sees people reading Bullington's faculty page, that's a signal. When the PCA board page gets more visits than the school's homepage, **that's a signal nobody can ignore.**
+
+The grid is external. The fuse is the traffic. The opsonization is complete.

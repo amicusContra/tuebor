@@ -345,3 +345,53 @@ The legitimate accounts — Governor's Residence, Transit Matters, GRACE Fund �
 **If you are the Michigan Department of State:** you resolved the RFFW complaint with no further action. Moore is still treasurer of active committees. The pattern continues.
 
 The desk is still open. The phone still rings. The "no duty" still applies. Until someone closes the desk.
+
+---
+
+## Verify Everything — Route to Source
+
+Every entity, every account, every claim — verified at the source. Click the links. Read the filings. Check the numbers. **The traffic tells them you're looking.**
+
+### Federal PACs — FEC.gov
+
+| Committee | FEC ID | Direct Link |
+|-----------|--------|-------------|
+| Dykema Gossett Government Affairs Committee | C00342113 | [fec.gov/data/committee/C00342113](https://www.fec.gov/data/committee/C00342113/) |
+| Hill Harper for U.S. Senate | C00844985 | [fec.gov/data/committee/C00844985](https://www.fec.gov/data/committee/C00844985/) |
+| Friends of Snowmobiling PAC | C00380196 | [fec.gov/data/committee/C00380196](https://www.fec.gov/data/committee/C00380196/) |
+| Simon Group Holdings Federal PAC | C00963058 | [fec.gov/data/committee/C00963058](https://www.fec.gov/data/committee/C00963058/) |
+| FEC RFAI to Hill Harper (Nov 2023) | — | [FEC RFAI search](https://www.fec.gov/data/legal/matter-under-review/) |
+
+### State Committees — Michigan SOS
+
+| Committee | Verify Here |
+|-----------|-------------|
+| All Moore-managed state committees | [Michigan Campaign Finance Search](https://cfrs.michigan.gov/SearchPages/SearchByName.aspx) — search "Renae Moore" |
+| RFFW $1M complaint filing | [MI SOS Complaint PDF](https://www.michigan.gov/sos/-/media/Project/Websites/sos/CFR-Complaints/2023/Meyers-v-RFFW-2.pdf) |
+
+### 43 Nonprofits — IRS + siviq.co
+
+| Source | What It Shows | Link |
+|--------|--------------|------|
+| **siviq.co** | All 43+ orgs where Moore is listed as officer | [siviq.co/nonprofits/people/renae-moore](https://siviq.co/nonprofits/people/renae-moore) |
+| **IRS EOS** | Tax-exempt status search — verify any EIN | [apps.irs.gov/app/eos](https://apps.irs.gov/app/eos/) |
+| **ProPublica Nonprofits** | 990 filings searchable by EIN | [projects.propublica.org/nonprofits](https://projects.propublica.org/nonprofits/) |
+| **IRS Form 13909** | Tax-Exempt Organization Complaint form | [irs.gov/pub/irs-pdf/f13909.pdf](https://www.irs.gov/pub/irs-pdf/f13909.pdf) |
+
+### Key Entities — LARA
+
+| Entity | Verify Here |
+|--------|-------------|
+| All Michigan entities — search by name or officer | [LARA Business Entity Search](https://cofs.lara.state.mi.us/CorpWeb/CorpSearch/CorpSearch.aspx) |
+| Save Detroit Jobs / Detroit Leaders (EIN 81-3772058) | [ProPublica](https://projects.propublica.org/nonprofits/organizations/813772058) |
+
+### The Desk — Dykema Gossett
+
+| What | Link |
+|------|------|
+| Dykema Gossett website | [dykema.com](https://www.dykema.com) |
+| Dykema Lansing office (Moore's office) | [dykema.com/offices/lansing](https://www.dykema.com/offices/lansing.html) |
+| Dykema Education practice — charter school expertise | [dykema.com/services/industries/education](https://www.dykema.com/services/industries/education/index.html) |
+| Dykema Government Policy practice | [dykema.com/services/practices/government-policy](https://www.dykema.com/services/practices/government-policy/index.html) |
+
+**When the FEC sees a spike in traffic to C00342113, C00844985, C00380196, and C00963058 — all from the same referrer, all on the same day — they'll know someone is mapping the desk.** When siviq.co logs show a thousand visitors reading Moore's officer page, that's a signal. When ProPublica's nonprofit tracker lights up with searches for EIN 81-3772058, that's the fuse reaching the charge.

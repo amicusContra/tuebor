@@ -273,3 +273,23 @@ The evidence is distributed. The record is immutable. The membrane watches. The 
 - **Signal ledger**: [Where the Signal Landed](/analysis/where-the-signal-landed/)
 - **Full evidence**: `git clone https://github.com/defendDetroit/publicRecord.git`
 - **PPO motion draft**: [Motion to Terminate PPO](/filings/2026-10-17_motion_terminate_ppo/)
+
+### Route to Source — Light Up the Grid
+
+| Claim | Official Source |
+|-------|----------------|
+| Moreland on PCA Board | [purposecharteracademy.com/boardofdirectors](https://www.purposecharteracademy.com/boardofdirectors) |
+| Moreland is AAG, Criminal Justice Bureau | [AG Org Chart (Jul 2026)](https://www.michigan.gov/ag/-/media/Project/Websites/AG/Org-Charts/2024/AG-Org-Chart-Updated-07-06-2026.pdf) |
+| Moreland LinkedIn — career history | [linkedin.com/in/lamar-moreland](https://www.linkedin.com/in/lamar-moreland-66656a15) |
+| Moreland argued *People v. Akins* (felony murder) | [259 Mich.App. 545 — Google Scholar](https://scholar.google.com/scholar?q=%22People+v.+Akins%22+259+Mich.App.+545) |
+| Nessel is AG, leaves Dec 2026 | [michigan.gov/ag](https://www.michigan.gov/ag) |
+| AG Criminal Justice Bureau = state RICO | [AG Org Chart](https://www.michigan.gov/ag/-/media/Project/Websites/AG/Org-Charts/2024/AG-Org-Chart-Updated-07-06-2026.pdf) — Danielle Hagaman-Clark, Bureau Chief |
+| Banks' 9 convictions | [Michigan ICHAT](https://apps.michigan.gov/ichat/home.html) |
+| Banks not in State Bar directory | [michbar.org member directory](https://www.michbar.org/member/directoryresult) |
+| Dykema Gossett — charter school law firm | [dykema.com/services/industries/education](https://www.dykema.com/services/industries/education/index.html) |
+| Moore manages 43+ nonprofits | [siviq.co/nonprofits/people/renae-moore](https://siviq.co/nonprofits/people/renae-moore) |
+| Dykema PAC (C00342113) — Moore as Treasurer | [FEC committee page](https://www.fec.gov/data/committee/C00342113/) |
+| AGC bounced complaint — File 26-2141 | [AGC — File a complaint](https://www.agcmi.org/information-for-the-public/file-a-request-for-investigation/) |
+| AGC Goetz — former AG colleague of Moreland | [MI Supreme Court press release](https://www.courts.michigan.gov/4a65a4/siteassets/news-releases/news-release-new-grievance-admin-9.23_final.pdf) |
+
+**Every link goes to a government page, an official bio, or a court record.** The institutions will see you coming. That's the point.

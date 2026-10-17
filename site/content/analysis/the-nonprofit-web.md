@@ -307,3 +307,24 @@ Council Member Johnson, the following questions are a matter of public record:
 | PCA Board full roster | PCA website, LARA filings |
 | 11 Detroit entities | IRS 990 via siviq.co, cross-referenced with LARA |
 | RFFW $1M complaint | [michigan.gov/sos](https://www.michigan.gov/sos/-/media/Project/Websites/sos/CFR-Complaints/2023/Meyers-v-RFFW-2.pdf) |
+
+### Route to Source — Light Up the Grid
+
+| Entity / Person | What to Check | Official Link |
+|----------------|---------------|---------------|
+| **Save Detroit Jobs** officers & 990 | ProPublica nonprofit database | [ProPublica — EIN 81-3772058](https://projects.propublica.org/nonprofits/organizations/813772058) |
+| **All Wilk entities** | Michigan LARA registry | [LARA Business Entity Search](https://cofs.lara.state.mi.us/CorpWeb/CorpSearch/CorpSearch.aspx) — search "Wilk" |
+| **Latisha Johnson** on PCA Board | PCA's own website | [purposecharteracademy.com/boardofdirectors](https://www.purposecharteracademy.com/boardofdirectors) |
+| **Johnson** on City Council | Detroit City Council official page | [detroitmi.gov/government/city-council](https://detroitmi.gov/government/city-council) |
+| **Kenneth Daniels** charged (Mercedes) | Deadline Detroit reporting | [deadlinedetroit.com](https://www.deadlinedetroit.com/articles/28930/benson-tied_non-profit_pivots_to_fighting_elrick_in_detroit_district_4_council_race) |
+| **FBI raid** / 501(c)(4) seizure | Deadline Detroit reporting | [deadlinedetroit.com](https://www.deadlinedetroit.com/articles/28819/the_messy_intersection_of_dark_money_and_detroit_politics) |
+| **Moore** on 43+ nonprofits | siviq.co officer aggregation | [siviq.co/nonprofits/people/renae-moore](https://siviq.co/nonprofits/people/renae-moore) |
+| **All 11 Detroit-named entities** | IRS EOS + ProPublica | [IRS EOS](https://apps.irs.gov/app/eos/) · [ProPublica Nonprofits](https://projects.propublica.org/nonprofits/) |
+| **Dykema** formed the entities | Dykema's own education practice page | [dykema.com/services/industries/education](https://www.dykema.com/services/industries/education/index.html) |
+| **Dykema** government policy practice | Where compliance@dykema.com lives | [dykema.com/services/practices/government-policy](https://www.dykema.com/services/practices/government-policy/index.html) |
+| **DPSCD** — charter authorizer | District website | [detroitk12.org](https://www.detroitk12.org) |
+| **PCA** — 3% math proficiency | MI School Data | [mischooldata.org](https://www.mischooldata.org/) — search "Purpose Charter Academy" |
+| **Banks** 9 convictions | Michigan ICHAT | [apps.michigan.gov/ichat](https://apps.michigan.gov/ichat/home.html) |
+| **Holland** MDOC #443789 | Michigan ICHAT | [apps.michigan.gov/ichat](https://apps.michigan.gov/ichat/home.html) — SID 2321035P |
+
+**The Deadline Detroit articles are already public. The ProPublica filings are already indexed. The LARA records are already searchable. The FEC data is already downloadable. We're not creating evidence — we're routing traffic to evidence that already exists on their own servers.**

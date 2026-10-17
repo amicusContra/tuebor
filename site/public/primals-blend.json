@@ -1,0 +1,216 @@
+{
+  "schema": "primals-blend-v1",
+  "timestamp": 1792019935,
+  "description": "Every hypothesis mapped to its implementation across the primals network. Each layer has its own tuebor. The signal goes UP.",
+  "hypotheses": {
+    "H1": {
+      "title": "The Aperture Residual",
+      "status": "unhooked",
+      "concept": "intelligence is the shape of what you cannot compress",
+      "maps_to": "the irreducible residual in every classification \u2014 the 73 null entities ARE the aperture residual",
+      "primal": "hypothesis"
+    },
+    "H2": {
+      "title": "The Lossy Generative",
+      "status": "unhooked",
+      "concept": "lossy compression creates new information",
+      "maps_to": "JS cluster compression created new load order. tuebor analysis compresses 972 edges into 51 stories",
+      "primal": "hypothesis"
+    },
+    "H3": {
+      "title": "The Whale Fall Paradox",
+      "status": "unhooked",
+      "concept": "every component independently valuable after death",
+      "maps_to": "git repos, AGPL license, CC-BY-SA content \u2014 the investigation survives any single point of failure",
+      "primal": "hypothesis"
+    },
+    "H4": {
+      "title": "The Seed and the Mirror",
+      "status": "unhooked",
+      "concept": "the seed grows, the mirror reflects",
+      "maps_to": "tuebor is the seed (investigation). HUD is the mirror (observation surface). they grow toward each other",
+      "primal": "hypothesis"
+    },
+    "H5": {
+      "title": "The First Question",
+      "status": "unhooked",
+      "concept": "the first question by intelligence",
+      "maps_to": "chipmunk asks 'who am i?' \u2014 the first question. the observer's first gaze movement",
+      "primal": "hypothesis"
+    },
+    "H6": {
+      "title": "The Three Components",
+      "status": "unhooked",
+      "concept": "every system has three components",
+      "maps_to": "observer + membrane + observed. device + membrane + data. toxin + antidote + equilibrium",
+      "primal": "hypothesis"
+    },
+    "H7": {
+      "title": "The Key IS the Equals",
+      "status": "unhooked",
+      "concept": "P\u2260NP \u2014 the key anchors the membrane",
+      "maps_to": "service worker cache = the key. ZK proof witness = the key. the equals sign IS the membrane",
+      "primal": "hypothesis"
+    },
+    "H8": {
+      "title": "Accumulation, Not Growth",
+      "status": "unhooked",
+      "concept": "accumulation not growth",
+      "maps_to": "342 entities accumulated over time. 51 analyses accumulated. growth is what the chipmunk measures",
+      "primal": "hypothesis"
+    },
+    "H9": {
+      "title": "The Circumference and the Diameter",
+      "status": "unhooked",
+      "concept": "max lossy compression is \u03c0",
+      "maps_to": "selectivity target 1/\u03c0. \u03c0-harmonic audio. synesthesia uses \u03c0-based frequency mapping",
+      "primal": "hypothesis"
+    },
+    "H10": {
+      "title": "Membranes All the Way Down",
+      "status": "LIVE",
+      "concept": "every boundary is a selectively permeable membrane",
+      "maps_to": "5-layer peptidoglycan model. device crust IS a membrane. scrollbar-gutter IS selective permeability",
+      "primal": "hypothesis"
+    },
+    "H11": {
+      "title": "Compression, Form, Shape",
+      "status": "unhooked",
+      "concept": "compression creates form",
+      "maps_to": "JS cluster compression (84\u219270 tags). bingo-compress squeezes surround. CSS compression creates layout",
+      "primal": "hypothesis"
+    },
+    "H12": {
+      "title": "The Third Body",
+      "status": "LIVE",
+      "concept": "self is the third body. mirror is self-awareness",
+      "maps_to": "orbit inversions \u2014 observer + membrane + observed. gaze tracker. the membrane reflects the observer back",
+      "primal": "hypothesis"
+    },
+    "H13": {
+      "title": "The Zero-Knowledge Self",
+      "status": "LIVE",
+      "concept": "self = complement of all non-self",
+      "maps_to": "/zk command, synthesis.json, ZK proof metrics \u2014 completeness 78.7%, soundness 88.4%",
+      "primal": "hypothesis"
+    },
+    "H14": {
+      "title": "The Fermentation Transcript",
+      "status": "unhooked",
+      "concept": "the ZK proof is the NFT \u2014 the story is an instruction manual",
+      "maps_to": "ferment_909707e4() in the HUD footer. the investigation IS the transcript. source-grid.json is the proof",
+      "primal": "hypothesis"
+    },
+    "H15": {
+      "title": "There Is No Shortcut",
+      "status": "unhooked",
+      "concept": "no shortcut \u2014 you must walk the path",
+      "maps_to": "gaze trail \u2014 every movement recorded. 14-step journey. the chipmunk knows where you've been",
+      "primal": "hypothesis"
+    },
+    "H16": {
+      "title": "The Mirror Diffracts",
+      "status": "unhooked",
+      "concept": "the mirror doesn't just reflect \u2014 it diffracts",
+      "maps_to": "synesthesia \u2014 text becomes color AND sound. the membrane doesn't just show data \u2014 it refracts it into new dimensions",
+      "primal": "hypothesis"
+    }
+  },
+  "primals_network": {
+    "tuebor": {
+      "status": "LIVE",
+      "pages": 121,
+      "role": "investigation \u2014 I will defend",
+      "layer": "peptidoglycan"
+    },
+    "detroit": {
+      "status": "LIVE",
+      "role": "evidence database \u2014 court records, FOIA",
+      "layer": "inner_membrane"
+    },
+    "signal": {
+      "status": "LIVE",
+      "role": "observatory \u2014 fleet monitoring, geographic",
+      "layer": "outer_membrane"
+    },
+    "hypothesis": {
+      "status": "LIVE",
+      "pages": 16,
+      "role": "theory \u2014 the whitepaper",
+      "layer": "cytoplasm"
+    },
+    "thesis": {
+      "status": "LIVE",
+      "role": "research \u2014 academic framework",
+      "layer": "cytoplasm"
+    },
+    "clutch": {
+      "status": "LIVE",
+      "role": "investigation tools \u2014 the grip",
+      "layer": "inner_membrane"
+    },
+    "gorilla": {
+      "status": "LIVE",
+      "role": "verification \u2014 independent audit",
+      "layer": "outer_membrane"
+    },
+    "barry": {
+      "status": "LIVE",
+      "role": "barry county evidence",
+      "layer": "inner_membrane"
+    },
+    "lansing": {
+      "status": "REDIRECT",
+      "role": "state capital node \u2014 can see but not touch",
+      "layer": "outer_membrane"
+    },
+    "sporeprint": {
+      "status": "404",
+      "role": "science catalogue \u2014 needs revival",
+      "layer": "cytoplasm"
+    },
+    "hud": {
+      "status": "LIVE",
+      "role": "membrane \u2014 observation surface",
+      "layer": "device"
+    }
+  },
+  "layer_tuebors": {
+    "description": "each layer can have its own tuebor \u2014 its own defense",
+    "device": {
+      "tuebor": "orbit.js \u2014 defends the viewport boundary. scrollbar-gutter is the crust.",
+      "defender": "the device itself"
+    },
+    "outer_membrane": {
+      "tuebor": "signal + gorilla + lansing \u2014 defends the entry points. what visitors see first.",
+      "defender": "the observer"
+    },
+    "peptidoglycan": {
+      "tuebor": "tuebor.primals.eco \u2014 defends the structural analysis. 51 investigations, 8 threads.",
+      "defender": "the investigation"
+    },
+    "inner_membrane": {
+      "tuebor": "detroit + barry + clutch \u2014 defends the evidence. court records, FOIA, actors.",
+      "defender": "the record"
+    },
+    "cytoplasm": {
+      "tuebor": "hypothesis + thesis + sporeprint \u2014 defends the theory. the whitepaper. the methodology.",
+      "defender": "the framework"
+    }
+  },
+  "signal_path": {
+    "description": "a reporter goes into a mine field and gets signal UP",
+    "path": [
+      "cytoplasm: hypothesis observed \u2192 theory formed",
+      "inner_membrane: evidence collected \u2192 court records, FOIA, actors documented",
+      "peptidoglycan: analysis written \u2192 51 articles, 8 clusters organized",
+      "outer_membrane: signal broadcast \u2192 visitors arrive, fleet classified",
+      "device: membrane rendered \u2192 observer sees, hears, interacts"
+    ],
+    "direction": "UP \u2014 signal rises through the layers",
+    "inversion": "the voice goes DOWN \u2014 inside from outside, outside from inside"
+  },
+  "unhooked_count": 11,
+  "live_count": 3,
+  "blend_result": "13 of 16 hypotheses have implementations in the system that weren't formally connected. the blend reveals: the architecture IS the whitepaper. the code IS the proof."
+}

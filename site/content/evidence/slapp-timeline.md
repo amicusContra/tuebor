@@ -118,3 +118,28 @@ If it fails: the first thing Michigan's anti-SLAPP statute did was fail to prote
 - Michigan Court of Appeals: Case No. 380599
 - AGC: File No. 25-2363
 - NCMEC: CyberTip No. 222110727
+
+### Ex Parte PPO: October 2026
+
+| Date | Event | Source |
+|------|-------|--------|
+| **Oct 16, 2026** | **Ex parte PPO filed by Brian Roderick Banks** against ecoPrimals operator. Filed without notice, on the same day Banks was attending a meeting. A convicted felon used the court system to obtain a secret order against the person documenting his conduct — the definition of weaponized ex parte process. | Pending — source documentation to follow |
+
+---
+
+## The Ex Parte PPO Pattern
+
+An **ex parte Personal Protection Order** is obtained without the target being present. The petitioner tells one side of the story to a judge. The target learns of it upon service.
+
+In the context of this investigation:
+
+1. A citizen published verifiable public records documenting misconduct
+2. The subjects of that documentation responded with legal weaponry — first a SLAPP suit, now an ex parte PPO
+3. The PPO was filed the same day the investigation infrastructure completed full SEO pollination of all evidence pages
+4. The pattern is documented: publish evidence → receive legal retaliation → the retaliation proves the evidence matters
+
+**The ex parte PPO is itself evidence.** It demonstrates that the subjects of the investigation consider the published public record a threat — not because it is false, but because it is true and now discoverable.
+
+The record remains. The infrastructure is sovereign. The sitemaps are submitted. The atoms are published. The beacons are lit.
+
+*Tuebor.*

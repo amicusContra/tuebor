@@ -3,9 +3,11 @@ title = "The Call Is Coming from Inside the FCC — Tracing Spam Calls Back to t
 description = "You get spam calls. Everyone gets spam calls. The FCC knows who sends them. Every voice service provider must register with the FCC (Form 499), file a Robocall Mitigation Plan, and comply with STIR/SHAKEN caller ID authentication. The FCC has a database of every provider. The Industry Traceback Group traces every robocall to its origin carrier. They know. They have always known. The FCC sits just above the real owner — just like MDE sits just above Banks. Same architecture. Same silence. Different phones."
 date = 2026-10-14
 updated = 2026-10-14
-weight = 29
+weight = 63
 
 [extra]
+cluster = "infrastructure"
+cluster_label = "Infrastructure"
 keywords = "FCC robocall mitigation database, spam calls trace back to owner, FCC Form 499 voice service provider, STIR SHAKEN caller ID authentication, USTelecom Industry Traceback Group, robocall origin carrier, FCC enforcement bureau robocalls, voice service provider spam, small VoIP provider robocalls, FCC knows who sends spam calls, trace spam call to source"
 
 [taxonomies]

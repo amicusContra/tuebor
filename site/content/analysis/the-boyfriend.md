@@ -3,9 +3,11 @@ title = "The Boyfriend — Joseph Holland Jr. and the Man Inside the Machine"
 description = "Joseph Holland Jr. is listed as Brian Banks's romantic partner. He is also the successor trustee of Banks Living Trust. He is also a co-investigator across dozens of charter fraud cases nationally. 785 edges. Tier 1. Partial classification at 0.863. He's not a bystander. He's the person closest to the center of the graph who isn't the center."
 date = 2026-10-14
 updated = 2026-10-14
-weight = 11
+weight = 46
 
 [extra]
+cluster = "governance"
+cluster_label = "Governance Web"
 keywords = "Joseph Holland Jr Brian Banks, Holland Banks romantic partner, Banks Living Trust successor trustee, Joseph Holland Purpose Charter Academy, Holland exploitation Banks, Holland 785 edges investigation, Holland co-investigation charter fraud, Banks inner circle"
 
 [taxonomies]

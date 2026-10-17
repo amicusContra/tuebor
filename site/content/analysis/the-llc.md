@@ -3,9 +3,11 @@ title = "The LLC — How Purpose Group Extracts 72.67% of a School"
 description = "Purpose Group LLC is a single-member LLC. The single member is Brian Roderick Banks, who has 9 criminal convictions. Purpose Charter Academy pays Purpose Group for 'management services.' Purpose Group pays Banks. MacDowell Preparatory Academy does the same thing. Two schools, one LLC, one man, one pocket. 72.67% of every tax dollar walks out the door."
 date = 2026-10-14
 updated = 2026-10-14
-weight = 2
+weight = 3
 
 [extra]
+cluster = "banks_core"
+cluster_label = "Banks Investigation"
 keywords = "Purpose Group LLC Brian Banks, Purpose Group LLC Purpose Charter Academy, 72 percent extraction charter school, single member LLC charter school Michigan, Purpose Group MacDowell Preparatory, charter school management fee extraction, Brian Banks 9 convictions Purpose Group, Purpose Group money flow, charter school LLC revenue extraction Detroit"
 
 [taxonomies]

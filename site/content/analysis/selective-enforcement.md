@@ -3,9 +3,11 @@ title = "Selective Enforcement — Dana Nessel and the Attorney General Who Inve
 description = "AG Dana Nessel's office investigated Brian Banks. Her assistant AG, Dawn Ison, sits on the board of Brian Banks's school. The enforcement gap runs downhill: the AG investigates small-time charter operators but not the foundations, law firms, and institutions that build the pipeline. The membrane classified the AG Office as self. But self doesn't mean functional."
 date = 2026-10-14
 updated = 2026-10-14
-weight = 4
+weight = 31
 
 [extra]
+cluster = "oversight"
+cluster_label = "Oversight Failures"
 keywords = "Dana Nessel Brian Banks investigation, Dawn Ison Purpose Charter Academy board, Michigan Attorney General charter school enforcement, AG charitable trust Michigan, Nessel selective enforcement charter schools, enforcement ecosystem Michigan, Dawn Ison assistant attorney general Banks, AG office PCA investigation, Michigan charter school oversight failure"
 
 [taxonomies]

@@ -3,9 +3,11 @@ title = "The Board Member Who Boards — Lisa Moreland, AG Employee, PCA Board, 
 description = "Lisa Moreland works for the Attorney General's office. She sits on the board of Purpose Charter Academy. She provides legal representation to Brian Banks. She has a professional connection to Michael Goetz, who governs the Attorney Grievance Commission. Three overlapping roles: AG employee, PCA board member, Banks's lawyer. Classification: partial at 0.952. The membrane is 95% sure she's in both worlds."
 date = 2026-10-14
 updated = 2026-10-14
-weight = 16
+weight = 48
 
 [extra]
+cluster = "governance"
+cluster_label = "Governance Web"
 keywords = "Lisa Moreland AG office Michigan, Moreland PCA board member, Moreland Banks legal representation, Moreland Goetz professional connection, AG employee charter school board, Lisa Moreland conflict of interest, Moreland Baker College MSU, PCA board conflict of interest, attorney general employee Banks attorney"
 
 [taxonomies]

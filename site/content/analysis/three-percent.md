@@ -3,9 +3,11 @@ title = "Three Percent — Purpose Charter Academy by the Numbers"
 description = "362 students. 99.2% Black. 3% math proficiency. 72.67% of revenue extracted by one LLC. A sitting judge chairs the board. An assistant AG sits on it. The principal's sister-in-law audits it. And the founder has 9 criminal convictions. These are all public numbers. Every one of them was available before a single child enrolled."
 date = 2026-10-14
 updated = 2026-10-14
-weight = 1
+weight = 2
 
 [extra]
+cluster = "banks_core"
+cluster_label = "Banks Investigation"
 keywords = "Purpose Charter Academy Detroit, PCA 3 percent math proficiency, Purpose Charter Academy Brian Banks, Purpose Group LLC 72 percent extraction, Judge Cylenthia Miller PCA board, Dawn Ison PCA board, Purpose Charter Academy DPSCD authorization, Purpose Charter Academy CMU authorizer, Purpose Charter Academy Title I funding, 362 students 99 percent Black, purpose charter academy audit"
 
 [taxonomies]

@@ -1,9 +1,11 @@
 +++
 title = "Anderson Localization — The Hemlock Subgraph"
 description = "How one family can capture an entire community's institutional infrastructure. The same physics that explains Detroit's institutional failure, applied to a town of 2,000."
-weight = 1
+weight = 71
 
 [extra]
+cluster = "methodology"
+cluster_label = "Methodology"
 keywords = "Anderson localization institutional capture, Hemlock Michigan, Philip Ellison Hemlock, Outside Legal Counsel Hemlock, Quagmire Solutions LLC, FOIAworks privacy, Saginaw ISD board capture, institutional corruption small town, Michigan judicial capture, ISP surveillance Hemlock, FOIA platform privacy, Hemlock Michigan corruption, Katherine Ellison school board, LakeNet LLC ISP Hemlock, six layer panopticon, Clutch Justice Hemlock, Saginaw County institutional capture, small town corruption Michigan"
 
 [taxonomies]

@@ -3,9 +3,11 @@ title = "The Department That Didn't — Detroit PD, Jurisdiction, and the Crimes
 description = "The Detroit Police Department has jurisdiction over Brian Banks. It has jurisdiction over Purpose Charter Academy. It is led by a police chief appointed by a mayor with a political edge to Banks. The DPD has the same structural pattern as Plante Moran — both have jurisdiction and neither acts. Partial at 0.912. The department that didn't."
 date = 2026-10-14
 updated = 2026-10-14
-weight = 23
+weight = 26
 
 [extra]
+cluster = "oversight"
+cluster_label = "Oversight Failures"
 keywords = "Detroit Police Department Brian Banks jurisdiction, DPD PCA jurisdiction, Detroit police charter school fraud, Bettison police chief Sheffield appointment, DPD Plante Moran same pattern, Detroit police failure Banks, DPD charter school oversight, Detroit PD jurisdiction PCA"
 
 [taxonomies]

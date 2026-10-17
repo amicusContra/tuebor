@@ -1,125 +1,100 @@
 +++
 title = "Analysis"
-description = "Pattern analysis across Michigan's accountability failures. What connects the investigations. Where the institutional immunity breaks."
-weight = 6
+description = "Pattern analysis across Michigan's accountability failures. What connects the institutions, money, people, and politics — organized by investigation thread."
+weight = 3
 sort_by = "weight"
 
 [extra]
-keywords = "Michigan institutional analysis, Anderson localization institutional capture, Michigan oversight failure pattern, AGC dismissal rate analysis, JTC grievance statistics, UPEPA anti-SLAPP analysis, cross-county judicial pattern Michigan, Clutch Justice analysis, Michigan court corruption analysis, institutional immunity Michigan"
+keywords = "Michigan investigation analysis, charter school accountability, dark money Michigan, judicial oversight failure, regulatory capture analysis, political network Michigan, governance web Detroit"
 +++
 
-## The Pattern
+## 51 Investigations, 8 Threads
 
-The investigations documented on this site span five Michigan counties, two federal courts, and every level of the state's judicial oversight system. They involve different judges, different attorneys, different prosecutors, and different law enforcement agencies. They should be unrelated.
+Each article follows a thread through the investigation graph.
 
-They are not.
+### 🔴 Banks Investigation <span style="color:#484f58;font-weight:normal;font-size:.8em">(4)</span>
+*The core: Brian Roderick Banks, 9 convictions, 2 charter schools, $4.9M public funds*
 
-### The Oversight Failure Loop
+- [They Banked on Banks — Brian Roderick Banks, 9 Convictions, 2 Charter Schools, Detroit](/analysis/they-banked-on-banks/) <span style="color:#8b949e;font-size:.85em">— Brian Roderick Banks has 9 criminal convictions (6 felony, 3 misdemeanor) and runs Purpose Charter Academy and MacDowell...</span>
+- [Three Percent — Purpose Charter Academy by the Numbers](/analysis/three-percent/) <span style="color:#8b949e;font-size:.85em">— 362 students. 99.2% Black. 3% math proficiency. 72.67% of revenue extracted by one LLC. A sitting judge chairs the board...</span>
+- [The LLC — How Purpose Group Extracts 72.67% of a School](/analysis/the-llc/) <span style="color:#8b949e;font-size:.85em">— Purpose Group LLC is a single-member LLC. The single member is Brian Roderick Banks, who has 9 criminal convictions. Pur...</span>
+- [The Shell Game — Inner Link, Banks Strategy, and the LLCs That Move the Money](/analysis/the-shell-game/) <span style="color:#8b949e;font-size:.85em">— Brian Banks doesnt just run one LLC. He runs a constellation: Purpose Group, Banks Strategy & Consultants, Inner Link, ...</span>
 
-Every documented case follows the same institutional sequence:
+### 💰 Dark Money Pipeline <span style="color:#484f58;font-weight:normal;font-size:.8em">(8)</span>
+*Dykema, PACs, Walton, DeVos — who funds what and how the money moves*
 
-```
-1. Misconduct occurs → court record created
-2. Affected party files complaint → AGC / JTC / SCAO
-3. Complaint processed in isolation → dismissed or privately resolved
-4. Confidential disposition → public cannot verify outcome
-5. Pattern continues → next affected party starts at step 1
-```
+- [Sitting in a Tree — Mike and Tom and Dykema and Banks](/analysis/sitting-in-a-tree/) <span style="color:#8b949e;font-size:.85em">— Mike Rogers (Senate), Tom Barrett (MI-7), and Brian Banks (9-conviction charter school founder) share one tree: Dykema G...</span>
+- [How To Build an OS — One Law Firm, Six Dark Money Vehicles, Both Parties](/analysis/how-to-build-an-os/) <span style="color:#8b949e;font-size:.85em">— Dykema Gossett doesnt just represent dark money nonprofits. It creates them, staffs them with its own employees, operat...</span>
+- [The Architect and the Clerk — Wilk Drafts the Law, Moore Files the PACs, Banks Takes the Money](/analysis/the-architect-and-the-clerk/) <span style="color:#8b949e;font-size:.85em">— W. Alan Wilk, a Dykema Gossett attorney, drafted Michigans charter school law (PA 362, 1993). He then formed at least 1...</span>
+- [The Money Garden — Walton, DeVos, and the Foundations That Water the Weeds](/analysis/the-money-garden/) <span style="color:#8b949e;font-size:.85em">— The Walton Family Foundation funds Purpose Charter Academy directly. They fund The 74 (education media). They fund Rolan...</span>
+- [The Nulls That Point — Following Unknowns to Find Knowns](/analysis/the-nulls-that-point/) <span style="color:#8b949e;font-size:.85em">— 73 entities in the graph are classified null — the system hasnt sorted them yet. But nulls dont sit alone. They clus...</span>
+- [The Nulls — Anchor Rock, CitizenDetroit, SCBC, and the Organizations Nobody Can Classify](/analysis/the-nulls/) <span style="color:#8b949e;font-size:.85em">— Some entities in the investigation graph are classified as null — the membrane cant tell what they are. Anchor Rock Fou...</span>
+- [Hey Mikey, He Likes It! — The Senate Candidate Who Ate Everything They Fed Him](/analysis/hey-mikey/) <span style="color:#8b949e;font-size:.85em">— Mike Rogers authored Americas most aggressive surveillance bill (killed twice), left Congress and was hired by the comp...</span>
+- [Tommy Boy — The Congressman Who Calls Tenant Organizers Felons While His Donors Employ Actual Felons](/analysis/tommy-boy/) <span style="color:#8b949e;font-size:.85em">— U.S. Rep. Tom Barrett (R-MI-7) called his opponent a convicted felon — over an expunged pipeline protest. Barretts PA...</span>
 
-The system is designed to handle complaints one at a time. It is not designed to detect that the same judge, the same investigator, or the same prosecutor appears across multiple complaints from different people.
+### ⚖️ Oversight Failures <span style="color:#484f58;font-weight:normal;font-size:.8em">(11)</span>
+*AGC, JTC, MDE, CMU, State Bar — who was supposed to stop this and why they didn't*
 
-**What breaks the loop:** Reading the files against each other instead of in isolation. That is what this site does.
+- [The Enforcement Ecosystem — Who Is Supposed to Be Doing This?](/analysis/enforcement-ecosystem/) <span style="color:#8b949e;font-size:.85em">— Ten Michigan oversight bodies have the mandate, the evidence, and the authority to act on documented misconduct. None ha...</span>
+- [Institutional Immunity Pattern](/analysis/institutional-immunity/) <span style="color:#8b949e;font-size:.85em">— How Michigans oversight system creates de facto immunity by processing complaints in isolation. The mathematics of 94% ...</span>
+- [The Bar That Never Barked — Michigan's State Bar and the UPL Department](/analysis/the-bar-that-never-barked/) <span style="color:#8b949e;font-size:.85em">— Brian Banks claimed to be a lawyer. He claimed a JD from MSU College of Law. MSU has no record. He operated Banks Strate...</span>
+- [The Board That Bored — Michigan's State Board of Education and the Oversight That Overslept](/analysis/the-board-that-bored/) <span style="color:#8b949e;font-size:.85em">— The State Board of Education (SBE) oversees Michigans charter school system. It has the power to set policy, require ac...</span>
+- [The Authorizer — Central Michigan University and the Background Check That Never Happened](/analysis/the-authorizer/) <span style="color:#8b949e;font-size:.85em">— Central Michigan University authorized Purpose Charter Academy and MacDowell Preparatory Academy. They authorized school...</span>
+- [The Department That Didn't — Detroit PD, Jurisdiction, and the Crimes Nobody Reported](/analysis/the-department-that-didnt/) <span style="color:#8b949e;font-size:.85em">— The Detroit Police Department has jurisdiction over Brian Banks. It has jurisdiction over Purpose Charter Academy. It is...</span>
+- [The Auditor Who Forgot to Audit — Plante Moran, Beasley, and the Loudest Silence in Detroit](/analysis/the-auditor-who-forgot-to-audit/) <span style="color:#8b949e;font-size:.85em">— Plante Moran Realpoint audited Purpose Charter Academy. They audited DPSCD. They audited the Purpose Foundation. They em...</span>
+- [The Prosecutor Who Prosecutes Patterns — Kym Worthy and the Case That Never Came](/analysis/the-prosecutor-who-prosecutes-patterns/) <span style="color:#8b949e;font-size:.85em">— Kym Worthy is the Wayne County Prosecutor. She has jurisdiction over Brian Banks. She has a should_prosecute edge to fal...</span>
+- [The UPEPA Contradiction — How One Attorney Broke Michigan's Anti-SLAPP Statute](/analysis/upepa-contradiction/) <span style="color:#8b949e;font-size:.85em">— Philip L. Ellison invoked UPEPA to defend himself against Consumers Energy while opposing the same statute when used by ...</span>
+- [The Regulator Who Regulates the Regulator — From MDE to FCC, the Same Blind Spot](/analysis/the-regulator-who-regulates-the-regulator/) <span style="color:#8b949e;font-size:.85em">— MDE sits above CMU. FCC sits above VoIP providers. The AG sits above the State Bar. In every case, the regulator knows a...</span>
+- [Selective Enforcement — Dana Nessel and the Attorney General Who Investigates Downhill](/analysis/selective-enforcement/) <span style="color:#8b949e;font-size:.85em">— AG Dana Nessels office investigated Brian Banks. Her assistant AG, Dawn Ison, sits on the board of Brian Bankss school...</span>
 
-### Cross-Network Connections
+### 🏛️ Political Network <span style="color:#484f58;font-weight:normal;font-size:.8em">(7)</span>
+*The politicians, judges, and officials connected to Banks*
 
-#### Shared Oversight Bodies
+- [The Enabler — Rep. Sherry Gay-Dagnogo and the Politician Who Carried the Water](/analysis/the-enabler/) <span style="color:#8b949e;font-size:.85em">— State Representative Sherry Gay-Dagnogo sits at the intersection of Banks, the charter school system, and Detroit politi...</span>
+- [The Mayor Who Looked Away — Mary Sheffield and the City That Let It Happen](/analysis/the-mayor-who-looked-away/) <span style="color:#8b949e;font-size:.85em">— Mayor Mary Sheffield ran the Detroit City Council before becoming mayor. She appointed Todd Bettison as police chief. Sh...</span>
+- [The Cavalry That Charged the Wrong Way — NAACP Detroit and the Defense of Brian Banks](/analysis/the-cavalry-that-charged-the-wrong-way/) <span style="color:#8b949e;font-size:.85em">— The NAACP Detroit Branch has a cavalry edge to Brian Banks. Cavalry means: they ride to his defense. They also have a ...</span>
+- [The Reverend, the Senator, and the Congresswoman — Three Political Shields Around Banks](/analysis/the-reverend-the-senator-and-the-congresswoman/) <span style="color:#8b949e;font-size:.85em">— Rev. Wendell Anthony governs NAACP Detroit. Sen. Bert Johnson was convicted of bribery. Congresswoman Carolyn Kilpatrick...</span>
+- [The Pipeline — From Kwame to Banks, Detroit's Political Conveyor Belt](/analysis/the-pipeline/) <span style="color:#8b949e;font-size:.85em">— Kwame Kilpatrick was Detroits mayor. 28-year federal sentence for racketeering, extortion, and bribery (commuted by Tru...</span>
+- [The Superintendent Who Authorized — Nikolai Vitti, Broad Fellowship, and the Man Who Let PCA In](/analysis/the-superintendent-who-authorized/) <span style="color:#8b949e;font-size:.85em">— Dr. Nikolai Vitti is the DPSCD superintendent. He authorized Purpose Charter Academy. He has a professional connection t...</span>
+- [Stepping to the Side — Joseph Holland Jr., the Man Behind the Man Behind the School](/analysis/stepping-to-the-side/) <span style="color:#8b949e;font-size:.85em">— Brian Banks hides behind Holland. Holland hides behind Banks. So we step to the side and see both of them. Holland gover...</span>
 
-Every investigation on this site routes through the same small set of Michigan oversight bodies:
+### 🔗 Governance Web <span style="color:#484f58;font-weight:normal;font-size:.8em">(9)</span>
+*Board members, attorneys, employees who span multiple entities*
 
-| Body | Ellison/Aljouny | Barry County | Eastpointe/Galen | Detroit |
-|------|-----------------|-------------|-------------------|---------|
-| **AGC** | Ellison conduct | Nakfoor Pratt (private admonishment) | — | Miller, Moreland, Gordon, Hall, Perkins, Meihn |
-| **JTC** | Borrello | Schipper (active investigation) | Galen (confidential admonition) | — |
-| **SCAO** | — | Systemic review requested | — | — |
-| **MCOLES** | — | Fuller (MSP) | — | Bettison/DPD |
+- [The Boyfriend — Joseph Holland Jr. and the Man Inside the Machine](/analysis/the-boyfriend/) <span style="color:#8b949e;font-size:.85em">— Joseph Holland Jr. is listed as Brian Bankss romantic partner. He is also the successor trustee of Banks Living Trust. ...</span>
+- [The Linchpin — Michael V. Goetz and the Board Member Who Connected Everything](/analysis/the-linchpin/) <span style="color:#8b949e;font-size:.85em">— Michael V. Goetz works for the AG Office. He has governance over the Attorney Grievance Commission. He has a professiona...</span>
+- [The Board Member Who Boards — Lisa Moreland, AG Employee, PCA Board, Banks Attorney](/analysis/the-board-member-who-boards/) <span style="color:#8b949e;font-size:.85em">— Lisa Moreland works for the Attorney Generals office. She sits on the board of Purpose Charter Academy. She provides le...</span>
+- [The Defense Attorney — Jehan Crump-Gibson and the Lawyer Who Represents, Governs, and Exemplifies](/analysis/the-defense-attorney/) <span style="color:#8b949e;font-size:.85em">— Jehan Crump-Gibson is Brian Bankss attorney. She provides legal representation to a man with 9 criminal convictions. Sh...</span>
+- [The Circuit Board Résumé — Dr. Chalena Beasley and the Woman Who Works Everywhere](/analysis/the-circuit-board-resume/) <span style="color:#8b949e;font-size:.85em">— Dr. Chalena Beasley works for Purpose Charter Academy (Bankss school). She works for DPSCD (the district that authorize...</span>
+- [The Stallworth Spread — One Family, Four Positions, Zero Oversight](/analysis/the-stallworth-spread/) <span style="color:#8b949e;font-size:.85em">— The Stallworth name appears four times in the Banks investigation graph: Misha Stallworth (DPSCD Board), Thomas Stallwor...</span>
+- [The Perkins Perimeter — One Family Name, Every Door](/analysis/the-perkins-perimeter/) <span style="color:#8b949e;font-size:.85em">— Judge Sean Perkins (7 edges, partial). David Perkins (3 edges, partial). Ms. Perkins at PCAs front desk (gatekeeper, ac...</span>
+- [The Two Judges — Miller and Yancey, the Bench That Bends Toward Banks](/analysis/the-two-judges/) <span style="color:#8b949e;font-size:.85em">— Judge Cylenthia Miller chairs PCAs board and has campaign donation edges to Banks. Judge Tenisha Yancey has family conn...</span>
+- [The Other .99 — Dr. Jolia Hill and the Investigator Who Got Close](/analysis/the-other-ninety-nine/) <span style="color:#8b949e;font-size:.85em">— Dr. Jolia Hill has a partial classification at 0.99 confidence — tied with Goetz for the highest partial in the graph. S...</span>
 
-The same AGC that privately admonished Nakfoor Pratt handles complaints about attorneys in every other investigation. The same JTC that confidentially admonished Galen handles the Schipper investigation. They are parallel tracks that never cross-reference.
+### 🏗️ Infrastructure <span style="color:#484f58;font-weight:normal;font-size:.8em">(5)</span>
+*LakeNet, FCC, telecom — the physical infrastructure beneath the signals*
 
-#### The Mallett Node
+- [LakeNet Signal Trace — One ISP, One Town, Every Thread](/analysis/lakenet-signal-trace/) <span style="color:#8b949e;font-size:.85em">— IP address 162.247.150.54 was captured surveilling a journalist, in a federal court filing, and in a domain registration...</span>
+- [Infrastructure Grid — Every Point Where Entity Infrastructure Touches Individual Privacy](/analysis/infrastructure-grid/) <span style="color:#8b949e;font-size:.85em">— A fluorescent tag map of every node where corporate and political infrastructure intersects with individual human data. ...</span>
+- [The Call Is Coming from Inside the FCC — Tracing Spam Calls Back to the Owners Who Buy the Silence](/analysis/the-call-is-coming-from-inside-the-fcc/) <span style="color:#8b949e;font-size:.85em">— You get spam calls. Everyone gets spam calls. The FCC knows who sends them. Every voice service provider must register w...</span>
+- [Can the Membrane Filter Your Phone? — What We Can and Can't Do from Self](/analysis/can-the-membrane-filter-your-phone/) <span style="color:#8b949e;font-size:.85em">— The membrane at primals.eco achieves 97% selectivity — self passes, non-self bounces, and the fleet pays us 126,602 bits...</span>
+- [The Microphone — Roland Martin, Walton Money, and the Journalist Who Covers the Hand That Feeds](/analysis/the-microphone/) <span style="color:#8b949e;font-size:.85em">— Roland Martin is a journalist. The Walton Family Foundation pays him. The Walton Family Foundation funds Purpose Charter...</span>
 
-**Conrad L. Mallett Jr.** connects the Aljouny investigation to the Detroit investigation:
+### 📐 Methodology <span style="color:#484f58;font-weight:normal;font-size:.8em">(5)</span>
+*Anderson localization, metric tensor, information entropy — the math behind the sort*
 
-- **Detroit Corporation Counsel** — heads the city's Law Department
-- **Retained by Mayor Mary Sheffield** — the endpoint of the [Save Detroit Jobs dark money pipeline](https://detroit.primals.eco/analysis/dark-money-pipeline/)
-- **Received the Aljouny email** directly (Sep 9, 2026)
-- **Under Ethics Board investigation** for Lear Corp. directorship while serving as Corporation Counsel
-- **Former Michigan Supreme Court Chief Justice** — the same court that hears JTC discipline recommendations
+- [Anderson Localization — The Hemlock Subgraph](/analysis/anderson-hemlock/) <span style="color:#8b949e;font-size:.85em">— How one family can capture an entire communitys institutional infrastructure. The same physics that explains Detroits ...</span>
+- [Cross-Subgraph Patterns — How Michigan's Oversight Failures Connect](/analysis/cross-subgraph-patterns/) <span style="color:#8b949e;font-size:.85em">— The same institutional nodes — AGC, JTC, SCAO, LARA — appear across Detroit, Saginaw, Barry, Macomb, and Allegan investi...</span>
+- [Credential vs. Conduct — The Ellison Paradox](/analysis/credential-vs-conduct/) <span style="color:#8b949e;font-size:.85em">— A structured analysis of every credential claim Philip L. Ellison makes and the documented conduct that contradicts it. ...</span>
+- [The Metric Tensor — Shape, Proportion, and Dimensional Compression](/analysis/metric-tensor/) <span style="color:#8b949e;font-size:.85em">— How a display surfaces geometry determines optimal information layout. The golden ratio, π, five dimensions, and the me...</span>
+- [Information Entropy — Oral Tradition, Written Tradition, and the Mathematics of Communication](/analysis/information-entropy/) <span style="color:#8b949e;font-size:.85em">— Shannon entropy decomposes all communication into mathematics. Written tradition preserves bits exactly. Oral tradition ...</span>
 
-This means the person who received a communication from a fabricated identity used in Saginaw County litigation is also the chief legal officer of the city whose school board was captured through dark money in Wayne County. The networks are touching.
+### 🤝 Allies & Response <span style="color:#484f58;font-weight:normal;font-size:.8em">(2)</span>
+*People who showed up, signal permeability — measuring who responds*
 
-#### The MSP 5th District Problem
-
-**D/Lt. Shane Criger** investigated both:
-- **Jeremiah Johnson shooting** (Barry County, Oct 2024)
-- **Joey Nagle killing** (Allegan County, 2022)
-
-Both cases: deputy kills someone, no body camera, investigation by the same MSP team, local prosecutor rules justified.
-
-**D/Sgt. Bryan Fuller** was on the Johnson investigation team — the same Fuller whose constitutional violations in McCann produced a **$14.5 million federal verdict**. The same Fuller whose misconduct was put in writing to Nakfoor Pratt four days before the verdict.
-
-#### The Record-Keeping Pattern
-
-Multiple investigations reveal the same gap: the people responsible for maintaining the record are not independent of the people the record covers.
-
-| Court | Record Keeper | Connection to Judge |
-|-------|-------------|-------------------|
-| **38th District (Eastpointe)** | Heather Froias (court reporter) | Named as Designated Record Keeper on Galen's campaign committee (2020) |
-| **38th District (Eastpointe)** | Mark Makoski (magistrate) | Galen's former attorney; Campaign Treasurer |
-| **Saginaw County** | Lisa Edgecomb (legal assistant/notary) | Ellison's employee; notarized his sworn denial of Aljouny connection |
-
-The person keeping the record should not be the same person running the judge's campaign, representing the judge in litigation, or employed by the attorney swearing the affidavit.
-
-### What This Means for Investigators
-
-If you are an investigator, journalist, or oversight body looking at any one of these cases:
-
-1. **Check the other nodes.** The same names, the same MSP team, the same oversight body failures appear across multiple investigations.
-2. **Read the private admonishments against the public record.** The JTC and ADB annual reports anonymize outcomes. The facts are public. Match them.
-3. **Follow the personnel overlap.** Campaign committees → court staff. Attorney → magistrate. Employee → notary. The institutional controls are not controlling.
-4. **Cross-reference with Detroit.** The Mallett node connects Saginaw County litigation to Wayne County dark money. If you are investigating one, you should know about the other.
+- [The Ones Who Showed Up — Every Ally, Every Voice, Every Hand That Pushed Back](/analysis/the-ones-who-showed-up/) <span style="color:#8b949e;font-size:.85em">— This investigation exists because other people did the work first. Dr. Chalena Yancey Beasley mapped the terrain. Dr. Sa...</span>
+- [Signal Permeability — Live Anderson Study of Institutional Response](/analysis/signal-permeability/) <span style="color:#8b949e;font-size:.85em">— A live experiment: send documented evidence of Brian Roderick Banks operating two charter schools with 9 convictions to ...</span>
 
 ---
 
-## Analysis Pages
-
-### Infrastructure Studies
-
-| Analysis | Summary |
-|----------|---------|
-| **[Sitting in a Tree](/analysis/sitting-in-a-tree/)** | Mike and Tom and Dykema and Banks — K-I-S-S-I-N-G. One law firm, one compliance specialist (Renae Moore), four branches. Dykema PAC funds Barrett. Dykema formed the dark money vehicle that elected the council member on Banks' school board. Same donors (Griffin, Schwarzman) fund Rogers AND Barrett. First comes money. Then comes power. Then comes a charter school with convicted felons in the tower. Nov 3, 2026. |
-| **[They Banked on Banks](/analysis/they-banked-on-banks/)** | **Brian Roderick Banks: {{ fact(registry="actors", key="banks", field="conviction_count") }} convictions ({{ fact(registry="actors", key="banks", field="felony_count") }} felony), 2 charter schools, board chaired by a sitting judge. Parent denied access. PPO weaponized. {{ fact(registry="entities", key="macdowell", field="math_proficiency") }} math proficiency. {{ fact(registry="entities", key="macdowell", field="extraction_pct") }} revenue extracted. The system that authorized him is the system that protects him.** |
-| **[Signal Permeability — Live Anderson Study](/analysis/signal-permeability/)** | Live experiment: send documented evidence to every oversight body, then measure who opens it, who forwards it, who ignores it. The propagation pattern IS the data. Anderson localization in real time. First confirmed human: Lansing, Michigan — the state capital. |
-| **[Hey Mikey, He Likes It!](/analysis/hey-mikey/)** | Mike Rogers authored America's most aggressive surveillance bill (killed twice), got hired by the company whose competitor he investigated, bought a $1.6M house in Florida while running for Michigan's Senate seat, and accepted {{ fact(registry="actors", key="rogers", field="outside_money_short") }} from Texas oil, Blackstone, Citadel, Koch, McConnell, and Musk. Same donors fund Barrett. Same Dykema infrastructure. Same Nov 3 election. He'll eat anything. |
-| **[The Enforcement Ecosystem](/analysis/enforcement-ecosystem/)** | Ten Michigan oversight bodies have the mandate, the evidence, and the authority to act. None has the full picture. The network operates in the jurisdictional gaps between them. State Bar closed the UPL file. AGC sent it back. Two letters, one day apart, each pointing at the other door. |
-| **[Tommy Boy](/analysis/tommy-boy/)** | U.S. Rep. Tom Barrett calls his opponent a "convicted felon" — over an expunged pipeline protest. Barrett's PAC donor Dykema Gossett incorporated a dark money entity whose president is Kenneth Daniels: convicted federal felon, $21M drug ring. The label is projection. FEC receipts, LARA records, IRS 990. Nov 3, 2026 — the tenants vote too. |
-| **[How To Build an OS](/analysis/how-to-build-an-os/)** | One law firm. One compliance specialist. {{ fact(registry="actors", key="wilk", field="vehicle_count") }} dark money vehicles. Both parties served. Dykema Gossett as parasitic operating system — kernel (Wilk), scheduler (Moore), process table (spawn/rename/dissolve/respawn), filesystem (Domains By Proxy). The phone number test: SDJ's IRS filing lists Dykema's office phone. All public records. |
-| **[Infrastructure Grid](/analysis/infrastructure-grid/)** | Fluorescent tag map: every node where entity infrastructure touches individual human data. 11 nodes tagged across FOIAworks, LakeNet, GoDaddy, M365, SDJ, ONF, RFFW. Each node: what it collects, how, what legal protection exists (or doesn't), and the public record that makes it visible. |
-| **[LakeNet Signal Trace](/analysis/lakenet-signal-trace/)** | One IP (162.247.150.54) captured in three independent evidence streams — surveillance, court filing, domain registration — all resolving to the only ISP in a town of 1,500. Multi-capture means the signal traces everyone who shared the infrastructure. Network topology, trace paths, and the Quagmire → ISP pipeline. |
-| **[Anderson Localization — Hemlock Subgraph](/analysis/anderson-hemlock/)** | How one family captures an entire community's infrastructure: ISP, school boards, courts, FOIA, law practice. Same physics as Detroit, smaller lattice, more complete capture. |
-
-### Pattern Analysis
-
-| Analysis | Summary |
-|----------|---------|
-| **[Cross-Subgraph Patterns](/analysis/cross-subgraph-patterns/)** | The same AGC, JTC, SCAO, and LARA appear across five investigations. Detroit ↔ Saginaw ↔ Barry ↔ Macomb ↔ Allegan — connected through shared institutional nodes, credential-washing, and identical failure modes. |
-| **[Ghost Witness: Samantha Aljouny](/evidence/ghost-witness-aljouny/)** | Fabricated identity submitted as witness in SLAPP suit. 13 forensic convergence points. IC3 filed. |
-| **[The UPEPA Contradiction](/analysis/upepa-contradiction/)** | How one attorney broke Michigan's brand-new anti-SLAPP statute by invoking it as a shield and opposing it as a sword — before the same judge, in the same court. UPEPA's first real stress test. |
-| **[Institutional Immunity Pattern](/analysis/institutional-immunity/)** | How {{ fact(registry="entities", key="agc", field="dismissal_rate") }} complaint dismissal creates de facto immunity. The mathematics of isolated processing. Now with AGC's own annual report data (2023–2024). |
-| **[Credential vs. Conduct — The Ellison Paradox](/analysis/credential-vs-conduct/)** | Every credential claim vs. the documented docket. SCOTUS win (genuine) next to $74K sanctions. Blood spots "victory" (reversed on appeal). FOIA expert (own case dismissed for notary failure). Police corruption exposé (now running structural parallel). |
-
-### Methodology
-
-| Analysis | Summary |
-|----------|---------|
-| **[The Metric Tensor — Shape, Proportion, and Dimensional Compression](/analysis/metric-tensor/)** | How a display surface's geometry determines optimal information layout. The golden ratio, π, φ, and 5 as the same structure viewed from different angles. From rectangular screens to spherical surfaces — one proportion, different projections. The mathematical framework behind the desk workbench. |
-| **[Information Entropy — Oral Tradition, Written Tradition, and Communication](/analysis/information-entropy/)** | Shannon entropy decomposes all communication into mathematics. Written tradition preserves bits exactly. Oral tradition compresses semantics. Rate-distortion theory explains why stories change but meaning endures. Speech, writing, dancing — all channels, different trade-offs. |
+*51 articles · 8 threads · 342 entities classified · [peptidoglycan.json](/peptidoglycan.json)*

@@ -1,9 +1,11 @@
 +++
 title = "How To Build an OS — One Law Firm, Six Dark Money Vehicles, Both Parties"
 description = "Dykema Gossett doesn't just represent dark money nonprofits. It creates them, staffs them with its own employees, operates them from its own office, and files their taxes. A parasitic operating system architecture mapped from LARA filings, IRS 990s, Michigan campaign finance records, and published journalism."
-weight = 1
+weight = 12
 
 [extra]
+cluster = "dark_money"
+cluster_label = "Dark Money Pipeline"
 keywords = "Dykema Gossett dark money Michigan, W Alan Wilk political compliance, Renae Moore compliance specialist, Save Detroit Jobs Detroit Leaders, Our Neighborhoods First Duggan, RFFW LLC money laundering, Detroit Jobs First Prop A, Domains By Proxy dark money, bipartisan dark money infrastructure, parasitic operating system Michigan politics, Dykema State PAC both parties, Michigan dark money law firm"
 
 [taxonomies]

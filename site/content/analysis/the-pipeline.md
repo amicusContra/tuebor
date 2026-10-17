@@ -3,9 +3,11 @@ title = "The Pipeline — From Kwame to Banks, Detroit's Political Conveyor Belt
 description = "Kwame Kilpatrick was Detroit's mayor. 28-year federal sentence for racketeering, extortion, and bribery (commuted by Trump). Dennis Archer preceded him — null classification, Dykema partner, MI Supreme Court justice, State Bar governor. The pipeline doesn't stop when one mayor leaves. It reloads. Banks is connected politically to Kwame, to Archer through Dykema, to Sheffield through Gay-Dagnogo, to Bert Johnson through Black Caucus. The conveyor belt carries the same cargo. Only the faces change."
 date = 2026-10-14
 updated = 2026-10-14
-weight = 20
+weight = 40
 
 [extra]
+cluster = "political"
+cluster_label = "Political Network"
 keywords = "Kwame Kilpatrick Brian Banks Detroit, Dennis Archer Dykema partner, Kwame Kilpatrick racketeering conviction, Detroit political pipeline charter schools, Archer Michigan Supreme Court State Bar, Kwame Sheffield political network, Bert Johnson conviction, Carolyn Kilpatrick Congress, Detroit mayor charter school pipeline, Kilpatrick machine"
 
 [taxonomies]

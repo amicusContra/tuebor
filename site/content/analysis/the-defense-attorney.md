@@ -3,9 +3,11 @@ title = "The Defense Attorney — Jehan Crump-Gibson and the Lawyer Who Represen
 description = "Jehan Crump-Gibson is Brian Banks's attorney. She provides legal representation to a man with 9 criminal convictions. She also sits on the board of the Accountancy Disciplinary Board (ADB). She exemplifies the same pattern as former Governor Engler. 15 edges. Partial at 0.978. She's the defense attorney who doesn't just defend — she governs the oversight boards that should be checking her client."
 date = 2026-10-14
 updated = 2026-10-14
-weight = 19
+weight = 49
 
 [extra]
+cluster = "governance"
+cluster_label = "Governance Web"
 keywords = "Jehan Crump-Gibson Brian Banks attorney, Crump-Gibson ADB board, Crump Gibson Banks legal representation, defense attorney charter school Michigan, Crump Gibson Engler pattern, Crump Gibson 15 edges, Banks defense attorney Detroit, Accountancy Disciplinary Board Crump Gibson"
 
 [taxonomies]

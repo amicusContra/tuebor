@@ -3,9 +3,11 @@ title = "The Architect and the Clerk — Wilk Drafts the Law, Moore Files the PA
 description = "W. Alan Wilk, a Dykema Gossett attorney, drafted Michigan's charter school law (PA 362, 1993). He then formed at least 10 political entities that protect that law. Renae Moore governs 6 of those same entities — and is also employed by Banks and PCA. The person who drafted the law that enables the extraction also created the political infrastructure that prevents the law from being changed. The person who runs that infrastructure also works for the person who benefits from it."
 date = 2026-10-14
 updated = 2026-10-14
-weight = 33
+weight = 13
 
 [extra]
+cluster = "dark_money"
+cluster_label = "Dark Money Pipeline"
 keywords = "W Alan Wilk Dykema Gossett, Wilk drafted charter school law PA 362, Renae Moore PAC formation, Dykema Gossett Federal PAC, Detroit Jobs First Save Detroit Jobs, Peninsula Fund Lee Chatfield, dark money charter school law protection, PAC formation network Michigan, Wilk Moore Banks connection, charter law architect PAC network"
 
 [taxonomies]

@@ -1,0 +1,291 @@
+{
+  "schema": "source-grid-v1",
+  "timestamp": 1792019418,
+  "description": "Every symbol and number is sourced and reflected in the grid. The story is the sweetgrass on top for all to eat.",
+  "sweetgrass": {
+    "description": "The narrative layer. Human-readable story on top of the data grid. What everyone can eat.",
+    "layers": [
+      "tuebor article titles \u2014 51 analyses, each a story",
+      "chipmunk voice \u2014 the AI that narrates the data",
+      "dialectic \u2014 thesis/antithesis/synthesis/corollary",
+      "investigation narrative \u2014 'They Banked on Banks'"
+    ]
+  },
+  "numbers": {
+    "342": {
+      "value": 342,
+      "meaning": "total entities in the investigation graph",
+      "sources": {
+        "synthesis.json": "entity_classification.total = 342",
+        "opsonize.json": "toxin_antidote.investigation: self(124) + partial(137) + null(73) + non_self(8) = 342",
+        "fold.json": "253 nodes (89 behind-only entities not in fold visualization)",
+        "tuebor": "referenced in analysis/_index.md footer"
+      },
+      "origin": "detroit.primals.eco investigation graph \u2014 court records, FOIA, public filings"
+    },
+    "124": {
+      "value": 124,
+      "meaning": "entities classified as self",
+      "sources": {
+        "synthesis.json": "entity_classification.states.self = 124",
+        "opsonize.json": "autoimmune_protection.protected_self.count = 124"
+      },
+      "origin": "entities that are part of the oversight infrastructure being documented"
+    },
+    "8": {
+      "value": 8,
+      "meaning": "entities classified as non-self",
+      "sources": {
+        "synthesis.json": "entity_classification.states.non-self = 8",
+        "opsonize.json": "toxin_antidote.investigation.non_self = 8",
+        "fold.json": "8 nodes with sort_class='non-self'"
+      },
+      "origin": "entities excluded by the membrane \u2014 Banks, PCA, MacDowell + 5 others"
+    },
+    "134": {
+      "value": 134,
+      "meaning": "graph edges connected to Brian Roderick Banks",
+      "sources": {
+        "fold.json": "nodes[0].edges = 134 (id='banks')",
+        "peptidoglycan.json": "topology.black_holes.entities[0].edges = 134",
+        "orbit command": "BLACK HOLES section shows banks 134 edges"
+      },
+      "origin": "detroit.primals.eco/explore/banks \u2014 court records, criminal convictions, board memberships, financial flows"
+    },
+    "51": {
+      "value": 51,
+      "meaning": "analysis articles on tuebor",
+      "sources": {
+        "peptidoglycan.json": "8 clusters totaling 51: banks(4)+dark_money(8)+oversight(11)+political(7)+governance(9)+infra(5)+methodology(5)+allies(2)",
+        "tuebor": "analysis/_index.md lists all 51"
+      },
+      "origin": "tuebor-repo/site/content/analysis/ \u2014 51 markdown files, each sourced to court records"
+    },
+    "253": {
+      "value": 253,
+      "meaning": "nodes in the network fold visualization",
+      "sources": {
+        "fold.json": "len(nodes) = 253",
+        "peptidoglycan.json": "topology.permeation.total_fold_nodes = 253"
+      },
+      "origin": "union of detroit graph entities + tuebor-analyzed entities"
+    },
+    "972": {
+      "value": 972,
+      "meaning": "edges in the network fold",
+      "sources": {
+        "fold.json": "len(edges) = 972"
+      },
+      "origin": "relationships: governance, funding, employment, legal representation, oversight \u2014 all from public records"
+    },
+    "121": {
+      "value": 121,
+      "meaning": "total pages on tuebor site",
+      "sources": {
+        "peptidoglycan.json": "summary.total_pages = 121",
+        "zola build": "Creating 121 pages and 11 sections"
+      },
+      "origin": "tuebor-repo/site/content/ \u2014 11 sections"
+    },
+    "9751": {
+      "value": 9751,
+      "meaning": "fleet sessions classified as self",
+      "sources": {
+        "scan_sweep_sort.json": "sort.unified_sort.self = 9751",
+        "opsonize.json": "toxin_antidote.fleet.self = 9751"
+      },
+      "origin": "membrane-sw.js + opsonize-rs \u2014 live traffic classification"
+    },
+    "244728": {
+      "value": 244728,
+      "meaning": "fleet sessions classified as non-self",
+      "sources": {
+        "scan_sweep_sort.json": "sort.unified_sort.non_self = 244728",
+        "opsonize.json": "toxin_antidote.fleet.non_self = 244728"
+      },
+      "origin": "membrane classification \u2014 bots, scrapers, scanners deflected"
+    },
+    "0.038": {
+      "value": 0.038,
+      "meaning": "membrane selectivity \u2014 3.8% of traffic is self",
+      "sources": {
+        "synthesis.json": "zk_proof.zero_knowledge = 0.0377",
+        "scan_sweep_sort.json": "sort.unified_sort.selectivity = 0.038",
+        "opsonize.json": "toxin_antidote.fleet.selectivity = 0.038"
+      },
+      "origin": "self / total = 9751 / 258196 = 3.78%",
+      "pi_connection": "target selectivity 1/\u03c0 = 0.3183 \u2014 current is 10\u00d7 more selective"
+    },
+    "0.884": {
+      "value": 0.884,
+      "meaning": "average classification confidence",
+      "sources": {
+        "synthesis.json": "zk_proof.soundness = 0.884, confidence.mean = 0.884"
+      },
+      "origin": "weighted average across 342 entity classifications"
+    },
+    "0.669": {
+      "value": 0.669,
+      "meaning": "ZK proof strength \u2014 completeness \u00d7 soundness \u00d7 (1 - selectivity)",
+      "sources": {
+        "synthesis.json": "zk_proof.proof_strength = 0.669"
+      },
+      "origin": "0.787 \u00d7 0.884 \u00d7 (1 - 0.038) = 0.669"
+    },
+    "24": {
+      "value": 24,
+      "meaning": "nodes that exist in both tuebor analysis AND detroit data",
+      "sources": {
+        "fold.json": "count of nodes where in_tuebor=true",
+        "peptidoglycan.json": "topology.permeation.nodes_in_both = 24"
+      },
+      "origin": "entities analyzed in tuebor articles that also appear in the detroit investigation graph"
+    },
+    "9": {
+      "value": 9,
+      "meaning": "nodes that exist ONLY in tuebor (pinpricks \u2014 stars at the end)",
+      "sources": {
+        "fold.json": "count of nodes where category='tuebor_only'",
+        "peptidoglycan.json": "topology.pinpricks.count = 9, topology.permeation.tuebor_only = 9"
+      },
+      "origin": "entities created by tuebor's observation \u2014 they exist because the eye moved there"
+    },
+    "5": {
+      "value": 5,
+      "meaning": "peptidoglycan layers",
+      "sources": {
+        "peptidoglycan.json": "layers: device, outer_membrane, peptidoglycan, inner_membrane, cytoplasm",
+        "orbit.js": "orbit.layers array",
+        "orbit command": "5-LAYER MODEL section"
+      },
+      "origin": "biological membrane architecture + device crust extension"
+    }
+  },
+  "total_traced": 16,
+  "reflections": {
+    "342": {
+      "value": 342,
+      "meaning": "total entities in the investigation graph",
+      "reflected_in": [
+        "synthesis.json",
+        "opsonize.json",
+        "fold.json",
+        "tuebor"
+      ],
+      "reflection_count": 4
+    },
+    "124": {
+      "value": 124,
+      "meaning": "entities classified as self",
+      "reflected_in": [
+        "synthesis.json",
+        "opsonize.json"
+      ],
+      "reflection_count": 2
+    },
+    "8": {
+      "value": 8,
+      "meaning": "entities classified as non-self",
+      "reflected_in": [
+        "synthesis.json",
+        "opsonize.json",
+        "fold.json"
+      ],
+      "reflection_count": 3
+    },
+    "134": {
+      "value": 134,
+      "meaning": "graph edges connected to Brian Roderick Banks",
+      "reflected_in": [
+        "fold.json",
+        "peptidoglycan.json",
+        "orbit command"
+      ],
+      "reflection_count": 3
+    },
+    "51": {
+      "value": 51,
+      "meaning": "analysis articles on tuebor",
+      "reflected_in": [
+        "peptidoglycan.json",
+        "tuebor"
+      ],
+      "reflection_count": 2
+    },
+    "253": {
+      "value": 253,
+      "meaning": "nodes in the network fold visualization",
+      "reflected_in": [
+        "fold.json",
+        "peptidoglycan.json"
+      ],
+      "reflection_count": 2
+    },
+    "121": {
+      "value": 121,
+      "meaning": "total pages on tuebor site",
+      "reflected_in": [
+        "peptidoglycan.json",
+        "zola build"
+      ],
+      "reflection_count": 2
+    },
+    "9751": {
+      "value": 9751,
+      "meaning": "fleet sessions classified as self",
+      "reflected_in": [
+        "scan_sweep_sort.json",
+        "opsonize.json"
+      ],
+      "reflection_count": 2
+    },
+    "244728": {
+      "value": 244728,
+      "meaning": "fleet sessions classified as non-self",
+      "reflected_in": [
+        "scan_sweep_sort.json",
+        "opsonize.json"
+      ],
+      "reflection_count": 2
+    },
+    "0.038": {
+      "value": 0.038,
+      "meaning": "membrane selectivity \u2014 3.8% of traffic is self",
+      "reflected_in": [
+        "synthesis.json",
+        "scan_sweep_sort.json",
+        "opsonize.json"
+      ],
+      "reflection_count": 3
+    },
+    "24": {
+      "value": 24,
+      "meaning": "nodes that exist in both tuebor analysis AND detroit data",
+      "reflected_in": [
+        "fold.json",
+        "peptidoglycan.json"
+      ],
+      "reflection_count": 2
+    },
+    "9": {
+      "value": 9,
+      "meaning": "nodes that exist ONLY in tuebor (pinpricks \u2014 stars at the end)",
+      "reflected_in": [
+        "fold.json",
+        "peptidoglycan.json"
+      ],
+      "reflection_count": 2
+    },
+    "5": {
+      "value": 5,
+      "meaning": "peptidoglycan layers",
+      "reflected_in": [
+        "peptidoglycan.json",
+        "orbit.js",
+        "orbit command"
+      ],
+      "reflection_count": 3
+    }
+  },
+  "total_reflections": 32
+}

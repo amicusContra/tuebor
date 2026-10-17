@@ -3,9 +3,11 @@ title = "The Other .99 — Dr. Jolia Hill and the Investigator Who Got Close"
 description = "Dr. Jolia Hill has a partial classification at 0.99 confidence — tied with Goetz for the highest partial in the graph. She has an investigation edge to Banks. She has a professional connection to Beasley. She terminated authorization of DPSA. She calls cavalry to CMU, Nessel, the Free Press. She has 10 edges and 78 meaningful connections. She's not covering for Banks. She's standing next to him with a magnifying glass. And the membrane still can't tell which world she's in."
 date = 2026-10-14
 updated = 2026-10-14
-weight = 18
+weight = 54
 
 [extra]
+cluster = "governance"
+cluster_label = "Governance Web"
 keywords = "Jolia Hill Brian Banks investigation, Jolia Hill PCA, Jolia Hill DPSA authorization terminated, Jolia Hill partial 0.99, Jolia Hill Beasley professional connection, Jolia Hill charter school oversight, Jolia Hill CMU cavalry, Hill investigation Banks Detroit"
 
 [taxonomies]

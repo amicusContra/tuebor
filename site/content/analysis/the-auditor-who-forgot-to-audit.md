@@ -3,9 +3,11 @@ title = "The Auditor Who Forgot to Audit — Plante Moran, Beasley, and the Loud
 description = "Plante Moran Realpoint audited Purpose Charter Academy. They audited DPSCD. They audited the Purpose Foundation. They employed Chalena Yancey Beasley — who also worked for the school, the district, Wayne RESA, AND Barton Malow. When we sent Plante Moran the evidence, they chose non-response. Only humans can pause. Silence is a classification."
 date = 2026-10-14
 updated = 2026-10-14
-weight = 1
+weight = 27
 
 [extra]
+cluster = "oversight"
+cluster_label = "Oversight Failures"
 keywords = "Plante Moran Realpoint audit Purpose Charter Academy, Chalena Yancey Beasley employment, Plante Moran DPSCD audit, Plante Moran Brian Banks, Plante Moran null classification, Plante Moran non-response, Plante Moran complicit silence, Plante Moran Purpose Foundation, Plante Moran Barton Malow pipeline, Judge Tenisha Yancey Beasley sister-in-law, Plante Moran Detroit charter schools, Plante Moran 645 edges, Plante Moran Enron Theranos pattern match, auditor captured auditor"
 
 [taxonomies]

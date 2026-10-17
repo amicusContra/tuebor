@@ -14,6 +14,19 @@ It is what happens when citizens discover that the institutions
 designed to protect them have stopped working — and decide to
 document the failure themselves.
 
+
+---
+
+## 🚨 October 16, 2026: Ex Parte PPO Filed Against This Project
+
+**Brian Roderick Banks** — a convicted felon and subject of this investigation — filed an **ex parte Personal Protection Order** against the operator of this infrastructure on the same day he was attending a meeting. An ex parte order is obtained without the target being present — one side tells their story to a judge in secret.
+
+This is the pattern: publish verifiable public records → receive legal retaliation. First a [SLAPP suit](/evidence/slapp-timeline/) (November 2025). Now an ex parte PPO (October 2026). The legal weapons escalate each time the published record expands.
+
+**[Read the complete SLAPP timeline →](/evidence/slapp-timeline/)**
+
+The record remains. Every fact is cited. Every document is timestamped. The infrastructure is sovereign.
+
 ---
 
 ## 🔴 New: Following the Money Through the Blind Spots

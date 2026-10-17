@@ -3,9 +3,11 @@ title = "Signal Permeability — Live Anderson Study of Institutional Response"
 description = "A live experiment: send documented evidence of Brian Roderick Banks operating two charter schools with 9 convictions to every oversight body. Then measure who opens it, who forwards it, who ignores it. The propagation pattern IS the data. Anderson localization in real time."
 date = 2026-10-09
 updated = 2026-10-12
-weight = 2
+weight = 82
 
 [extra]
+cluster = "allies"
+cluster_label = "Allies & Response"
 keywords = "Brian Roderick Banks signal propagation, Anderson localization oversight, institutional permeability Michigan, enforcement ecosystem response, charter school oversight failure, signal analysis evidence delivery, DPSCD response time, AGC complaint response, JTC complaint response, Michigan oversight body inaction, Barracuda email scan verification, evidence delivery confirmation, institutional immunity measurement"
 person_name = "Brian Roderick Banks"
 person_alternate_name = "Brian Banks"

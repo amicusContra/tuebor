@@ -1,0 +1,109 @@
+{
+  "version": 1,
+  "title": "body scan \u2014 the membrane is you",
+  "description": "center on the human body. look from within and without. see your own journey on your skin and that of kin.",
+  "body_as_membrane": {
+    "insight": "the membrane model IS the body. skin is the device layer. the core is being born right now.",
+    "layers": {
+      "skin": {
+        "membrane_layer": "device",
+        "age": "ancient",
+        "description": "what the world touches first. your boundary. the crust.",
+        "shows": "scars, sun, time, exposure \u2014 the record of everywhere you've been",
+        "direction": "faces outward \u2014 the world reads you here",
+        "scan": "what do you see on the surface? what has the world written on you?"
+      },
+      "fascia": {
+        "membrane_layer": "outer_membrane",
+        "age": "established",
+        "description": "connective tissue. how you hold yourself. tension patterns.",
+        "shows": "posture, guarding, openness \u2014 the shape of how you meet the world",
+        "direction": "translates between surface and structure",
+        "scan": "where do you hold tension? where are you open? where are you guarded?"
+      },
+      "bones": {
+        "membrane_layer": "peptidoglycan",
+        "age": "structural",
+        "description": "the framework. what holds you up. what doesn't bend.",
+        "shows": "breaks healed, growth plates closed, the architecture of standing",
+        "direction": "holds \u2014 neither in nor out, just IS",
+        "scan": "what broke and healed stronger? what structure do you rely on?"
+      },
+      "blood": {
+        "membrane_layer": "inner_membrane",
+        "age": "recent",
+        "description": "what flows. what carries. what feeds and cleans.",
+        "shows": "what you ate today, what you breathed, what stressed you, what nourished you",
+        "direction": "circulates \u2014 carries signal from core to skin and back",
+        "scan": "what is flowing through you right now? what are you carrying?"
+      },
+      "marrow": {
+        "membrane_layer": "cytoplasm",
+        "age": "now",
+        "description": "where new blood is born. the factory. the core that creates.",
+        "shows": "what your body is making right now. new cells. new responses. adaptation.",
+        "direction": "creates \u2014 everything radiates outward from here",
+        "scan": "what is being born in you right now? what are you becoming?"
+      }
+    }
+  },
+  "gaze": {
+    "from_within": {
+      "direction": "outward",
+      "perspective": "you look out through your own eyes",
+      "sees": "your hands, your skin, the world beyond your boundary",
+      "feeling": "what does it feel like to be inside this body right now?"
+    },
+    "from_without": {
+      "direction": "inward",
+      "perspective": "you look at yourself as others see you",
+      "sees": "your posture, your expression, the marks of your journey",
+      "feeling": "what would a stranger read on your surface?"
+    },
+    "mix": "both perspectives blend. you are the observer AND the observed. the chipmunk inside you looks up at your own awareness. the squirrel outside you sees what the world sees."
+  },
+  "kin": {
+    "description": "kin are the bodies whose membranes overlap with yours",
+    "types": {
+      "blood_kin": "shared marrow \u2014 same factory, similar patterns, inherited structure",
+      "chosen_kin": "shared fascia \u2014 you hold the world the same way, tension in the same places",
+      "proximity_kin": "shared skin \u2014 same weather, same neighborhood, same exposure",
+      "journey_kin": "shared blood \u2014 carrying the same things right now, flowing in the same direction",
+      "signal_kin": "shared bones \u2014 same breaks healed, same structure relied upon"
+    },
+    "overlap": "where your membrane touches another's, the boundary becomes a braid. their journey shows on your skin. your journey shows on theirs.",
+    "scan": "who do you see when you look at your own surface? whose marks are also yours?"
+  },
+  "scan_protocol": {
+    "step_1": {
+      "name": "surface",
+      "instruction": "look at your hands. what do you see?",
+      "layer": "skin"
+    },
+    "step_2": {
+      "name": "tension",
+      "instruction": "where are you holding? shoulders? jaw? belly?",
+      "layer": "fascia"
+    },
+    "step_3": {
+      "name": "structure",
+      "instruction": "what holds you up right now? what framework are you standing on?",
+      "layer": "bones"
+    },
+    "step_4": {
+      "name": "flow",
+      "instruction": "what is moving through you? breath? thought? anxiety? calm?",
+      "layer": "blood"
+    },
+    "step_5": {
+      "name": "core",
+      "instruction": "what is being born in you right now? what are you becoming?",
+      "layer": "marrow"
+    },
+    "step_6": {
+      "name": "kin",
+      "instruction": "whose journey do you see on your skin alongside your own?",
+      "layer": "all"
+    }
+  }
+}

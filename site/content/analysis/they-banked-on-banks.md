@@ -6,6 +6,8 @@ updated = 2026-10-09
 weight = 1
 
 [extra]
+cluster = "banks_core"
+cluster_label = "Banks Investigation"
 keywords = "Brian Roderick Banks, Brian Roderick Banks criminal record, Brian Roderick Banks convictions, Brian Roderick Banks Purpose Charter Academy, Brian Roderick Banks Detroit, Brian Roderick Banks charter school, Brian Banks 9 convictions, Brian Banks felon charter school, Purpose Charter Academy Detroit, Brian Banks attorney claim, Brian Banks PPO, Brian Banks Judge Cylenthia Miller, Brian Banks ICHAT SID 2029469K, Bank on Banks PAC, Banks Strategy Consultants LLC, Purpose Group LLC, Brian Banks denied parent access, Brian Banks DPD report, Brian Banks MacDowell Preparatory Academy, Brian Banks Joseph Holland Jr, Brian Banks CBC reception, Brian Banks fake JD MSU Law, Brian Banks Walden University PhD"
 person_name = "Brian Roderick Banks"
 person_alternate_name = "Brian Banks"

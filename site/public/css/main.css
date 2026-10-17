@@ -19,7 +19,7 @@
 
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
-html { font-size: 16px; scroll-behavior: smooth; }
+html { font-size: 16px; scroll-behavior: smooth; scrollbar-gutter: stable; overflow-x: hidden; }
 
 body {
   font-family: var(--font);
@@ -27,6 +27,13 @@ body {
   color: var(--text);
   line-height: var(--lh);
   min-height: 100vh;
+  max-width: 100%;
+}
+
+/* Device crust breathing — content never touches the viewport edge */
+main, .content, article {
+  padding-left: max(1rem, 1vw);
+  padding-right: max(1rem, 1vw);
 }
 
 /* Skip link */
@@ -41,7 +48,7 @@ body {
 .site-nav {
   background: var(--bg-surface);
   border-bottom: 1px solid var(--border);
-  position: sticky; top: 0; z-index: 50;
+  position: relative; z-index: 50;
 }
 .nav-inner {
   max-width: var(--max-width);
@@ -626,6 +633,6 @@ body {
 @media (max-width: 768px) {
   .nav-search input { width: 140px; }
   .nav-search input:focus { width: 200px; }
-  .search-results { width: calc(100vw - 2rem); right: -1rem; }
+  .search-results { width: calc(100% + 2rem); max-width: 500px; right: -1rem; }
   .cross-grid { grid-template-columns: 1fr; }
 }

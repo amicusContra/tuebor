@@ -3,9 +3,11 @@ title = "The Circuit Board Résumé — Dr. Chalena Beasley and the Woman Who Wo
 description = "Dr. Chalena Beasley works for Purpose Charter Academy (Banks's school). She works for DPSCD (the district that authorizes PCA). She works for Plante Moran (the firm that audits PCA). She works for Wayne RESA (the entity that failed to stop PCA). She works for Barton Malow. She works for everybody. That's not a résumé. That's a circuit board. Every line connects back to the same current."
 date = 2026-10-14
 updated = 2026-10-14
-weight = 5
+weight = 50
 
 [extra]
+cluster = "governance"
+cluster_label = "Governance Web"
 keywords = "Chalena Beasley Purpose Charter Academy, Beasley DPSCD Plante Moran Wayne RESA, Beasley Banks circuit board resume, dual employment charter school oversight Michigan, Beasley Barton Malow, conflict of interest charter school principal, PCA principal works for auditor, DPSCD authorization conflict of interest"
 
 [taxonomies]

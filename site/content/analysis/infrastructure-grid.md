@@ -1,9 +1,11 @@
 +++
 title = "Infrastructure Grid — Every Point Where Entity Infrastructure Touches Individual Privacy"
 description = "A fluorescent tag map of every node where corporate and political infrastructure intersects with individual human data. Each node tagged with: what data it collects, how it gets access, what legal protection exists, and the public record that makes it visible."
-weight = 2
+weight = 62
 
 [extra]
+cluster = "infrastructure"
+cluster_label = "Infrastructure"
 keywords = "FOIAworks privacy, LakeNet surveillance, Domains By Proxy dark money, GoDaddy cPanel exposed, Microsoft 365 tenant FOIAworks, Quagmire Solutions data collection, Through My Eyes Facebook group, Philip Ellison infrastructure, dark money individual privacy, FOIA platform data collection, Dykema dark money privacy, Save Detroit Jobs phone number, infrastructure surveillance map"
 
 [taxonomies]

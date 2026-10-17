@@ -1,9 +1,11 @@
 +++
 title = "Cross-Subgraph Patterns — How Michigan's Oversight Failures Connect"
 description = "The same institutional nodes — AGC, JTC, SCAO, LARA — appear across Detroit, Saginaw, Barry, Macomb, and Allegan investigations. This is the statewide architecture of accountability failure."
-weight = 2
+weight = 72
 
 [extra]
+cluster = "methodology"
+cluster_label = "Methodology"
 keywords = "Michigan judicial accountability, AGC complaint dismissal rate, JTC Michigan statistics, SCAO oversight failure, Michigan institutional capture, charter school accountability Detroit, attorney misconduct Michigan, Michigan FOIA obstruction, Anderson localization institutional, Michigan court corruption pattern, Detroit charter school Brian Banks, Saginaw County Ellison, Barry County Schipper, Macomb County courts, Allegan County shooting, Conrad Mallett Detroit, Clutch Justice cross-investigation, Michigan oversight failure statewide, credential washing Michigan"
 
 [taxonomies]

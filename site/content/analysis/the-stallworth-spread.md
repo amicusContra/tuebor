@@ -3,9 +3,11 @@ title = "The Stallworth Spread — One Family, Four Positions, Zero Oversight"
 description = "The Stallworth name appears four times in the Banks investigation graph: Misha Stallworth (DPSCD Board), Thomas Stallworth (State Legislature), Wells Stallworth, and Stallworth T. Each one connects back to Banks. Each one occupies a governance position. And each one creates a gap in oversight that a school with 3% math proficiency drives through."
 date = 2026-10-14
 updated = 2026-10-14
-weight = 7
+weight = 51
 
 [extra]
+cluster = "governance"
+cluster_label = "Governance Web"
 keywords = "Stallworth DPSCD board Detroit, Misha Stallworth Brian Banks, Thomas Stallworth Michigan legislature, Stallworth family Detroit political dynasty, Stallworth PCA oversight, DPSCD board oversight charter schools, Stallworth Detroit governance network"
 
 [taxonomies]

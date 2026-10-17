@@ -80,6 +80,14 @@
   <h2>🔗 Connections</h2>
   <p class="cross-desc">Other articles that touch the same entities and patterns.</p>
   <div id="cross-link-list" data-keywords="{{ page.extra.keywords }}"></div>
+  <div style="margin-top:16px;padding:12px;border:1px solid rgba(90,184,122,.2);border-radius:6px;background:rgba(13,17,23,.6)">
+    <button id="show-fold-btn" style="background:rgba(88,166,255,.12);color:#58a6ff;border:1px solid rgba(88,166,255,.3);padding:6px 14px;font:11px monospace;cursor:pointer;border-radius:4px"
+      onclick="if(window._networkFold){window._networkFold.show()}else{var s=document.createElement('script');s.src='https://hud.primals.eco/js/network-fold.js?v=1';s.onload=function(){window._networkFold&amp;&amp;window._networkFold.show()};document.head.appendChild(s)}">
+      &#x1f9ec; Open Network Fold &mdash; see who is behind the face entities
+    </button>
+    <span style="color:#8b949e;font:9px monospace;margin-left:8px">253 nodes &middot; 972 edges &middot; 24 tuebor overlap</span>
+  </div>
+
 </nav>
 {% endif %}
 
@@ -155,64 +163,72 @@
       </form>
     </div>
 
-    {# ── CHANNEL 2: Public Discussion (Giscus) ── #}
+    {# ── CHANNEL 2: Membrane Discussion (sovereign) ── #}
     <div class="opsn-channel opsn-discuss">
       <div class="opsn-channel-header">
         <span class="opsn-icon">💬</span>
         <h3>Discuss</h3>
         <span class="opsn-badge opsn-badge-public">Public</span>
       </div>
-      <p class="opsn-desc">Open discussion via GitHub. Your comments are public and help others find this evidence.</p>
-
-      <div id="giscus-container">
-        <script src="https://giscus.app/client.js"
-                data-repo="amicusContra/tuebor"
-                data-repo-id="R_kgDOU-wERg"
-                data-category="General"
-                data-category-id="DIC_kwDOU-wERs4DHc2M"
-                data-mapping="pathname"
-                data-strict="0"
-                data-reactions-enabled="1"
-                data-emit-metadata="0"
-                data-input-position="top"
-                data-theme="dark_dimmed"
-                data-lang="en"
-                data-loading="lazy"
-                crossorigin="anonymous"
-                async>
-        </script>
-      </div>
+      <p class="opsn-desc">Open discussion on the membrane. Comments live on sovereign infrastructure.</p>
+      <div id="discuss-container"></div>
       <noscript>
         <p class="opsn-noscript">
           Discussion requires JavaScript. You can also
           <a href="https://github.com/amicusContra/tuebor/discussions">view discussions on GitHub</a>.
         </p>
       </noscript>
+      <p class="opsn-tip" style="margin-top:8px">
+        <a href="https://github.com/amicusContra/tuebor/discussions" rel="noopener" target="_blank"
+           style="color:#484f58;font-size:0.85em">↗ also on GitHub Discussions</a>
+      </p>
     </div>
 
-    {# ── CHANNEL 3: Secure Email ── #}
+    {# ── CHANNEL 3: Secure Message (in-membrane + external option) ── #}
     <div class="opsn-channel opsn-email">
       <div class="opsn-channel-header">
         <span class="opsn-icon">🔐</span>
-        <h3>Secure Contact</h3>
+        <h3>Secure Message</h3>
         <span class="opsn-badge opsn-badge-secure">Encrypted</span>
       </div>
       <p class="opsn-desc">
-        For sensitive information, use encrypted email. ProtonMail-to-ProtonMail
-        is end-to-end encrypted by default.
+        Send a message directly on the membrane. IP hashed, never stored raw.
+        For end-to-end encryption, use the external email option below.
       </p>
-      <div class="opsn-email-actions">
+      <form autocomplete="off" class="opsn-form" id="opsn-msg-form">
+        <input type="hidden" name="page" value="{{ page.path | default(value='/') }}">
+        <input type="hidden" name="tag" value="message">
+        <div class="opsn-field">
+          <label for="opsn-msg-body">Your message</label>
+          <textarea id="opsn-msg-body" name="body" rows="3" required
+                    minlength="10" maxlength="2000"
+                    placeholder="What do you want to say? Be direct."></textarea>
+        </div>
+        <div class="opsn-field">
+          <label for="opsn-msg-contact">Contact (optional)</label>
+          <input type="text" id="opsn-msg-contact" name="contact"
+                 placeholder="ProtonMail, Signal number, or leave blank" maxlength="200">
+          <span class="opsn-hint">Only used if we need to respond. Never published.</span>
+        </div>
+        <button type="submit" class="opsn-submit" id="opsn-msg-submit">
+          <span class="opsn-submit-text">Send Message</span>
+          <span class="opsn-submit-sending" style="display:none">Sending…</span>
+        </button>
+        <div id="opsn-msg-result" class="opsn-result" style="display:none"></div>
+      </form>
+      <div class="opsn-email-actions" style="margin-top:12px;border-top:1px solid rgba(255,255,255,0.05);padding-top:10px">
+        <span style="color:#484f58;font-size:0.8em;margin-right:8px">↗ prefer external email?</span>
         <a href="mailto:eco.primal@pm.me?subject=Signal%3A%20{{ page.title | urlencode }}%20%E2%80%94%20{{ page.path | default(value='page') | urlencode }}&body=Page%3A%20{{ page.permalink | safe | urlencode }}%0A%0AObservation%3A%0A%0A"
-           class="opsn-email-btn" rel="noopener">
-          ✉️ Email via ProtonMail
+           class="opsn-email-btn" rel="noopener" style="font-size:0.85em">
+          ProtonMail
         </a>
         <a href="mailto:hello@clutchjustice.com?subject=Re%3A%20{{ page.title | urlencode }}&body=Page%3A%20{{ page.permalink | safe | urlencode }}%0A%0A"
-           class="opsn-email-btn opsn-email-alt" rel="noopener">
-          📬 Clutch Justice
+           class="opsn-email-btn opsn-email-alt" rel="noopener" style="font-size:0.85em">
+          Clutch Justice
         </a>
       </div>
       <p class="opsn-tip">
-        💡 <strong>Tip:</strong> If you're a government employee or officer of the court,
+        💡 <strong>Tip:</strong> If you are a government employee or officer of the court,
         consider using a personal email account for sensitive disclosures.
       </p>
     </div>
@@ -307,4 +323,65 @@
   }
 })();
 </script>
+
+<script defer src="https://hud.primals.eco/js/membrane-discuss.js?v=1"></script>
+
+<script>
+// ── Message form handler (replaces mailto: popout) ──
+(function() {
+  var form = document.getElementById("opsn-msg-form");
+  if (!form) return;
+  var result = document.getElementById("opsn-msg-result");
+  var btn = document.getElementById("opsn-msg-submit");
+  var sendText = btn ? btn.querySelector(".opsn-submit-text") : null;
+  var sendSending = btn ? btn.querySelector(".opsn-submit-sending") : null;
+
+  form.addEventListener("submit", function(e) {
+    e.preventDefault();
+    if (sendText) sendText.style.display = "none";
+    if (sendSending) sendSending.style.display = "inline";
+    if (btn) btn.disabled = true;
+    if (result) result.style.display = "none";
+
+    var fd = new FormData(form);
+    var data = {};
+    fd.forEach(function(v, k) { data[k] = v; });
+
+    fetch("/api/opsonize", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify(data)
+    })
+    .then(function(r) { return r.json().then(function(d) { return { status: r.status, data: d }; }); })
+    .then(function(res) {
+      if (result) result.style.display = "block";
+      if (res.data.ok) {
+        if (result) {
+          result.className = "opsn-result opsn-result-ok";
+          result.innerHTML = "<strong>Message sent.</strong> Delivered on the membrane.";
+        }
+        form.reset();
+      } else {
+        if (result) {
+          result.className = "opsn-result opsn-result-err";
+          result.textContent = res.data.error || "Error sending message";
+        }
+      }
+    })
+    .catch(function() {
+      if (result) {
+        result.style.display = "block";
+        result.className = "opsn-result opsn-result-err";
+        result.textContent = "Network error. Try the external email option.";
+      }
+    })
+    .finally(function() {
+      if (sendText) sendText.style.display = "inline";
+      if (sendSending) sendSending.style.display = "none";
+      if (btn) btn.disabled = false;
+    });
+  });
+})();
+</script>
+
 {% endblock content %}

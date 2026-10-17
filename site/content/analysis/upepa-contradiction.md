@@ -1,9 +1,11 @@
 +++
 title = "The UPEPA Contradiction — How One Attorney Broke Michigan's Anti-SLAPP Statute"
 description = "Philip L. Ellison invoked UPEPA to defend himself against Consumers Energy while opposing the same statute when used by the journalist he sued. The same judge holds both cases. This is the first stress test of Michigan's anti-SLAPP law."
-weight = 3
+weight = 29
 
 [extra]
+cluster = "oversight"
+cluster_label = "Oversight Failures"
 keywords = "UPEPA Michigan, Michigan anti-SLAPP law, 2025 PA 52, SLAPP suit Michigan, Uniform Public Expression Protection Act, anti-SLAPP judicial estoppel, Philip Ellison UPEPA, Saginaw County SLAPP, Michigan SLAPP defense, anti-SLAPP fee shifting, MCL 691.1851, UPEPA automatic stay, UPEPA expedited relief, Ellison Consumers Energy UPEPA, OLC v Williams UPEPA, Clutch Justice UPEPA, Michigan SLAPP suit defense, HB 4045 Michigan anti-SLAPP, Gafkay UPEPA ruling"
 
 [taxonomies]

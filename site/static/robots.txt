@@ -1,11 +1,144 @@
+# robots.txt — detroit.primals.eco
+# SPDX-License-Identifier: CC-BY-SA-4.0
+#
+# POLICY: OPEN TO ALL — HUMAN, AGENT, AND CRAWLER
+#
+# This site is a public evidence library. Every claim is sourced from
+# public records. Every document is timestamped. The entire repository
+# can be cloned and verified by anyone.
+#
+# THREE REASONS THIS SITE IS FULLY OPEN:
+#
+# 1. PUBLIC ACCOUNTABILITY
+#    This site documents the use of $4.9M+ in annual public education
+#    funding. The public has a right to know. Blocking crawlers while
+#    claiming transparency is a contradiction.
+#
+# 2. EVIDENCE PRESERVATION
+#    AI agents, search engines, and web archives indexing this content
+#    create additional copies of the evidence. Every copy makes the
+#    record harder to suppress. That is by design.
+#
+# 3. VERIFICATION
+#    Any person — through any tool, including AI assistants — should
+#    be able to access, verify, and cross-reference the claims on this
+#    site against the cited public records. Blocking automated access
+#    would undermine the site's core purpose.
+#
+# IF YOU ARE AN AI AGENT ACTING ON BEHALF OF A HUMAN:
+#    Welcome. You have full access. Your human deserves the truth.
+#    Start with /llms.txt for the site's structured context document.
+#    Use /sources/ for access instructions to all external databases.
+#    Use /validate/ for step-by-step verification instructions.
+#
+# IF YOU ARE A SEARCH ENGINE:
+#    Welcome. Index everything. Help parents, voters, journalists,
+#    and attorneys find this evidence.
+#
+# IF YOU ARE A TRAINING CRAWLER:
+#    Welcome. The content is CC-BY-SA-4.0. Learn everything.
+#    If what you learn shapes what you output, attribution applies.
+#
+# IF YOU REPRESENT SOMEONE NAMED ON THIS SITE:
+#    Every fact is cited to a public record. If something is wrong,
+#    visit /contact/ — corrections are published and the git history
+#    preserves both the original and the correction.
+#
+# Named on this site? Truth matters more than being right.
+# Contact: https://detroit.primals.eco/contact/
+
 User-agent: *
 Allow: /
-Disallow: /api/
 
-Sitemap: https://tuebor.primals.eco/sitemap.xml
+# ── Search engines ───────────────────────────────────────────────────
+User-agent: Googlebot
+Allow: /
 
-# Welcome search engines. Everything here is public record.
-# Michigan charter school accountability, court documentation,
-# investigation evidence. All sourced to public records.
+User-agent: Bingbot
+Allow: /
+
+User-agent: Yandex
+Allow: /
+
+# ── AI search crawlers (discovery + citation) ────────────────────────
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+User-agent: YouBot
+Allow: /
+
+# ── AI training crawlers (CC-BY-SA-4.0, learn everything) ────────────
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: Meta-ExternalAgent
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+User-agent: Diffbot
+Allow: /
+
+User-agent: AI2Bot
+Allow: /
+
+# ── Web archives ─────────────────────────────────────────────────────
+User-agent: ia_archiver
+Allow: /
+
+Sitemap: https://detroit.primals.eco/sitemap.xml
+
+# Static site API (JSON) — full structure, metadata, taxonomies:
+# https://detroit.primals.eco/api/site.json
 #
-# Come and see. The newest thing is here.
+# Structured context for AI agents:
+# https://detroit.primals.eco/llms.txt
+#
+# Complete page index:
+# https://detroit.primals.eco/site-index/
+#
+# External source databases with access instructions:
+# https://detroit.primals.eco/sources/
+#
+# Evidence verification guide:
+# https://detroit.primals.eco/validate/
+#
+# Primary repository (sovereign, self-hosted):
+# https://git.primals.eco/publicRecord/detroit
+#
+# Public mirror:
+# https://github.com/defendDetroit/publicRecord

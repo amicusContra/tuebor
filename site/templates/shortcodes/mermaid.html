@@ -1,0 +1,12 @@
+{# Network subgraph: {{ mermaid(title="Self-Dealing Loop") }}...{{ end }}
+   Renders a Mermaid.js diagram with accessible caption.
+   The body contains the raw Mermaid graph definition.
+   title (optional): figure caption for screen readers + SEO.
+   Uses <pre> to preserve whitespace through minify_html.
+#}
+<figure class="network-graph" role="img" aria-label="{% if title is defined %}{{ title }}{% else %}Network diagram{% endif %}">
+  <pre class="mermaid">
+{{ body }}
+  </pre>
+  {% if title is defined %}<figcaption>{{ title }}</figcaption>{% endif %}
+</figure>

@@ -1,0 +1,26 @@
+{# Epistemic status marker — classifies a CLAIM, not a document.
+   Usage: {{ status(level="record") }}
+          {{ status(level="inference", note="Pattern analysis by complainant") }}
+          {{ status(level="filed", note="Submitted to DOJ Sep 22, 2026") }}
+
+   EPISTEMIC GRAMMAR (from weakest to strongest determination):
+     record       — Public record exists. Verifiable fact.
+     corroborated — Independently confirmed by 2+ sources.
+     inference    — Analytical conclusion drawn from records. Not adjudicated.
+     allegation   — Formally alleged in a complaint or filing. Awaiting determination.
+     filed        — Submitted to agency/court for determination. Pending.
+     adjudicated  — Determined by a court or agency. Final (unless appealed).
+     corrected    — Previously published claim has been corrected. See note.
+
+   This is distinct from {{ confidence() }} which rates EVIDENCE QUALITY.
+   {{ status() }} rates the EPISTEMIC STATE of a claim in the investigation.
+#}
+{% if level == "record" %}<span class="epistemic-status es-record" title="Public record — verifiable fact{% if note is defined %}. {{ note }}{% endif %}">📋 Record</span>
+{% elif level == "corroborated" %}<span class="epistemic-status es-corroborated" title="Independently confirmed by 2+ sources{% if note is defined %}. {{ note }}{% endif %}">✅ Corroborated</span>
+{% elif level == "inference" %}<span class="epistemic-status es-inference" title="Analytical inference drawn from records — not adjudicated{% if note is defined %}. {{ note }}{% endif %}">🔍 Inference</span>
+{% elif level == "allegation" %}<span class="epistemic-status es-allegation" title="Formally alleged in complaint or filing — awaiting determination{% if note is defined %}. {{ note }}{% endif %}">⚖️ Allegation</span>
+{% elif level == "filed" %}<span class="epistemic-status es-filed" title="Submitted to agency/court — determination pending{% if note is defined %}. {{ note }}{% endif %}">📨 Filed</span>
+{% elif level == "adjudicated" %}<span class="epistemic-status es-adjudicated" title="Determined by court or agency{% if note is defined %}. {{ note }}{% endif %}">⚡ Adjudicated</span>
+{% elif level == "corrected" %}<span class="epistemic-status es-corrected" title="Previously published claim corrected{% if note is defined %}. {{ note }}{% endif %}">🔄 Corrected</span>
+{% else %}<span class="epistemic-status es-unknown" title="Unknown epistemic status">❓ {{ level }}</span>
+{% endif %}

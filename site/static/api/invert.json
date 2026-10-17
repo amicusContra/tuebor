@@ -1,0 +1,547 @@
+{
+  "_description": "Structural pattern graph \u2014 names stripped, shapes preserved. Non-self self.",
+  "_purpose": "Hold this shape against any local network. If it fits, the same pathology is present.",
+  "_generated": "2026-10-10",
+  "_source_stats": {
+    "original_nodes": 129,
+    "original_edges": 215,
+    "actors": 66,
+    "entities": 63
+  },
+  "archetype_census": {
+    "governor": 9,
+    "peripheral": 8,
+    "judge": 7,
+    "membrane_governor": 6,
+    "operator": 5,
+    "connector": 4,
+    "captured_judge": 3,
+    "serial_formation_agent": 2,
+    "formation_agent": 2,
+    "membrane_operator": 2,
+    "authorizer": 1,
+    "legal_actor": 1
+  },
+  "entity_class_census": {
+    "entity": 21,
+    "authority": 15,
+    "dark_money_vehicle": 13,
+    "private_entity": 12,
+    "political_action_committee": 2
+  },
+  "structural_patterns": [
+    {
+      "pattern": "operator --[operational]--> entity (permissive)",
+      "frequency": 8
+    },
+    {
+      "pattern": "serial_formation_agent --[formation]--> dark_money_vehicle (static_dark)",
+      "frequency": 8
+    },
+    {
+      "pattern": "judge --[judicial]--> authority (permissive)",
+      "frequency": 7
+    },
+    {
+      "pattern": "membrane_governor --[governance]--> dark_money_vehicle (static_dark)",
+      "frequency": 5
+    },
+    {
+      "pattern": "governor --[governance]--> entity (permissive)",
+      "frequency": 5
+    },
+    {
+      "pattern": "membrane_operator --[governance]--> dark_money_vehicle (static_dark)",
+      "frequency": 4
+    },
+    {
+      "pattern": "captured_judge --[judicial]--> authority (permissive)",
+      "frequency": 3
+    },
+    {
+      "pattern": "captured_judge --[payment]--> private_entity (static_private)",
+      "frequency": 3
+    },
+    {
+      "pattern": "membrane_governor --[governance]--> entity (permissive)",
+      "frequency": 3
+    },
+    {
+      "pattern": "membrane_governor --[authorization]--> entity (permissive)",
+      "frequency": 3
+    },
+    {
+      "pattern": "governor --[governance]--> dark_money_vehicle (static_dark)",
+      "frequency": 3
+    },
+    {
+      "pattern": "serial_formation_agent --[formation]--> entity (unclassified)",
+      "frequency": 3
+    },
+    {
+      "pattern": "serial_formation_agent --[operational]--> entity (permissive)",
+      "frequency": 2
+    },
+    {
+      "pattern": "serial_formation_agent --[ownership]--> private_entity (static_private)",
+      "frequency": 2
+    },
+    {
+      "pattern": "serial_formation_agent --[governance]--> dark_money_vehicle (static_dark)",
+      "frequency": 2
+    },
+    {
+      "pattern": "serial_formation_agent --[formation]--> private_entity (static_private)",
+      "frequency": 2
+    },
+    {
+      "pattern": "captured_judge --[governance]--> entity (permissive)",
+      "frequency": 2
+    },
+    {
+      "pattern": "connector --[family]--> authority (unclassified)",
+      "frequency": 2
+    },
+    {
+      "pattern": "membrane_governor --[payment]--> private_entity (static_private)",
+      "frequency": 2
+    },
+    {
+      "pattern": "authorizer --[authorization]--> entity (permissive)",
+      "frequency": 2
+    },
+    {
+      "pattern": "membrane_operator --[operational]--> entity (unclassified)",
+      "frequency": 2
+    },
+    {
+      "pattern": "connector --[financial]--> entity (unclassified)",
+      "frequency": 2
+    }
+  ],
+  "membrane_crossings": [
+    {
+      "archetype": "serial_formation_agent",
+      "from": "permissive",
+      "to": "unclassified",
+      "role_categories": [
+        "governance",
+        "ownership",
+        "investigation",
+        "operational",
+        "political",
+        "formation",
+        "religious",
+        "classmate",
+        "money_flow",
+        "payment",
+        "legal",
+        "family_donation"
+      ],
+      "entity_count": 19
+    },
+    {
+      "archetype": "serial_formation_agent",
+      "from": "permissive",
+      "to": "static_pac",
+      "role_categories": [
+        "governance",
+        "ownership",
+        "investigation",
+        "operational",
+        "political",
+        "formation",
+        "religious",
+        "classmate",
+        "money_flow",
+        "payment",
+        "legal",
+        "family_donation"
+      ],
+      "entity_count": 19
+    },
+    {
+      "archetype": "serial_formation_agent",
+      "from": "permissive",
+      "to": "static_private",
+      "role_categories": [
+        "governance",
+        "ownership",
+        "investigation",
+        "operational",
+        "political",
+        "formation",
+        "religious",
+        "classmate",
+        "money_flow",
+        "payment",
+        "legal",
+        "family_donation"
+      ],
+      "entity_count": 19
+    },
+    {
+      "archetype": "serial_formation_agent",
+      "from": "permissive",
+      "to": "static_dark",
+      "role_categories": [
+        "governance",
+        "ownership",
+        "investigation",
+        "operational",
+        "political",
+        "formation",
+        "religious",
+        "classmate",
+        "money_flow",
+        "payment",
+        "legal",
+        "family_donation"
+      ],
+      "entity_count": 19
+    },
+    {
+      "archetype": "captured_judge",
+      "from": "permissive",
+      "to": "static_private",
+      "role_categories": [
+        "judicial",
+        "governance"
+      ],
+      "entity_count": 3
+    },
+    {
+      "archetype": "captured_judge",
+      "from": "permissive",
+      "to": "static_private",
+      "role_categories": [
+        "judicial",
+        "governance",
+        "payment"
+      ],
+      "entity_count": 4
+    },
+    {
+      "archetype": "membrane_governor",
+      "from": "permissive",
+      "to": "unclassified",
+      "role_categories": [
+        "political",
+        "governance",
+        "payment",
+        "authorization"
+      ],
+      "entity_count": 5
+    },
+    {
+      "archetype": "membrane_governor",
+      "from": "permissive",
+      "to": "static_private",
+      "role_categories": [
+        "financial",
+        "governance",
+        "money_flow",
+        "payment"
+      ],
+      "entity_count": 4
+    },
+    {
+      "archetype": "membrane_governor",
+      "from": "permissive",
+      "to": "static_dark",
+      "role_categories": [
+        "financial",
+        "governance",
+        "money_flow",
+        "payment"
+      ],
+      "entity_count": 4
+    },
+    {
+      "archetype": "membrane_governor",
+      "from": "permissive",
+      "to": "static_dark",
+      "role_categories": [
+        "governance",
+        "authorization"
+      ],
+      "entity_count": 3
+    },
+    {
+      "archetype": "membrane_operator",
+      "from": "permissive",
+      "to": "unclassified",
+      "role_categories": [
+        "governance",
+        "operational"
+      ],
+      "entity_count": 2
+    }
+  ],
+  "role_bridges": [
+    {
+      "role": "operational",
+      "archetypes": [
+        "membrane_operator",
+        "operator",
+        "serial_formation_agent"
+      ],
+      "entity_classes": [
+        "entity",
+        "private_entity"
+      ],
+      "membrane_sides": [
+        "permissive",
+        "static_private",
+        "unclassified"
+      ],
+      "instances": 14
+    },
+    {
+      "role": "ownership",
+      "archetypes": [
+        "membrane_governor",
+        "peripheral",
+        "serial_formation_agent"
+      ],
+      "entity_classes": [
+        "entity",
+        "private_entity"
+      ],
+      "membrane_sides": [
+        "static_private",
+        "unclassified"
+      ],
+      "instances": 5
+    },
+    {
+      "role": "governance",
+      "archetypes": [
+        "captured_judge",
+        "governor",
+        "membrane_governor",
+        "membrane_operator",
+        "serial_formation_agent"
+      ],
+      "entity_classes": [
+        "authority",
+        "dark_money_vehicle",
+        "entity",
+        "political_action_committee",
+        "private_entity"
+      ],
+      "membrane_sides": [
+        "permissive",
+        "static_dark",
+        "static_pac",
+        "static_private",
+        "unclassified"
+      ],
+      "instances": 34
+    },
+    {
+      "role": "money_flow",
+      "archetypes": [
+        "membrane_governor",
+        "serial_formation_agent"
+      ],
+      "entity_classes": [
+        "dark_money_vehicle",
+        "entity",
+        "private_entity"
+      ],
+      "membrane_sides": [
+        "permissive",
+        "static_dark",
+        "static_private"
+      ],
+      "instances": 3
+    },
+    {
+      "role": "political",
+      "archetypes": [
+        "membrane_governor",
+        "serial_formation_agent"
+      ],
+      "entity_classes": [
+        "authority",
+        "entity",
+        "political_action_committee"
+      ],
+      "membrane_sides": [
+        "permissive",
+        "static_pac",
+        "unclassified"
+      ],
+      "instances": 3
+    },
+    {
+      "role": "payment",
+      "archetypes": [
+        "captured_judge",
+        "formation_agent",
+        "membrane_governor",
+        "peripheral",
+        "serial_formation_agent"
+      ],
+      "entity_classes": [
+        "authority",
+        "dark_money_vehicle",
+        "private_entity"
+      ],
+      "membrane_sides": [
+        "static_dark",
+        "static_private",
+        "unclassified"
+      ],
+      "instances": 9
+    },
+    {
+      "role": "legal",
+      "archetypes": [
+        "governor",
+        "legal_actor",
+        "serial_formation_agent"
+      ],
+      "entity_classes": [
+        "authority",
+        "entity"
+      ],
+      "membrane_sides": [
+        "permissive",
+        "unclassified"
+      ],
+      "instances": 3
+    },
+    {
+      "role": "formation",
+      "archetypes": [
+        "formation_agent",
+        "membrane_governor",
+        "serial_formation_agent"
+      ],
+      "entity_classes": [
+        "dark_money_vehicle",
+        "entity",
+        "political_action_committee",
+        "private_entity"
+      ],
+      "membrane_sides": [
+        "static_dark",
+        "static_pac",
+        "static_private",
+        "unclassified"
+      ],
+      "instances": 16
+    },
+    {
+      "role": "financial",
+      "archetypes": [
+        "connector",
+        "membrane_governor",
+        "peripheral"
+      ],
+      "entity_classes": [
+        "dark_money_vehicle",
+        "entity",
+        "political_action_committee"
+      ],
+      "membrane_sides": [
+        "permissive",
+        "static_dark",
+        "static_pac",
+        "unclassified"
+      ],
+      "instances": 6
+    },
+    {
+      "role": "employment",
+      "archetypes": [
+        "connector",
+        "peripheral"
+      ],
+      "entity_classes": [
+        "entity"
+      ],
+      "membrane_sides": [
+        "permissive",
+        "unclassified"
+      ],
+      "instances": 3
+    }
+  ],
+  "pathology_signatures": [
+    {
+      "name": "formation_governance_split",
+      "description": "One archetype forms entities, a different archetype governs them. Same employer. Division of labor creates plausible deniability.",
+      "archetype_pair": [
+        "serial_formation_agent",
+        "governor/membrane_governor"
+      ],
+      "shared_entity_count": 4,
+      "shared_entity_classes": [
+        "authority",
+        "dark_money_vehicle",
+        "entity"
+      ]
+    },
+    {
+      "name": "judicial_capture",
+      "description": "Judges holding governance/financial roles at entities on the private side of the membrane.",
+      "count": 3,
+      "membrane_sides_crossed": [
+        "permissive",
+        "static_private",
+        "static_dark"
+      ]
+    },
+    {
+      "name": "membrane_operator_pattern",
+      "description": "Operational role holders (superintendent, dean, principal) who span public and private entities simultaneously.",
+      "count": 2
+    },
+    {
+      "name": "serial_vehicle_formation",
+      "description": "Single actor forms 5+ legal entities. Pattern indicates systematic vehicle creation.",
+      "vehicle_count": 1,
+      "entity_classes_formed": [
+        "private_entity"
+      ]
+    },
+    {
+      "name": "serial_vehicle_formation",
+      "description": "Single actor forms 5+ legal entities. Pattern indicates systematic vehicle creation.",
+      "vehicle_count": 12,
+      "entity_classes_formed": [
+        "dark_money_vehicle",
+        "entity",
+        "private_entity"
+      ]
+    },
+    {
+      "name": "vendor_kickback_loop",
+      "description": "Judicial actor makes payments to private entity owned by person within their jurisdictional sphere. Payment flows: judge -> private vendor -> returns as services to public entity where judge has governance role.",
+      "edge_types_involved": [
+        "payment",
+        "ownership",
+        "governance",
+        "judicial"
+      ]
+    },
+    {
+      "name": "authorizer_capture",
+      "description": "Board members who vote to authorize an entity also hold roles at dark money vehicles connected to the same network.",
+      "membrane_violation": "permissive -> static_dark"
+    },
+    {
+      "name": "talent_pipeline_extraction",
+      "description": "Multiple operational actors share employment at both a public institution and a private entity. The public institution is the farm system; the private entity is the extraction point. No inter-personal edges exist between the cluster members.",
+      "cluster_size_threshold": 3
+    },
+    {
+      "name": "ghost_officer_concealment",
+      "description": "Entity has known actors but legally required officer/agent positions are unfilled in the graph. Each ghost seat represents a hidden actor retrievable from state filings.",
+      "detection_method": "Compare entity actor count vs expected minimum officer positions from entity type requirements"
+    }
+  ]
+}

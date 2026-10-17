@@ -1,0 +1,25 @@
+{# Lens bar — shows all system views with current one highlighted.
+   Usage: {% lens(active="topology") %}
+   Valid active values: topology, lattice, chronology, money, legal, capture
+#}
+<nav class="lens-bar" aria-label="System lenses">
+  <span class="lens-label">Lens:</span>
+  <a href="/network/" class="lens-item{% if active == 'topology' %} lens-active{% endif %}">
+    <span class="lens-icon">🕸️</span> Topology
+  </a>
+  <a href="/analysis/anderson-localization/" class="lens-item{% if active == 'lattice' %} lens-active{% endif %}">
+    <span class="lens-icon">⚛️</span> Lattice
+  </a>
+  <a href="/timeline/" class="lens-item{% if active == 'chronology' %} lens-active{% endif %}">
+    <span class="lens-icon">📅</span> Chronology
+  </a>
+  <a href="/analysis/funding-flow/" class="lens-item{% if active == 'money' %} lens-active{% endif %}">
+    <span class="lens-icon">💰</span> Money
+  </a>
+  <a href="/analysis/rico-pattern/" class="lens-item{% if active == 'legal' %} lens-active{% endif %}">
+    <span class="lens-icon">⚖️</span> Legal
+  </a>
+  <a href="/analysis/institutional-capture-graph/" class="lens-item{% if active == 'capture' %} lens-active{% endif %}">
+    <span class="lens-icon">🏛️</span> Capture
+  </a>
+</nav>

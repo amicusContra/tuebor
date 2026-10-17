@@ -1,0 +1,6 @@
+{# Render an actor reference from the registry.
+   Usage: {{ actor(key="banks") }} → linked name
+          {{ actor(key="banks", field="convictions") }} → specific fact
+          {{ actor(key="banks", show="role") }} → role text #}
+{% set entry = config.extra.actors[key] | default(value=false) %}
+{% if entry %}{% if field is defined %}{{ entry[field] }}{% elif show is defined %}{{ entry[show] }}{% elif entry.page is defined %}<a href="{{ entry.page }}"><strong>{{ entry.display }}</strong></a>{% else %}<strong>{{ entry.display }}</strong>{% endif %}{% else %}<em>{{ key }}</em>{% endif %}

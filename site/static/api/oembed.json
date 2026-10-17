@@ -1,0 +1,12 @@
+{
+  "version": "1.0",
+  "type": "rich",
+  "provider_name": "Detroit Charter School Investigation",
+  "provider_url": "https://detroit.primals.eco",
+  "title": "Cash for Kids 2: A Public Record",
+  "author_name": "ecoPrimal",
+  "author_url": "https://sporeprint.primals.eco",
+  "width": 600,
+  "height": 200,
+  "html": "<div style=\"font-family:system-ui;padding:16px;border:1px solid #333;border-radius:8px;background:#1a1a2e;color:#e0e0e0;max-width:600px\"><h3 style=\"margin:0 0 8px;color:#fff\">Cash for Kids 2: A Public Record</h3><p style=\"margin:0 0 8px;font-size:14px\">9 convictions. 9 judges. $4.9M in public funding. Every fact cited from public records.</p><a href=\"https://detroit.primals.eco\" style=\"color:#4fc3f7;font-size:13px\">detroit.primals.eco</a></div>"
+}

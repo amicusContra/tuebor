@@ -1,38 +1,156 @@
-source_id,source_label,target_id,target_label,edge_type,epistemic_status,amount_usd,note,weight,source_doc
-dykema,Dykema Gossett,sdj,Save Detroit Jobs,formation,record,,Formed entity. IRS filing lists Dykema phone number.,9,LARA 802002459
-dykema_pac,Dykema Gossett PAC,barrett,Tom Barrett,payment,record,4000,Dykema PAC → Barrett campaign,7,FEC
-dykema,Dykema Gossett,dykema_pac,Dykema Gossett PAC,ownership,record,,,10,
-barrett,Tom Barrett,banks,Brian Roderick Banks,smear,record,,Convicted felon on C-SPAN — targeting tenant organizers,6,"C-SPAN clip, Tommy Boy analysis"
-nrcc,NRCC,barrett,Tom Barrett,amplification,record,6300000,NRCC spent $6.3M in MI-7. Amplified socialist felon mailer.,8,FEC
-glcf,Great Lakes Conservatives Fund,rogers,Mike Rogers,support,record,7155673,Super PAC independent expenditure,9,FEC C00853861
-dunn,Tim Dunn,glcf,Great Lakes Conservatives Fund,donation,record,10000000,$5M (2024) + $5M (2026),10,FEC Schedule A
-schwarzman,Stephen Schwarzman,glcf,Great Lakes Conservatives Fund,donation,record,4500000,2024 cycle,9,FEC Schedule A
-griffin,Kenneth Griffin,glcf,Great Lakes Conservatives Fund,donation,record,2500000,2024 cycle,9,FEC Schedule A
-griffin,Kenneth Griffin,barrett,Tom Barrett,donation,record,7000,Cross-ticket: same donor funds Senate + House,4,FEC
-schwarzman,Stephen Schwarzman,barrett,Tom Barrett,donation,record,,Maxed out to Barrett,4,"FEC, Rhinoceros Media"
-slf,Senate Leadership Fund,rogers,Mike Rogers,support,record,27421796,"McConnell-aligned, largest outside spend for Rogers",10,FEC C00571703
-afp,Americans for Prosperity Action,rogers,Mike Rogers,support,record,14154965,Koch network,9,FEC C00687103
-america_pac,America PAC,rogers,Mike Rogers,support,record,5764178,Musk-funded. Entered MI race recently.,7,FEC
-rogers,Mike Rogers,cispa,CISPA,authorship,record,,Primary sponsor H.R. 3523/624. ACLU + Obama opposed.,9,Congress.gov
-rogers,Mike Rogers,att,AT&T,employment,record,,Chief Security Adviser / sales consultant 2016-17,8,"PolitiFact, Business Insider"
-att,AT&T,rogers,Mike Rogers,payment,record,56000,AT&T federal PAC → Rogers during House career,6,OpenSecrets
-banks,Brian Roderick Banks,miller,Judge Cylenthia Miller,board_co_membership,record,,Miller = PCA Board Chair. Banks = superintendent.,9,purposecharteracademy.com
-banks,Brian Roderick Banks,yancey,Judge Tenisha Yancey,board_co_membership,record,,Yancey = MacDowell Board Chair. Banks = superintendent.,9,Clutch Justice
-yancey,Judge Tenisha Yancey,banks,Brian Roderick Banks,payment,record,383.82,Campaign paid Banks Strategy LLC,8,CFRS
-crump_gibson,Jehan Crump-Gibson,banks,Brian Roderick Banks,legal_representation,record,,Defense attorney. ADB Hearing Panelist.,8,Court filings
-crump_gibson,Jehan Crump-Gibson,adb,Attorney Discipline Board,appointment,record,,Hearing Panelist since May 2017,7,gllegalgroup.com
-state_bar_upl,State Bar UPL,banks,Brian Roderick Banks,investigation_closed,record,,File 26-UP-51 closed Sep 30. Standards not published.,8,"Clutch Justice Oct 7, 2026"
-agc,Attorney Grievance Commission,banks,Brian Roderick Banks,returned,record,,Bullington returned complaint Oct 1. Not a listed attorney.,8,"Clutch Justice Oct 7, 2026"
-jtc,Judicial Tenure Commission,miller,Judge Cylenthia Miller,investigation,record,,Request for Investigation acknowledged Sep 24,7,JTC acknowledgment letter
-jtc,Judicial Tenure Commission,yancey,Judge Tenisha Yancey,investigation,record,,Request for Investigation acknowledged Sep 24,7,JTC acknowledgment letter
-dpscd,DPSCD Charter Office,banks,Brian Roderick Banks,authorization,record,,Authorized PCA Jul 2025 despite bottom-3% record,8,DPSCD charter records
-mde,Michigan Dept of Education,banks,Brian Roderick Banks,investigation,record,,HOLD on permit #590606. No enforcement.,7,MDE FOIA Sep 25
-mi_supreme_court,Michigan Supreme Court,agc,Attorney Grievance Commission,appointment,record,,Appoints Grievance Administrator,10,
-mi_supreme_court,Michigan Supreme Court,adb,Attorney Discipline Board,appointment,record,,Appoints 9 board members + hearing panelists,10,
-mi_supreme_court,Michigan Supreme Court,jtc,Judicial Tenure Commission,appointment,record,,Appoints commissioners,10,
-mi_supreme_court,Michigan Supreme Court,state_bar_upl,State Bar UPL,oversight,record,,Oversees UPL program. Declined to define practice of law 2014.,9,
-sdj,Save Detroit Jobs,banks,Brian Roderick Banks,political,record,,Funded Johnson campaign (PCA Board Secretary),7,TransparencyUSA
-clutch,Clutch Justice,state_bar_upl,State Bar UPL,journalism,record,,Mind the Gap: documented enforcement failure Oct 7,6,clutchjustice.com
-clutch,Clutch Justice,agc,Attorney Grievance Commission,journalism,record,,Documented 88.8% dismissal rate,6,clutchjustice.com
-clutch,Clutch Justice,jtc,Judicial Tenure Commission,journalism,record,,Documented Glenn Page interim appointment Feb 2026,6,clutchjustice.com
-clutch,Clutch Justice,banks,Brian Roderick Banks,journalism,record,,"MacDowell financials, UPL coverage",6,clutchjustice.com
+source_id,source_label,target_id,target_label,edge_type,epistemic_status,role,amount_usd,note,weight,source_doc
+banks,Brian Roderick Banks,pca,Purpose Charter Academy,employment,record,Superintendent,,,10,purposecharteracademy.com
+banks,Brian Roderick Banks,macdowell,MacDowell Preparatory Academy,employment,record,Superintendent,,,10,macdowellprep.com
+banks,Brian Roderick Banks,purpose_group,"The Purpose Group, LLC",ownership,record,Sole member,,,10,LARA 803295082
+banks,Brian Roderick Banks,purpose_foundation,Purpose Foundation,governance,record,President + Agent,,,8,LARA 803294855
+banks,Brian Roderick Banks,banks_strategy,Banks Strategy & Consultants LLC,ownership,record,Owner,,,8,LARA 802070120
+banks,Brian Roderick Banks,serenity,"Serenity Guardianship Services, Inc.",ownership,record,Principal (dissolved),,,5,LARA 802290962
+banks,Brian Roderick Banks,city_hill,City Hill Church,governance,record,Pastor / controller,,,5,LARA 802365641
+banks,Brian Roderick Banks,sun_community,Sun Community Development Corp,governance,record,Officer,,,5,LARA 803232314
+banks,Brian Roderick Banks,pacs,Political Action Committees,governance,record,Treasurer (Bank on Wayne Co.),,,6,CFRS
+banks,Brian Roderick Banks,ofa,ofa,governance,record,Officer (Holland's PO Box),,,4,LARA
+holland,Joseph Holland Jr.,banks,Brian Roderick Banks,co-resident,record,,,"Same address: 1968 Severn Rd, GPW",9,Wayne County ROD
+holland,Joseph Holland Jr.,purpose_foundation,Purpose Foundation,governance,record,Secretary + Treasurer,,,8,LARA 803294855
+holland,Joseph Holland Jr.,pacs,Political Action Committees,governance,record,Treasurer (Bank on Banks PAC),,,7,CFRS
+holland,Joseph Holland Jr.,ofa,ofa,governance,record,Officer,,,4,LARA
+miller,Judge Cylenthia Miller,pca,Purpose Charter Academy,board_membership,record,Board Chair,,,9,purposecharteracademy.com/boardofdirectors (Sep 2026)
+miller,Judge Cylenthia Miller,anchor_rock,Anchor Rock Foundation,board_membership,record,Board Chair (historical),,,7,LARA 802394934
+miller,Judge Cylenthia Miller,court_3rd,court 3rd,bench,record,Judge,,,10,
+miller,Judge Cylenthia Miller,banks,Brian Roderick Banks,campaign_vendor,record,,,Banks Strategy as campaign vendor,5,CFRS
+moreland,Lisa Moreland,pca,Purpose Charter Academy,board_membership,record,Board Vice Chair,,,8,purposecharteracademy.com/boardofdirectors
+moreland,Lisa Moreland,ag_office,ag office,employment,record,Assistant Attorney General,,,9,
+latisha_johnson,latisha johnson,pca,Purpose Charter Academy,board_membership,record,Board Secretary,,,7,purposecharteracademy.com/boardofdirectors
+latisha_johnson,latisha johnson,city_council,city council,elected_office,record,Council Member,,,8,
+yancey,Judge Tenisha Yancey,macdowell,MacDowell Preparatory Academy,board_membership,record,Board Chair,,,9,"Clutch Justice Sep 13, 2026"
+yancey,Judge Tenisha Yancey,banks_strategy,Banks Strategy & Consultants LLC,payment,record,,383.82,Sole contribution and sole expenditure,8,CFRS
+yancey,Judge Tenisha Yancey,inner_link,Inner Link Graphics,payment,record,,8025,Campaign vendor payments,6,TransparencyUSA
+yancey,Judge Tenisha Yancey,court_36th,court 36th,bench,record,Judge,,,10,
+sabree_a,sabree a,court_3rd,court 3rd,bench,record,Judge (Family Division),,,10,
+sabree_a,sabree a,banks,Brian Roderick Banks,classmate,record,,,MSU Law 2010 — same year as Banks' claimed J.D.,5,Graduation records
+eric_sabree,Eric Sabree,sabree_a,sabree a,family,record,Father,,,10,
+eric_sabree,Eric Sabree,sabree_adam,sabree adam,family,record,Father,,,10,
+eric_sabree,Eric Sabree,miller,Judge Cylenthia Miller,political,inference,,,Listed as endorser on keepjudgemiller.com,4,keepjudgemiller.com
+sabree_adam,sabree adam,court_36th,court 36th,bench,record,Judge,,,10,
+perkins_d,perkins d,court_probate,court probate,bench,record,Chief Judge Pro Tem,,,10,
+perkins_d,perkins d,banks,Brian Roderick Banks,family_donation,record,,,Family donated to Banks-aligned campaigns,4,CFRS
+perkins_sean,perkins sean,court_36th,court 36th,bench,record,Judge,,,10,
+perkins_sean,perkins sean,todd_perkins,Todd Perkins,family,record,Brother,,,10,
+ramsey,ramsey,court_3rd,court 3rd,bench,record,Judge (Criminal Division),,,10,
+ramsey,ramsey,macdowell,MacDowell Preparatory Academy,employment_family,record,,,2 family members on MacDowell payroll,6,School records
+evans,Warren Evans,court_3rd,court 3rd,bench,record,Judge (retired),,,7,
+evans,Warren Evans,banks,Brian Roderick Banks,mentorship,corroborated,,,21-year mentor. Endorsed Banks despite criminal record.,8,Book analysis
+langford_morris,Judge Denise Langford Morris (Retired),court_oakland,court oakland,bench,record,"Judge (retired, now JAMS)",,,7,
+langford_morris,Judge Denise Langford Morris (Retired),banks,Brian Roderick Banks,credential_legitimization,corroborated,,,Wrote book foreword using Banks' fake J.D.,7,Book analysis
+todd_perkins,Todd Perkins,banks,Brian Roderick Banks,legal_representation,record,Personal attorney,,,9,Court filings
+todd_perkins,Todd Perkins,miller,Judge Cylenthia Miller,legal_representation,record,,,Represented Miller in DTW gun case,7,WXYZ
+gay_dagnogo,Sherry Gay-Dagnogo,dpscd,Detroit Public Schools Community District,board_membership,record,Former board member,,,8,
+gay_dagnogo,Sherry Gay-Dagnogo,pca,Purpose Charter Academy,authorization,record,,,Voted to authorize Banks' charters,8,DPSCD board minutes
+gay_dagnogo,Sherry Gay-Dagnogo,macdowell,MacDowell Preparatory Academy,authorization,record,,,Authorized charter,8,
+gay_dagnogo,Sherry Gay-Dagnogo,banks,Brian Roderick Banks,political,inference,,,CBC Week honoree; campaign ally,6,Eventbrite
+mckinney,Billy McKinney,banks,Brian Roderick Banks,payment,record,,4483,Campaign → extended Banks family,5,TransparencyUSA
+od_banks,OD Banks,banks,Brian Roderick Banks,family,record,Father,,,10,PACER 2:05-cr-80955
+pca,Purpose Charter Academy,purpose_group,"The Purpose Group, LLC",money_flow,corroborated,,,Management contract — per-pupil funding flows to CMO,9,
+macdowell,MacDowell Preparatory Academy,purpose_group,"The Purpose Group, LLC",money_flow,corroborated,,4285201,72.67% of $4.9M revenue to CMO,10,Audited financials
+purpose_group,"The Purpose Group, LLC",banks,Brian Roderick Banks,money_flow,corroborated,,,Sole member extracts as salary + management fee,10,
+pca,Purpose Charter Academy,court_3rd,court 3rd,jurisdiction,inference,,,Cases from PCA families filed in 3rd Circuit,5,
+pca,Purpose Charter Academy,court_36th,court 36th,jurisdiction,inference,,,Cases from PCA families filed in 36th District,5,
+macdowell,MacDowell Preparatory Academy,court_3rd,court 3rd,jurisdiction,inference,,,Cases from MacDowell families filed in 3rd Circuit,5,
+macdowell,MacDowell Preparatory Academy,court_36th,court 36th,jurisdiction,inference,,,Cases from MacDowell families filed in 36th District,5,
+purpose_group,"The Purpose Group, LLC",macdowell,MacDowell Preparatory Academy,financial,record,,72.67%,10% SSA + ALL operating costs = 72.67% of revenue,10,Purpose Group Management Agreement (FOIA)
+dpscd,Detroit Public Schools Community District,pca,Purpose Charter Academy,authorization,record,,,Authorized PCA despite operator's bottom-3% record at MacDowell,8,DPSCD charter authorization records
+escuela_avancemos,Escuela Avancemos,macdowell,MacDowell Preparatory Academy,permit,record,Source of Daily Substitute Permit for 3rd-grade teacher,,Alana Hubbell — Daily Sub Permit issued through Escuela Avancemos,4,"MOECS public search Sep 26, 2026"
+chandler_park,Chandler Park Academy,macdowell,MacDowell Preparatory Academy,permit,record,Source of Daily Substitute Permit for 5th-grade teacher,,Ashlie Spencer — Daily Sub Permit issued through Chandler Park Academy,4,"MOECS public search Sep 26, 2026"
+purpose_group,"The Purpose Group, LLC",pca,Purpose Charter Academy,property,record,,,Building purchase option from DPSCD at 10101 E. Canfield,7,Purpose Group Management Agreement (FOIA)
+banks,Brian Roderick Banks,holland,Joseph Holland Jr.,co-resident,record,,,"Same address: 1968 Severn Rd, GPW — co-resident, all entities",9,
+welch,Tonesa Welch,od_banks,OD Banks,family,record,,,BMF network,7,
+wells_stallworth,Nicole Wells-Stallworth,macdowell,MacDowell Preparatory Academy,board_membership,record,Board President,,,9,
+wells_stallworth,Nicole Wells-Stallworth,banks,Brian Roderick Banks,political,corroborated,,,"Received investigation letter, protected Banks",6,
+mde,Michigan Department of Education,banks,Brian Roderick Banks,investigation,record,,,HOLD on permit #590606,7,
+mde,Michigan Department of Education,macdowell,MacDowell Preparatory Academy,investigation,record,,,"Investigated Feb 2022, cleared",7,
+schmiedeknecht,Katie Schmiedeknecht,mde,Michigan Department of Education,employment,record,OEE Analyst,,,5,
+alan_young,Alan C. Young CPA,macdowell,MacDowell Preparatory Academy,financial,record,,,Auditor 9yr (FY17-25),7,
+macdowell,MacDowell Preparatory Academy,banks,Brian Roderick Banks,money_flow,record,,667000,School Admin salary,9,
+sheffield,Mayor Mary Sheffield,bettison,Chief James Bettison,appointment,record,,,Appointed chief,9,
+sheffield,Mayor Mary Sheffield,banks,Brian Roderick Banks,political,corroborated,,,Endorsed,5,
+evans,Warren Evans,banks,Brian Roderick Banks,political,corroborated,,,Endorsed,5,
+sabree_e,sabree e,banks,Brian Roderick Banks,political,corroborated,,,Endorsed,5,
+inner_link,Inner Link Graphics,banks,Brian Roderick Banks,payment,record,,39000,Banks for Senate,7,
+inner_link,Inner Link Graphics,yancey,Judge Tenisha Yancey,payment,record,,8000,Yancey campaign,6,
+mccastle,Gerald McCastle,banks,Brian Roderick Banks,payment,record,,9450,Banks for Senate,6,
+mccastle,Gerald McCastle,gay_dagnogo,Sherry Gay-Dagnogo,payment,record,,1000,Strong Women PAC,4,
+johnson_l,Latisha Johnson,pca,Purpose Charter Academy,board_membership,record,Board Secretary,,,7,
+inner_link,Inner Link Graphics,johnson_l,Latisha Johnson,payment,record,,850,Campaign payment,4,
+bettison,Chief James Bettison,dpsa,Detroit Public Safety Academy,board_membership,record,Board Secretary,,,8,
+bettison,Chief James Bettison,sheffield,Mayor Mary Sheffield,political,record,,,OIG probe — phone call,7,
+fiore,Gerald Fiore,banks,Brian Roderick Banks,corruption,record,,,FBI wiretap: bid-rigging,8,
+spivey,Andre Spivey,fiore,Gerald Fiore,corruption,record,,,Op Northern Hook,7,
+perkins_t,perkins t,banks,Brian Roderick Banks,legal_representation,record,Defense attorney,,,8,
+perkins_t,perkins t,fiore,Gerald Fiore,payment,record,,500,Donated to Fiore,4,
+gay_dagnogo,Sherry Gay-Dagnogo,perkins_t,perkins t,payment,record,,750,Mayor campaign contribution,4,
+stallworth_t,Thomas Stallworth III,wells_stallworth,Nicole Wells-Stallworth,family,record,Married,,,10,
+stallworth_t,Thomas Stallworth III,banks,Brian Roderick Banks,political,record,,,"Defended at rally, $1,250",6,
+moreland,Lisa Moreland,pca,Purpose Charter Academy,board_membership,record,Board Director + litigation attorney,,,8,
+moreland,Lisa Moreland,banks,Brian Roderick Banks,legal_representation,corroborated,,,AAG argued against cert → became his attorney + board member,8,
+miller,Judge Cylenthia Miller,pca,Purpose Charter Academy,board_membership,record,Board Chair,,,9,
+hutchings,D. Hutchings,pca,Purpose Charter Academy,board_membership,record,Board Treasurer,,,7,
+clora,M. Clora,pca,Purpose Charter Academy,board_membership,record,Board Director,,,6,
+dykema,Dykema Gossett,sdj,Save Detroit Jobs,formation,record,,,Formed entity (compliance@dykema.com),8,
+daniels,Kenneth Daniels,sdj,Save Detroit Jobs,governance,record,President + Director,,,8,
+sdj,Save Detroit Jobs,johnson_l,Latisha Johnson,money_flow,record,,,Funded 2021 campaign vs. Elrick,8,
+holland,Joseph Holland Jr.,right_turn,Right Turn Project,governance,record,President + Director,,,7,
+ross,Carlton Ross,right_turn,Right Turn Project,governance,record,Treasurer + Director,,,7,
+banks,Brian Roderick Banks,right_turn,Right Turn Project,governance,record,,,Controlled via email (BBesq06@aol.com),7,
+pacs,Political Action Committees,right_turn,Right Turn Project,money_flow,record,,,PAC transfers,6,
+ross,Carlton Ross,ross_catering,Ross Catering,ownership,record,,,Treasurer + vendor (self-dealing),7,
+pacs,Political Action Committees,ross_catering,Ross Catering,payment,record,,35000,Campaign payments,7,
+larry_thomas,Larry Thomas Jr,inner_link,Inner Link Graphics,ownership,record,Owner + agent,,,8,
+gordon,Jason Gordon,custom_promo,Custom Promotions,ownership,record,,,"Dissolve-and-reform (Inc→LLC, 3 mo)",7,
+custom_promo,Custom Promotions,johnson_l,Latisha Johnson,payment,record,,,Campaign payments,5,
+gordon,Jason Gordon,banks,Brian Roderick Banks,corruption,corroborated,,,UAW bribery network ($3M+),6,
+carol_banks,Carol Banks,eastside_slate,Original Eastside Slate,governance,record,Agent — 4th incarnation,,,7,
+carol_banks,Carol Banks,banks,Brian Roderick Banks,family,record,Sister,,,10,
+leach,W. Spencer Leach,eastside_slate,Original Eastside Slate,governance,record,,,2nd incarnation agent. 13 political entities.,6,
+eastside_slate,Original Eastside Slate,banks,Brian Roderick Banks,political,corroborated,,,Endorsement pipeline,6,
+crump_gibson,Crump-Gibson,great_lakes_legal,Great Lakes Legal Group,ownership,record,Agent + member,,,7,
+crump_gibson,Crump-Gibson,banks,Brian Roderick Banks,legal_representation,record,,,Represents Banks (Discipline Board panelist),7,
+v_hall,V. Hall,banks,Brian Roderick Banks,legal_representation,record,,,Filed PPO against journalist,6,
+v_hall,V. Hall,crump_gibson,Crump-Gibson,family,inference,,,Shared surname Crump — MSU — family?,4,
+banks,Brian Roderick Banks,serenity,"Serenity Guardianship Services, Inc.",ownership,record,,,Sole officer (all 4 roles). Never barred.,7,
+banks,Brian Roderick Banks,anchor_rock,Anchor Rock Foundation,governance,record,Registered agent,,3 assumed names,5,
+cmu,Central Michigan University,macdowell,MacDowell Preparatory Academy,authorization,record,,,Authorized (150 mi away),8,
+dpscd_auth,DPSCD (Authorizer),pca,Purpose Charter Academy,authorization,record,,,Authorized Jul 2025 (3% fee),8,
+emu,Eastern Michigan University,dpsa,Detroit Public Safety Academy,authorization,record,,,Authorized DPSA,7,
+gvsu,Grand Valley State University,nha,National Heritage Academies,authorization,record,,,Authorizes 16+ Detroit NHA schools,8,
+macdowell,MacDowell Preparatory Academy,cmu,Central Michigan University,money_flow,record,,147000,3% auth fee,7,
+pca,Purpose Charter Academy,dpscd_auth,DPSCD (Authorizer),money_flow,record,,81000,3% auth fee,7,
+gay_dagnogo,Sherry Gay-Dagnogo,dpscd_auth,DPSCD (Authorizer),political,record,,,DPSCD board → authorized PCA,7,
+coleman_young,Coleman Young,archer,Dennis Archer,political,record,,,Succeeded 1994,8,
+archer,Dennis Archer,kwame,Kwame Kilpatrick,political,record,,,Succeeded 2002,8,
+kwame,Kwame Kilpatrick,bing,Dave Bing,political,record,,,Succeeded after conviction 2008,8,
+bing,Dave Bing,duggan,Mike Duggan,political,record,,,Succeeded 2014,8,
+duggan,Mike Duggan,sheffield,Mayor Mary Sheffield,political,record,,,Succeeded 2024,8,
+kwame,Kwame Kilpatrick,carolyn_kilpatrick,Carolyn Cheeks Kilpatrick,family,record,Mother,,,10,
+carolyn_kilpatrick,Carolyn Cheeks Kilpatrick,banks,Brian Roderick Banks,political,record,,,CBC honorary host 2023,6,
+kwame,Kwame Kilpatrick,dumas,Karen Dumas,employment,record,Communications chief,,,8,
+dumas,Karen Dumas,banks,Brian Roderick Banks,political,corroborated,,,"PR support, thanked in book",5,
+bing,Dave Bing,dumas,Karen Dumas,employment,record,Communications chief (continued),,,7,
+kwame,Kwame Kilpatrick,daniels,Kenneth Daniels,appointment,record,,,Appointed to Water Board,7,
+gay_dagnogo,Sherry Gay-Dagnogo,kwame,Kwame Kilpatrick,political,record,,,Sought Kilpatrick clemency 2020,5,
+pugh,Charles Pugh,banks,Brian Roderick Banks,referral,corroborated,,,Referred Cotton → sexual harassment,6,
+vaughn,Bishop Corletta Vaughn,pca,Purpose Charter Academy,authorization,record,,,DPSCD Board Pres — authorized charter,8,
+vaughn,Bishop Corletta Vaughn,macdowell,MacDowell Preparatory Academy,authorization,record,,,DPSCD Board Pres — authorized charter,8,
+crump_gibson,Jehan Crump-Gibson,citizendetroit,CitizenDetroit Action Group,board_membership,record,Vice Chair / Chair,,,8,"ProPublica 990, EIN 82-2361291"
+misha_stallworth,Misha Stallworth West,citizendetroit,CitizenDetroit Action Group,board_membership,record,Director,,,8,"ProPublica 990, EIN 82-2361291"
+sheila_cockrel,Sheila Cockrel,citizendetroit,CitizenDetroit Action Group,governance,record,CEO,,,9,"ProPublica 990, EIN 82-2361291"
+archer_jr,Dennis Archer Jr.,citizendetroit,CitizenDetroit Action Group,board_membership,record,Director,,,6,"ProPublica 990, EIN 82-2361291"
+archer_jr,Dennis Archer Jr.,archer,Dennis Archer,family,record,Son,,,10,
+sheila_cockrel,Sheila Cockrel,crump_gibson,Jehan Crump-Gibson,employment,record,,,Employed as Legislative Asst / Policy Analyst (2007-09),7,LinkedIn
+misha_stallworth,Misha Stallworth West,dpscd,Detroit Public Schools Community District,board_membership,record,Board member — authorized charters,,,8,
+misha_stallworth,Misha Stallworth West,wells_stallworth,Nicole Wells-Stallworth,family,inference,,,Stallworth dynasty — family connection,7,
+henri_harmon,Henri O. Harmon,great_lakes_legal,Great Lakes Legal Group PLLC,ownership,record,Partner,,,7,gllegalgroup.com
+v_hall,Verkeydia Hall,chojlf,Crump Hall of Justice Law Firm,ownership,record,Principal,,,7,LARA
+v_hall,Verkeydia Hall,macdowell,MacDowell Preparatory Academy,board_membership,record,Board Director,,,7,macdowellprep.com/board-of-directors/
+misha_stallworth,Misha Stallworth West,macdowell,MacDowell Preparatory Academy,authorization,record,,,DPSCD Board — authorized charter while family on MacDowell board,8,
+crump_gibson,Jehan Crump-Gibson,misha_stallworth,Misha Stallworth West,board_co_membership,record,,,CitizenDetroit board overlap — defense attorney + charter authorizer,9,"ProPublica 990, EIN 82-2361291"
+henri_harmon,Henri O. Harmon,banks,Brian Roderick Banks,institutional_memory,inference,,,BLSA President at MSU Law (2006) — Banks claims MSU Law JD (~2010),5,"gllegalgroup.com, lawyer.com"
+stallworth_t,Thomas Stallworth III,misha_stallworth,Misha Stallworth West,family,inference,,,Stallworth dynasty connection,7,

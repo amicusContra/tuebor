@@ -1,0 +1,362 @@
+{
+  "schema": "ecoPrimals/detroit-entities/v1",
+  "description": "LARA-registered entities in the Banks network. OpenCorporates-compatible structure.",
+  "source": "Michigan LARA MiBusiness Registry Portal",
+  "count": 34,
+  "entities": [
+    {
+      "id": "pca",
+      "name": "Purpose Charter Academy",
+      "short_name": "PCA",
+      "type": "K-8 Charter School",
+      "detail": "K-8, DPSCD authorized. LARA 900072324.",
+      "nexus": [
+        "education"
+      ]
+    },
+    {
+      "id": "macdowell",
+      "name": "MacDowell Preparatory Academy",
+      "short_name": "MacDowell",
+      "type": "K-8 Charter School",
+      "detail": "$4.9M revenue, 3% math. [FOIA: 9yr audits]",
+      "nexus": [
+        "education"
+      ]
+    },
+    {
+      "id": "purpose_group",
+      "name": "The Purpose Group, LLC",
+      "short_name": "Purpose Group",
+      "type": "Charter Management Organization (CMO)",
+      "lara_id": "803295082",
+      "detail": "CMO \u2014 takes 72.67% of revenue. LARA 803295082.",
+      "nexus": [
+        "education"
+      ]
+    },
+    {
+      "id": "purpose_foundation",
+      "name": "Purpose Foundation",
+      "short_name": "",
+      "type": "Private 501(c)(3)",
+      "lara_id": "803294855",
+      "detail": "501(c)(3), 2 felons in all positions. LARA 803294855.",
+      "nexus": [
+        "education"
+      ]
+    },
+    {
+      "id": "banks_strategy",
+      "name": "Banks Strategy & Consultants LLC",
+      "short_name": "Banks Strategy",
+      "type": "Consulting LLC",
+      "lara_id": "802070120",
+      "detail": "Receives judge campaign payments. LARA 802070120.",
+      "nexus": [
+        "education",
+        "political"
+      ]
+    },
+    {
+      "id": "anchor_rock",
+      "name": "Anchor Rock Foundation",
+      "short_name": "Anchor Rock",
+      "type": "Dissolved 501(c)(3)",
+      "lara_id": "802394934",
+      "connection_to_network": "Judge Miller was Board Chair",
+      "detail": "Construction + upfitting (Holland, MI). 3 assumed names. LARA 800770907."
+    },
+    {
+      "id": "serenity",
+      "name": "Serenity Guardianship Services, Inc.",
+      "short_name": "Serenity Guardianship",
+      "type": "Dissolved \u2014 UPL red flag",
+      "lara_id": "802290962",
+      "connection_to_network": "Non-attorney Banks running guardianship services",
+      "detail": "For-profit guardianship. Banks sole officer. Never barred. UPL concern. LARA 802290962.",
+      "nexus": [
+        "education"
+      ]
+    },
+    {
+      "id": "city_hill",
+      "name": "City Hill Church",
+      "short_name": "City Hill",
+      "type": "Religious entity",
+      "lara_id": "802365641",
+      "connection_to_network": "Banks-controlled, same address as all entities"
+    },
+    {
+      "id": "sun_community",
+      "name": "Sun Community Development Corp",
+      "short_name": "Sun Community",
+      "type": "Community development nonprofit",
+      "lara_id": "803232314",
+      "connection_to_network": "Banks-controlled, same address"
+    },
+    {
+      "id": "inner_link",
+      "name": "Inner Link Graphics",
+      "short_name": "Inner Link",
+      "type": "Campaign vendor",
+      "connection_to_network": "$8,025 from Yancey campaign",
+      "detail": "$98,291 from Banks-connected committees",
+      "nexus": [
+        "political"
+      ]
+    },
+    {
+      "id": "pacs",
+      "name": "Political Action Committees",
+      "short_name": "PACs",
+      "type": "Campaign finance vehicles",
+      "connection_to_network": "Holland (convicted drug offender) as PAC treasurer",
+      "detail": "$14.5K+ fines, felon treasurer",
+      "nexus": [
+        "political"
+      ]
+    },
+    {
+      "id": "escuela_avancemos",
+      "name": "Escuela Avancemos",
+      "short_name": "Escuela Avancemos",
+      "type": "Charter school",
+      "connection_to_network": "Source of Daily Substitute Permit held by MacDowell 3rd-grade teacher"
+    },
+    {
+      "id": "chandler_park",
+      "name": "Chandler Park Academy",
+      "short_name": "Chandler Park",
+      "type": "Charter school",
+      "connection_to_network": "Source of Daily Substitute Permit held by MacDowell 5th-grade teacher"
+    },
+    {
+      "id": "dpscd",
+      "name": "Detroit Public Schools Community District",
+      "short_name": "DPSCD",
+      "type": "Authorizer",
+      "connection_to_network": "Authorized PCA despite operator's bottom-3% record at MacDowell"
+    },
+    {
+      "id": "dpsa",
+      "name": "Detroit Public Safety Academy",
+      "short_name": "DPSA",
+      "type": "Charter school",
+      "detail": "Charter school \u2014 police chief on the board.",
+      "nexus": [
+        "weaponization",
+        "education"
+      ]
+    },
+    {
+      "id": "sdj",
+      "name": "Save Detroit Jobs",
+      "short_name": "SDJ",
+      "type": "Dark money vehicle",
+      "lara_id": "802002459",
+      "detail": "3 names: SDJ (2016) + Impact Detroit (2018) + Detroit Leaders (2021). LARA 802002459.",
+      "nexus": [
+        "political"
+      ]
+    },
+    {
+      "id": "dykema",
+      "name": "Dykema Gossett",
+      "short_name": "Dykema",
+      "type": "Law firm",
+      "detail": "MI's largest law firm. Formed SDJ. compliance@dykema.com. 201 Townsend, Lansing.",
+      "nexus": [
+        "political"
+      ]
+    },
+    {
+      "id": "right_turn",
+      "name": "Right Turn Project",
+      "short_name": "Right Turn",
+      "type": "Dissolved nonprofit",
+      "lara_id": "800936257",
+      "detail": "Nonprofit. Dissolved 12/2021 (annual report failure). Holland = Pres. LARA 800936257.",
+      "nexus": [
+        "political"
+      ]
+    },
+    {
+      "id": "ross_catering",
+      "name": "Ross Catering",
+      "short_name": "Ross Catering",
+      "type": "Campaign vendor",
+      "detail": "$35K+ from Banks campaigns. Ross = Right Turn treasurer + catering vendor. Self-dealing.",
+      "nexus": [
+        "political"
+      ]
+    },
+    {
+      "id": "custom_promo",
+      "name": "Custom Promotions",
+      "short_name": "Custom Promo",
+      "type": "Campaign vendor (dissolve-reform)",
+      "detail": "Dissolve-and-reform (Inc \u2192 LLC, 3 months). Gordon = attorney under FBI investigation.",
+      "nexus": [
+        "political"
+      ]
+    },
+    {
+      "id": "eastside_slate",
+      "name": "Original Eastside Slate",
+      "short_name": "Eastside Slate",
+      "type": "Endorsement PAC",
+      "lara_id": "802434498",
+      "detail": "4th incarnation. Carol Banks = agent. Endorsement machine. LARA 802434498.",
+      "nexus": [
+        "political"
+      ]
+    },
+    {
+      "id": "great_lakes_legal",
+      "name": "Great Lakes Legal Group PLLC",
+      "short_name": "GLLG",
+      "type": "Law firm",
+      "lara_id": "802112914",
+      "detail": "Crump-Gibson (agent), Alcendor, Harmon. LARA 802112914. ADB panelist = Banks attorney. One Towne Square, Suite 1835, Southfield MI.",
+      "nexus": [
+        "education"
+      ],
+      "decomposition": {
+        "point": "LARA 802112914, filed 08/29/2017",
+        "wave": "Legal representation pipeline: ADB panelist → defense counsel → Crump family name on school board",
+        "reaction": "Scope limitation within 24 hours of engagement"
+      }
+    },
+    {
+      "id": "citizendetroit",
+      "name": "CitizenDetroit Action Group",
+      "short_name": "CitizenDetroit",
+      "type": "501(c)(3) nonprofit",
+      "ein": "82-2361291",
+      "detail": "EIN 82-2361291. 'Empowers Detroiters to be critically engaged in civic life.' Board connects defense attorney (Crump-Gibson) to charter authorizer (Misha Stallworth) under CEO who employed the attorney in government (Cockrel). Also: Archer Jr. (mayor dynasty).",
+      "nexus": [
+        "political",
+        "education"
+      ],
+      "decomposition": {
+        "point": "EIN 82-2361291, ProPublica 990",
+        "wave": "Board convergence: attorney + authorizer + former employer + mayoral dynasty",
+        "reaction": "Professional network overlap between Banks' defense and Banks' charter authorization"
+      }
+    },
+    {
+      "id": "chojlf",
+      "name": "Crump Hall of Justice Law Firm",
+      "short_name": "CHOJLF",
+      "type": "Law firm",
+      "detail": "Verkeydia Hall's firm. Crump maiden name on the door. Filed PPO against journalist. Also represents Banks.",
+      "nexus": [
+        "education"
+      ]
+    },
+    {
+      "id": "gvsu",
+      "name": "Grand Valley State University",
+      "short_name": "GVSU",
+      "type": "Charter authorizer",
+      "detail": "Largest Detroit charter authorizer. ~25-35 schools. 78 statewide. Grand Rapids.",
+      "nexus": [
+        "education"
+      ]
+    },
+    {
+      "id": "cmu",
+      "name": "Central Michigan University",
+      "short_name": "CMU",
+      "type": "Charter authorizer",
+      "detail": "Authorized MacDowell. ~9 Detroit schools. Mt. Pleasant (150 mi).",
+      "nexus": [
+        "education"
+      ]
+    },
+    {
+      "id": "emu",
+      "name": "Eastern Michigan University",
+      "short_name": "EMU",
+      "type": "Charter authorizer",
+      "detail": "Authorized DPSA (Bettison on board). Ypsilanti.",
+      "nexus": [
+        "education",
+        "weaponization"
+      ]
+    },
+    {
+      "id": "dpscd_auth",
+      "name": "DPSCD (Authorizer)",
+      "short_name": "DPSCD Auth",
+      "type": "Charter authorizer",
+      "detail": "Detroit Public Schools Community District. Authorized PCA (2025). 7 charter schools. Collects 3% fee.",
+      "nexus": [
+        "education"
+      ]
+    },
+    {
+      "id": "nha",
+      "name": "National Heritage Academies",
+      "short_name": "NHA",
+      "type": "For-profit CMO",
+      "lara_id": "800516703",
+      "detail": "For-profit CMO. 16 Detroit schools. 103 schools in 9 states. Grand Rapids HQ. $1B+ revenue.",
+      "nexus": [
+        "education"
+      ]
+    },
+    {
+      "id": "mde",
+      "name": "Michigan Department of Education",
+      "short_name": "MDE",
+      "type": "State agency",
+      "detail": "Investigated Banks Feb 2022 for no credential. Cleared. [FOIA]",
+      "nexus": [
+        "education"
+      ]
+    },
+    {
+      "id": "clutch_justice",
+      "name": "Clutch Justice",
+      "short_name": "Clutch Justice",
+      "type": "Independent investigative journalism platform",
+      "detail": "Primary Analytical Reference. Independent investigation validated network patterns.",
+      "nexus": [
+        "cross_protection"
+      ]
+    },
+    {
+      "id": "barry_county",
+      "name": "Barry County Circuit Court",
+      "short_name": "Barry County",
+      "type": "Circuit Court",
+      "detail": "Judge Schipper. Docket backdating, manufactured PPO violations, evidence fabrication.",
+      "nexus": [
+        "cross_protection"
+      ]
+    },
+    {
+      "id": "jtc",
+      "name": "Michigan Judicial Tenure Commission",
+      "short_name": "JTC",
+      "type": "State oversight body",
+      "detail": "Complaints filed re: Miller, Yancey. Now reviewing Schipper. Same commission \u2014 systemic pattern.",
+      "nexus": [
+        "cross_protection",
+        "oversight"
+      ]
+    },
+    {
+      "id": "detroit_graph",
+      "name": "detroit.primals.eco institutional capture graph",
+      "short_name": "detroit graph",
+      "type": "Evidence graph",
+      "detail": "This graph itself. Cross-protection anchor node.",
+      "nexus": [
+        "cross_protection"
+      ]
+    }
+  ]
+}

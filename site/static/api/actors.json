@@ -1,0 +1,822 @@
+{
+  "schema": "ecoPrimals/detroit-actors/v1",
+  "description": "Key actors in the Detroit charter school investigation \u2014 convicted felons, judges, political operatives.",
+  "count": 62,
+  "actors": [
+    {
+      "id": "banks",
+      "name": "Brian Roderick Banks",
+      "short_name": "Banks",
+      "role": "Enterprise leader",
+      "tier": 1,
+      "sid": "2029469K",
+      "conviction_count": 9,
+      "convictions": "9 convictions (6 felony, 3 misdemeanor)",
+      "profile_url": "https://detroit.primals.eco/network/actors/brian-banks/",
+      "nexus": [
+        "education",
+        "political",
+        "enforcement",
+        "weaponization",
+        "legislative"
+      ],
+      "detail": "9 convictions (6 felony, 3 misd.)"
+    },
+    {
+      "id": "holland",
+      "name": "Joseph Holland Jr.",
+      "short_name": "Holland",
+      "role": "Financial gatekeeper",
+      "tier": 1,
+      "sid": "2321035P",
+      "profile_url": "https://detroit.primals.eco/network/actors/joseph-holland/",
+      "nexus": [
+        "education",
+        "political"
+      ],
+      "detail": "Drug offender, MDOC #443789"
+    },
+    {
+      "id": "miller",
+      "name": "Judge Cylenthia Miller",
+      "short_name": "Miller",
+      "role": "Judicial cover",
+      "tier": 2,
+      "connection": "Board Chair of Anchor Rock Foundation (Banks entity)",
+      "court": "Wayne County 3rd Circuit Court",
+      "profile_url": "https://detroit.primals.eco/network/judges/cylenthia-miller/",
+      "nexus": [
+        "education"
+      ],
+      "detail": "Board Chair, Anchor Rock Foundation"
+    },
+    {
+      "id": "yancey",
+      "name": "Judge Tenisha Yancey",
+      "short_name": "Yancey",
+      "role": "Judicial cover",
+      "tier": 2,
+      "connection": "Campaign paid $383.82 to Banks Strategy & Consultants LLC (2024)",
+      "court": "36th District Court",
+      "profile_url": "https://detroit.primals.eco/network/judges/tenisha-yancey/",
+      "nexus": [
+        "education",
+        "political"
+      ],
+      "detail": "Campaign paid $383.82 to Banks Strategy (sole expenditure)"
+    },
+    {
+      "id": "sabree",
+      "name": "Judge Aliyah Sabree",
+      "short_name": "A. Sabree",
+      "role": "Judicial cover",
+      "tier": 2,
+      "connection": "MSU Law classmate (2010) \u2014 same year as Banks' claimed J.D.",
+      "court": "Wayne County 3rd Circuit Court",
+      "profile_url": "https://detroit.primals.eco/network/judges/aliyah-sabree/",
+      "nexus": [
+        "education"
+      ],
+      "detail": "MSU Law classmate (2010)"
+    },
+    {
+      "id": "perkins_david",
+      "name": "Judge David Perkins",
+      "short_name": "D. Perkins",
+      "role": "Judicial cover",
+      "tier": 2,
+      "connection": "Family donated to Banks-aligned campaigns; Probate overlaps guardianship entity",
+      "court": "Wayne County Probate Court",
+      "profile_url": "https://detroit.primals.eco/network/judges/david-perkins/",
+      "nexus": [
+        "education"
+      ],
+      "detail": "Family donations, Probate overlap"
+    },
+    {
+      "id": "adam_sabree",
+      "name": "Judge Adam Sabree",
+      "short_name": "A. Sabree",
+      "role": "Judicial cover",
+      "tier": 2,
+      "connection": "Son of Eric Sabree (FBI-probed Wayne County Treasurer). Former in-house counsel for RICO-accused Metro Property Group.",
+      "court": "36th District Court",
+      "profile_url": "https://detroit.primals.eco/network/judges/adam-sabree/",
+      "nexus": [
+        "education"
+      ],
+      "detail": "Son of Eric Sabree. Former RICO-accused counsel."
+    },
+    {
+      "id": "sean_perkins",
+      "name": "Judge Sean Perkins",
+      "short_name": "S. Perkins",
+      "role": "Judicial cover",
+      "tier": 2,
+      "connection": "Brother of Todd Perkins (Banks' attorney). Worked at Todd's Perkins Law Group before bench.",
+      "court": "36th District Court",
+      "profile_url": "https://detroit.primals.eco/network/judges/sean-perkins/",
+      "nexus": [
+        "education"
+      ],
+      "detail": "Brother of Todd Perkins (Banks attorney)"
+    },
+    {
+      "id": "kelly_ramsey",
+      "name": "Judge Kelly Ramsey",
+      "short_name": "Ramsey",
+      "role": "Judicial cover",
+      "tier": 2,
+      "connection": "Daughter pushed Banks to Promise Schools. Two family members on MacDowell payroll.",
+      "court": "Wayne County 3rd Circuit Court \u2014 Criminal Division",
+      "profile_url": "https://detroit.primals.eco/network/judges/kelly-ramsey/",
+      "nexus": [
+        "education"
+      ],
+      "detail": "2 family members on MacDowell payroll"
+    },
+    {
+      "id": "vonda_evans",
+      "name": "Judge Vonda Evans (Retired)",
+      "short_name": "Evans",
+      "role": "Judicial cover \u2014 mentor",
+      "tier": 2,
+      "connection": "21-year Banks mentor. Endorsed him despite criminal record. Retired to avoid JTC suspension.",
+      "court": "Wayne County 3rd Circuit Court (retired)",
+      "profile_url": "https://detroit.primals.eco/network/judges/vonda-evans/",
+      "nexus": [
+        "education"
+      ],
+      "detail": "21-year Banks mentor. Retired to avoid JTC suspension."
+    },
+    {
+      "id": "langford_morris",
+      "name": "Judge Denise Langford Morris (Retired)",
+      "short_name": "Langford Morris",
+      "role": "Judicial cover \u2014 credential legitimizer",
+      "tier": 2,
+      "connection": "Wrote foreword for Banks' book using his fake J.D. credential.",
+      "court": "Oakland County Circuit Court (retired, now JAMS)",
+      "profile_url": "https://detroit.primals.eco/network/judges/denise-langford-morris/",
+      "nexus": [
+        "education"
+      ],
+      "detail": "Wrote book foreword using Banks fake J.D."
+    },
+    {
+      "id": "todd_perkins",
+      "name": "Todd Perkins",
+      "short_name": "T. Perkins",
+      "role": "Professional enabler \u2014 attorney",
+      "tier": 4,
+      "connection": "Banks' personal attorney. Represented Judge Miller in gun case. Brother is Judge Sean Perkins.",
+      "profile_url": "https://detroit.primals.eco/network/professional-enablers/todd-perkins/",
+      "nexus": [
+        "enforcement",
+        "political"
+      ],
+      "detail": "Banks attorney. Repped 2 Op Northern Hook targets. Ran for mayor."
+    },
+    {
+      "id": "gay_dagnogo",
+      "name": "Sherry Gay-Dagnogo",
+      "short_name": "Gay-Dagnogo",
+      "role": "Political enabler \u2014 charter authorizer",
+      "tier": 3,
+      "connection": "DPSCD board member who authorized Banks' charter schools.",
+      "profile_url": "https://detroit.primals.eco/network/political/sherry-gay-dagnogo/",
+      "nexus": [
+        "political",
+        "education"
+      ],
+      "detail": "DPSCD Board, succeeded Banks in HD-1"
+    },
+    {
+      "id": "mckinney",
+      "name": "Billy McKinney",
+      "short_name": "McKinney",
+      "role": "Political enabler \u2014 campaign operative",
+      "tier": 3,
+      "connection": "Campaign paid Darryl Banks Jr. $4,483 \u2014 linking McKinney to extended Banks family.",
+      "profile_url": "https://detroit.primals.eco/network/political/billy-mckinney/",
+      "nexus": [
+        "political"
+      ],
+      "detail": "$4,483 campaign \u2192 extended Banks family"
+    },
+    {
+      "id": "eric_sabree",
+      "name": "Eric Sabree",
+      "short_name": "E. Sabree",
+      "role": "Political enabler \u2014 family dynasty",
+      "tier": 3,
+      "connection": "Father of Judge Aliyah Sabree + Judge Adam Sabree. FBI-probed 2019. Bowles v. Sabree class action.",
+      "profile_url": "https://detroit.primals.eco/network/political/eric-sabree/",
+      "nexus": [
+        "political"
+      ],
+      "detail": "Wayne County Treasurer. Endorsed Banks."
+    },
+    {
+      "id": "od_banks",
+      "name": "OD Banks",
+      "short_name": "OD Banks",
+      "role": "BMF Defendant #22",
+      "tier": 5,
+      "nexus": [],
+      "detail": "BMF Defendant #22, Banks' father"
+    },
+    {
+      "id": "welch",
+      "name": "Tonesa Welch",
+      "short_name": "Welch",
+      "role": "BMF figure",
+      "tier": 5,
+      "nexus": [],
+      "detail": "BMF figure, Banks' aunt"
+    },
+    {
+      "id": "wells_stallworth",
+      "name": "Nicole Wells-Stallworth",
+      "short_name": "Wells-Stallworth",
+      "role": "Board President",
+      "tier": 3,
+      "nexus": [
+        "education",
+        "legislative"
+      ],
+      "detail": "Board President since 2014. Received MDE investigation letter Feb 2022. [FOIA]"
+    },
+    {
+      "id": "schmiedeknecht",
+      "name": "Katie Schmiedeknecht",
+      "short_name": "Schmiedeknecht",
+      "role": "MDE Analyst",
+      "tier": 4,
+      "profile_url": "https://detroit.primals.eco/actors/katie-schmiedeknecht/",
+      "nexus": [
+        "education"
+      ],
+      "detail": "MDE Analyst \u2014 sent investigation letter, then cleared. [FOIA]"
+    },
+    {
+      "id": "alan_young",
+      "name": "Alan C. Young CPA",
+      "short_name": "Alan Young",
+      "role": "Auditor",
+      "tier": 4,
+      "nexus": [
+        "education"
+      ],
+      "detail": "Auditor FY2017-2025, 9 consecutive years. No material findings. [FOIA]"
+    },
+    {
+      "id": "sheffield",
+      "name": "Mayor Mary Sheffield",
+      "short_name": "Sheffield",
+      "role": "Mayor",
+      "tier": 2,
+      "nexus": [
+        "political",
+        "weaponization"
+      ],
+      "detail": "City Council President \u2192 Mayor. OIG probe re: Bettison call."
+    },
+    {
+      "id": "evans",
+      "name": "Warren Evans",
+      "short_name": "W. Evans",
+      "role": "Wayne County Executive",
+      "tier": 3,
+      "nexus": [
+        "political"
+      ],
+      "detail": "Wayne County Executive. Endorsed Banks."
+    },
+    {
+      "id": "mccastle",
+      "name": "Gerald McCastle",
+      "short_name": "McCastle",
+      "role": "Campaign operative",
+      "tier": 4,
+      "nexus": [
+        "political"
+      ],
+      "detail": "$20,410 across 5 committees. Bridges Banks to Gay-Dagnogo."
+    },
+    {
+      "id": "bettison",
+      "name": "Chief James Bettison",
+      "short_name": "Bettison",
+      "role": "DPD Chief + DPSA Board",
+      "tier": 2,
+      "nexus": [
+        "weaponization",
+        "education"
+      ],
+      "detail": "DPD Chief + DPSA Board Secretary. OIG investigation Sep 2026."
+    },
+    {
+      "id": "fiore",
+      "name": "Gerald Fiore",
+      "short_name": "Fiore",
+      "role": "Convicted bribery",
+      "tier": 2,
+      "nexus": [
+        "enforcement",
+        "political"
+      ],
+      "detail": "Convicted bribery. FBI wiretap: 'bid-rigging with Banks'"
+    },
+    {
+      "id": "spivey",
+      "name": "Andre Spivey",
+      "short_name": "Spivey",
+      "role": "Convicted council member",
+      "tier": 3,
+      "nexus": [
+        "enforcement",
+        "political"
+      ],
+      "detail": "Convicted (24 mo). Op Northern Hook. Warned targets."
+    },
+    {
+      "id": "stallworth_t",
+      "name": "Thomas Stallworth III",
+      "short_name": "T. Stallworth",
+      "role": "Former State Rep",
+      "tier": 3,
+      "nexus": [
+        "legislative"
+      ],
+      "detail": "Former State Rep. Nicole's husband. Defended Banks at felony rally."
+    },
+    {
+      "id": "moreland",
+      "name": "Lisa Moreland",
+      "short_name": "Moreland",
+      "role": "AAG \u2192 PCA Board Director",
+      "tier": 2,
+      "nexus": [
+        "education",
+        "legislative"
+      ],
+      "detail": "AAG \u2192 PCA Board Director + Banks litigation attorney. MRPC 1.7 conflict."
+    },
+    {
+      "id": "johnson_l",
+      "name": "Latisha Johnson",
+      "short_name": "L. Johnson",
+      "role": "City Council D2 + PCA Board",
+      "tier": 3,
+      "nexus": [
+        "political",
+        "education"
+      ],
+      "detail": "City Council D2. PCA Board Secretary. Campaign funded by SDJ/Detroit Leaders."
+    },
+    {
+      "id": "carol_banks",
+      "name": "Carol Banks",
+      "short_name": "C. Banks",
+      "role": "Political operative",
+      "tier": 3,
+      "nexus": [
+        "political"
+      ],
+      "detail": "Brian's sister. Controls Original Eastside Slate. Former CoS to Benson. FBI target."
+    },
+    {
+      "id": "leach",
+      "name": "W. Spencer Leach",
+      "short_name": "Leach",
+      "role": "Machine builder",
+      "tier": 3,
+      "nexus": [
+        "political"
+      ],
+      "detail": "13 political entities. Batch-filed 3 on same day (consecutive LARA IDs). Machine builder."
+    },
+    {
+      "id": "ross",
+      "name": "Carlton Ross",
+      "short_name": "Ross",
+      "role": "Right Turn Treasurer",
+      "tier": 2,
+      "nexus": [
+        "political"
+      ],
+      "detail": "Right Turn Project Treasurer + connected to Ross Catering ($35K+ from PACs). Self-dealing loop."
+    },
+    {
+      "id": "gordon",
+      "name": "Jason Gordon",
+      "short_name": "Gordon",
+      "role": "Attorney",
+      "tier": 2,
+      "nexus": [
+        "political"
+      ],
+      "detail": "Attorney. Custom Promotions + Deen Legal. FBI/IRS/DoL investigated (UAW bribery). 20+ entities."
+    },
+    {
+      "id": "larry_thomas",
+      "name": "Larry Thomas Jr",
+      "short_name": "L. Thomas",
+      "role": "Inner Link Graphics owner",
+      "tier": 2,
+      "nexus": [
+        "political"
+      ],
+      "detail": "Inner Link Graphics owner. Also runs obituaries4less.com. $98K from 5 committees."
+    },
+    {
+      "id": "daniels",
+      "name": "Kenneth Daniels",
+      "short_name": "Daniels",
+      "role": "SDJ President",
+      "tier": 3,
+      "nexus": [
+        "political",
+        "enforcement"
+      ],
+      "detail": "SDJ/Detroit Leaders President. Kwame appointee. Fed conviction: structured $19K for drug kingpin."
+    },
+    {
+      "id": "crump_gibson",
+      "name": "Jehan Crump-Gibson",
+      "short_name": "Crump-Gibson",
+      "role": "Attorney — Banks defense + ADB Panelist",
+      "tier": 2,
+      "nexus": [
+        "education",
+        "political"
+      ],
+      "detail": "GLLG Managing Partner. ADB Hearing Panelist (May 2017). CitizenDetroit Chair. Worked for Sheila Cockrel (2007-09). Gary Peters Judicial Advisory. Scope-limited within 24 hours. Believed aligned until evidence indicates otherwise.",
+      "decomposition": {
+        "point": "GLLG Managing Partner + ADB Hearing Panelist + CitizenDetroit Chair",
+        "wave": "Government employment → nonprofit governance → legal representation",
+        "reaction": "Scope limitation within 24 hours — ethical line drawn"
+      }
+    },
+    {
+      "id": "v_hall",
+      "name": "Verkeydia Hall",
+      "short_name": "V. Hall",
+      "role": "Attorney — MacDowell Board + CHOJLF",
+      "tier": 2,
+      "nexus": [
+        "education"
+      ],
+      "detail": "Crump Hall of Justice Law Firm. MacDowell Board Director. Filed PPO against journalist. Maiden name = Crump (crumpver@msu.edu). MSU.",
+      "decomposition": {
+        "point": "CHOJLF + MacDowell Board Director",
+        "wave": "Family placement: Crump surname on firm + school board",
+        "reaction": "PPO filed against journalist investigating Banks"
+      }
+    },
+    {
+      "id": "misha_stallworth",
+      "name": "Misha Stallworth West",
+      "short_name": "M. Stallworth",
+      "role": "DPSCD Board + CitizenDetroit Director",
+      "tier": 2,
+      "nexus": [
+        "education",
+        "political"
+      ],
+      "detail": "DPSCD Board member — authorized MacDowell charter. CitizenDetroit Action Group Director. Stallworth dynasty: Keith (fed conviction) → Thomas III (State Rep) → Nicole (MacDowell Board President) → Misha (DPSCD Board, charter authorizer).",
+      "decomposition": {
+        "point": "DPSCD Board + CitizenDetroit Director",
+        "wave": "Dynasty authorization: family installs, she authorizes",
+        "reaction": "Charter granted to operator with 9 convictions"
+      }
+    },
+    {
+      "id": "henri_harmon",
+      "name": "Henri O. Harmon",
+      "short_name": "Harmon",
+      "role": "GLLG Partner — MSU Law BLSA President",
+      "tier": 3,
+      "nexus": [
+        "education"
+      ],
+      "detail": "GLLG Partner. MSU Law 2006 cum laude. BLSA President + Wolverine Student Bar President (2005-06). Banks claims MSU Law JD ~2010 cohort — same institutional memory.",
+      "decomposition": {
+        "point": "GLLG Partner + MSU Law BLSA '06",
+        "wave": "Institutional memory: BLSA network at Banks' claimed law school",
+        "reaction": "Retained as partner at firm defending Banks"
+      }
+    },
+    {
+      "id": "sheila_cockrel",
+      "name": "Sheila Cockrel",
+      "short_name": "Cockrel",
+      "role": "CitizenDetroit CEO — former Council",
+      "tier": 3,
+      "nexus": [
+        "political"
+      ],
+      "detail": "CitizenDetroit Action Group CEO. Former Detroit City Council member. Employed Crump-Gibson as Legislative Assistant (2007-09). Entity connects attorney to charter authorizer.",
+      "decomposition": {
+        "point": "CitizenDetroit CEO + former City Council",
+        "wave": "Employment pipeline: hired Jehan → leads board with both Jehan and Misha",
+        "reaction": "Entity connects attorney to authorizer"
+      }
+    },
+    {
+      "id": "archer_jr",
+      "name": "Dennis Archer Jr.",
+      "short_name": "Archer Jr.",
+      "role": "CitizenDetroit Director — dynasty",
+      "tier": 4,
+      "nexus": [
+        "political"
+      ],
+      "detail": "CitizenDetroit Action Group Director. Son of former Mayor Dennis Archer. Dynastic political infrastructure.",
+      "decomposition": {
+        "point": "CitizenDetroit Director",
+        "wave": "Mayoral dynasty: father was Mayor 1994-2001",
+        "reaction": "Board membership connects mayoral dynasty to charter network"
+      }
+    },
+    {
+      "id": "hutchings",
+      "name": "D. Hutchings",
+      "short_name": "Hutchings",
+      "role": "PCA Board Treasurer",
+      "tier": 3,
+      "nexus": [
+        "education"
+      ],
+      "detail": "PCA Board Treasurer. DB Strategies + DB Athletics (Ypsilanti). Not from Detroit."
+    },
+    {
+      "id": "clora",
+      "name": "M. Clora",
+      "short_name": "Clora",
+      "role": "PCA Board Director",
+      "tier": 3,
+      "nexus": [
+        "education"
+      ],
+      "detail": "PCA Board Director. Former American Motor Coach Inc (dissolved)."
+    },
+    {
+      "id": "coleman_young",
+      "name": "Coleman Young",
+      "short_name": "C. Young",
+      "role": "Mayor 1974-1993",
+      "tier": 5,
+      "nexus": [
+        "political"
+      ],
+      "detail": "Mayor 1974-1993. First Black mayor. Built the original political machine."
+    },
+    {
+      "id": "archer",
+      "name": "Dennis Archer",
+      "short_name": "Archer",
+      "role": "Mayor 1994-2001",
+      "tier": 5,
+      "nexus": [
+        "political"
+      ],
+      "detail": "Mayor 1994-2001. MI Supreme Court \u2192 mayor. Transition era."
+    },
+    {
+      "id": "kwame",
+      "name": "Kwame Kilpatrick",
+      "short_name": "Kilpatrick",
+      "role": "Mayor 2002-2008",
+      "tier": 2,
+      "profile_url": "https://detroit.primals.eco/network/political/kilpatrick-dynasty/",
+      "nexus": [
+        "political",
+        "enforcement"
+      ],
+      "detail": "24 federal RICO felonies. Mayor 2002-2008. 28yr sentence, commuted by Trump Jan 2021."
+    },
+    {
+      "id": "bing",
+      "name": "Dave Bing",
+      "short_name": "Bing",
+      "role": "Mayor 2009-2013",
+      "tier": 5,
+      "nexus": [
+        "political"
+      ],
+      "detail": "Mayor 2009-2013. Emergency manager era. Dumas was his comms chief."
+    },
+    {
+      "id": "duggan",
+      "name": "Mike Duggan",
+      "short_name": "Duggan",
+      "role": "Mayor 2014-2025",
+      "tier": 4,
+      "nexus": [
+        "political"
+      ],
+      "detail": "Mayor 2014-2025. First white mayor since 1974."
+    },
+    {
+      "id": "carolyn_kilpatrick",
+      "name": "Carolyn Cheeks Kilpatrick",
+      "short_name": "C.C. Kilpatrick",
+      "role": "Former Congresswoman",
+      "tier": 3,
+      "nexus": [
+        "political"
+      ],
+      "detail": "Former Congresswoman (1997-2011). Kwame's mother. Banks' 2023 CBC honorary host. Died Oct 2025."
+    },
+    {
+      "id": "dumas",
+      "name": "Karen Dumas",
+      "short_name": "Dumas",
+      "role": "Communications chief",
+      "tier": 3,
+      "nexus": [
+        "political"
+      ],
+      "detail": "Kwame's comms chief \u2192 Bing's comms chief \u2192 Banks PR supporter. Images & Ideas Inc."
+    },
+    {
+      "id": "pugh",
+      "name": "Charles Pugh",
+      "short_name": "Pugh",
+      "role": "Former City Council President",
+      "tier": 3,
+      "nexus": [
+        "political",
+        "enforcement"
+      ],
+      "detail": "City Council President 2009-2013. Convicted CSC with minor. Referred Cotton to Banks."
+    },
+    {
+      "id": "vaughn",
+      "name": "Bishop Corletta Vaughn",
+      "short_name": "Bp. Vaughn",
+      "role": "DPSCD Board President",
+      "tier": 3,
+      "nexus": [
+        "education",
+        "political"
+      ],
+      "detail": "DPSCD Board President. Authorized PCA + MacDowell charters. Disqualified 2026 ($950 Wayne Co)."
+    },
+    {
+      "id": "jennifer_crump",
+      "name": "Jennifer Crump",
+      "short_name": "J. Crump",
+      "role": "MacDowell Office Manager",
+      "tier": 4,
+      "nexus": [
+        "education"
+      ],
+      "detail": "Office Manager, MacDowell. DPSCD Instructional Specialist since 1992 (33yr). Crump surname — dynasty signal unconfirmed.",
+      "decomposition": {
+        "point": "MacDowell staff + DPSCD 33yr employee",
+        "wave": "Authorization breach: authorizer staff at authorized school. Dynasty?: Crump surname.",
+        "reaction": "Controls daily operations. Sits on both sides of the authorization membrane."
+      }
+    },
+    {
+      "id": "jason_perry_pca",
+      "name": "Jason Perry",
+      "short_name": "J. Perry",
+      "role": "PCA Staff (unverified role)",
+      "tier": 4,
+      "nexus": [
+        "education"
+      ],
+      "detail": "Reported by parent at PCA. Blocking parental access. Zero OSINT return. Ghost node — convergence = 0.",
+      "decomposition": {
+        "point": "UNDEFINED — not in any database",
+        "wave": "UNDETECTABLE — no cross-reference possible",
+        "reaction": "OBSERVED — physically blocking parent with custody order"
+      }
+    },
+    {
+      "id": "beasley",
+      "name": "Dr. Chalena Beasley",
+      "short_name": "Beasley",
+      "role": "PCA School Leader",
+      "tier": 3,
+      "nexus": [
+        "education"
+      ],
+      "detail": "Founding School Leader, PCA. PhD Wayne State. 29yr DPSCD veteran. Principal at Bunche Prep (DPSCD). National Board Certified. Most credentialed person in enterprise.",
+      "decomposition": {
+        "point": "PhD + NBCT + 29yr DPSCD career",
+        "wave": "Legitimacy transfer: DPSCD career provides credibility cover for credentialless enterprise",
+        "reaction": "Recruited from retirement. Her credentials mask the credential void beneath."
+      }
+    },
+    {
+      "id": "cameron_coleman",
+      "name": "Cameron Coleman",
+      "short_name": "Coleman",
+      "role": "Dean of Scholars + Culture, MacDowell",
+      "tier": 4,
+      "nexus": [
+        "education"
+      ],
+      "detail": "LinkedIn lists employer as DPSCD (Dean of Culture since Nov 2021). Also Dean at MacDowell. Teaching cert expired 6/30/2026. No admin cert.",
+      "decomposition": {
+        "point": "DPSCD employee + MacDowell Dean",
+        "wave": "Institutional capture: authorizer staff at authorized school",
+        "reaction": "Dual employment across authorization membrane. Expired credential."
+      }
+    },
+    {
+      "id": "chalcee_norwood",
+      "name": "Chalcee Norwood",
+      "short_name": "Norwood",
+      "role": "Dean of Operations + 8th Grade Teacher, MacDowell",
+      "tier": 4,
+      "nexus": [
+        "education"
+      ],
+      "detail": "BS Tourism/Event Planning, Bowling Green. NOT in MOECS (91 Norwood results, zero match). LinkedIn says Cornerstone Education Group. Event planning LLC on side.",
+      "decomposition": {
+        "point": "Zero discoverable credentials. Tourism degree.",
+        "wave": "Credential void: teaching + managing school without state credentials",
+        "reaction": "90.9% disadvantaged students under uncredentialed leadership"
+      }
+    },
+    {
+      "id": "wilk",
+      "name": "W. Alan Wilk",
+      "short_name": "Wilk",
+      "role": "Dark money architect (Dykema)",
+      "tier": 2,
+      "nexus": [
+        "political",
+        "legislative"
+      ],
+      "detail": "Dykema Member, Team Leader Political Compliance. Incorporator of 7 dark money vehicles: SDJ, ONF, DJF, RFFW, TAWC PAC, Put Progress First, Michigan First Principles. RNLA member. Duggan campaign lawyer. Chatfield/Snyder dark money ops. Phone: 517-374-9122. Email: wawilk@dykema.com.",
+      "decomposition": {
+        "point": "One attorney. Seven dark money vehicles. Both parties.",
+        "wave": "Bipartisan dark money infrastructure — the operating system",
+        "reaction": "SDJ spent $84K electing Johnson to PCA board. The architect built the pathway."
+      }
+    },
+    {
+      "id": "renae_moore",
+      "name": "Renae Moore",
+      "short_name": "Moore",
+      "role": "Compliance officer (Dykema)",
+      "tier": 3,
+      "nexus": [
+        "political"
+      ],
+      "detail": "Dykema Senior Compliance Specialist. SDJ Asst Secretary. ONF compliance. DJF compliance. RFFW LLC Treasurer. Turn Around Wayne County PAC record keeper. Duggan campaign compliance. One person. Six dark money operations. Phone: 517-374-9121. Email: rmoore@dykema.com.",
+      "decomposition": {
+        "point": "Dykema employee simultaneously staffing 6 dark money entities",
+        "wave": "The firm and the dark money vehicle share a person",
+        "reaction": "If you call SDJ, you reach Dykema. The entity IS the firm."
+      }
+    },
+    {
+      "id": "jason_roe",
+      "name": "Jason Cabel Roe",
+      "short_name": "Roe",
+      "role": "Barrett senior advisor (Roe Strategic LLC)",
+      "tier": 3,
+      "nexus": [
+        "political",
+        "legislative"
+      ],
+      "detail": "Father Jerry Roe = MI GOP Exec Director 1969-79. Jason = MI GOP Exec Director. Deputy Campaign Mgr for Romney 2007. Rubio national media 2016. Barrett lead strategist 2024. Advance teams: Gingrich, Bush, Cheney, Perry. $114K+ from Barrett federal committee. FEC MUR 8072 (dismissed).",
+      "decomposition": {
+        "point": "Political dynasty: father+son MI GOP executive directors",
+        "wave": "Same family operating party infrastructure across 50 years",
+        "reaction": "Barrett's 'convicted felon' rhetoric against Black water protector while framing GOP as Black community allies"
+      }
+    },
+    {
+      "id": "barrett",
+      "name": "Rep. Tom Barrett",
+      "short_name": "Barrett",
+      "role": "US House MI-7",
+      "tier": 3,
+      "nexus": [
+        "political",
+        "legislative"
+      ],
+      "detail": "MI-7 (R). AFP Action largest outside spender ($477K, 44.8%). Dykema Federal PAC $4K. Roe Strategic $114K consulting. FEC MUR 8072 (state/federal fund crossover, dismissed). DeSea smear target."
+    },
+    {
+      "id": "john_james",
+      "name": "Rep. John James",
+      "short_name": "James",
+      "role": "MI-10 / Gov candidate",
+      "tier": 4,
+      "nexus": [
+        "political"
+      ],
+      "detail": "MI-10 (R). Running for governor 2026. DeVos family $80K direct + $6M super PAC. Dykema Federal PAC $4K. ATTACKED by Michigan First Principles (Wilk vehicle) Jan 2026."
+    }
+  ]
+}

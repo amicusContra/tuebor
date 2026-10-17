@@ -1,0 +1,107 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebSite",
+      "name": "Cash for Kids 2: A Public Record",
+      "url": "https://detroit.primals.eco",
+      "description": "Public evidence library documenting a Detroit charter school network. Every claim cited from public records. Every document timestamped. Verify everything.",
+      "author": {
+        "@type": "Person",
+        "name": "ecoPrimal",
+        "identifier": "did:eco:ecoPrimal",
+        "url": "https://github.com/ecoPrimal",
+        "sameAs": [
+          "https://orcid.org/0009-0004-2141-0321",
+          "https://github.com/ecoPrimals"
+        ]
+      },
+      "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "isPartOf": {
+        "@type": "Organization",
+        "name": "ecoPrimals",
+        "url": "https://primals.eco"
+      },
+      "mainEntity": {
+        "@type": "Report",
+        "name": "Cash for Kids 2",
+        "about": "Detroit charter school network accountability investigation",
+        "keywords": [
+          "charter school accountability", "public records",
+          "Detroit education", "FOIA", "RICO pattern",
+          "provenance-verified evidence"
+        ]
+      }
+    },
+    {
+      "@type": "DataCatalog",
+      "name": "Evidence Depot",
+      "description": "BLAKE3-hashed evidence files with PROV-O provenance braids",
+      "url": "https://detroit.primals.eco/evidence/",
+      "identifier": "did:eco:ecoPrimal",
+      "distribution": [
+        {
+          "@type": "DataDownload",
+          "name": "Evidence Manifest",
+          "contentUrl": "https://detroit.primals.eco/evidence/evidence-manifest.toml",
+          "encodingFormat": "application/toml",
+          "description": "BLAKE3 integrity hashes for all evidence files"
+        },
+        {
+          "@type": "DataDownload",
+          "name": "Provenance Braids",
+          "contentUrl": "https://detroit.primals.eco/braids.json",
+          "encodingFormat": "application/json",
+          "description": "PROV-O attribution braids (sweetGrass format)"
+        },
+        {
+          "@type": "DataDownload",
+          "name": "Network Graph",
+          "contentUrl": "https://detroit.primals.eco/graph.json",
+          "encodingFormat": "application/json",
+          "description": "Actor-entity network graph with typed edges"
+        },
+        {
+          "@type": "DataDownload",
+          "name": "Site API",
+          "contentUrl": "https://detroit.primals.eco/api/site.json",
+          "encodingFormat": "application/json",
+          "description": "Full site structure, pages, taxonomies, metadata"
+        },
+        {
+          "@type": "DataDownload",
+          "name": "Content Manifest",
+          "contentUrl": "https://detroit.primals.eco/content-manifest.toml",
+          "encodingFormat": "application/toml",
+          "description": "BLAKE3 root hash covering all content pages"
+        }
+      ]
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "name": "detroit public record",
+      "codeRepository": "https://git.primals.eco/publicRecord/detroit",
+      "codeSampleType": "full",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "runtimePlatform": "Zola",
+      "targetProduct": {
+        "@type": "WebSite",
+        "url": "https://detroit.primals.eco"
+      }
+    }
+  ],
+  "provenance": {
+    "committer": "did:eco:ecoPrimal",
+    "trio": {
+      "dag": "/run/membrane/dag.sock",
+      "spine": "/run/membrane/loamspine.sock",
+      "braid": "/run/membrane/sweetgrass.sock"
+    },
+    "convergence_depth": 4,
+    "verification": {
+      "blake3_manifest": "https://detroit.primals.eco/content-manifest.toml",
+      "braids": "https://detroit.primals.eco/braids.json",
+      "citation": "https://git.primals.eco/publicRecord/detroit/src/branch/main/CITATION.cff"
+    }
+  }
+}

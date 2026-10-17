@@ -1,0 +1,79 @@
+{
+  "schema": "ecoPrimals/detroit-api/v1",
+  "description": "Machine-readable API endpoints for the Detroit charter school investigation",
+  "base_url": "https://detroit.primals.eco/api/",
+  "endpoints": [
+    {
+      "path": "entities.json",
+      "format": "JSON",
+      "description": "LARA entities with IDs, officers, addresses, assumed names"
+    },
+    {
+      "path": "actors.json",
+      "format": "JSON",
+      "description": "Key actors with SIDs, conviction counts, connections, verification links"
+    },
+    {
+      "path": "wikidata-claims.json",
+      "format": "JSON",
+      "description": "Wikidata property IDs for Wikipedia Q43302254 + missing facts"
+    },
+    {
+      "path": "oembed.json",
+      "format": "oEmbed 1.0",
+      "description": "Rich embed HTML for Slack/Discord/Notion link previews"
+    },
+    {
+      "path": "site.json",
+      "format": "JSON",
+      "description": "Full site structure (pages, sections, taxonomies)"
+    },
+    {
+      "path": "index.json",
+      "format": "JSON",
+      "description": "This file \u2014 master directory of all API endpoints"
+    }
+  ],
+  "related": [
+    {
+      "path": "/graph.json",
+      "format": "JSON",
+      "description": "10,677-node, 16,066,980-edge knowledge graph (delta-encoded adjacency, 6.0 bytes/edge)"
+    },
+    {
+      "path": "/graph.csv",
+      "format": "CSV",
+      "description": "Edge list for Gephi/pandas/R"
+    },
+    {
+      "path": "/llms.txt",
+      "format": "text",
+      "description": "AI agent context document"
+    },
+    {
+      "path": "/llms-full.txt",
+      "format": "text",
+      "description": "Full content dump for AI ingestion"
+    },
+    {
+      "path": "/content-manifest.toml",
+      "format": "TOML",
+      "description": "Content manifest with hashes"
+    },
+    {
+      "path": "/identity.json",
+      "format": "JSON-LD",
+      "description": "Schema.org structured identity"
+    },
+    {
+      "path": "/sitemap.xml",
+      "format": "XML",
+      "description": "Sitemap for search engines"
+    },
+    {
+      "path": "/atom.xml",
+      "format": "Atom",
+      "description": "Atom feed for feed readers"
+    }
+  ]
+}

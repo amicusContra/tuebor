@@ -1,0 +1,401 @@
+{
+  "meta": {
+    "generated_utc": "2026-10-06T19:08:00Z",
+    "timezone_display": "America/Detroit",
+    "source": "detroit.primals.eco — timeline, evidence, signal, agency-referrals content",
+    "no_pii": true,
+    "no_tracking": true
+  },
+  "timeline": [
+    {
+      "date": "1998-11-01",
+      "category": "actor",
+      "title": "Brian Banks — NSF check conviction, Lincoln Park",
+      "description": "First documented conviction in ICHAT criminal history (SID 2029469K).",
+      "url": "/network/actors/brian-banks/"
+    },
+    {
+      "date": "1999-04-01",
+      "category": "actor",
+      "title": "Brian Banks — three felonies, Oakland County",
+      "description": "Convicted on uttering and publishing plus two counts of failure to deliver title.",
+      "url": "/network/actors/brian-banks/"
+    },
+    {
+      "date": "1999-08-01",
+      "category": "actor",
+      "title": "Brian Banks — NSF felony, Oakland County",
+      "description": "Additional NSF felony conviction documented in ICHAT.",
+      "url": "/network/actors/brian-banks/"
+    },
+    {
+      "date": "2003-09-01",
+      "category": "actor",
+      "title": "Brian Banks — NSF $500+ felony, Wayne 3rd Circuit",
+      "description": "Felony NSF conviction in Wayne County circuit court.",
+      "url": "/network/actors/brian-banks/"
+    },
+    {
+      "date": "2004-09-01",
+      "category": "actor",
+      "title": "Brian Banks — forgery arrest, Eaton County",
+      "description": "Arrested on forgery and uttering and publishing charges.",
+      "url": "/network/actors/brian-banks/"
+    },
+    {
+      "date": "2005-01-01",
+      "category": "actor",
+      "title": "BMF federal indictment — OD Banks defendant #22",
+      "description": "Brian Banks Sr. indicted in Black Mafia Family case (2:05-cr-80955, PACER).",
+      "url": "/books/black-mafia-family/"
+    },
+    {
+      "date": "2007-01-01",
+      "category": "actor",
+      "title": "Brian Banks — Eaton County forgery guilty plea",
+      "description": "Pleaded guilty to forgery charges in Eaton County.",
+      "url": "/network/actors/brian-banks/"
+    },
+    {
+      "date": "2014-01-01",
+      "category": "actor",
+      "title": "Brian Banks enters Michigan politics",
+      "description": "Ran for MI Senate; Bank on Banks PAC created with Joseph Holland as treasurer.",
+      "url": "/network/actors/brian-banks/"
+    },
+    {
+      "date": "2015-01-01",
+      "category": "actor",
+      "title": "Brian Banks serves Michigan House HD-1",
+      "description": "State representative term documented in MI Secretary of State records.",
+      "url": "/network/political/billy-mckinney/"
+    },
+    {
+      "date": "2016-06-01",
+      "category": "actor",
+      "title": "Brian Banks arrested by Michigan Attorney General",
+      "description": "Three felony charges filed by the Attorney General.",
+      "url": "/network/actors/brian-banks/"
+    },
+    {
+      "date": "2017-01-01",
+      "category": "actor",
+      "title": "AG case resolved — three felonies to one misdemeanor",
+      "description": "Three felony charges reduced to one misdemeanor with one-day sentence.",
+      "url": "/network/actors/brian-banks/"
+    },
+    {
+      "date": "2017-02-25",
+      "category": "actor",
+      "title": "Banks Strategy & Consultants, LLC filed",
+      "description": "Shell entity registered with LARA before charter school career pivot.",
+      "url": "/network/entities/banks-strategy-llc/"
+    },
+    {
+      "date": "2017-01-01",
+      "category": "actor",
+      "title": "Brian Banks begins charter school career at MacDowell",
+      "description": "Pivot from politics to education administration at MacDowell Preparatory Academy.",
+      "url": "/network/entities/macdowell-prep/"
+    },
+    {
+      "date": "2022-01-01",
+      "category": "evidence",
+      "title": "Brian Banks receives Ph.D. — credential audit begins",
+      "description": "Walden dissertation lists fake J.D., MSU Law, 2010; State Bar returns zero results.",
+      "url": "/analysis/credential-audit/"
+    },
+    {
+      "date": "2022-09-02",
+      "category": "evidence",
+      "title": "MI DOE issues School Administrator certificate",
+      "description": "Certificate issued three days after school year started.",
+      "url": "/evidence/tcr-22-12/"
+    },
+    {
+      "date": "2023-01-01",
+      "category": "actor",
+      "title": "Judge Cylenthia Miller — recorded court security confrontation",
+      "description": "Confrontation with court security documented by WXYZ.",
+      "url": "/network/judges/cylenthia-miller/"
+    },
+    {
+      "date": "2023-08-04",
+      "category": "evidence",
+      "title": "TCR 22-12 Final Decision issued",
+      "description": "Michigan Department of Education credentialing conditions on Banks administration.",
+      "url": "/evidence/tcr-22-12/"
+    },
+    {
+      "date": "2024-04-10",
+      "category": "actor",
+      "title": "Banks Strategy LLC restored — overdue reports batch-filed",
+      "description": "Three overdue annual reports filed in single batch with LARA.",
+      "url": "/network/entities/banks-strategy-llc/"
+    },
+    {
+      "date": "2024-09-01",
+      "category": "actor",
+      "title": "Michigan CBC Week party — Sherry Gay-Dagnogo honored",
+      "description": "Sold-out event at Hyatt Washington DC during Congressional Black Caucus week.",
+      "url": "/network/political/sherry-gay-dagnogo/"
+    },
+    {
+      "date": "2024-11-14",
+      "category": "actor",
+      "title": "The Purpose Group, LLC filed",
+      "description": "Management company entity organized by Perlmuter, Esq.",
+      "url": "/network/entities/purpose-group-llc/"
+    },
+    {
+      "date": "2024-12-09",
+      "category": "actor",
+      "title": "Purpose Foundation filed",
+      "description": "501(c)(3) nonprofit with Banks and Holland in all four officer positions.",
+      "url": "/network/entities/purpose-foundation/"
+    },
+    {
+      "date": "2024-01-01",
+      "category": "evidence",
+      "title": "Judge Tenisha Yancey campaign pays Banks Strategy",
+      "description": "Campaign finance records show $383.82 payment to Banks Strategy LLC.",
+      "url": "/network/judges/tenisha-yancey/"
+    },
+    {
+      "date": "2025-05-01",
+      "category": "actor",
+      "title": "Judge Aliyah Sabree appointed to 3rd Circuit Family Division",
+      "description": "Gubernatorial appointment to court handling custody cases in the network.",
+      "url": "/network/judges/aliyah-sabree/"
+    },
+    {
+      "date": "2025-07-01",
+      "category": "evidence",
+      "title": "Purpose Charter Academy authorized by DPSCD Board",
+      "description": "Three-year charter authorization contract approved by Detroit Public Schools Community District.",
+      "url": "/network/entities/purpose-charter-academy/"
+    },
+    {
+      "date": "2025-10-01",
+      "category": "actor",
+      "title": "Sherry Gay-Dagnogo resigns DPSCD — becomes Detroit City Ombudsman",
+      "description": "Career transition documented by Bridge Detroit.",
+      "url": "/network/political/sherry-gay-dagnogo/"
+    },
+    {
+      "date": "2025-12-26",
+      "category": "evidence",
+      "title": "Purpose Foundation identifies as private foundation",
+      "description": "LARA filing update on nonprofit classification.",
+      "url": "/network/entities/purpose-foundation/"
+    },
+    {
+      "date": "2026-05-08",
+      "category": "actor",
+      "title": "Joseph Holland discharged from MDOC",
+      "description": "MDOC OTIS records discharge status WITHOUT IMPROVEMENT (MDOC #443789).",
+      "url": "/network/actors/joseph-holland/"
+    },
+    {
+      "date": "2026-08-29",
+      "category": "evidence",
+      "title": "Parent denied access at Purpose Charter Academy",
+      "description": "Police report documents Banks denying access and claiming to be an attorney.",
+      "url": "/evidence/court-filings/"
+    },
+    {
+      "date": "2026-08-31",
+      "category": "investigation",
+      "title": "Formal complaints filed — DPSCD, State Bar, JTC",
+      "description": "Unauthorized practice of law and judicial tenure complaints submitted.",
+      "url": "/evidence/agency-referrals/"
+    },
+    {
+      "date": "2026-09-01",
+      "category": "investigation",
+      "title": "Civil action filed — Ingham County",
+      "description": "Case 2026-4349-CZ filed in Ingham County circuit court.",
+      "url": "/evidence/court-filings/"
+    },
+    {
+      "date": "2026-09-13",
+      "category": "evidence",
+      "title": "Clutch Justice publishes MacDowell investigation",
+      "description": "Independent coverage: $15,217 per student, 3% math proficiency.",
+      "url": "/coverage/clutch-macdowell-spending/"
+    },
+    {
+      "date": "2026-09-17",
+      "category": "investigation",
+      "title": "Motion for alternative service filed (Banks PPO)",
+      "description": "Court filing seeking alternative service in personal protection order matter.",
+      "url": "/evidence/court-filings/"
+    },
+    {
+      "date": "2026-09-18",
+      "category": "actor",
+      "title": "Brian Banks hosts CBC Reception, Washington DC",
+      "description": "Kitchen + Kocktails event during Congressional Black Caucus week.",
+      "url": "/analysis/cbc-events/"
+    },
+    {
+      "date": "2026-09-20",
+      "category": "evidence",
+      "title": "ICHAT pulled — nine convictions confirmed",
+      "description": "Complete criminal history verified from Michigan ICHAT (SID 2029469K).",
+      "url": "/evidence/agency-referrals/"
+    },
+    {
+      "date": "2026-09-21",
+      "category": "evidence",
+      "title": "Clutch Justice publishes Detroit Files Part I",
+      "description": "Independent investigative series begins public coverage of the network.",
+      "url": "/coverage/clutch-detroit-files/"
+    },
+    {
+      "date": "2026-09-21",
+      "category": "investigation",
+      "title": "Federal referral window opens — eight agencies",
+      "description": "243-page master packet preparation and delivery to DOJ, FBI, IRS, ED-OIG, FEC, USPS OIG, State Bar, JTC.",
+      "url": "/evidence/agency-referrals/"
+    },
+    {
+      "date": "2026-09-22",
+      "time_et": "12:00 PM",
+      "category": "investigation",
+      "title": "Federal Master Packet delivered to eight agencies",
+      "description": "DOJ, FBI, IRS, ED-OIG, FTC, SEC, USED, FinCEN receive 9-LINE formatted referral.",
+      "url": "/evidence/agency-referrals/"
+    },
+    {
+      "date": "2026-09-22",
+      "category": "investigation",
+      "title": "Journalist briefing packets distributed",
+      "description": "Packets delivered to Clutch Justice, Detroit Free Press, and WXYZ.",
+      "url": "/coverage/"
+    },
+    {
+      "date": "2026-09-23",
+      "category": "evidence",
+      "title": "Clutch Justice publishes Michigan school board FOIA guide",
+      "description": "Public guide for obtaining charter school board records.",
+      "url": "/coverage/clutch-foia-guide/"
+    },
+    {
+      "date": "2026-09-23",
+      "category": "investigation",
+      "title": "detroit.primals.eco indexed by Google",
+      "description": "Homepage appears in Google Search Console indexing.",
+      "url": "/signal/"
+    },
+    {
+      "date": "2026-09-24",
+      "category": "investigation",
+      "title": "Site expanded to 97 pages",
+      "description": "Full-text search, sidebar navigation, and Clutch Justice integration deployed.",
+      "url": "/site-index/"
+    },
+    {
+      "date": "2026-09-24",
+      "category": "evidence",
+      "title": "PCA Board roster documented",
+      "description": "AG employee (Moreland) and City Council member (Johnson) discovered on charter board.",
+      "url": "/network/entities/purpose-charter-academy/"
+    },
+    {
+      "date": "2026-09-28",
+      "category": "actor",
+      "title": "Brian Banks files GPW police report",
+      "description": "Retaliatory police report filed after federal referrals were already submitted.",
+      "url": "/evidence/agency-referrals/"
+    },
+    {
+      "date": "2026-09-29",
+      "category": "investigation",
+      "title": "PPO hearing — Wayne County",
+      "description": "Banks appeared via Zoom at personal protection order hearing without standing.",
+      "url": "/evidence/court-filings/"
+    },
+    {
+      "date": "2026-09-30",
+      "category": "actor",
+      "title": "Defense counsel enters — Great Lakes Legal Group",
+      "description": "Jehan Crump-Gibson retained; GLLG voluntarily limited scope within 24 hours.",
+      "url": "/evidence/correspondence/"
+    },
+    {
+      "date": "2026-10-01",
+      "time_et": "9:25 AM",
+      "category": "investigation",
+      "title": "MDE Professional Practice complaint acknowledged",
+      "description": "First formal complaint against Banks administrator certificate since TCR 22-12.",
+      "url": "/evidence/agency-referrals/"
+    },
+    {
+      "date": "2026-10-02",
+      "category": "investigation",
+      "title": "Signal emission — contact page update",
+      "description": "213 pages published; 212 URLs submitted via IndexNow.",
+      "url": "/signal/"
+    },
+    {
+      "date": "2026-10-03",
+      "category": "investigation",
+      "title": "Coverage section launched",
+      "description": "233 pages live; independent media coverage section added.",
+      "url": "/coverage/"
+    },
+    {
+      "date": "2026-10-04",
+      "category": "defense",
+      "title": "Behavioral visitor classification deployed",
+      "description": "Nine-category receptor-based signal sensing refined on Signal page.",
+      "url": "/signal/"
+    },
+    {
+      "date": "2026-10-06",
+      "category": "defense",
+      "title": "Five-layer adaptive immune defense deployed",
+      "description": "Behavioral detection, graduated response, credential bait, threat intelligence, and ion channel inversion live.",
+      "url": "/signal/#infrastructure-defense-five-layer-immune-system-oct-6"
+    },
+    {
+      "date": "2026-10-06",
+      "time_et": "12:05 PM",
+      "category": "defense",
+      "title": "Public access billboard published",
+      "description": "Live monitor documenting automated scraping behavior published on Signal page.",
+      "url": "/signal/#live-monitor-continuing-after-notice"
+    },
+    {
+      "date": "2026-10-06",
+      "time_et": "1:35 PM",
+      "category": "defense",
+      "title": "Forge lockdown — ion channel inversion",
+      "description": "Code forge access model inverted: allow-list only. Real pages leaked before lockdown: 2,073; after: 0.",
+      "url": "/signal/#forge-lockdown-ion-channel-inversion-oct-6-135-pm-et"
+    },
+    {
+      "date": "2026-10-06",
+      "time_et": "2:00 PM",
+      "category": "defense",
+      "title": "Forensic audit of investigation workspace access",
+      "description": "Post-lockdown audit: 842 scatter-poison responses, zero real investigation documents served to fleet.",
+      "url": "/signal/#forensic-audit-what-they-actually-got-oct-6-200-pm-et"
+    },
+    {
+      "date": "2026-10-06",
+      "category": "investigation",
+      "title": "Public Record API — timeline endpoint published",
+      "description": "Structured JSON timeline generated from site content for machine access without tracking.",
+      "url": "/api/public-record/timeline.json"
+    },
+    {
+      "date": "2026-11-03",
+      "category": "actor",
+      "title": "Judge Cylenthia Miller — election day",
+      "description": "Wayne County judicial election for judge documented in network analysis.",
+      "url": "/network/judges/cylenthia-miller/"
+    }
+  ]
+}

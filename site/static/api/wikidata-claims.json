@@ -1,0 +1,70 @@
+{
+  "schema": "ecoPrimals/wikidata-claims/v1",
+  "description": "Structured claims for Wikipedia Q43302254 (Purpose Charter Academy) using Wikidata property IDs",
+  "target_entity": "Q43302254",
+  "target_label": "Purpose Charter Academy",
+  "claims": [
+    {
+      "property": "P39",
+      "property_label": "position held",
+      "value": "charter school",
+      "qualifier": "authorized by DPSCD 2025"
+    },
+    {
+      "property": "P108",
+      "property_label": "employer",
+      "value": "Purpose Group LLC",
+      "qualifier": "management company, sole member Brian Banks"
+    },
+    {
+      "property": "P512",
+      "property_label": "academic degree",
+      "value": "N/A",
+      "qualifier": "Banks claims J.D. from MSU Law \u2014 never admitted to any bar"
+    },
+    {
+      "property": "P17",
+      "property_label": "country",
+      "value": "Q30",
+      "qualifier": "United States"
+    },
+    {
+      "property": "P131",
+      "property_label": "located in",
+      "value": "Q12439",
+      "qualifier": "Detroit, Michigan"
+    },
+    {
+      "property": "P1566",
+      "property_label": "GeoNames ID",
+      "value": "4990729",
+      "qualifier": "Detroit"
+    },
+    {
+      "property": "P159",
+      "property_label": "headquarters location",
+      "value": "1968 Severn Road, Grosse Pointe Woods MI 48236"
+    },
+    {
+      "property": "P571",
+      "property_label": "inception",
+      "value": "2025",
+      "qualifier": "DPSCD charter authorized"
+    },
+    {
+      "property": "P856",
+      "property_label": "official website",
+      "value": "https://detroit.primals.eco/network/entities/purpose-charter-academy/"
+    }
+  ],
+  "missing_from_wikipedia": [
+    "Brian Banks has 9 criminal convictions (6 felony, 3 misdemeanor)",
+    "Banks was never admitted to any bar despite claiming J.D.",
+    "Joseph Holland Jr. (co-operator) has controlled substance conviction, MDOC #443789",
+    "MacDowell Preparatory Academy ranked bottom 3% in Michigan",
+    "Purpose Group LLC is sole management company, Banks sole member",
+    "Judge Cylenthia Miller chairs Banks entity board (Anchor Rock Foundation)",
+    "9 Wayne County judges have documented connections to the network",
+    "Federal master packet delivered to 8 agencies September 22, 2026"
+  ]
+}

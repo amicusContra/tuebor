@@ -1,0 +1,20 @@
+{# Evidence confidence badge: {{ confidence(level="verified") }}
+
+   Levels:
+     verified    — confirmed by multiple independent sources
+     documented  — sourced from a single public record
+     reported    — published by independent journalism
+     alleged     — claimed by the complainant, under review
+     unconfirmed — connection exists but relationship not independently verified
+
+   Usage: {{ confidence(level="verified") }}
+          {{ confidence(level="alleged", note="submitted for agency determination") }}
+#}
+{% set icons = "verified:✅,documented:📄,reported:📰,alleged:⚖️,unconfirmed:❓" %}
+{% set labels = "verified:Verified,documented:Documented,reported:Reported,alleged:Alleged,unconfirmed:Unconfirmed" %}
+{% set descs = "verified:Confirmed by multiple independent sources,documented:Sourced from public record,reported:Published by independent journalism,alleged:Claimed — under review,unconfirmed:Connection exists — not independently verified" %}
+{% set icon = "?" %}{% set label = level %}{% set desc = "" %}
+{% for pair in icons | split(pat=",") %}{% set kv = pair | split(pat=":") %}{% if kv[0] == level %}{% set_global icon = kv[1] %}{% endif %}{% endfor %}
+{% for pair in labels | split(pat=",") %}{% set kv = pair | split(pat=":") %}{% if kv[0] == level %}{% set_global label = kv[1] %}{% endif %}{% endfor %}
+{% for pair in descs | split(pat=",") %}{% set kv = pair | split(pat=":") %}{% if kv[0] == level %}{% set_global desc = kv[1] %}{% endif %}{% endfor %}
+<span class="confidence-badge confidence-{{ level }}" title="{{ desc }}{% if note is defined %} — {{ note }}{% endif %}"><span aria-hidden="true">{{ icon }}</span> {{ label }}{% if note is defined %}: {{ note }}{% endif %}</span>

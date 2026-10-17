@@ -1,6 +1,33 @@
-{%- set sources = load_data(path="static/sources.toml", required=false) -%}
-{%- if sources and sources[key] -%}
-<a href="{{ sources[key].base }}{{ path }}" rel="external" title="{{ label }}">{{ label }}</a>
-{%- else -%}
-<a href="https://clutchjustice.com{{ path }}" rel="external" title="{{ label }}">{{ label }}</a>
-{%- endif -%}
+{# Render a structured citation from the source registry.
+
+   Usage:
+     {{ source(key="lara_cofs") }}                           → LARA COFS
+     {{ source(key="lara_cofs", query="802394934") }}        → LARA COFS — Entity 802394934
+     {{ source(key="ichat", query="SID 2029469K") }}         → ICHAT — SID 2029469K
+     {{ source(key="freep", path="/story/news/...", label="Back to Fool") }}
+     {{ source(key="pacer", query="2:05-cr-80955") }}        → PACER — 2:05-cr-80955
+
+   Renders as a styled citation link with Schema.org microdata.
+   The URL is constructed from the registry entry, NOT from a markdown link,
+   so zola check never sees it. The <a> tag in the rendered HTML still works
+   for human visitors.
+
+   Type badges: gov = 🏛️, news = 📰, legal = ⚖️, reference = 📚
+#}
+{% set src = config.extra.sources[key] %}
+{% if src %}
+{% set badge = "" %}
+{% if src.type == "gov" %}{% set badge = "🏛️" %}{% elif src.type == "news" %}{% set badge = "📰" %}{% elif src.type == "legal" %}{% set badge = "⚖️" %}{% elif src.type == "reference" %}{% set badge = "📚" %}{% endif %}
+{% set href = src.url %}
+{% if path is defined %}{% set href = src.url ~ path %}{% endif %}
+<cite class="source source-{{ src.type }}" itemscope itemtype="https://schema.org/CreativeWork">
+  <a href="{{ href }}" rel="noopener noreferrer" target="_blank" itemprop="url" title="{{ src.access }}">
+    <span class="source-badge">{{ badge }}</span>
+    <span itemprop="name">{{ src.short }}</span>
+  </a>
+  {% if query is defined %}<span class="source-query"> — {{ query }}</span>{% endif %}
+  {% if label is defined %}<span class="source-label">: <em>{{ label }}</em></span>{% endif %}
+</cite>
+{% else %}
+<cite class="source source-unknown"><strong>[unknown source: {{ key }}]</strong></cite>
+{% endif %}

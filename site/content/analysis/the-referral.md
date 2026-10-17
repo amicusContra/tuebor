@@ -378,6 +378,58 @@ AG Complaint: (517) 335-7622
 
 ---
 
+## XII-A. Attorney Grievance Commission — You Already Responded. It's Signed.
+
+### What You Did
+
+On **October 1, 2026**, AGC File No. **26-2141** was created in response to a Request for Investigation against Lamar Moreland and Todd Perkins.
+
+**Cynthia C. Bullington**, Assistant Deputy Administrator, **signed** a letter stating:
+
+> *"You must complete a separate form for each attorney... Your original correspondence is enclosed. No further action will be taken."*
+
+**Michael V. Goetz**, Grievance Administrator, **signed** the cover letter enclosing blank Request for Investigation forms.
+
+The original evidence was **returned.** The file was closed before it opened.
+
+### What You Received
+
+A complaint describing:
+- **Lamar Moreland** — AAG who sits on the board of a school run by a man with 9 criminal convictions, while working for the AG bureau that prosecutes state RICO
+- **Todd Perkins** — Banks' personal attorney who filed a PPO to silence a parent's FOIA requests and regulatory complaints. Has 4 personal bankruptcies. $100K+ IRS tax liens. His brothers **Judge Sean Perkins** (36th District) and **Judge David Perkins** (Probate, Chief Judge Pro Tem) sit on Wayne County courts.
+
+### What Your Own Rules Say
+
+Your own process document — enclosed in the response to the complainant — states:
+
+> *"The Grievance Administrator can initiate a request for investigation in his own name as well."*
+
+Goetz doesn't need the complainant's forms. He needs 60 seconds on LARA to confirm Moreland is on the PCA board. He needs one search of the State Bar directory to confirm Banks' J.D. claim is unverifiable. He needs one ICHAT search to confirm Holland's MDOC #443789.
+
+**He signed blank forms instead.**
+
+### Every Name on the Letterhead
+
+The following 22 people work for an organization whose sole purpose is attorney discipline. Every one of them received the complaint. Every one of them is now in the public record:
+
+**Leadership:** Kathleen Hickey (Chair), Kendrah B. Robinson (Vice-Chair), Alexander Pahany (Secretary)
+
+**Administration:** Michael V. Goetz (Grievance Administrator — **signed**), Kimberly L. Uhuru (Deputy), Cynthia C. Bullington (Asst. Deputy — **signed**), Sarah C. Lindsey (General Counsel)
+
+**Commissioners:** Kathryn R. Swedlow, James Moritz, Anjali Prasad, Holly Jeschke, Joseph P. McGill, Debra Kubitskey
+
+**Associate Counsel:** Emily A. Downey, Michael K. Mazur, Pamela I. Linville, Cora L. Morgan, Graham G. Leach, Mary A. Bowen, Austin D. Blessing-Nelson, Caitlin O. Fleming, Mahira Musani, Courtney T. Altovilla
+
+Full analysis: [The Circular Shield — How the AGC Protects the Attorneys Who Protect the Enterprise](/analysis/the-circular-shield/)
+
+### Contact
+
+AGC: (313) 961-6585
+755 W. Big Beaver Rd, Suite 2100, Troy, MI 48084
+[agcmi.org](https://www.agcmi.org)
+
+---
+
 ## XIII. Wayne County Prosecutor
 
 ### Your Jurisdiction

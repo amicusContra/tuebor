@@ -346,7 +346,7 @@ This is not passive failure. This is an AAG in the Criminal Justice Bureau — t
 | **DPSCD** | Charter authorization fraud | Local oversight | SILENCE |
 | **LARA** | Purpose Foundation, Right Turn | Nonprofit oversight | SILENCE |
 | **State Bar** | UPL complaint (Banks' J.D. claim) | Professional conduct | SILENCE |
-| **AGC** | Moreland, Miller complaints | Attorney grievance | Returned Banks filing as "not a listed attorney" — **that IS the violation** |
+| **AGC** | Moreland, Perkins, Miller complaints | Attorney grievance | **File 26-2141.** Cynthia C. Bullington **signed** bounce letter Oct 1: *"you listed more than one attorney."* Returned evidence. Goetz **signed** blank forms. Self-initiation authority unused. [The Circular Shield](/analysis/the-circular-shield/) |
 
 ---
 

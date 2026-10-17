@@ -74,7 +74,8 @@ Every agency below received the same 243-page evidence package: criminal history
 | 2 | **Judicial Tenure Commission** | Aug 31 | 7+ judges with documented network connections, board memberships, campaign payments | ✅ Letter received — 5-6 case numbers, investigations opened |
 | 3 | **DPSCD** (Inspector General) | Sep 2026 | Charter authorization failure, per-pupil funding flows | **SILENCE** |
 | 4 | **Michigan Dept of Education** | Oct 1 | Professional Practice complaint — TCR 22-12 violations, credential fraud, FERPA violation | ✅ Acknowledged Oct 1, 9:25 AM. No action since. |
-| 5 | **Attorney Grievance Commission** | Oct 4 | Complaints re: Judge Miller (former Dykema attorney on PCA board), Moreland (AAG on PCA board) | Returned Banks filing: "not a listed attorney." **That IS the violation.** Silent on Miller, Moreland. |
+| 5a | **Attorney Grievance Commission** | Sep ~27 | Request for Investigation re: **Moreland** (AAG on PCA board) and **Todd Perkins** (Banks' attorney, filed PPO, brothers are judges) | ✅ **SIGNED RESPONSE Oct 1.** AGC File No. **26-2141.** Cynthia C. Bullington (Asst. Deputy Admin) signed bounce letter: *"you listed more than one attorney."* Returned original evidence. Michael V. Goetz (Grievance Admin) signed cover letter with blank forms. **Goetz has authority to self-initiate (MCR 9.109). Did not.** See [The Circular Shield](/analysis/the-circular-shield/). |
+| 5b | **Attorney Grievance Commission** | Oct 4 | Complaints re: Judge Miller (former Dykema attorney on PCA board), Moreland (AAG on PCA board) | Returned Banks filing: "not a listed attorney." **That IS the violation.** Silent on Miller, Moreland. |
 | 6 | **JTC Supplement** | Oct 5 | Additional evidence on Miller, Yancey | Merged into existing investigations |
 | 7 | **AG Dana Nessel** | Sep–Oct | Full evidence package. AG has jurisdiction over charter school fraud, LARA, and her own AAG (Moreland) sitting on the board of the school the AG could investigate | **SILENCE** |
 | 8 | **State Board of Education** | Sep–Oct | All 8 members notified BY NAME. SBE oversees MDE, which oversees charter authorization | **SILENCE** — all 8 members |
@@ -153,7 +154,8 @@ The null is no longer "we haven't observed behavior." The null is observed behav
 | SBE (×8) | Sep–Oct | NULL | **21+** |
 | DPSCD | Sep–Oct | NULL | **21+** |
 | State Bar | Aug 31 | NULL | **46+** |
-| AGC (re: Miller, Moreland) | Oct 4 | NULL | **12+** |
+| AGC (re: Moreland, Perkins) | Oct 1 | **SIGNED BOUNCE** — File 26-2141. Bullington signed. Goetz signed. Returned evidence. Sent blank forms. | **16 days since bounce** |
+| AGC (re: Miller, Moreland) | Oct 4 | NULL | **13+** |
 
 **14 channels. 243 pages each. 21+ days. NULL.**
 

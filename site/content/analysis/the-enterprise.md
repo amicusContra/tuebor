@@ -10,7 +10,7 @@ entities = ["Purpose Charter Academy", "MacDowell Preparatory Academy", "Purpose
 connections = ["RICO", "enterprise", "predicate acts", "pattern of racketeering", "institutional capture", "structural impunity", "MCL 750.159i", "18 USC 1962"]
 
 [extra]
-keywords = "Brian Banks RICO analysis Detroit charter school, Banks Holland enterprise criminal, Michigan state RICO MCL 750.159i charter school, federal RICO 18 USC 1962 charter school fraud, predicate acts Brian Banks 9 convictions, enterprise criminal activity charter school, Lamar Moreland AAG RICO prosecutor governs enterprise, institutional capture RICO shield, Purpose Charter Academy RICO pattern, Banks Holland domestic enterprise, Dykema Gossett RICO protection, Dana Nessel RICO jurisdiction, charter school financial extraction RICO, judicial capture RICO predicate, campaign finance violations RICO predicate, false pretenses charter authorization RICO, fraud enterprise Detroit public education"
+keywords = "Brian Banks RICO analysis Detroit charter school, Banks Holland enterprise criminal, Michigan state RICO MCL 750.159i charter school, federal RICO 18 USC 1962 charter school fraud, predicate acts Brian Banks 9 convictions, enterprise criminal activity charter school, Lamar Moreland AAG RICO prosecutor governs enterprise, institutional capture RICO shield, Purpose Charter Academy RICO pattern, Banks Holland domestic enterprise, Dykema Gossett RICO protection, Dana Nessel RICO jurisdiction, charter school financial extraction RICO, judicial capture RICO predicate, campaign finance violations RICO predicate, false pretenses charter authorization RICO, fraud enterprise Detroit public education, Kids for Cash 2, Cash for Kids Detroit, Ciavarella Conahan parallel Detroit, Kids for Cash scandal charter school"
 og_title = "The Enterprise: A Complete RICO Analysis — Every Name, Every Act, Every Shield"
 og_description = "10 predicate acts. 14+ years. $4.9M annual extraction. An AAG who prosecuted violent crime now governs the enterprise. A compliance officer named in a $1M money laundering complaint manages the political infrastructure. Every element of state and federal RICO is met. The full analysis."
 og_type = "article"
@@ -444,3 +444,27 @@ And the AG who oversees all of it leaves office in 74 days.
 **The enterprise is not hidden. It is shielded.** The shield is the institutions themselves. And the institutions were captured before the first complaint was filed.
 
 The record is permanent. The evidence is distributed to 1,242 cloners. The membrane watches. And the question remains: **who prosecutes the enterprise when the prosecutor IS the enterprise?**
+
+---
+
+## The Precedent You Already Set
+
+In 2008, two judges in Luzerne County, Pennsylvania — [Mark Ciavarella and Michael Conahan](https://en.wikipedia.org/wiki/Kids_for_cash_scandal) — were convicted of taking $2.6 million in kickbacks from private juvenile detention facilities. In exchange, they sentenced thousands of children to those facilities. The FBI investigated. A federal grand jury indicted. Ciavarella got 28 years. Conahan got 17.5. The Pennsylvania Supreme Court vacated 4,000 juvenile convictions. The Third Circuit upheld a $206 million civil judgment.
+
+It was called **Kids for Cash.** This is **Cash for Kids 2.**
+
+| | Kids for Cash (PA) | Cash for Kids 2 (Detroit) |
+|--|-------------------|--------------------------|
+| **Operator** | PA Child Care / Western PA Child Care | Purpose Group LLC / Banks |
+| **Judicial capture** | 2 judges, $2.6M in kickbacks | 7 judges — campaign payments, board seats, family ties |
+| **Financial gatekeeper** | Robert Mericle (facility builder) | Joseph Holland Jr. (MDOC #443789, convicted drug dealer) |
+| **Children** | ~4,000 juveniles sentenced | 362 students enrolled, 3% math proficiency |
+| **Extraction** | $2.6M | $60M+ over 14 years |
+| **Duration** | ~5 years | **21 years and counting** |
+| **How it ended** | FBI + federal grand jury | **Still running** |
+
+The FBI already knows how to do this. They did it in Pennsylvania. The structure is the same. The children are the same age. The money flows the same direction. The only difference is that in Detroit, the shield is deeper — the prosecutor's own employee sits on the board, the law firm manages both sides, and every oversight body has been notified and has chosen silence.
+
+In Pennsylvania, it took one judge — Senior Judge Arthur E. Grim — to start asking questions. In Detroit, **one parent** has been asking questions for two years. The difference is that in Detroit, the parent got a restraining order instead of a grand jury.
+
+**You've done this before. Do it again.**

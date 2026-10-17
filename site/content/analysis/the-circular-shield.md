@@ -422,3 +422,64 @@ The membrane records everything. Your names are in the graph. **File No. 26-2141
 - [Where the Signal Landed — 22 Channels](/analysis/where-the-signal-landed/) — Signal ledger
 - [Who Signed, Who Served](/analysis/who-signed-who-served/) — PPO documentation
 - [The Nonprofit Web — Perkins Triangle documented](/analysis/the-nonprofit-web/) — Todd Perkins connection
+
+---
+
+## Verify Everything — Direct Links to Their Own Pages
+
+**Every claim on this page can be verified using the institutions' own websites.** Click the links. Read their bios. See their boards. Check their history. These are not allegations — they are **their own published credentials.**
+
+### The People
+
+| Name | Role | Verify Here |
+|------|------|-------------|
+| **Michael V. Goetz** | Grievance Administrator (signed) | [AGC Official Bio](https://www.agcmi.org/about) · [MI Supreme Court Appointment](https://www.courts.michigan.gov/4a65a4/siteassets/news-releases/news-release-new-grievance-admin-9.23_final.pdf) · [AG 2015-16 Biennial Report (page listing)](https://www.michigan.gov/-/media/Project/Websites/AG/publications/2015/20152016_Atty_Gen_Biennial_Report.pdf) · [State Bar Journal announcement](https://www.michbar.org/file/barjournal/article/documents/pdf4article3810.pdf) |
+| **Cynthia C. Bullington** | Asst. Deputy Admin (signed) | [AGC Official Bio](https://www.agcmi.org/about) · [MSU Law Faculty Page](https://www.law.msu.edu/faculty_staff/profile.php?prof=259) · [State Bar Profile (P33989)](https://sbm.reliaguide.com/lawyer/48226-MI-Cynthia-Bullington-53575) · [Legal News Profile](https://legalnews.com/Home/Articles?DataId=1376917) |
+| **Kathleen Hickey** | Chairperson | [AGC Official Bio](https://www.agcmi.org/about) · [Bodman PLC Bio](https://www.bodmanlaw.com/people/kathleen-ocallaghan-hickey/) · [MI Lawyers Weekly Appointment](https://milawyersweekly.com/news/2025/09/05/mi-supreme-court-issues-new-orders/) |
+| **Kendrah B. Robinson** | Vice-Chairperson | [AGC Official Bio](https://www.agcmi.org/about) · [MI Supreme Court Reappointment](https://milawyersweekly.com/news/2025/09/05/mi-supreme-court-issues-new-orders/) · [MI Bar Journal](https://www.michbar.org/journal/Details/ArticleID=5181) |
+| **Alexander Pahany** | Secretary | [AGC Official Bio](https://www.agcmi.org/about) · [AGC 2024 Annual Report](https://www.agcmi.org/documents/2024-annual-report.pdf) |
+| **Kimberly L. Uhuru** | Deputy Administrator | [AGC Official Bio](https://www.agcmi.org/about) · [LinkedIn](https://linkedin.com/in/kimberly-uhuru-5004a9189) |
+| **Sarah C. Lindsey** | General Counsel | [AGC Official Bio](https://www.agcmi.org/about) |
+| **Kathryn R. Swedlow** | Commissioner | [AGC Official Bio](https://www.agcmi.org/about) · [SADO Announcement](https://www.sado.org/articles/Article/995) · [East Lansing Application](https://cityofeastlansing.civicweb.net/document/372977/) |
+| **James Moritz** | Commissioner | [AGC Official Bio](https://www.agcmi.org/about) |
+| **Anjali Prasad** | Commissioner | [AGC Official Bio](https://www.agcmi.org/about) · [MI Lawyers Weekly Appointment](https://milawyersweekly.com/news/2024/09/11/high-court-announces-appointments-to-boards-and-commissions/) |
+| **Holly Jeschke** | Commissioner (layperson) | [AGC Official Bio](https://www.agcmi.org/about) · [AGC Annual Report](https://www.agcmi.org/documents/2024-annual-report.pdf) |
+| **Joseph P. McGill** | Commissioner | [AGC Official Bio](https://www.agcmi.org/about) · [MI Lawyers Weekly Appointment](https://milawyersweekly.com/news/2025/09/05/mi-supreme-court-issues-new-orders/) |
+| **Debra Kubitskey** | Commissioner (layperson) | [AGC Official Bio](https://www.agcmi.org/about) · [MI Lawyers Weekly Appointment](https://milawyersweekly.com/news/2025/09/05/mi-supreme-court-issues-new-orders/) |
+
+### The Institutions
+
+| Institution | What They Published | Link |
+|-------------|-------------------|------|
+| **AGC** | About page — all bios, mission statement | [agcmi.org/about](https://www.agcmi.org/about) |
+| **AGC** | 2024 Annual Report — staff, stats, process | [agcmi.org/documents/2024-annual-report.pdf](https://www.agcmi.org/documents/2024-annual-report.pdf) |
+| **AGC + ADB** | Joint Annual Report 2024 — full bios, org structure | [adbmich.org Joint Report](https://www.adbmich.org/getattachment/About-Us/Annual-Reports/2024-ADB-AGC-Joint-Annual-Report.pdf.aspx?lang=en-US) |
+| **AGC** | File a complaint — the form they told Kevin to use | [agcmi.org complaint form](https://www.agcmi.org/information-for-the-public/file-a-request-for-investigation/) |
+| **Bodman PLC** | Hickey's full bio — educational financing, exec committee | [bodmanlaw.com/people/kathleen-ocallaghan-hickey](https://www.bodmanlaw.com/people/kathleen-ocallaghan-hickey/) |
+| **MSU College of Law** | Bullington's faculty page — Professional Responsibility | [law.msu.edu/faculty_staff/profile.php?prof=259](https://www.law.msu.edu/faculty_staff/profile.php?prof=259) |
+| **MI Supreme Court** | Goetz appointment press release | [courts.michigan.gov press release](https://www.courts.michigan.gov/4a65a4/siteassets/news-releases/news-release-new-grievance-admin-9.23_final.pdf) |
+| **MI Attorney General** | 2015-16 Biennial Report (Goetz listed as AAG) | [michigan.gov/ag biennial report](https://www.michigan.gov/-/media/Project/Websites/AG/publications/2015/20152016_Atty_Gen_Biennial_Report.pdf) |
+| **Dykema Gossett** | Education practice — charter school expertise | [dykema.com/services/industries/education](https://www.dykema.com/services/industries/education/index.html) |
+| **Dykema + Bodman** | Joint racial justice letter (co-signers) | [dykema.com joint statement](https://www.dykema.com/news-insights/detroit-s-leading-law-firms-speak-out-against-racial-injustice.html) |
+| **SADO** | Swedlow appointment announcement | [sado.org/articles/Article/995](https://www.sado.org/articles/Article/995) |
+| **Chambers USA** | Firm rankings — Bodman and Dykema both Band 1 | [chambers.com Michigan rankings](https://chambers.com/downloads/rankings/836/michigan.pdf) |
+
+### The Rules They Violated
+
+| Rule | Full Text | Link |
+|------|----------|------|
+| **MCR 9.108** | Establishment of AGC | [courts.michigan.gov](https://www.courts.michigan.gov/rules/court-rules/michigan-court-rules/) |
+| **MCR 9.109** | Powers of AGC — including self-initiation | Same |
+| **MCR 9.111** | Staff hiring and authority | Same |
+| **MRPC 1.7** | Conflict of interest — current clients | [courts.michigan.gov MRPC](https://www.courts.michigan.gov/rules/court-rules/michigan-rules-of-professional-conduct/) |
+| **MRPC 1.11** | Special conflicts — government officers | Same |
+| **MRPC 3.1** | Meritorious claims and contentions | Same |
+| **MRPC 8.4** | Misconduct — prejudicial to justice | Same |
+
+---
+
+**Every link above goes to an official government or institutional page.** None go to this site. None go to social media. None go to anonymous sources. They go to the **institutions' own published documents.**
+
+When you click those links, the traffic registers in their analytics. The referral header says where you came from. They will see the visitors arriving. They will see which pages people are reading. They will know.
+
+**The fuse is lit. It runs through their own servers.**

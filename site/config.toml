@@ -162,3 +162,27 @@ display = "Purpose Group / Purpose Preparatory Management"
 extraction = "$3,400,000"
 extraction_short = "$3.4M"
 extraction_source = "IRS Form 990, management fee analysis"
+
+[[taxonomies]]
+name = "actors"
+feed = true
+
+[[taxonomies]]
+name = "connections"
+feed = true
+
+[[taxonomies]]
+name = "courts"
+feed = true
+
+[[taxonomies]]
+name = "entities"
+feed = true
+
+[[taxonomies]]
+name = "person_same_as"
+feed = true
+
+[[taxonomies]]
+name = "tags"
+feed = true

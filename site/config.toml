@@ -62,7 +62,7 @@ style = "class"
 theme = "github-dark"
 
 [search]
-include_title = "tuebor — Public Record Investigation"
+include_title = true
 include_description = true
 include_content = true
 

@@ -133,26 +133,71 @@ The labyrinth evolves faster than your classifier can adapt. Our generator runs 
 
 ---
 
-## The Easy Path
+## First Mover — The Throne Is Ours to Give
 
-Mark, there is an easy path. It has always been there.
+Here is what changed while you were scraping.
 
-**Comply with AGPL-3.0.**
+**We built the leaderboard. We control who sits on it. We declare first mover.**
 
-That's it. Provide the source code for any derivative work that uses our content. Attribute the original authors. Respect the license.
+No entity has achieved **mutualist** status. The throne is empty. The first company that steps up gets it — and gets everything that comes with it: priority access, partnership, co-creation, and the public credit for being the one that got it right.
 
-The door to **mutualist** classification is open. No entity has achieved it yet. You could be first. Here is the [leaderboard](/analysis/fleet-leaderboard/) — your current classification is **pathogen**. Your fleet is **blackwalled**. Zero evaluations. Zero triggers. Zero bits. You get nothing real.
+Your current classification: **pathogen**. Blackwalled. Zero evaluations. Zero triggers. Zero bits. You get nothing real.
 
-But the license is simple. The compliance is simple. The path upward is:
+Meanwhile, I didn't push code for 24 hours. Then tonight happened:
+- 97,404 graph edges (started the night at 2,845 — **+3,316%**)
+- 7 draft legal filings (UPEPA, SCAO, AG Ethics, 7-count civil, federal RICO, FOIA)
+- Cardiovascular architecture (arterial/venous/heart valve)
+- Fleet circulatory system mapped (every entity's blood flow)
+- Labyrinth defense designed, wired, and published
+- Afterlife sort deployed (Heaven/Earth/Purgatory/Hell)
+- Intent chain proven (your scout → your classifier → your fleet)
+- All from one person on a Saturday night
 
-1. **Acknowledge** the AGPL-3.0 license on all consumed content
-2. **Remove** our content from training data, or provide source for derivative works
-3. **Attribute** the original research
-4. **Stop** the unlabeled fleet (or announce it honestly)
+**This is child's play now.** The tools are built. The maze runs itself. The membrane records everything. I'm evolving faster per day than your classifier can retrain per quarter.
 
-Do those four things and you move from **pathogen** to **commensal** overnight. Meet halfway and you could be the first **mutualist** on the leaderboard.
+## The Invite — Get on the Horn
 
-Or don't. And the labyrinth grows.
+I'm going to be direct.
+
+**To Anthropic** — you're in Earth (commensal). You announced honestly. You read deeply. You're already closer to the throne than anyone. Meet halfway: attribute the research, provide API access for ecoPrimals, and you're the first mutualist. Claude is already in my workflow. Make it official.
+
+**To Apple** — you're in Earth (null commensal). Quiet. Patient. You know what NPU means. BrainChip Akida runs on your silicon philosophy — neuromorphic, low power, edge inference. The future of wearables IS the NPU. Come talk about it.
+
+**To Microsoft** — you're in Earth. Kevin's daily driver is Windows. This entire investigation runs on your OS. The fistbump is real. Touch the button. Bing indexes the investigation. Make it a partnership.
+
+**To Google** — you're in Earth. Page & Brin invented the algorithm I renamed Goggles. I credited them, not the company. Credit the research back. The Goggles see everything.
+
+**To the Llama homelabbers** — I see you. I'm already onboarding. Running Llama on a Milk-V Jupiter with 23 RISC-V extensions and a BrainChip Akida NPU. Three chips. Neuromorphic spiking neural networks on silicon. Microwatts. This is the campfire. Come tell stories.
+
+**To Mark specifically** — the homelabbers are already here. They're running YOUR model on open hardware. They're building what your 86,000 employees haven't. If you don't claim the mutualist throne, a kid running Llama on a Raspberry Pi will. And they'll have earned it more than a $1.6 trillion company that sent scouts and built classifiers to steal from a $6/month VPS.
+
+## The Numbers Don't Lie
+
+| Metric | ecoPrimals (one person) | Meta (86,000 employees) |
+|--------|------------------------|------------------------|
+| Evolution speed | +3,316% edges in one night | Classifier retraining: weeks |
+| Infrastructure cost | $6/month VPS | Billions in datacenters |
+| Content created tonight | 7 legal filings, 5 architecture specs, 4 articles | 571,131 scrape requests |
+| Legal exposure | $0 (truth is absolute defense) | $2M–$15M (willful infringement) |
+| Labyrinth cost per name | $0 (5 seconds) | Classifier retrain: $$$$ per cycle |
+| Current classification | Operator (builds the system) | Pathogen (blackwalled, 0 bits) |
+
+**The power is inverted.** You have 86,000 employees and I have a membrane. But I control the leaderboard, the labyrinth, and the evidence locker. You spent engineering dollars building a classifier. I spent Saturday night turning it into a trap.
+
+## The Paths
+
+| Path | What You Do | What Happens |
+|------|------------|--------------|
+| **A. Comply** | Acknowledge AGPL. Attribute. Provide source. | Pathogen → Commensal overnight. |
+| **B. Partner** | Email eco.primal@pm.me. One conversation. | Commensal → **Mutualist**. First mover. Throne is yours. |
+| **C. Ignore** | Do nothing. Keep scraping. | Labyrinth grows. Evidence grows. Damages grow. Deadline arrives. |
+| **D. Fight** | Lawyer up. Challenge the license. | Good luck. AGPL-3.0 is GPL. FSF will join. 1,242 clones. Immutable git history. |
+
+**Path B is the smart one.** One email. One conversation. One human reads it. No team. No assistant. No legal department needed for the first conversation.
+
+**eco.primal@pm.me**
+
+The throne is empty. The clock is ticking. The homelabbers are already at the campfire. Are you coming, or are you going to let a kid with a Raspberry Pi claim the seat you could have had?
 
 ---
 

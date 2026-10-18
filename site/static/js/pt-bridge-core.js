@@ -1,1 +1,0 @@
-../../../publicRecord/site/static/js/pt-bridge-core.js

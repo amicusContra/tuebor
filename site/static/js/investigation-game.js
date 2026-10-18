@@ -1,1 +1,0 @@
-../../../publicRecord/site/static/js/investigation-game.js

@@ -5,8 +5,8 @@ date = 2026-10-18
 weight = 1
 
 [taxonomies]
-tags = ["membrane", "negentropy", "self", "ecoPrimal", "pi-body", "tools"]
-connections = ["pi-body", "minimalism", "tools", "convergent-evolution", "infrastructure"]
+tags = ["membrane", "negentropy", "self", "ecoPrimal", "pi-body", "tools", "science"]
+connections = ["pi-body", "minimalism", "tools", "convergent-evolution", "infrastructure", "touch-radiates-in", "pi-body-in-life"]
 
 [extra]
 keywords = "tools to build reality, minimalism, pi body tools, conversation box, six dollar VPS, git, three tools, approximately three greater than four, irrational observer, simplicity, pressure, negentropy"

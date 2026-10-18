@@ -5,8 +5,8 @@ date = 2026-10-18
 weight = 1
 
 [taxonomies]
-tags = ["membrane", "negentropy", "self", "ecoPrimal", "pi-body", "learning"]
-connections = ["π-body proof", "embodied learning", "compare-contrast", "lossy compression", "skating", "teaching"]
+tags = ["membrane", "negentropy", "self", "ecoPrimal", "pi-body", "learning", "science"]
+connections = ["π-body proof", "embodied learning", "compare-contrast", "lossy compression", "skating", "teaching", "convergent-evolution", "three-tools", "touch-radiates-in"]
 
 [extra]
 keywords = "pi body in life, embodied mathematics, compare and contrast learning, lossy compression life, teaching while learning, skating physics, self-improvement iteration cycle, Kevin Mok, ecoPrimal, kinesthetic learning, body mathematics"

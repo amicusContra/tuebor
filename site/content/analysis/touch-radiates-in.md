@@ -5,8 +5,8 @@ date = 2026-10-18
 weight = 2
 
 [taxonomies]
-tags = ["membrane", "negentropy", "self", "ecoPrimal", "convergent-evolution", "sensing"]
-connections = ["convergent-evolution", "sensing-barrier", "silk", "rust", "membrane", "skin", "touch", "proprioception"]
+tags = ["membrane", "negentropy", "self", "ecoPrimal", "convergent-evolution", "sensing", "science"]
+connections = ["convergent-evolution", "sensing-barrier", "silk", "rust", "membrane", "skin", "touch", "proprioception", "pi-body", "three-tools"]
 
 [extra]
 keywords = "convergent evolution, sensing barrier, spider silk vibration, skin proprioception, Rust memory safety, membrane entity classification, touch perception, bidirectional sensing, selectively permeable barrier, biological membrane, information physics"

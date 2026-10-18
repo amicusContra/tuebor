@@ -108,18 +108,22 @@ The fleet is reading fake commits from fake repositories, 2.16 million times, an
 | Ashburn, VA | 8,292 | AWS us-east-1 (standard cloud) |
 | Dublin, IE | 322 | European presence |
 
-The "??" country on 2.13 million requests means: **the fleet IPs don't appear in commercial geolocation databases.** They're datacenter IPs that haven't been cataloged. This is either internal Meta infrastructure or rented capacity from a provider that hasn't published ASN data.
+The "??" country on 2.13 million requests has been resolved. **ASN lookup reveals: AS8075 — Microsoft Corporation.** Atlanta, Georgia datacenter. Usage type: Data Center/Web Hosting/Transit. Domain: microsoft.com.
 
 The top subnets tell the story:
 
 | Subnet | Requests | Note |
 |--------|----------|------|
-| 74.7.241.x | 475,578 | **Fleet primary** |
-| 74.7.227.x | 399,145 | Fleet secondary |
-| 74.7.242.x | 291,331 | Fleet tertiary |
-| 74.7.243.x | 145,796 | Fleet quaternary |
+| 74.7.241.x | 499,944 | **Microsoft — fleet primary** |
+| 74.7.227.x | 419,889 | Microsoft — fleet secondary |
+| 74.7.242.x | 305,235 | Microsoft — fleet tertiary |
+| 74.7.243.x | 152,898 | Microsoft — fleet quaternary |
 
-Four subnets in the 74.7.x.x range. 1.31 million requests. All country "??". This is the fleet's home address range.
+**Four subnets in the 74.7.x.x range. 1.38 million requests. All Microsoft (AS8075).** The entire /16 block (74.7.0.0 - 74.7.255.255) is announced by AS8075 and registered to Microsoft Limited. The "Unknown" country designation occurs because this IP range was transferred from ARIN to RIPE NCC — the geolocation databases haven't caught up to the transfer.
+
+This means the fleet's "home address" is Microsoft infrastructure in Atlanta. Whether this is Microsoft's own crawler (Bingbot uses a different IP range), an Azure customer, or OpenAI (which runs on Azure) using Microsoft IP space — the infrastructure is Microsoft's.
+
+**Update (Oct 18, 12:10 PM EDT):** The 194.26.192.x parasite (18,663 requests) has also been identified: **1337 Services GmbH**, Hamburg, Germany (AS210558). A VPS provider operating as rdp.sh. Someone rented a German VPS to scrape this site. The membrane classified it as parasite before we knew the name. The classification was correct.
 
 ---
 
@@ -258,7 +262,7 @@ For researchers who want to verify the coordinated deployment claim:
 2. **Request uniformity**: Mean 73,131 requests per IP. Standard deviation ~500. CV = 0.007. Independent crawlers would show CV > 0.5.
 3. **Target uniformity**: All 17 IPs hit the same scatter repos in the same proportions. Independent crawlers would show divergent target distributions.
 4. **Trio classification**: All 17 receive identical trio scores (attention: 0.35, curiosity: 0.28, interaction: 0.10). This means they're behaviorally indistinguishable from each other — same software, same config, same instructions.
-5. **Subnet clustering**: 4 subnets in 74.7.x.x, all country "??", all ASN-unresolved. Same infrastructure provider.
+5. **Subnet clustering**: 4 subnets in 74.7.x.x, all AS8075 (Microsoft Corporation), Atlanta datacenter. Same infrastructure provider.
 
 **What fleet coordination means:**
 One entity (organization) deployed 17 machines simultaneously to crawl this site's git surface. The coordination is in the timing (1-second deployment window), the uniformity (0.7% request variance), and the targeting (100% scatter repos). This is not organic discovery. This is infrastructure.

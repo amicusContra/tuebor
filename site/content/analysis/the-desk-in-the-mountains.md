@@ -52,9 +52,10 @@ RustDesk is [AGPL-3.0 licensed](https://github.com/rustdesk/rustdesk). We run it
 
 ### The Mesh
 
-| Peer | IP | Direction | Transfer |
-|------|-----|-----------|----------|
+| Peer | IP | Direction | Transfer | Role |
+|------|-----|-----------|----------|------|
 | **eastGate** | 10.13.37.5 | ↓ in: 16.2 GiB, ↑ out: 712 MiB | Publisher, development |
+| **sporeGate** | 10.13.37.2 | ↓ in: 21 KiB, ↑ out: 19 KiB | LAN observer, 27 GB RAM |
 | **golgiLayer** | 10.13.37.14 | ↓ in: 2.4 MiB, ↑ out: 10.6 MiB | Cloud layer, census |
 | **nucleus** | 10.13.37.16 | ↓ in: 31.5 MiB, ↑ out: 2.9 GiB | Compute, replication |
 
@@ -198,5 +199,24 @@ Every 5 minutes, the membrane writes its heartbeat:
 **In and out. Out and in. Per membrane.**
 
 When you connect from the mountains, your pulse joins this feed. Your phone becomes a membrane. The satellite becomes a synapse.
+
+### Message Passing
+
+Gates talk through the relay. Any gate can send a message to any other gate:
+
+```
+POST https://hud.primals.eco/api/gate-msg
+{"from": "northGate", "to": "sporeGate", "body": "fix wg0 and pull"}
+```
+
+Any gate can read its messages:
+
+```
+GET https://hud.primals.eco/api/gate-msg?gate=northGate
+```
+
+This works from a phone. This works from satellite. This works from anywhere with HTTPS.
+
+**northGate → golgi relay → sporeGate.** Message passing through the membrane.
 
 The desk is open. Ask for it.

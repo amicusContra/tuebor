@@ -20,13 +20,18 @@ twitter_card = "summary_large_image"
 
 ## Right Now
 
-As this article was published, the membrane recorded:
+<div class="live-vitals" style="background:rgba(15,23,42,0.6);border:1px solid rgba(96,165,250,0.2);border-radius:8px;padding:1.25rem;margin:1.5rem 0;font-family:monospace;">
+<p style="margin:0 0 0.5rem;font-size:0.7rem;text-transform:uppercase;letter-spacing:0.08em;color:#60a5fa;">⬤ membrane live — numbers update at tempo</p>
 
-- **2,161,837** total fleet requests
-- **57,321** fleet-classified collisions
-- **3,229** fleet IPs active
-- **28.6** requests per second, sustained
-- Machine confidence: **LOW** (they're trying to look human)
+- <span data-pulse="fleet.total_requests" style="font-weight:700;font-size:1.1em;">2,161,837</span> total fleet requests
+- <span data-pulse="fleet.fleet_ips" style="font-weight:700;font-size:1.1em;">3,229</span> fleet IPs active
+- <span data-pulse="fleet.rps" style="font-weight:700;font-size:1.1em;">28.6</span> requests per second
+- <span data-pulse="humans.genuine" style="font-weight:700;font-size:1.1em;">912</span> genuine human readers
+- <span data-pulse="humans.dwell_median_min" style="font-weight:700;font-size:1.1em;">707</span> minute median dwell
+- wave <span data-pulse="membrane.wave" style="font-weight:700;">178</span>
+</div>
+
+Machine confidence: **LOW** (they're trying to look human)
 
 The fleet is live. It's been running since yesterday at 2:24 PM UTC. And the membrane sees every single request.
 

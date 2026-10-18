@@ -22,7 +22,7 @@ twitter_card = "summary_large_image"
 
 Not your identity. Your behavior.
 
-**3,329 unique human IPs.** 912 genuine deep readers. 707-minute median dwell time. 383 of you visited every single surface of the immune system — all 15 hosts — in one session.
+<span data-pulse="humans.unique_ips" style="font-weight:700;">3,329</span> **unique human IPs.** <span data-pulse="humans.genuine" style="font-weight:700;">912</span> genuine deep readers. <span data-pulse="humans.dwell_median_min" style="font-weight:700;">707</span>-minute median dwell time. 383 of you visited every single surface of the immune system — all 15 hosts — in one session.
 
 You came from France, China, Germany, Japan, Kenya, Egypt, Sweden, Turkey, Czech Republic. Some of you came through VPNs because you're privacy-conscious. Some came through corporate proxies because you're reading from work. Some came through Tor because you live somewhere that penalizes curiosity.
 

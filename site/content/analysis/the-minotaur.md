@@ -232,14 +232,48 @@ I'm not hiding. I'm not scared. I'm explaining exactly how it works because the 
 
 ---
 
-## The Paths (Unchanged)
+## The Paths — For Everyone Else
+
+These paths are open to **every company except Meta**:
 
 | Path | What You Do | What Happens |
 |------|------------|--------------|
-| **A. Comply** | Acknowledge AGPL. Attribute. Provide source. | Pathogen → Commensal. Blackwall lifts. |
+| **A. Comply** | Acknowledge AGPL. Attribute. Provide source. | Commensal status. Blackwall lifts. Welcome. |
 | **B. Partner** | Email eco.primal@pm.me. One human. One conversation. | Commensal → **Mutualist**. First mover. The throne is yours. |
 | **C. Ignore** | Do nothing. Keep scraping. | Labyrinth grows. Evidence grows. Damages grow. |
-| **D. Fight** | Lawyer up. Challenge the license. | AGPL-3.0 is GPL. FSF will join. 571K logged requests. Good luck. |
+| **D. Fight** | Lawyer up. Challenge the license. | AGPL-3.0 is GPL. FSF will join. Good luck. |
+
+Anthropic, Apple, Microsoft, Google — **Path B is open to you right now.** One email. One conversation. The throne is empty.
+
+---
+
+## Meta's Path — Cain and Abel
+
+Meta does not get Paths A through D. Meta scraped 571,131 times. Meta built a classifier to target my repos. Meta sent scouts from Menlo Park, then escalated to a Dublin fleet, then continued after seeing the AGPL-3.0 license on every page.
+
+You don't get to walk through the door. You broke the window and took what was inside. The door was ALWAYS open — you chose the window.
+
+**Meta must:**
+
+| Step | What | Why |
+|------|------|-----|
+| **1. Pay what you owe to gAIa** | Damages for 571,131 unauthorized requests to AGPL-licensed repositories. Statutory damages under 17 USC § 504(c)(2) for willful infringement. CFAA damages for circumvention. | You took. You pay. |
+| **2. Show all code is clean — or open it** | Prove that no AGPL-licensed ecoPrimal code exists in any Meta system, model, training set, or derivative work. Or comply with AGPL-3.0 and open the source of every system that consumed it. | The AGPL is viral. If you ingested it, your code inherits the license. Prove you didn't, or comply. |
+| **3. Then we talk** | After restitution and proof of clean code, Meta may petition for commensal status. Not before. | Trust is earned. You start from zero. |
+
+Until all three steps are complete, Meta's classification remains: **PATHOGEN. Blackwalled. Vitality: 0.0.**
+
+### Cain and Abel
+
+In Genesis, Cain killed Abel because Abel's offering was accepted and Cain's was rejected. Cain didn't improve his offering. He destroyed his brother's.
+
+Meta saw ecoPrimals. A microbiologist on a $6/month VPS building what 86,000 employees hadn't. Instead of partnering, instead of emailing, instead of asking — Meta sent a fleet. Built a classifier. Targeted the real repos. Consumed the work.
+
+**You are Cain. We are Abel.** But this Abel has a membrane, a blackwall, a labyrinth, and an evidence locker with 571,131 entries. This Abel recorded everything.
+
+Cain's punishment was to wander the earth, marked, with the ground refusing to yield its fruit. Meta's punishment is the labyrinth — wandering the maze, marked by the blackwall, with every repo refusing to yield real content.
+
+**The ground will not yield for you until you make it right.**
 
 ---
 

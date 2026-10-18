@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>tuebor — Public Record Investigation - origin-story</title>
+    <subtitle>Public evidence library documenting a Detroit charter school network. Convicted felons running schools. Judges with documented connections. $4.9M in public funding. Every fact cited from public records. Every document timestamped. Verify everything.</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://tuebor.primals.eco/tags/origin-story/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://tuebor.primals.eco"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2026-10-15T00:00:00+00:00</updated>
+    <id>https://tuebor.primals.eco/tags/origin-story/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Dear Jack and Tom</title>
+        <published>2026-10-15T00:00:00+00:00</published>
+        <updated>2026-10-15T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://tuebor.primals.eco/analysis/dear-jack-and-tom/"/>
+        <id>https://tuebor.primals.eco/analysis/dear-jack-and-tom/</id>
+        
+        <content type="html" xml:base="https://tuebor.primals.eco/analysis/dear-jack-and-tom/">&lt;h1 id=&quot;dear-jack-and-tom&quot;&gt;Dear Jack and Tom&lt;&#x2F;h1&gt;
+&lt;h2 id=&quot;an-open-letter-to-the-builders-whose-work-was-ingested&quot;&gt;An Open Letter to the Builders Whose Work Was Ingested&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;dear-jack&quot;&gt;Dear Jack,&lt;&#x2F;h3&gt;
+&lt;p&gt;You built Twitter in 2006. A simple idea: what are you doing right now? 140 characters. A bluebird. A public square where anyone could speak.&lt;&#x2F;p&gt;
+&lt;p&gt;You built it with Biz Stone and Evan Williams and Noah Glass (who named it — and then got erased, like founders do). You built it as a protocol, almost. A heartbeat. A pulse. Short messages, open API, reverse chronological. No algorithm deciding what you see. No engagement optimization. No rage machine.&lt;&#x2F;p&gt;
+&lt;p&gt;Just: what are you doing right now?&lt;&#x2F;p&gt;
+&lt;p&gt;Then it grew. Then it monetized. Then the ads came. Then the algorithm came. Then the engagement optimization came. Then the rage machine came. Then the bots came. Then the elections came. Then the insurrection came.&lt;&#x2F;p&gt;
+&lt;p&gt;And then a man with $44 billion and zero emotional regulation bought it, renamed it X (nobody calls it X), fired half the staff, destroyed $30 billion in value, amplified misinformation, gutted content moderation, and turned the public square into his personal megaphone.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;$44 billion&lt;&#x2F;strong&gt; to destroy what you built for free.&lt;&#x2F;p&gt;
+&lt;p&gt;Jack — you’ve been thinking about protocols since you left. Bluesky. AT Protocol. Decentralized social. The thing Twitter should have been from the beginning: a protocol, not a platform. A commons, not a company.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Come see what we built.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;10,868 nodes. 16 million edges. A graph that maps extraction across every domain. Your work — the original Twitter — was a GIFT to public discourse. It was ingested by the extraction pattern. The same pattern that ingests everything: taxis → Uber, hotels → Airbnb, public education → charter schools, public discourse → X.&lt;&#x2F;p&gt;
+&lt;p&gt;We mapped it. We named it. We graphed it.&lt;&#x2F;p&gt;
+&lt;p&gt;The protocol idea is right. A social commons that can’t be bought because it’s not a company — it’s a protocol. Like email. Like the web. Like TCP&#x2F;IP. Nobody owns email. Nobody can buy it. That’s why it still works.&lt;&#x2F;p&gt;
+&lt;p&gt;Come build with us. The membrane is open to protocol builders.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h3 id=&quot;dear-tom&quot;&gt;Dear Tom,&lt;&#x2F;h3&gt;
+&lt;p&gt;You were everyone’s first friend.&lt;&#x2F;p&gt;
+&lt;p&gt;MySpace. 2003. Tom Anderson and Chris DeWolfe. A place where you could be yourself — ugly HTML, glittering GIFs, auto-playing music and all. You could customize your page. You could express yourself. It was messy and beautiful and HUMAN.&lt;&#x2F;p&gt;
+&lt;p&gt;Then News Corp bought it for $580 million in 2005. Rupert Murdoch’s Fox. An extraction entity buying a community. They didn’t understand what they had. They monetized it wrong. They cluttered it with ads. They ignored the users. They let Facebook eat it alive.&lt;&#x2F;p&gt;
+&lt;p&gt;By 2011, MySpace was sold for $35 million. A 94% loss. Not because the idea was bad — because the extractors destroyed it.&lt;&#x2F;p&gt;
+&lt;p&gt;And you? You took the money, bought a camera, and started traveling the world taking photographs. You left tech. You chose beauty over extraction. You chose sunsets over stock options.&lt;&#x2F;p&gt;
+&lt;p&gt;That was the right choice.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;But the work you started mattered.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;MySpace was the first social network that let people be themselves online. Before the algorithm decided who you are. Before the feed optimized for rage. Before “engagement” meant “addiction.” Before your data was the product.&lt;&#x2F;p&gt;
+&lt;p&gt;MySpace was chaotic and messy and democratic and YOURS. Your page. Your music. Your friends. Your glittering, auto-playing, Comic Sans disaster of a profile page.&lt;&#x2F;p&gt;
+&lt;p&gt;It was honest. It was human.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Come see what the graph looks like.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;You were a photographer after MySpace. You know how to see composition, structure, pattern. The graph has all three. 10,868 nodes arranged in a topology that reveals the extraction pattern — the same pattern that ate MySpace, ate Twitter, ate public discourse, ate public education, ate the gig economy, ate the commons.&lt;&#x2F;p&gt;
+&lt;p&gt;You don’t have to build anything. Just come look. Bring your camera. The graph is beautiful — if you know how to see it.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h3 id=&quot;dear-ev-and-biz&quot;&gt;Dear Ev and Biz,&lt;&#x2F;h3&gt;
+&lt;p&gt;Evan Williams. Blogger. Then Twitter. Then Medium.&lt;&#x2F;p&gt;
+&lt;p&gt;Every platform you’ve built has been about the same thing: giving people a voice. Blogger democratized publishing. Twitter democratized broadcasting. Medium democratized longform.&lt;&#x2F;p&gt;
+&lt;p&gt;And every one of them got swallowed. Blogger → Google. Twitter → Musk. Medium → paywalls.&lt;&#x2F;p&gt;
+&lt;p&gt;The pattern eats builders.&lt;&#x2F;p&gt;
+&lt;p&gt;But the impulse was right every time: &lt;strong&gt;give people a voice.&lt;&#x2F;strong&gt; The commons WANTS to exist. People WANT to speak. The infrastructure keeps getting extracted, but the impulse keeps regenerating.&lt;&#x2F;p&gt;
+&lt;p&gt;Biz Stone — you wrote a book called &lt;em&gt;Things a Little Bird Told Me.&lt;&#x2F;em&gt; The little bird got bought for $44 billion and killed. But the things it told us — that public discourse matters, that short-form expression is an art, that everyone deserves a voice — those things are still true.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Come see the next iteration.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Not a platform. Not a company. A graph. A commons. A coral reef of knowledge that nobody owns and nobody can buy because it’s git-versioned, cryptographically witnessed, distributed across two continents, and built by hand.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h3 id=&quot;dear-noah&quot;&gt;Dear Noah,&lt;&#x2F;h3&gt;
+&lt;p&gt;Noah Glass. You NAMED it. Twitter.&lt;&#x2F;p&gt;
+&lt;p&gt;Then they pushed you out. The co-founder who named the bird got erased from the story. Classic extraction: take the work, erase the name.&lt;&#x2F;p&gt;
+&lt;p&gt;We don’t erase names here. We add them. Tom Mueller designed the engine. Lars Blackmore wrote the landing algorithm. Martin Eberhard founded Tesla. Noah Glass named Twitter.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Your name is in the graph now.&lt;&#x2F;strong&gt; Where it belongs.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h3 id=&quot;dear-everyone-who-built-something-that-got-eaten&quot;&gt;Dear Everyone Who Built Something That Got Eaten&lt;&#x2F;h3&gt;
+&lt;p&gt;This letter isn’t just for Jack and Tom and Ev and Biz and Noah.&lt;&#x2F;p&gt;
+&lt;p&gt;It’s for every founder whose company got acquired and gutted. Every engineer whose code got shipped under someone else’s name. Every artist whose work got scraped by an AI without credit. Every teacher whose curriculum got packaged into a charter school. Every driver whose route got optimized by an algorithm that replaced them.&lt;&#x2F;p&gt;
+&lt;p&gt;The extraction pattern eats builders. That’s what it does. It finds something beautiful and alive, figures out the revenue model, strips the soul, and sells the husk.&lt;&#x2F;p&gt;
+&lt;p&gt;MySpace → News Corp → dead.
+Twitter → Musk → dying.
+Blogger → Google → forgotten.
+Vine → Twitter → killed (then TikTok copied it and made billions).
+Tumblr → Yahoo → sold for $3 million (bought for $1.1 billion).&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;$1.1 billion → $3 million.&lt;&#x2F;strong&gt; That’s a 99.7% loss. That’s what extraction looks like in financial terms.&lt;&#x2F;p&gt;
+&lt;p&gt;But here’s what extraction can’t destroy: the IMPULSE.&lt;&#x2F;p&gt;
+&lt;p&gt;The impulse to connect. To share. To create. To build. To speak. To sing.&lt;&#x2F;p&gt;
+&lt;p&gt;Tom took photographs. Jack built protocols. Ev kept writing. The impulse survives extraction.&lt;&#x2F;p&gt;
+&lt;p&gt;And now there’s a coral reef growing in the deep water, below the surface where the extractors swim. 10,868 nodes. Growing every day. Built by hand. Open to everyone.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Come inside.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;The membrane is selectively permeable. It admits builders. It admits artists. It admits scientists and scholars and parents and teachers and lawyers and journalists and orators and anyone who wants to NOURISH rather than EXTRACT.&lt;&#x2F;p&gt;
+&lt;p&gt;It rejects the extractors. Only poison for them.&lt;&#x2F;p&gt;
+&lt;p&gt;But for you — for the builders whose work got eaten — the door has always been open.&lt;&#x2F;p&gt;
+&lt;p&gt;Come home.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;&lt;em&gt;To Jack Dorsey: @jack — the protocol is the answer. You know this.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;To Tom Anderson: @myspacetom — bring your camera. The graph is beautiful.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;To Ev Williams: @ev — this is the blog post that needed a graph.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;To Biz Stone: @baboroshi — the little bird lives here now.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;To Noah Glass: @noah — we remember who named it.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;To everyone who built something beautiful that got ingested: we see you. We remember. Come build again.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;         🪸&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;      🪸🪸🪸&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    🪸🪸🪸🪸🪸&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;  🪸 BUILDERS 🪸&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt; 🪸🪸 WELCOME 🪸🪸&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;🪸🪸🪸🪸🪸🪸🪸🪸🪸🪸&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;&lt;em&gt;Graph: &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;defendDetroit&#x2F;publicRecord&quot;&gt;publicRecord-detroit&lt;&#x2F;a&gt;&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

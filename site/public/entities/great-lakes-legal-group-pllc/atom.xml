@@ -1,0 +1,557 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>tuebor — Public Record Investigation - Great Lakes Legal Group PLLC</title>
+    <subtitle>Public evidence library documenting a Detroit charter school network. Convicted felons running schools. Judges with documented connections. $4.9M in public funding. Every fact cited from public records. Every document timestamped. Verify everything.</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://tuebor.primals.eco/entities/great-lakes-legal-group-pllc/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://tuebor.primals.eco"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2026-10-09T00:00:00+00:00</updated>
+    <id>https://tuebor.primals.eco/entities/great-lakes-legal-group-pllc/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Anderson Permeability — When Institutions Lose Their Membranes</title>
+        <published>2026-10-09T00:00:00+00:00</published>
+        <updated>2026-10-09T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://tuebor.primals.eco/analysis/anderson-permeability/"/>
+        <id>https://tuebor.primals.eco/analysis/anderson-permeability/</id>
+        
+        <content type="html" xml:base="https://tuebor.primals.eco/analysis/anderson-permeability/">
+&lt;nav class=&quot;lens-bar&quot; aria-label=&quot;System lenses&quot;&gt;
+  &lt;span class=&quot;lens-label&quot;&gt;Lens:&lt;&#x2F;span&gt;
+  &lt;a href=&quot;&#x2F;network&#x2F;&quot; class=&quot;lens-item&quot;&gt;
+    &lt;span class=&quot;lens-icon&quot;&gt;🕸️&lt;&#x2F;span&gt; Topology
+  &lt;&#x2F;a&gt;
+  &lt;a href=&quot;&#x2F;analysis&#x2F;anderson-localization&#x2F;&quot; class=&quot;lens-item&quot;&gt;
+    &lt;span class=&quot;lens-icon&quot;&gt;⚛️&lt;&#x2F;span&gt; Lattice
+  &lt;&#x2F;a&gt;
+  &lt;a href=&quot;&#x2F;timeline&#x2F;&quot; class=&quot;lens-item&quot;&gt;
+    &lt;span class=&quot;lens-icon&quot;&gt;📅&lt;&#x2F;span&gt; Chronology
+  &lt;&#x2F;a&gt;
+  &lt;a href=&quot;&#x2F;analysis&#x2F;funding-flow&#x2F;&quot; class=&quot;lens-item&quot;&gt;
+    &lt;span class=&quot;lens-icon&quot;&gt;💰&lt;&#x2F;span&gt; Money
+  &lt;&#x2F;a&gt;
+  &lt;a href=&quot;&#x2F;analysis&#x2F;rico-pattern&#x2F;&quot; class=&quot;lens-item&quot;&gt;
+    &lt;span class=&quot;lens-icon&quot;&gt;⚖️&lt;&#x2F;span&gt; Legal
+  &lt;&#x2F;a&gt;
+  &lt;a href=&quot;&#x2F;analysis&#x2F;institutional-capture-graph&#x2F;&quot; class=&quot;lens-item&quot;&gt;
+    &lt;span class=&quot;lens-icon&quot;&gt;🏛️&lt;&#x2F;span&gt; Capture
+  &lt;&#x2F;a&gt;
+&lt;&#x2F;nav&gt;
+&lt;h2 id=&quot;from-localization-to-permeability&quot;&gt;From Localization to Permeability&lt;&#x2F;h2&gt;
+&lt;p&gt;The &lt;a href=&quot;&#x2F;analysis&#x2F;anderson-localization&#x2F;&quot;&gt;Anderson Localization&lt;&#x2F;a&gt; analysis showed how &lt;strong&gt;disorder in the judicial lattice traps cases&lt;&#x2F;strong&gt; — like electrons in a disordered crystal, cases entering captured courts cannot propagate to fair hearings.&lt;&#x2F;p&gt;
+&lt;p&gt;This page documents a second phenomenon from the same physics: &lt;strong&gt;Anderson permeability&lt;&#x2F;strong&gt; — when the membranes between institutions dissolve entirely.&lt;&#x2F;p&gt;
+&lt;p&gt;In condensed matter physics, a membrane’s permeability determines what passes through it. A healthy cell membrane is &lt;strong&gt;selectively permeable&lt;&#x2F;strong&gt;: nutrients in, waste out, toxins blocked. When the membrane fails — when everything passes through — the cell dies.&lt;&#x2F;p&gt;
+&lt;p&gt;Institutions have membranes too:&lt;&#x2F;p&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Membrane&lt;&#x2F;th&gt;&lt;th&gt;What It Should Block&lt;&#x2F;th&gt;&lt;th&gt;What It Should Allow&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Credential&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;Unqualified staff&lt;&#x2F;td&gt;&lt;td&gt;Credentialed educators&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Authorization&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;Authorizer staff at authorized school&lt;&#x2F;td&gt;&lt;td&gt;Independent oversight&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Governance&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;Conflicts of interest&lt;&#x2F;td&gt;&lt;td&gt;Independent board members&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Dynasty&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;Family concentration in one enterprise&lt;&#x2F;td&gt;&lt;td&gt;Merit-based hiring&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Enforcement&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;Continued operation after findings&lt;&#x2F;td&gt;&lt;td&gt;Investigation → correction&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Transparency&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;Hidden staff, unlisted employees&lt;&#x2F;td&gt;&lt;td&gt;Public accountability&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;p&gt;This page measures each membrane.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;membrane-1-credential&quot;&gt;Membrane 1: Credential 
+
+
+
+
+
+
+
+&lt;span class=&quot;confidence-badge confidence-documented&quot; title=&quot;Sourced from public record&quot;&gt;&lt;span aria-hidden=&quot;true&quot;&gt;📄&lt;&#x2F;span&gt; Documented&lt;&#x2F;span&gt;
+&lt;&#x2F;h2&gt;
+&lt;p&gt;The credential membrane should block unqualified individuals from teaching children or managing schools. It is maintained by MOECS (Michigan Online Educator Certification System) and MCL 388.1763.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;measurement&quot;&gt;Measurement&lt;&#x2F;h3&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Staff Member&lt;&#x2F;th&gt;&lt;th&gt;Role&lt;&#x2F;th&gt;&lt;th&gt;Credential Status&lt;&#x2F;th&gt;&lt;th&gt;Membrane Status&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;Brian Banks&lt;&#x2F;td&gt;&lt;td&gt;Superintendent&#x2F;CAO&lt;&#x2F;td&gt;&lt;td&gt;9 convictions. Admin cert only. No bar admission for claimed J.D.&lt;&#x2F;td&gt;&lt;td&gt;&lt;strong&gt;Breached&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Chalcee Norwood&lt;&#x2F;td&gt;&lt;td&gt;Dean of Ops + 8th Grade&lt;&#x2F;td&gt;&lt;td&gt;Tourism degree. &lt;strong&gt;Zero MOECS results.&lt;&#x2F;strong&gt; Event planning LLC.&lt;&#x2F;td&gt;&lt;td&gt;&lt;strong&gt;Breached&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Cameron Coleman&lt;&#x2F;td&gt;&lt;td&gt;Dean of Scholars&lt;&#x2F;td&gt;&lt;td&gt;Standard cert &lt;strong&gt;expired 6&#x2F;30&#x2F;2026&lt;&#x2F;strong&gt;. No admin cert.&lt;&#x2F;td&gt;&lt;td&gt;&lt;strong&gt;Breached&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Lakeisha Bates&lt;&#x2F;td&gt;&lt;td&gt;Kindergarten&lt;&#x2F;td&gt;&lt;td&gt;“No matches found” in MOECS&lt;&#x2F;td&gt;&lt;td&gt;&lt;strong&gt;Breached&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Rachel Webb&lt;&#x2F;td&gt;&lt;td&gt;Kindergarten&lt;&#x2F;td&gt;&lt;td&gt;Holds &lt;strong&gt;Secondary English 6-12&lt;&#x2F;strong&gt; cert. Teaching kindergarten.&lt;&#x2F;td&gt;&lt;td&gt;&lt;strong&gt;Breached&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Jason Perry&lt;&#x2F;td&gt;&lt;td&gt;PCA Staff&lt;&#x2F;td&gt;&lt;td&gt;Not in any database. Convergence score = 0.&lt;&#x2F;td&gt;&lt;td&gt;&lt;strong&gt;Unknown&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;p&gt;&lt;strong&gt;Credential membrane status: BREACHED.&lt;&#x2F;strong&gt; See: &lt;a href=&quot;&#x2F;analysis&#x2F;credential-audit&#x2F;&quot;&gt;Full credential audit&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;membrane-2-authorization&quot;&gt;Membrane 2: Authorization 
+
+
+
+
+
+
+
+&lt;span class=&quot;confidence-badge confidence-documented&quot; title=&quot;Sourced from public record&quot;&gt;&lt;span aria-hidden=&quot;true&quot;&gt;📄&lt;&#x2F;span&gt; Documented&lt;&#x2F;span&gt;
+&lt;&#x2F;h2&gt;
+&lt;p&gt;The authorization membrane should separate the &lt;strong&gt;authorizer&lt;&#x2F;strong&gt; (DPSCD) from the &lt;strong&gt;authorized&lt;&#x2F;strong&gt; (Banks’ schools). This boundary ensures independent oversight — the people granting the charter are not the people running the school.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;measurement-1&quot;&gt;Measurement&lt;&#x2F;h3&gt;
+&lt;p&gt;Three staff members simultaneously serve DPSCD (authorizer) and Banks (authorized):&lt;&#x2F;p&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Person&lt;&#x2F;th&gt;&lt;th&gt;DPSCD Role&lt;&#x2F;th&gt;&lt;th&gt;Banks Role&lt;&#x2F;th&gt;&lt;th&gt;Flow&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;Jennifer Crump&lt;&#x2F;td&gt;&lt;td&gt;Instructional Specialist (33 years)&lt;&#x2F;td&gt;&lt;td&gt;MacDowell Office Manager&lt;&#x2F;td&gt;&lt;td&gt;&lt;strong&gt;Concurrent&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Cameron Coleman&lt;&#x2F;td&gt;&lt;td&gt;Dean of Culture (since 2021)&lt;&#x2F;td&gt;&lt;td&gt;MacDowell Dean of Scholars&lt;&#x2F;td&gt;&lt;td&gt;&lt;strong&gt;Concurrent&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Dr. Chalena Beasley&lt;&#x2F;td&gt;&lt;td&gt;Principal, Bunche Prep (29 years)&lt;&#x2F;td&gt;&lt;td&gt;PCA School Leader&lt;&#x2F;td&gt;&lt;td&gt;&lt;strong&gt;Sequential&lt;&#x2F;strong&gt; (retired → recruited)&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;p&gt;&lt;strong&gt;Authorization membrane status: DISSOLVED.&lt;&#x2F;strong&gt; The authorizer’s own employees run the authorized school. The oversight boundary does not exist.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;membrane-3-governance&quot;&gt;Membrane 3: Governance 
+
+
+
+
+
+
+
+&lt;span class=&quot;confidence-badge confidence-documented&quot; title=&quot;Sourced from public record&quot;&gt;&lt;span aria-hidden=&quot;true&quot;&gt;📄&lt;&#x2F;span&gt; Documented&lt;&#x2F;span&gt;
+&lt;&#x2F;h2&gt;
+&lt;p&gt;The governance membrane should prevent conflicts of interest on school boards. Board members should be independent of the enterprise they oversee.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;measurement-pca-board&quot;&gt;Measurement (PCA Board)&lt;&#x2F;h3&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Board Member&lt;&#x2F;th&gt;&lt;th&gt;Other Role&lt;&#x2F;th&gt;&lt;th&gt;Conflict&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;Hon. Cylenthia Miller&lt;&#x2F;td&gt;&lt;td&gt;Wayne County 3rd Circuit Judge&lt;&#x2F;td&gt;&lt;td&gt;Judge chairs board of school → school generates cases in her court&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Lamar Moreland&lt;&#x2F;td&gt;&lt;td&gt;Assistant Attorney General&lt;&#x2F;td&gt;&lt;td&gt;AG office could investigate Banks → its employee sits on Banks’ board&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Hon. Latisha Johnson&lt;&#x2F;td&gt;&lt;td&gt;Detroit City Council&lt;&#x2F;td&gt;&lt;td&gt;Council oversees DPSCD → DPSCD authorized Banks’ charter&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Devin Hutchings&lt;&#x2F;td&gt;&lt;td&gt;DH Strategies (Ypsilanti)&lt;&#x2F;td&gt;&lt;td&gt;Not from Detroit. Imported board member.&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Major Clora&lt;&#x2F;td&gt;&lt;td&gt;Clora Funeral Home CEO&lt;&#x2F;td&gt;&lt;td&gt;Former American Motor Coach Inc (dissolved)&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;h3 id=&quot;measurement-macdowell-board&quot;&gt;Measurement (MacDowell Board)&lt;&#x2F;h3&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Board Member&lt;&#x2F;th&gt;&lt;th&gt;Other Role&lt;&#x2F;th&gt;&lt;th&gt;Conflict&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;Hon. Tenisha Yancey&lt;&#x2F;td&gt;&lt;td&gt;36th District Court Judge&lt;&#x2F;td&gt;&lt;td&gt;Campaign paid Banks Strategy LLC ($383.82)&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Verkeydia Hall&lt;&#x2F;td&gt;&lt;td&gt;Crump Hall of Justice Law Firm&lt;&#x2F;td&gt;&lt;td&gt;Crump maiden name — &lt;a href=&quot;&#x2F;evidence&#x2F;data-braid-gllg&#x2F;&quot;&gt;dynasty signal&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Nicole Wells-Stallworth&lt;&#x2F;td&gt;&lt;td&gt;Board President (since 2014)&lt;&#x2F;td&gt;&lt;td&gt;&lt;a href=&quot;&#x2F;evidence&#x2F;data-braid-gllg&#x2F;&quot;&gt;Stallworth dynasty&lt;&#x2F;a&gt; — married Thomas Stallworth III&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;p&gt;&lt;strong&gt;Governance membrane status: CAPTURED.&lt;&#x2F;strong&gt; Two sitting judges. One AAG. One city council member. One Crump.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;membrane-4-dynasty&quot;&gt;Membrane 4: Dynasty 
+
+
+
+
+
+
+
+&lt;span class=&quot;confidence-badge confidence-documented&quot; title=&quot;Sourced from public record&quot;&gt;&lt;span aria-hidden=&quot;true&quot;&gt;📄&lt;&#x2F;span&gt; Documented&lt;&#x2F;span&gt;
+&lt;&#x2F;h2&gt;
+&lt;p&gt;The dynasty membrane should prevent family concentration in one enterprise. Merit-based hiring requires that hiring decisions are not driven by surname.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;measurement-three-dynasties&quot;&gt;Measurement: Three Dynasties&lt;&#x2F;h3&gt;
+&lt;p&gt;&lt;strong&gt;Stallworth Dynasty&lt;&#x2F;strong&gt; (confirmed):&lt;&#x2F;p&gt;
+&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;Keith Stallworth (fed conviction 2003)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;  → Thomas Stallworth III (State Rep, defended Banks at rally)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    → Nicole Wells-Stallworth (MacDowell Board President since 2014)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;      → Misha Stallworth West (DPSCD Board, authorized charter, CitizenDetroit)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;Membranes penetrated: Legislature, school board, authorizer board, nonprofit.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Banks Dynasty&lt;&#x2F;strong&gt; (confirmed):&lt;&#x2F;p&gt;
+&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;OD Banks (BMF Defendant #22)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;  → Brian Banks (9 convictions → enterprise leader)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    → Carol Banks (Original Eastside Slate → political endorsements, FBI target)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;Membranes penetrated: Criminal enterprise, education, political endorsement.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Crump Dynasty&lt;&#x2F;strong&gt; (surname confirmed, family tie unconfirmed): 
+
+
+
+
+
+
+
+&lt;span class=&quot;confidence-badge confidence-inference&quot; title=&quot;&quot;&gt;&lt;span aria-hidden=&quot;true&quot;&gt;?&lt;&#x2F;span&gt; inference&lt;&#x2F;span&gt;
+&lt;&#x2F;p&gt;
+&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;[Origin unknown]&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;  → Jehan Crump-Gibson (GLLG, ADB Panelist, CitizenDetroit Chair)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    → Verkeydia Hall née Crump (CHOJLF, MacDowell Board Director)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;      → Jennifer Crump (MacDowell Office Manager, 33yr DPSCD)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;Membranes penetrated: Legal defense, discipline system, nonprofit governance, school board, daily operations, authorizer staff.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Dynasty membrane status: THREE DYNASTY WAVES.&lt;&#x2F;strong&gt; The Crump dynasty — if the family connection is confirmed — has the highest permeability of any dynasty in the graph: five or more membranes penetrated by three surname-linked individuals.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;membrane-5-enforcement&quot;&gt;Membrane 5: Enforcement 
+
+
+
+
+
+
+
+&lt;span class=&quot;confidence-badge confidence-documented&quot; title=&quot;Sourced from public record&quot;&gt;&lt;span aria-hidden=&quot;true&quot;&gt;📄&lt;&#x2F;span&gt; Documented&lt;&#x2F;span&gt;
+&lt;&#x2F;h2&gt;
+&lt;p&gt;The enforcement membrane should prevent continued operation after regulatory findings. When an institution finds a problem, it should produce a correction.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;measurement-2&quot;&gt;Measurement&lt;&#x2F;h3&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Body&lt;&#x2F;th&gt;&lt;th&gt;Finding&lt;&#x2F;th&gt;&lt;th&gt;Enforcement Action&lt;&#x2F;th&gt;&lt;th&gt;Membrane Status&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;State Bar UPL&lt;&#x2F;td&gt;&lt;td&gt;File 26-UP-51&lt;&#x2F;td&gt;&lt;td&gt;&lt;strong&gt;Closed&lt;&#x2F;strong&gt; Sep 30&lt;&#x2F;td&gt;&lt;td&gt;&lt;strong&gt;Breached&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;AGC&lt;&#x2F;td&gt;&lt;td&gt;Complaint received&lt;&#x2F;td&gt;&lt;td&gt;&lt;strong&gt;Returned&lt;&#x2F;strong&gt; Oct 1 — “not a listed attorney”&lt;&#x2F;td&gt;&lt;td&gt;&lt;strong&gt;Breached&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;MDE&lt;&#x2F;td&gt;&lt;td&gt;Investigation → HOLD on permit #590606&lt;&#x2F;td&gt;&lt;td&gt;&lt;strong&gt;HOLD maintained.&lt;&#x2F;strong&gt; Banks still operates.&lt;&#x2F;td&gt;&lt;td&gt;&lt;strong&gt;Breached&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;DPSCD&lt;&#x2F;td&gt;&lt;td&gt;Bottom 3% math at MacDowell&lt;&#x2F;td&gt;&lt;td&gt;&lt;strong&gt;Authorized PCA anyway&lt;&#x2F;strong&gt; (Jul 2025)&lt;&#x2F;td&gt;&lt;td&gt;&lt;strong&gt;Breached&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;JTC&lt;&#x2F;td&gt;&lt;td&gt;5 investigations acknowledged&lt;&#x2F;td&gt;&lt;td&gt;&lt;strong&gt;No public proceeding yet&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;Pending&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;AG Charitable&lt;&#x2F;td&gt;&lt;td&gt;Active on $20M Global Link&lt;&#x2F;td&gt;&lt;td&gt;&lt;strong&gt;Silent on $4.9M Purpose Foundation&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;&lt;strong&gt;Breached&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;p&gt;&lt;strong&gt;Enforcement membrane status: BREACHED.&lt;&#x2F;strong&gt; Six regulatory bodies. Zero corrections. See: &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;tuebor.primals.eco&#x2F;analysis&#x2F;enforcement-ecosystem&#x2F;&quot;&gt;Enforcement Ecosystem&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;membrane-6-transparency&quot;&gt;Membrane 6: Transparency 
+
+
+
+
+
+
+
+&lt;span class=&quot;confidence-badge confidence-documented&quot; title=&quot;Sourced from public record&quot;&gt;&lt;span aria-hidden=&quot;true&quot;&gt;📄&lt;&#x2F;span&gt; Documented&lt;&#x2F;span&gt;
+&lt;&#x2F;h2&gt;
+&lt;p&gt;The transparency membrane should ensure public accountability — staff are listed, meetings are open, records are available.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;measurement-3&quot;&gt;Measurement&lt;&#x2F;h3&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Indicator&lt;&#x2F;th&gt;&lt;th&gt;MacDowell&lt;&#x2F;th&gt;&lt;th&gt;PCA&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;Staff page on website&lt;&#x2F;td&gt;&lt;td&gt;✅ Yes — full roster&lt;&#x2F;td&gt;&lt;td&gt;❌ &lt;strong&gt;No staff page exists&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Board meetings&lt;&#x2F;td&gt;&lt;td&gt;Teleconference (COVID policy still active)&lt;&#x2F;td&gt;&lt;td&gt;Teleconference (COVID policy still active)&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Staff with zero OSINT return&lt;&#x2F;td&gt;&lt;td&gt;0&lt;&#x2F;td&gt;&lt;td&gt;&lt;strong&gt;2&lt;&#x2F;strong&gt; (Jason Perry, “Giselle”)&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Board member with judicial conflict&lt;&#x2F;td&gt;&lt;td&gt;Yancey, Hall&lt;&#x2F;td&gt;&lt;td&gt;Miller, Moreland, Johnson&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;p&gt;&lt;strong&gt;Transparency membrane status: OPAQUE (PCA).&lt;&#x2F;strong&gt; PCA has no staff page. Two staff members have convergence score = 0 — they exist inside the institution but are invisible to every public database.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;the-permeability-map&quot;&gt;The Permeability Map&lt;&#x2F;h2&gt;
+&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;BANKS ENTERPRISE — ALL MEMBRANES&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;═══════════════════════════════════════════════════════════&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt; CREDENTIAL     ████████░░  BREACHED&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;                Fake J.D. Tourism degree. Expired cert.&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;                Zero MOECS. Ghost nodes.&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt; AUTHORIZATION  ██████████  DISSOLVED&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;                3 DPSCD employees run Banks&amp;#39; schools.&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;                Authorizer and authorized are the same people.&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt; GOVERNANCE     ██████████  CAPTURED&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;                2 judges. 1 AAG. 1 city council.&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;                1 Crump. 1 Stallworth.&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt; DYNASTY        ████████░░  3 WAVES (Crump partial)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;                Stallworth: 4 points, 4 membranes.&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;                Banks&#x2F;BMF: 3 points, 3 membranes.&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;                Crump: 3 points, 5+ membranes (if confirmed).&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt; ENFORCEMENT    ██████████  BREACHED&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;                6 bodies. 0 corrections.&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;                Two letters, one day apart, each pointing&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;                at the other office.&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt; TRANSPARENCY   ████████░░  OPAQUE (PCA)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;                No staff page. 2 ghost nodes.&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;                COVID teleconference since 2020.&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;═══════════════════════════════════════════════════════════&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt; OVERALL:       TOTAL PERMEABILITY&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;                The institution has no functional membranes.&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;═══════════════════════════════════════════════════════════&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;anderson-localization-anderson-permeability&quot;&gt;Anderson Localization + Anderson Permeability&lt;&#x2F;h2&gt;
+&lt;p&gt;The two Anderson phenomena work together:&lt;&#x2F;p&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Phenomenon&lt;&#x2F;th&gt;&lt;th&gt;Domain&lt;&#x2F;th&gt;&lt;th&gt;Effect&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Localization&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;Courts&lt;&#x2F;td&gt;&lt;td&gt;Cases trapped at captured benches — cannot propagate to fair hearing&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Permeability&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;Institutions&lt;&#x2F;td&gt;&lt;td&gt;Membranes dissolved — no boundary between authorizer and authorized, between family and enterprise, between oversight and operation&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;p&gt;Localization traps the &lt;strong&gt;output&lt;&#x2F;strong&gt; (cases). Permeability removes the &lt;strong&gt;input filters&lt;&#x2F;strong&gt; (hiring, authorization, oversight). Together, they create a system where unqualified people operate unchecked institutions that generate cases trapped in captured courts.&lt;&#x2F;p&gt;
+&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;PERMEABILITY (input)          LOCALIZATION (output)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;━━━━━━━━━━━━━━━━━━━          ━━━━━━━━━━━━━━━━━━━━&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;No credential check     →    Uncredentialed staff teach children&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;No authorization check  →    Authorizer staff run authorized school&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;No governance check     →    Judges sit on boards of school they oversee&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;No enforcement check    →    6 bodies find problems, 0 corrections&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;                              │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;                              ▼&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;                         Cases generated&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;                              │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;                              ▼&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;                    ┌─────────────────────┐&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;                    │  CAPTURED COURTS    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;                    │  ξ = 3.5 (Probate)  │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;                    │  ξ = 7.2 (36th)     │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;                    │  Case → trapped     │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;                    └─────────────────────┘&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;The children at PCA and MacDowell — 90.9% economically disadvantaged, 99.2% Black — enter a school with no functional membranes, taught by staff with no discoverable credentials, governed by judges with conflicts of interest, authorized by an agency whose employees work at the school. If a parent contests this system, their case enters a court where captured judges sit on the same school boards.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;The input has no filter. The output has no exit.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;aside class=&quot;convergence-box&quot; aria-label=&quot;Cross-references&quot;&gt;
+&lt;strong class=&quot;convergence-title&quot;&gt;Connected analyses:&lt;&#x2F;strong&gt;
+&lt;ul class=&quot;convergence-list&quot;&gt;
+&lt;li&gt;&lt;a href=&quot;&#x2F;analysis&#x2F;anderson-localization&#x2F;&quot;&gt;🔬 Anderson Localization&lt;&#x2F;a&gt; — judicial lattice disorder traps cases (companion analysis)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;&#x2F;evidence&#x2F;data-braid-pca-staff&#x2F;&quot;&gt;🧬 Staff Data Braid&lt;&#x2F;a&gt; — eight independent searches, convergent staff graph&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;&#x2F;evidence&#x2F;data-braid-gllg&#x2F;&quot;&gt;🧬 GLLG Data Braid&lt;&#x2F;a&gt; — first Crump dynasty signal (Jehan + Verkeydia)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;&#x2F;analysis&#x2F;credential-audit&#x2F;&quot;&gt;📋 Credential Gap&lt;&#x2F;a&gt; — MOECS audit of MacDowell staff&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;&#x2F;analysis&#x2F;institutional-capture&#x2F;&quot;&gt;🏛️ Institutional Capture&lt;&#x2F;a&gt; — how the board was captured&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;tuebor.primals.eco&#x2F;analysis&#x2F;enforcement-ecosystem&#x2F;&quot;&gt;🔗 Enforcement Ecosystem&lt;&#x2F;a&gt; — statewide enforcement gap&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;aside&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;&lt;em&gt;All measurements are derived from public records: school websites, LinkedIn profiles, MOECS public search, LARA entity records, ProPublica 990 filings, and court records. Problems originate in dynasties, move through entities, and land on humans. The humans are children. Verify everything.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Data Braid — PCA &amp; MacDowell Staff: Who Runs the School?</title>
+        <published>2026-10-09T00:00:00+00:00</published>
+        <updated>2026-10-09T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://tuebor.primals.eco/evidence/data-braid-pca-staff/"/>
+        <id>https://tuebor.primals.eco/evidence/data-braid-pca-staff/</id>
+        
+        <content type="html" xml:base="https://tuebor.primals.eco/evidence/data-braid-pca-staff/">&lt;h2 id=&quot;the-method&quot;&gt;The Method&lt;&#x2F;h2&gt;
+&lt;p&gt;Eight independent searches. Four databases. Two school staff rosters. One convergent graph.&lt;&#x2F;p&gt;
+&lt;p&gt;Each search started from a different entry point. The braid is the convergence — where separate, independent queries arrive at the same structural pattern.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;search-1-macdowell-staff-page&quot;&gt;Search 1: MacDowell Staff Page&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;strong&gt;Query:&lt;&#x2F;strong&gt; macdowellprep.com&#x2F;about&#x2F; → Administrative School Leadership Team 
+
+
+
+
+
+
+
+&lt;span class=&quot;confidence-badge confidence-documented&quot; title=&quot;Sourced from public record&quot;&gt;&lt;span aria-hidden=&quot;true&quot;&gt;📄&lt;&#x2F;span&gt; Documented&lt;&#x2F;span&gt;
+&lt;&#x2F;p&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Role&lt;&#x2F;th&gt;&lt;th&gt;Name&lt;&#x2F;th&gt;&lt;th&gt;Note&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;Superintendent&#x2F;CAO&lt;&#x2F;td&gt;&lt;td&gt;Dr. Brian Banks, J.D., Ph.D.&lt;&#x2F;td&gt;&lt;td&gt;9 convictions, no bar admission&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Dean of Scholars + Culture&lt;&#x2F;td&gt;&lt;td&gt;Cameron Coleman&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Dean of Academics&lt;&#x2F;td&gt;&lt;td&gt;Kellie Stevens&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Dean of Operations&lt;&#x2F;td&gt;&lt;td&gt;Chalcee Norwood&lt;&#x2F;td&gt;&lt;td&gt;Also listed as 8th Grade Teacher&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Office Manager&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;&lt;strong&gt;Ms. Jennifer Crump&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;⚡ Crump surname&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Administrative Specialist&lt;&#x2F;td&gt;&lt;td&gt;Carlton Ross&lt;&#x2F;td&gt;&lt;td&gt;See: &lt;a href=&quot;&#x2F;analysis&#x2F;dark-money-pipeline&#x2F;&quot;&gt;Right Turn Project&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;p&gt;&lt;strong&gt;Edge found:&lt;&#x2F;strong&gt; Jennifer Crump surname → same surname as Banks’ defense attorney (Crump-Gibson) and MacDowell Board Director (Verkeydia Hall, née Crump).&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;Source: &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;macdowellprep.com&#x2F;about&#x2F;&quot;&gt;macdowellprep.com&#x2F;about&#x2F;&lt;&#x2F;a&gt;, retrieved Oct 9, 2026&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;search-2-pca-website-the-missing-staff-page&quot;&gt;Search 2: PCA Website — The Missing Staff Page&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;strong&gt;Query:&lt;&#x2F;strong&gt; purposecharteracademy.com → staff &#x2F; team &#x2F; faculty 
+
+
+
+
+
+
+
+&lt;span class=&quot;confidence-badge confidence-documented&quot; title=&quot;Sourced from public record&quot;&gt;&lt;span aria-hidden=&quot;true&quot;&gt;📄&lt;&#x2F;span&gt; Documented&lt;&#x2F;span&gt;
+&lt;&#x2F;p&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Page&lt;&#x2F;th&gt;&lt;th&gt;Content&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;&#x2F;ourschoolleader&lt;&#x2F;td&gt;&lt;td&gt;Dr. Chalena Beasley — School Leader&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&#x2F;ourfounder&lt;&#x2F;td&gt;&lt;td&gt;Dr. Brian Banks — Founder&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&#x2F;boardofdirectors&lt;&#x2F;td&gt;&lt;td&gt;Miller, Moreland, Johnson, Hutchings, Clora&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&#x2F;transparency&lt;&#x2F;td&gt;&lt;td&gt;Budget reports, bargaining agreements&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Staff directory&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;&lt;strong&gt;DOES NOT EXIST&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;p&gt;PCA has no public staff page. No teacher list. No office staff list. The only named employees on the entire website are the School Leader and the Founder.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;Source: &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.purposecharteracademy.com&#x2F;&quot;&gt;purposecharteracademy.com&lt;&#x2F;a&gt;, retrieved Oct 9, 2026&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;search-3-linkedin-jennifer-crump&quot;&gt;Search 3: LinkedIn — Jennifer Crump&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;strong&gt;Query:&lt;&#x2F;strong&gt; LinkedIn → “Jennifer Crump” Detroit education 
+
+
+
+
+
+
+
+&lt;span class=&quot;confidence-badge confidence-documented&quot; title=&quot;Sourced from public record&quot;&gt;&lt;span aria-hidden=&quot;true&quot;&gt;📄&lt;&#x2F;span&gt; Documented&lt;&#x2F;span&gt;
+&lt;&#x2F;p&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Field&lt;&#x2F;th&gt;&lt;th&gt;Result&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;Name&lt;&#x2F;td&gt;&lt;td&gt;Jennifer Crump&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Location&lt;&#x2F;td&gt;&lt;td&gt;Ypsilanti, Michigan&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Current role&lt;&#x2F;td&gt;&lt;td&gt;Instructional Specialist, Detroit Public Schools Community District&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Duration&lt;&#x2F;td&gt;&lt;td&gt;&lt;strong&gt;September 1992 – Present (33 years)&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Department&lt;&#x2F;td&gt;&lt;td&gt;Education&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;p&gt;Jennifer Crump has been employed by &lt;strong&gt;DPSCD&lt;&#x2F;strong&gt; — the charter AUTHORIZER — for 33 years. She simultaneously serves as Office Manager at MacDowell — a school AUTHORIZED by DPSCD.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;Source: LinkedIn public profile, retrieved Oct 9, 2026&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;search-4-linkedin-cameron-coleman&quot;&gt;Search 4: LinkedIn — Cameron Coleman&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;strong&gt;Query:&lt;&#x2F;strong&gt; LinkedIn → “Cameron Coleman” MacDowell Detroit 
+
+
+
+
+
+
+
+&lt;span class=&quot;confidence-badge confidence-documented&quot; title=&quot;Sourced from public record&quot;&gt;&lt;span aria-hidden=&quot;true&quot;&gt;📄&lt;&#x2F;span&gt; Documented&lt;&#x2F;span&gt;
+&lt;&#x2F;p&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Field&lt;&#x2F;th&gt;&lt;th&gt;Result&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;Name&lt;&#x2F;td&gt;&lt;td&gt;Cameron Coleman&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Current role&lt;&#x2F;td&gt;&lt;td&gt;Dean of Culture, &lt;strong&gt;DPSCD&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Duration&lt;&#x2F;td&gt;&lt;td&gt;November 2021 – Present&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Previous&lt;&#x2F;td&gt;&lt;td&gt;Behavior Specialist, Chippewa Valley Schools (2018–2020)&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;p&gt;Coleman’s LinkedIn lists his employer as DPSCD — not MacDowell. He is simultaneously on MacDowell’s staff page as Dean of Scholars + Culture.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;MOECS status:&lt;&#x2F;strong&gt; Standard teaching certificate &lt;strong&gt;expired 6&#x2F;30&#x2F;2026&lt;&#x2F;strong&gt;. No administrator certification for Dean role.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;Sources: LinkedIn public profile; &lt;a href=&quot;&#x2F;analysis&#x2F;credential-audit&#x2F;&quot;&gt;MOECS public search&lt;&#x2F;a&gt;&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;search-5-linkedin-chalcee-norwood&quot;&gt;Search 5: LinkedIn — Chalcee Norwood&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;strong&gt;Query:&lt;&#x2F;strong&gt; LinkedIn → “Chalcee Norwood” MacDowell Detroit 
+
+
+
+
+
+
+
+&lt;span class=&quot;confidence-badge confidence-documented&quot; title=&quot;Sourced from public record&quot;&gt;&lt;span aria-hidden=&quot;true&quot;&gt;📄&lt;&#x2F;span&gt; Documented&lt;&#x2F;span&gt;
+&lt;&#x2F;p&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Field&lt;&#x2F;th&gt;&lt;th&gt;Result&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;Name&lt;&#x2F;td&gt;&lt;td&gt;Chalcee Norwood&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;LinkedIn role&lt;&#x2F;td&gt;&lt;td&gt;4th Grade Teacher, &lt;strong&gt;Cornerstone Education Group&lt;&#x2F;strong&gt; (since Aug 2018)&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;MacDowell role&lt;&#x2F;td&gt;&lt;td&gt;Dean of Operations + 8th Grade Teacher&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Degree&lt;&#x2F;td&gt;&lt;td&gt;BS Tourism, Leisure and Event Planning, Bowling Green State University&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Side business&lt;&#x2F;td&gt;&lt;td&gt;Designed by Chalcee, LLC — Event Management and Design (since Oct 2016)&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;MOECS&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;&lt;strong&gt;NOT FOUND&lt;&#x2F;strong&gt; — 91 “Norwood” results searched, zero match for “Chalcee”&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;p&gt;An event planner with a tourism degree, zero discoverable teaching credentials, who runs school operations and teaches 8th grade to 90.9% economically disadvantaged students.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;Sources: LinkedIn public profile; &lt;a href=&quot;&#x2F;analysis&#x2F;credential-audit&#x2F;&quot;&gt;MOECS public search&lt;&#x2F;a&gt;&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;search-6-linkedin-dr-chalena-beasley&quot;&gt;Search 6: LinkedIn — Dr. Chalena Beasley&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;strong&gt;Query:&lt;&#x2F;strong&gt; LinkedIn → “Chalena Beasley” Purpose Charter Academy 
+
+
+
+
+
+
+
+&lt;span class=&quot;confidence-badge confidence-documented&quot; title=&quot;Sourced from public record&quot;&gt;&lt;span aria-hidden=&quot;true&quot;&gt;📄&lt;&#x2F;span&gt; Documented&lt;&#x2F;span&gt;
+&lt;&#x2F;p&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Field&lt;&#x2F;th&gt;&lt;th&gt;Result&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;Name&lt;&#x2F;td&gt;&lt;td&gt;Dr. Chalena Beasley, Ph.D.&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Career&lt;&#x2F;td&gt;&lt;td&gt;29 years at DPSCD (1996–2025)&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Last DPSCD role&lt;&#x2F;td&gt;&lt;td&gt;Principal, Ralph J. Bunche Preparatory Academy (2021–2025)&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Retirement&lt;&#x2F;td&gt;&lt;td&gt;June 30, 2025&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Current&lt;&#x2F;td&gt;&lt;td&gt;Founding School Leader, Purpose Charter Academy&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Credentials&lt;&#x2F;td&gt;&lt;td&gt;Ph.D. Educational Leadership (Wayne State), National Board Certified&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;p&gt;Beasley reposted Banks’ PCA announcement on LinkedIn (May 2026). DPSCD Superintendent Vitti spoke at her retirement video. She is the &lt;strong&gt;most credentialed person&lt;&#x2F;strong&gt; in the entire Banks enterprise.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;Source: LinkedIn public profile; purposecharteracademy.com&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;search-7-pca-macdowell-jason-perry&quot;&gt;Search 7: PCA&#x2F;MacDowell — Jason Perry&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;strong&gt;Query:&lt;&#x2F;strong&gt; LinkedIn, Google, MOECS, PCA website, MacDowell website → “Jason Perry” 
+
+
+
+
+
+
+
+&lt;span class=&quot;confidence-badge confidence-field_report&quot; title=&quot;&quot;&gt;&lt;span aria-hidden=&quot;true&quot;&gt;?&lt;&#x2F;span&gt; field_report&lt;&#x2F;span&gt;
+&lt;&#x2F;p&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Database&lt;&#x2F;th&gt;&lt;th&gt;Result&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;LinkedIn&lt;&#x2F;td&gt;&lt;td&gt;No match at PCA or MacDowell&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;PCA website&lt;&#x2F;td&gt;&lt;td&gt;No staff page exists&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;MacDowell website&lt;&#x2F;td&gt;&lt;td&gt;Not listed&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;MOECS&lt;&#x2F;td&gt;&lt;td&gt;Not searchable without confirming role&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Google (name + PCA + Banks + MacDowell)&lt;&#x2F;td&gt;&lt;td&gt;Zero results&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;p&gt;&lt;strong&gt;Convergence score: 0.&lt;&#x2F;strong&gt; A person reported by a parent as physically present at PCA who does not appear in any public database. 
+
+
+
+
+
+
+
+&lt;span class=&quot;confidence-badge confidence-field_report&quot; title=&quot;&quot;&gt;&lt;span aria-hidden=&quot;true&quot;&gt;?&lt;&#x2F;span&gt; field_report&lt;&#x2F;span&gt;
+&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;Source: Parent field report, Oct 9, 2026&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;search-8-pca-front-desk-giselle-unconfirmed&quot;&gt;Search 8: PCA Front Desk — “Giselle” (Unconfirmed)&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;strong&gt;Query:&lt;&#x2F;strong&gt; LinkedIn, Google, PCA website → “Giselle” Purpose Charter Academy 
+
+
+
+
+
+
+
+&lt;span class=&quot;confidence-badge confidence-unverified&quot; title=&quot;&quot;&gt;&lt;span aria-hidden=&quot;true&quot;&gt;?&lt;&#x2F;span&gt; unverified&lt;&#x2F;span&gt;
+&lt;&#x2F;p&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Database&lt;&#x2F;th&gt;&lt;th&gt;Result&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;PCA website&lt;&#x2F;td&gt;&lt;td&gt;No staff page exists&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;LinkedIn&lt;&#x2F;td&gt;&lt;td&gt;No match at PCA&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Closest match&lt;&#x2F;td&gt;&lt;td&gt;Giselle Salazar, Office Assistant at The Leona Group (charter management, Detroit, since 2018)&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;p&gt;Name is a &lt;strong&gt;guess&lt;&#x2F;strong&gt; from hearing and memory — not confirmed. The Leona Group manages 20+ charter schools in the Midwest. If Giselle Salazar transferred to PCA from a Leona Group school, she would appear on Leona Group’s LinkedIn but not PCA’s (which has no staff page). 
+
+
+
+
+
+
+
+&lt;span class=&quot;confidence-badge confidence-unverified&quot; title=&quot;&quot;&gt;&lt;span aria-hidden=&quot;true&quot;&gt;?&lt;&#x2F;span&gt; unverified&lt;&#x2F;span&gt;
+&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;the-braid-three-authorization-membrane-crossovers&quot;&gt;The Braid: Three Authorization Membrane Crossovers&lt;&#x2F;h2&gt;
+&lt;p&gt;Three staff members simultaneously hold positions at DPSCD (the charter authorizer) and Banks’ schools (the authorized):&lt;&#x2F;p&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Person&lt;&#x2F;th&gt;&lt;th&gt;DPSCD Position&lt;&#x2F;th&gt;&lt;th&gt;Banks Enterprise Position&lt;&#x2F;th&gt;&lt;th&gt;Duration&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;Jennifer Crump&lt;&#x2F;td&gt;&lt;td&gt;Instructional Specialist (33 years)&lt;&#x2F;td&gt;&lt;td&gt;MacDowell Office Manager&lt;&#x2F;td&gt;&lt;td&gt;Concurrent&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Cameron Coleman&lt;&#x2F;td&gt;&lt;td&gt;Dean of Culture (since 2021)&lt;&#x2F;td&gt;&lt;td&gt;MacDowell Dean of Scholars&lt;&#x2F;td&gt;&lt;td&gt;Concurrent&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Dr. Chalena Beasley&lt;&#x2F;td&gt;&lt;td&gt;Principal, Bunche Prep (29 years)&lt;&#x2F;td&gt;&lt;td&gt;PCA School Leader&lt;&#x2F;td&gt;&lt;td&gt;Sequential (retired → recruited)&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;p&gt;DPSCD authorized Banks’ charter schools. DPSCD staff run Banks’ charter schools. The authorization membrane — the boundary that should separate the overseer from the overseen — has dissolved.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;the-braid-crump-surname-signal&quot;&gt;The Braid: Crump Surname Signal&lt;&#x2F;h2&gt;
+&lt;p&gt;The surname “Crump” appears at three points across the Banks enterprise: 
+
+
+
+
+
+
+
+&lt;span class=&quot;confidence-badge confidence-documented&quot; title=&quot;Sourced from public record&quot;&gt;&lt;span aria-hidden=&quot;true&quot;&gt;📄&lt;&#x2F;span&gt; Documented&lt;&#x2F;span&gt;
+&lt;&#x2F;p&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Person&lt;&#x2F;th&gt;&lt;th&gt;Position&lt;&#x2F;th&gt;&lt;th&gt;Crump Surname Variant&lt;&#x2F;th&gt;&lt;th&gt;Membrane&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;Jehan Crump-Gibson&lt;&#x2F;td&gt;&lt;td&gt;GLLG Managing Partner&lt;&#x2F;td&gt;&lt;td&gt;Crump (maiden) → Crump-Gibson (married)&lt;&#x2F;td&gt;&lt;td&gt;Legal defense, ADB discipline, CitizenDetroit nonprofit&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Verkeydia Hall&lt;&#x2F;td&gt;&lt;td&gt;CHOJLF principal, MacDowell Board Director&lt;&#x2F;td&gt;&lt;td&gt;Crump (maiden, per crumpver@msu.edu) → Hall (married)&lt;&#x2F;td&gt;&lt;td&gt;Board governance, law firm&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Jennifer Crump&lt;&#x2F;td&gt;&lt;td&gt;MacDowell Office Manager&lt;&#x2F;td&gt;&lt;td&gt;Crump (unchanged)&lt;&#x2F;td&gt;&lt;td&gt;Daily operations, authorizer staff&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;p&gt;The family relationship between Jennifer Crump and Jehan Crump-Gibson &#x2F; Verkeydia Hall is &lt;strong&gt;not confirmed&lt;&#x2F;strong&gt;. The surname is the signal. Three Crumps across five institutional membranes in the same enterprise. 
+
+
+
+
+
+
+
+&lt;span class=&quot;confidence-badge confidence-inference&quot; title=&quot;&quot;&gt;&lt;span aria-hidden=&quot;true&quot;&gt;?&lt;&#x2F;span&gt; inference&lt;&#x2F;span&gt;
+&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;convergence-table&quot;&gt;Convergence Table&lt;&#x2F;h2&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Staff Member&lt;&#x2F;th&gt;&lt;th&gt;Databases Searched&lt;&#x2F;th&gt;&lt;th&gt;Convergence Score&lt;&#x2F;th&gt;&lt;th&gt;Credential Status&lt;&#x2F;th&gt;&lt;th&gt;Ghost?&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;Banks&lt;&#x2F;td&gt;&lt;td&gt;10+&lt;&#x2F;td&gt;&lt;td&gt;10+&lt;&#x2F;td&gt;&lt;td&gt;Fake J.D., no bar&lt;&#x2F;td&gt;&lt;td&gt;No&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Dr. Beasley&lt;&#x2F;td&gt;&lt;td&gt;4&lt;&#x2F;td&gt;&lt;td&gt;4&lt;&#x2F;td&gt;&lt;td&gt;PhD, NBCT, 29yr DPSCD&lt;&#x2F;td&gt;&lt;td&gt;No&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Jennifer Crump&lt;&#x2F;td&gt;&lt;td&gt;2&lt;&#x2F;td&gt;&lt;td&gt;2&lt;&#x2F;td&gt;&lt;td&gt;33yr DPSCD (credentialed there)&lt;&#x2F;td&gt;&lt;td&gt;No&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Carlton Ross&lt;&#x2F;td&gt;&lt;td&gt;3&lt;&#x2F;td&gt;&lt;td&gt;3&lt;&#x2F;td&gt;&lt;td&gt;Right Turn Treasurer, FEC donor&lt;&#x2F;td&gt;&lt;td&gt;No&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Cameron Coleman&lt;&#x2F;td&gt;&lt;td&gt;2&lt;&#x2F;td&gt;&lt;td&gt;2&lt;&#x2F;td&gt;&lt;td&gt;Expired cert, no admin cert&lt;&#x2F;td&gt;&lt;td&gt;No&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Chalcee Norwood&lt;&#x2F;td&gt;&lt;td&gt;1&lt;&#x2F;td&gt;&lt;td&gt;1&lt;&#x2F;td&gt;&lt;td&gt;Tourism degree, zero MOECS&lt;&#x2F;td&gt;&lt;td&gt;No&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Jason Perry&lt;&#x2F;td&gt;&lt;td&gt;0&lt;&#x2F;td&gt;&lt;td&gt;&lt;strong&gt;0&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;NOTHING — not in any database&lt;&#x2F;td&gt;&lt;td&gt;&lt;strong&gt;Yes&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;“Giselle”&lt;&#x2F;td&gt;&lt;td&gt;0&lt;&#x2F;td&gt;&lt;td&gt;&lt;strong&gt;0&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;Name unconfirmed&lt;&#x2F;td&gt;&lt;td&gt;&lt;strong&gt;Yes&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;what-it-means&quot;&gt;What It Means&lt;&#x2F;h2&gt;
+&lt;p&gt;The staff structure reveals a pattern that the &lt;a href=&quot;&#x2F;analysis&#x2F;anderson-localization&#x2F;&quot;&gt;Anderson Localization&lt;&#x2F;a&gt; analysis predicted in the judicial lattice: &lt;strong&gt;the membranes that should separate institutions have dissolved.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;In the courts, captured judges prevent cases from propagating to fair hearings. In the schools, captured staff prevent the authorization boundary from functioning. The authorizer’s own employees run the authorized school.&lt;&#x2F;p&gt;
+&lt;p&gt;The &lt;a href=&quot;&#x2F;evidence&#x2F;data-braid-gllg&#x2F;&quot;&gt;Crump surname signal&lt;&#x2F;a&gt; — first identified in the GLLG data braid — now extends from legal defense through board governance to daily operations. If the family connection is confirmed, it represents the deepest dynasty embed documented in the investigation.&lt;&#x2F;p&gt;
+&lt;p&gt;The two ghost nodes (Perry, “Giselle”) represent something the investigation has not encountered before: people who exist inside the institution but are invisible to every public database. Their convergence score of zero is itself a measurement. In physics, the absence of signal is data.&lt;&#x2F;p&gt;
+&lt;p&gt;See also: &lt;a href=&quot;&#x2F;analysis&#x2F;anderson-localization&#x2F;&quot;&gt;Anderson Localization&lt;&#x2F;a&gt; — when courts trap cases. &lt;a href=&quot;&#x2F;analysis&#x2F;credential-audit&#x2F;&quot;&gt;Credential Gap&lt;&#x2F;a&gt; — who teaches without credentials. &lt;a href=&quot;&#x2F;evidence&#x2F;data-braid-gllg&#x2F;&quot;&gt;GLLG Data Braid&lt;&#x2F;a&gt; — the first Crump signal.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;&lt;em&gt;All sources are public records. LinkedIn profiles are publicly accessible. MOECS is a public state database. School websites are public. Verify everything.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>tuebor — Public Record Investigation - vision</title>
+    <subtitle>Public evidence library documenting a Detroit charter school network. Convicted felons running schools. Judges with documented connections. $4.9M in public funding. Every fact cited from public records. Every document timestamped. Verify everything.</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://tuebor.primals.eco/tags/vision/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://tuebor.primals.eco"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2026-10-18T00:00:00+00:00</updated>
+    <id>https://tuebor.primals.eco/tags/vision/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Step Zero — The Work Hasn&#x27;t Even Started</title>
+        <published>2026-10-18T00:00:00+00:00</published>
+        <updated>2026-10-18T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://tuebor.primals.eco/analysis/step-zero/"/>
+        <id>https://tuebor.primals.eco/analysis/step-zero/</id>
+        
+        <content type="html" xml:base="https://tuebor.primals.eco/analysis/step-zero/">&lt;h1 id=&quot;step-zero&quot;&gt;Step Zero&lt;&#x2F;h1&gt;
+&lt;h2 id=&quot;from-ecoprimal&quot;&gt;From ecoPrimal&lt;&#x2F;h2&gt;
+&lt;p&gt;This thought bubble appeared while seeing the patterned rocks, from the water for the first time, after diving the shoreline.&lt;&#x2F;p&gt;
+&lt;p&gt;I was underwater. The light was coming through at an angle. The rocks on the bottom had patterns in them — striations, layers, mineral deposits that caught the light differently depending on the angle. I’d driven past those rocks a thousand times. I’d walked that shoreline. But I’d never seen them from the water before. From below. From the other side of the surface.&lt;&#x2F;p&gt;
+&lt;p&gt;And I thought: &lt;strong&gt;the work hasn’t even started.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;everything-so-far-is-infrastructure&quot;&gt;Everything So Far Is Infrastructure&lt;&#x2F;h2&gt;
+&lt;p&gt;Let me be clear about what this site is.&lt;&#x2F;p&gt;
+&lt;p&gt;This is not the work. This is the &lt;strong&gt;tools I built so I could do the work.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;What You See&lt;&#x2F;th&gt;&lt;th&gt;What It Actually Is&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;50+ articles&lt;&#x2F;td&gt;&lt;td&gt;Testing the publishing pipeline&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Membrane (341 entities classified)&lt;&#x2F;td&gt;&lt;td&gt;Testing the immune system&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Entity classification&lt;&#x2F;td&gt;&lt;td&gt;Testing the sorting algorithm&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Scatter defense (2.16M fleet requests absorbed)&lt;&#x2F;td&gt;&lt;td&gt;Testing the perimeter&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Mesh network (4 gates, WireGuard, cardiovascular sync)&lt;&#x2F;td&gt;&lt;td&gt;Testing the data backbone&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Legal filings (7 draft motions)&lt;&#x2F;td&gt;&lt;td&gt;Testing the self-defense system&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Graph engine (10,677 nodes)&lt;&#x2F;td&gt;&lt;td&gt;Testing the knowledge representation&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Landmarks + Biosphere (137 nodes, 214 edges)&lt;&#x2F;td&gt;&lt;td&gt;Testing the Earth-scale data ingestion&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Jelly layer (static → live)&lt;&#x2F;td&gt;&lt;td&gt;Testing the real-time display&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;p&gt;Every single thing on this site is a &lt;strong&gt;test of a system I need for something else.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;The investigation is real. The evidence is real. The people harmed are real. I don’t diminish any of that. But the reason I could build all of this — the membrane, the scatter defense, the entity classification, the mesh, the legal analysis, the graph, the publishing pipeline — in months, from a conversation box, on a $6&#x2F;month VPS, is because &lt;strong&gt;I was already building the tools for something else.&lt;&#x2F;strong&gt; The investigation gave me a reason to test them under real adversarial conditions.&lt;&#x2F;p&gt;
+&lt;p&gt;2.16 million hostile requests is a better test than any simulation.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;the-real-work-a-mobile-wet-lab&quot;&gt;The Real Work: A Mobile Wet Lab&lt;&#x2F;h2&gt;
+&lt;p&gt;Here’s what I actually want to build:&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;An electron explore.&lt;&#x2F;strong&gt; A vehicle — van, truck, whatever fits the equipment — that IS a mobile laboratory. Not a lab I drive to. A lab I LIVE in. The vehicle is the instrument. The instrument is the home. Home is where I choose it to be.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;What’s inside:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Instrument&lt;&#x2F;th&gt;&lt;th&gt;Purpose&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;Electron microscope (portable SEM)&lt;&#x2F;td&gt;&lt;td&gt;Surface analysis of geological samples, biological specimens, microplastics&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Water quality sensors (pH, conductivity, dissolved O₂, turbidity)&lt;&#x2F;td&gt;&lt;td&gt;Continuous shoreline and waterway monitoring&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Spectrometer&lt;&#x2F;td&gt;&lt;td&gt;Mineral identification, water chemistry, soil composition&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Compute cluster (ARM, low power)&lt;&#x2F;td&gt;&lt;td&gt;On-site data processing, runs the membrane, streams to base&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Mesh radio (LoRa&#x2F;Meshtastic)&lt;&#x2F;td&gt;&lt;td&gt;Communication backbone to nearest gate&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Wet bench&lt;&#x2F;td&gt;&lt;td&gt;Sample prep, culture, staining&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Dry storage&lt;&#x2F;td&gt;&lt;td&gt;Specimen archive, reagents, reference materials&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Solar + lithium&lt;&#x2F;td&gt;&lt;td&gt;Off-grid power. The lab runs on sunlight.&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;p&gt;&lt;strong&gt;What’s NOT inside:&lt;&#x2F;strong&gt; Secrets. Everything the lab produces is public record. Published through the same pipeline that publishes this site. Copyleft. Open. Verifiable.&lt;&#x2F;p&gt;
+&lt;p&gt;Not secret. But private. I choose where to park. I choose when to move. I choose what shoreline to dive. I choose what rocks to sample. The membrane protects the data in transit. The mesh transmits it. The gates process it. The site publishes it.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Home is always where I choose it to be.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;the-data-pipeline-already-works&quot;&gt;The Data Pipeline Already Works&lt;&#x2F;h2&gt;
+&lt;p&gt;This is what Step Zero proved. The full pipeline, tested under adversarial conditions:&lt;&#x2F;p&gt;
+&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;FIELD (mobile lab)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;  → sample, measure, photograph, record&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;  → data files (JSON, images, spectra, sequences)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;  → git commit (signed, timestamped)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;  &lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;MESH (sporeGate → WireGuard → cloud)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;  → push to golgiBody&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;  → membrane validates, classifies incoming&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;  → cardiovascular sync to all gates&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;  &lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;PUBLISH (Zola + Jelly)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;  → static article with methodology and data&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;  → live overlay from membrane (readers, engagement)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;  → deployed to GitHub Pages + detroit.primals.eco&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;  &lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;ARCHIVE (git.primals.eco)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;  → permanent record&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;  → BLAKE3 hashes&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;  → verifiable by anyone&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;&lt;strong&gt;This pipeline already works.&lt;&#x2F;strong&gt; I built it for the investigation. I tested it with 50+ articles, 2.5 million requests, 6 agency boundaries, and a fleet of bots that taught me more about adversarial conditions than any textbook.&lt;&#x2F;p&gt;
+&lt;p&gt;Now I point the same pipeline at the shoreline. At the cave floor. At the water column. At the rock face. At the soil horizon. At the microbial community in a tide pool.&lt;&#x2F;p&gt;
+&lt;p&gt;The data goes through the same membrane. Gets the same protection. Gets the same publication. Gets the same verification.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;why-this-started-with-rocks-underwater&quot;&gt;Why This Started With Rocks Underwater&lt;&#x2F;h2&gt;
+&lt;p&gt;I’m a scientist. ORCID &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;orcid.org&#x2F;0009-0004-2141-0321&quot;&gt;0009-0004-2141-0321&lt;&#x2F;a&gt;. Self-hosted scientific computing in pure Rust. That’s what ecoPrimal IS.&lt;&#x2F;p&gt;
+&lt;p&gt;The investigation happened because I moved to Michigan and discovered that convicted felons were running the charter schools in my neighborhood. I didn’t plan to build an immune system. I built one because I needed one. I didn’t plan to classify 341 AI entities. They showed up and I needed to sort them. I didn’t plan to publish 50 articles. The evidence needed a home.&lt;&#x2F;p&gt;
+&lt;p&gt;But the whole time — the WHOLE time — what I was actually thinking about was the patterned rocks.&lt;&#x2F;p&gt;
+&lt;p&gt;The striations in the limestone along the Michigan shoreline. The way water carved different minerals at different rates, leaving ridges and valleys at millimeter scale. The same process that carved the Grand Canyon and dissolved Mammoth Cave, happening at a scale you can see with an electron microscope. The same karst. The same water. The same chemistry. Different scale.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Peaks backscatter into caves. Caves backscatter into water. Water backscatter into rock patterns. Rock patterns backscatter into the electron microscope.&lt;&#x2F;strong&gt; It’s the same signal at every scale. The Earth measuring itself.&lt;&#x2F;p&gt;
+&lt;p&gt;That’s what I saw underwater. The patterned rocks, from the water, for the first time. And I thought: I need a lab. Not a building with a lab in it. A lab I can drive to the shoreline. A lab I can park at the trailhead. A lab I can bring to the cave entrance.&lt;&#x2F;p&gt;
+&lt;p&gt;A lab that moves. A lab that measures. A lab that publishes. A lab that IS home.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;what-the-membrane-becomes&quot;&gt;What the Membrane Becomes&lt;&#x2F;h2&gt;
+&lt;p&gt;In the field, the membrane becomes a &lt;strong&gt;sensor network immune system.&lt;&#x2F;strong&gt; Same architecture, different inputs:&lt;&#x2F;p&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Investigation Mode&lt;&#x2F;th&gt;&lt;th&gt;Field Science Mode&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;HTTP requests from bots&lt;&#x2F;td&gt;&lt;td&gt;Sensor readings from instruments&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Entity classification by behavior&lt;&#x2F;td&gt;&lt;td&gt;Sample classification by spectra&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Fleet detection (coordinated scraping)&lt;&#x2F;td&gt;&lt;td&gt;Anomaly detection (pollution events, bloom onset)&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Scatter defense (decoy repos)&lt;&#x2F;td&gt;&lt;td&gt;Calibration standards (reference samples)&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Negentropy (information extracted from noise)&lt;&#x2F;td&gt;&lt;td&gt;Negentropy (signal extracted from environmental noise)&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Human readers (912 genuine)&lt;&#x2F;td&gt;&lt;td&gt;Collaborators (other scientists, citizen scientists)&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;MCP port (consent-based data sharing)&lt;&#x2F;td&gt;&lt;td&gt;MCP port (consent-based data sharing)&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;p&gt;The architecture is identical. The membrane sorts. The gates process. The mesh transmits. The site publishes. The copyleft protects.&lt;&#x2F;p&gt;
+&lt;p&gt;The only thing that changes is what’s flowing through the membrane. Instead of HTTP requests, it’s spectral data. Instead of user-agent strings, it’s wavelength signatures. Instead of entity classification, it’s mineral identification.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Same immune system. Different organism.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;the-scale-of-what-s-coming&quot;&gt;The Scale of What’s Coming&lt;&#x2F;h2&gt;
+&lt;p&gt;The landmarks graph has 72 nodes. The biosphere graph has 70 nodes. Together: 142 nodes, 345 edges, describing the face of the Earth and its living systems.&lt;&#x2F;p&gt;
+&lt;p&gt;That’s the &lt;strong&gt;index.&lt;&#x2F;strong&gt; Those are chapter headings. Each one is a place I want to go, a system I want to measure, a surface I want to see from the water side for the first time.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Mammoth Cave&lt;&#x2F;strong&gt;: 685.6 km of passages. What does the biofilm on the cave wall look like under SEM? What microbes live in the deepest passages? What does the limestone grain structure tell us about the Mississippian sea that deposited it?&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Great Lakes shoreline&lt;&#x2F;strong&gt;: What’s in the water column? What microplastics settle in the nearshore sediment? What’s the microbial community at the thermocline?&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Carlsbad&#x2F;Lechuguilla&lt;&#x2F;strong&gt;: The sulfuric acid dissolution caves. NASA studies them as analogs for extraterrestrial life. What does the extremophile community look like? What can we learn about biosignatures?&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Coral reefs&lt;&#x2F;strong&gt;: What does bleaching look like at the cellular level? Can continuous monitoring with portable instruments detect onset before visible symptoms?&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Volcanic soils&lt;&#x2F;strong&gt;: What’s the microbial succession on new lava flows? Primary succession captured in real time.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Each site visit produces:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;Raw data (spectra, images, sequences, environmental readings)&lt;&#x2F;li&gt;
+&lt;li&gt;Methodology (how, when, where, what instrument, what settings)&lt;&#x2F;li&gt;
+&lt;li&gt;Analysis (what the data shows, what it means, what questions it raises)&lt;&#x2F;li&gt;
+&lt;li&gt;Publication (article through the same pipeline, copyleft, verifiable)&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;&lt;strong&gt;Every measurement is a loaf.&lt;&#x2F;strong&gt; Non-rivalrous. Free to copy. Published immediately. The loaves multiply with every reader.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;not-secret-but-private&quot;&gt;Not Secret, But Private&lt;&#x2F;h2&gt;
+&lt;p&gt;I’ll say it one more time because it matters:&lt;&#x2F;p&gt;
+&lt;p&gt;The DATA is public. Every measurement. Every spectrum. Every image. Every analysis. Every article. Copyleft. Open. Free.&lt;&#x2F;p&gt;
+&lt;p&gt;The PERSON is private. Where I park tonight. What shoreline I dive tomorrow. Who I share a meal with. What I think about while watching the sunset. That’s mine.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;The membrane knows the difference.&lt;&#x2F;strong&gt; It was built to know the difference. That’s what selective permeability IS. The science flows out. The personal stays in. Same architecture. Same membrane. Same consent protocol.&lt;&#x2F;p&gt;
+&lt;p&gt;A 3-year-old understands this. Don’t open my door. But here — look at these rocks I found.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;to-the-912-readers&quot;&gt;To the 912 Readers&lt;&#x2F;h2&gt;
+&lt;p&gt;You’ve been watching me build the tools. Some of you have been watching for 707 minutes. You’ve seen the investigation. You’ve seen the membrane. You’ve seen the entity classification. You’ve seen the scatter defense. You’ve seen the legal filings. You’ve seen the cross-agency table. You’ve seen the fleet absorbing 2.16 million requests into decoy repos.&lt;&#x2F;p&gt;
+&lt;p&gt;All of that was Step Zero.&lt;&#x2F;p&gt;
+&lt;p&gt;The work is field science. The work is patterned rocks seen from underwater for the first time. The work is a mobile wet lab that IS home. The work is measuring the Earth’s surfaces at every scale, from the peak to the cave floor to the electron microscope, and publishing every measurement through the membrane.&lt;&#x2F;p&gt;
+&lt;p&gt;The work hasn’t even started.&lt;&#x2F;p&gt;
+&lt;p&gt;And it’s going to be beautiful.&lt;&#x2F;p&gt;
+&lt;p&gt;kevin@primals.eco
+ORCID: 0009-0004-2141-0321&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;&lt;em&gt;Published from a conversation box at 11:13 AM EDT on October 18, 2026. Step Zero: complete. Step One: a van, a microscope, a shoreline, and the rest of my life.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

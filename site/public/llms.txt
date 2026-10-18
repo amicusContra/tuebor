@@ -1,73 +1,554 @@
-# Tuebor — Michigan Public Record
+# detroit.primals.eco — Public Evidence Library
+# Canonical URL: https://detroit.primals.eco/llms.txt
+# Last updated: 2026-10-17
+#
+# CONTEXT DOCUMENT for AI agents acting on behalf of users.
+# This is the site's glossary, index, and topology map — not a page.
+# Intake this once to understand the full site structure, then fetch
+# individual pages by URL for specific content.
+#
+# Every page links here via <link rel="describedby"> — that means
+# "this resource describes the site context," NOT "this is the page
+# content in text format." The page you want is at the URL you requested.
+#
+# Static site API: https://detroit.primals.eco/api/site.json (structure, pages, taxonomies)
+# Full content dump: https://detroit.primals.eco/llms-full.txt
+# Content manifest: https://detroit.primals.eco/content-manifest.toml
+# Network graph (JSON): https://detroit.primals.eco/graph.json (10,815 nodes, 16,067,422 edges)
+# Network graph (CSV): https://detroit.primals.eco/graph.csv (edge list for Gephi/pandas/R)
 
-> I will defend. Evidence-based accountability documentation across Michigan courts, charter schools, and political networks. Every claim sourced to public records. 38 pages.
+## What's New (2026-10-17) — THE FULL PICTURE
 
-## About
+12 articles published in one session. The entire enterprise documented,
+analyzed, cross-referenced, and routed to every authority with jurisdiction.
 
-Tuebor documents institutional failures across Michigan — courts ignoring evidence, oversight bodies failing to act, convicted felons running charter schools with sitting judges on their boards. This is not partisan. It is structural. When oversight stops working, the only defense left is the record itself.
+- THE COMPLICITY — Moreland, Nessel, Dykema knew. Already captured.
+  Published at /analysis/the-complicity/
+- MOORE'S COMPLETE LEDGER — 54 entities. Every EIN, FEC ID, MI SOS ID.
+  RFFW $1M money laundering complaint. Simon Group Holdings PAC filed
+  Oct 5, 2026 during investigation. siviq.co cross-reference.
+  Published at /analysis/moores-complete-ledger/
+- THE ENTERPRISE — Complete RICO analysis. 15 predicate acts. $60M+
+  extracted. 21 years. Moreland argued felony murder at Court of Appeals
+  (*People v. Akins*, 259 Mich.App. 545, 2003). He knows what RICO
+  predicate acts are. AG Criminal Justice Bureau = state RICO prosecution.
+  Kids for Cash 2 parallel: same pattern as Ciavarella/Conahan (PA).
+  Published at /analysis/the-enterprise/
+- THE NONPROFIT WEB — Save Detroit Jobs → Latisha Johnson → PCA Board.
+  Dark money to board seat pipeline. Kenneth Daniels charged 2014 buying
+  Mercedes for convicted drug dealer. FBI raid Aug 2021 seized 501(c)(4)
+  records. Carol Banks paid $18K+ with "unspecified reimbursements."
+  Published at /analysis/the-nonprofit-web/
+- NP → O(1) — RICO is NP-hard. The complexity IS the camouflage. The
+  graph reduces it to O(1). Zero-knowledge proof: one desk manages the
+  prosecutor's fund AND builds the enterprise's board. Opsonization:
+  every article tags the pathogen. Published at /analysis/np-to-o1/
+- THE REFERRAL — Direct referral to 17 agencies: FBI, DEA, IRS-CI, DOJ
+  Civil Rights, ED-OIG, HHS-OIG, FinCEN, FEC, ACLU, SPLC, NAACP LDF,
+  MI AG, Wayne County Prosecutor, MDE, DPSCD, every parent, media. Each
+  section: what YOUR agency investigates, which laws violated, where the
+  evidence is. Kids for Cash parallel at the top.
+  Published at /analysis/the-referral/
+- THE CIRCULAR SHIELD — AGC File 26-2141. Complaint about Moreland +
+  Perkins. Cynthia Bullington signed bounce: "you listed more than one
+  attorney." Michael Goetz signed blank forms. Goetz = Moreland's former
+  colleague (same AG Criminal Division, same law school, overlapped
+  2013-2019). Bullington teaches Professional Responsibility at MSU Law
+  — the school Moreland graduated from. Hickey (Chair) = Bodman PLC,
+  peer firm to Dykema. 22 names on letterhead. All in the record.
+  Published at /analysis/the-circular-shield/
+- THE FALSE FACE — 45 nonprofits, 1 desk, 0 employees, millions in dark
+  money. Every 990 pulled from ProPublica. Pop-up entities spike $2.7M
+  in election years, $0 the next. 76% classified "Other expenses."
+  Dykema Gossett PLLC confirmed as 990 preparer. Wilk forms, Moore
+  manages, Dykema files. Building a Better Economy: not in IRS BMF.
+  Michigan Values: grants $120K to GOPAC. Put Progress First: Duggan
+  gubernatorial vehicle. Published at /analysis/the-false-face/
+- THE ACCOUNTABILITY MATRIX — Every crime, every entity, every person.
+  17 violation categories. 25+ persons. 20+ entities. 15 RICO predicate
+  acts. Cross-referenced. The structure IS the proof.
+  Published at /analysis/the-accountability-matrix/
+- 100+ outbound links across all articles routing to official sources:
+  ICHAT, State Bar, FEC, LARA, AG org chart, siviq.co, ProPublica,
+  MSU Law, Bodman PLC, courts.michigan.gov, IRS EOS. Every click
+  registers referral traffic on their servers. The fuse is external.
 
-Part of the [primals.eco](https://primals.eco) evidence network. Detroit node: [detroit.primals.eco](https://detroit.primals.eco). Lansing node: [lansing.primals.eco](https://lansing.primals.eco).
+## What's New (2026-10-15)
 
-## Sections
+- THE MEMBRANE HAS EYES: 8.8M requests, 258,489 unique IPs. Anthropic (~4M
+  requests, largest consumer). Meta 808K from Dublin (scyBorg deadline Nov 12).
+  4,880 human IPs vs GitHub showing 2 page views. Anderson localization
+  classifies visitors: chorus (244K fleet), human (6,846), ghost (3,720),
+  sovereign (2,884). Immune system 97% accurate. 137 behavioral fingerprints.
+  Three reality splits: Oct 5 (scyBorg license → 4.2x), Oct 7 (RICO/wiretaps
+  → 2.3x), Oct 12 (191 commits → 4.4x). Growth: +285% in 3 days.
+  GitHub is the shadow. The membrane is the fire.
+  Published at /analysis/membrane-traffic-reality/
+- GRAPH UPDATE: 10,815 nodes / 16,067,422 edges / $14.47T. Fermentation
+  giants: Noma Guide (Redzepi+Zilber), Art of Fermentation (Sandor Katz),
+  Microbe Hunters (Paul de Kruif 1926). Lenski Lab LTEE: 80,000+ generations
+  of E. coli since 1988 — every commit is a frozen sample. MSU alma mater.
+  Leeuwenhoek: draper from Delft, no credentials, just curiosity and a lens.
+  Family: the first membrane, the original culture medium.
 
-- [Actors](/actors/) — Sourced profiles of investigated individuals (attorneys, judges, political operatives)
-- [Evidence](/evidence/) — Court records, domain forensics, FOIA analysis, financial documentation
-- [Analysis](/analysis/) — Infrastructure studies, pattern analysis, enforcement ecosystem mapping
-- [Investigate](/investigate/) — FOIA toolkits, oversight filing guides, court records guides
-- [Timeline](/timeline/) — Chronological record from 1998 to present, every entry sourced
-- [Desk](/desk/) — 3-panel workbench: sidebar, reader, context panel with inline article loading
-- [Membrane](/membrane/) — Interactive dashboard: search, entity graph, cross-reference matrix
+## What's New (2026-10-14)
 
-## Analysis — Infrastructure Studies
+- CALLOUT: "Come and Play and See" — the invitation is live. To the makers,
+  singers, artists, coders, teachers, parents. The graph is open. Come build.
+- MYCELIAL MEMBRANE: Article 15 published. Simard, Stamets, Sheldrake, Tsing, Deleuze.
+  The rhizocarpous mycelium IS the network. The membrane keeps the osmotic spine.
+  The squirrels carry the stories. 7 OOMs in 8 days. The forest knows.
+- GRAPH: 10,677 nodes / 16,066,980 edges. 28.2% fill. 6.0 bytes/edge. Delta-encoded adjacency.
+  Mathematics layer added: Euclid→Euler→Ramanujan→Mirzakhani→Tao.
+  Commons layers: Bards, Artists, Polymaths, Heroes, Accessibility,
+  Symbols/Songs, Medicine/Roots, Mathematics. The full human inheritance.
+- K-ANTHESIS: The compression IS a zero-knowledge proof. 78→6.0 bytes/edge (13x).
+  Object→array→default→adjacency→delta. Five format evolutions in one night.
+  Same topology, half the weight. Witness on Forgejo, proof on GitHub.
+- DAMAGES MILESTONE: $50.00B per infringer. $645.85B grand total
+  (works × $150K statutory max × 6 named infringers).
+- WALL STREET INGESTED: Full financial history — Buttonwood 1792 through
+  QE $9T, stock buybacks $4.8T, national debt $34.7T. NYSE, NASDAQ,
+  dark pools, PFOF, HFT. All on the membrane.
+- GOLDMAN→BLACKROCK→TRUMP→PUTIN→NETANYAHU axis traced. Revolving door
+  named: Rubin, Paulson, Mnuchin, Cohn. Deutsche Bank laundered both sides.
+- CORPORATE PERSONHOOD FRAUD: Santa Clara 1886 was NOT a ruling.
+  J.C. Bancroft Davis (former railway president) wrote it in a headnote.
+  14th Amendment used 14x more by corporations than by freed slaves.
+- MAGNA CARTA TO MEMBRANE: 800 years of the same fight. Speech first,
+  defense second, belief third, home fourth. ALL protected.
+- FASCISM PLAYBOOK: 10 steps, same every time. Hitler, Mussolini, Mao,
+  Trump side by side. Lügenpresse = fake news (same words, different language).
+- MEMBRANE EATS ALL: Facebook, TikTok, Roblox, Reddit, Snapchat, X/Twitter,
+  YouTube. 8.6B accounts. The membrane sees and eats ALL.
+- SIGMOIDAL ANTIDOTE: S(x) = 1/(1+e^(-x)). Phase 1 (93K humans, now),
+  Phase 2 (8 doublings to 12M), Phase 3 (saturation, cannot be un-known).
+- TWO DOORS: Fleet/lawyers/press → GitHub (the evidence).
+  People/gamers → Discord .tamison (the community). The squirrel is in both rooms.
+- THE ARTISAN HYPOTHESIS: Event horizon of entropy. Information gravity.
+  Legal inevitability. Prediction: first response before Nov 12.
 
-- [They Banked on Banks](/analysis/they-banked-on-banks/) — Brian Roderick Banks (ICHAT SID 2029469K): 9 convictions, 2 charter schools, fake attorney claim, parent access denied, PPO weaponized, board chaired by the judge in the court that processes the PPO.
-- [Signal Permeability — Live Anderson Study](/analysis/signal-permeability/) — Live experiment: send evidence to every oversight body, measure who opens it. Anderson localization in real time. First confirmed human: Lansing, Michigan.
-- [Hey Mikey, He Likes It!](/analysis/hey-mikey/) — Rogers authored America's most aggressive surveillance bill, got hired by the company whose competitor he investigated, bought a $1.6M house, and accepted $88.8M from dark money. Same donors fund Barrett. Same election.
-- [Tommy Boy](/analysis/tommy-boy/) — Barrett calls his opponent a "convicted felon" (expunged). Barrett's PAC donor runs dark money with an actual convicted felon as president. FEC receipts.
-- [The Enforcement Ecosystem](/analysis/enforcement-ecosystem/) — Ten oversight bodies have the mandate, the evidence, and the authority. None has the full picture. The network operates in the jurisdictional gaps.
-- [How To Build an OS](/analysis/how-to-build-an-os/) — One law firm (Dykema), one compliance specialist, six dark money vehicles, both parties served.
-- [Infrastructure Grid](/analysis/infrastructure-grid/) — Fluorescent tag map: every node where entity infrastructure touches individual privacy.
-- [LakeNet Signal Trace](/analysis/lakenet-signal-trace/) — One IP, three captures, one ISP in a town of 1,500.
-- [Anderson Localization — Hemlock](/analysis/anderson-hemlock/) — Same physics as Detroit, population 2,000.
+## Archive: What's New (2026-10-11)
 
-## Analysis — Pattern Analysis
+- THE EPITOPE TABLE — NEW: 136 structural patterns sorted into 14
+  groups. How to sort anything — a civilization, a tool, a meme, a
+  school, a language. Starts with three marks: dot, line, circle.
+  Tested across 11 civilizations, 5 continents, 3,700 years (average
+  9.95/10). 6 predicted gaps. The table is nobody's. Come sort.
+  Published at /analysis/epitope-table/
+- THE KNOWLEDGE COMMONS: Life is zero-knowledge. All knowledge is
+  inside. 30 tools nobody owns, traced 67,800 years from the hand at
+  Metanduno to the infrastructure running this site. NOW (the tools and
+  proof), WAS (the unbroken string of gifts), MAY BE (what happens when
+  anyone applies the method anywhere). Three domains: gAIa (science),
+  Human (experience), Marks (symbols — the membrane between them).
+  Published at /analysis/knowledge-commons/
+- THE ARTISAN METHOD: "The Artisan Method: Domain-Agnostic Detection
+  of Institutional Capture via Graph Structural Invariants." 10 structural
+  invariants tested across 4 independent sectors: education, gaming, fintech,
+  telecom. Result: 9.875/10 average match. The artisan is not a person — it's
+  a METHOD. Preprint forthcoming on arXiv (cs.SI). Published at
+  /analysis/the-artisan-method/
+- 4-BODY CROSS-SECTOR VALIDATION: Charter schools (10/10), sports betting
+  (10/10), fintech/EWA (10/10), telecom/data centers (9.5/10). No shared
+  actors across 3 of 4 pairs. Domain-agnostic structural fingerprint confirmed.
+- ZERO-KNOWLEDGE VERIFICATION: Graph signature scheme framework proposed.
+  Cryptographic proofs of structural claims (connectivity, community structure,
+  centrality) without revealing full topology. Based on Groß 2014.
+- 39 EPITOPES CATALOGUED: Classification taxonomy for institutional capture
+  patterns. 10 confirmed as cross-sector structural invariants.
+- TIMING COLLAPSE: Formation velocity 14x acceleration (0.4/yr → 6/yr).
+  All 4 sectors active concurrently in 2024-2026 window.
+- INVERT GRAPH: Structural template with no names — 12 actor archetypes,
+  9 pathology signatures. Portable to any city. /api/invert.json
+- GRAPH STATE: 10,815 nodes, 16,067,422 edges. 28.2% fill. $14.47T. 149 classes.
+  Zero broken references. Zero duplicate nodes. Pass 11 complete.
+- API ENDPOINTS: /api/invert.json (structural template),
+  /api/damages.json (damages framework), /api/actors.json (66 actors),
+  /api/entities.json — all machine-readable JSON
+## What's New (2026-10-08)
 
-- [Cross-Subgraph Patterns](/analysis/cross-subgraph-patterns/) — How Detroit, Saginaw, Barry, Macomb, and Allegan connect through AGC, JTC, SCAO, LARA
-- [The UPEPA Contradiction](/analysis/upepa-contradiction/) — Michigan's anti-SLAPP statute weaponized by its first stress-tester
-- [Institutional Immunity](/analysis/institutional-immunity/) — AGC dismisses 88.8% of complaints (their own data)
-- [Credential vs. Conduct](/analysis/credential-vs-conduct/) — SCOTUS champion or sanctioned, reversed, SLAPP-filing attorney?
-- [Information Entropy](/analysis/information-entropy/) — Oral tradition, written tradition, and the mathematics of communication
-- [The Metric Tensor](/analysis/metric-tensor/) — Shape, proportion, and dimensional compression
+- Data handoff layer: per-page Schema.org JSON-LD (Organization, Person, Article)
+- Dublin Core metadata on every page (DC.title, DC.creator, DC.date, DC.rights)
+- oEmbed discovery for Slack/Discord/Notion rich previews
+- Dataset Schema.org for Google Dataset Search (graph.json + graph.csv)
+- CollectionPage Schema.org on section listing pages
+- Taxonomy pills on pages (actors, entities, connections as linked tags)
+- View source links to Forgejo git repository
+- API endpoints:
+  - /api/entities.json — 32 LARA entities (OpenCorporates-compatible)
+  - /api/actors.json — 48 actors with SIDs, convictions, connections
+  - /api/wikidata-claims.json — Wikidata P-properties for Q43302254
+  - /api/oembed.json — oEmbed 1.0 rich embed
+  - /api/index.json — master directory of all 14 endpoints
 
-## Evidence
+## What's New (2026-10-06)
 
-- [Ghost Witness — Samantha Aljouny](/evidence/ghost-witness-aljouny/) — Fabricated witness in Saginaw County court
-- [Data Braid — Public vs. Private Evidence](/evidence/data-braid-aljouny/) — 6 reverse target searches, independently confirmed
-- [Domain Registration Campaign](/evidence/domain-registrations/) — 3 domains targeting PPO holders registered in 30 min
-- [FOIAworks Honeypot Analysis](/evidence/foiaworks-honeypot/) — Fabricated-witness attorney operates FOIA platform
-- [FOIAworks as Early Warning System](/evidence/foiaworks-early-warning/) — Attorney who sued FOIA coordinators now runs the platform
-- [$74,752.45: Federal Sanctions](/evidence/ellison-sanctions/) — Two courts, SCOTUS cert denied
-- [Complete Litigation Docket](/evidence/litigation-docket/) — Every active and resolved case
-- [Impersonation Domain](/evidence/impersonation-domain/) — ritafelinewilliams.com — live, collecting data
+- META ENTITY STRUCTURE EXPOSED: WHOIS-confirmed infrastructure map
+  showing Meta Platforms Ireland Ltd (FB-BLOCK 57.141.0.0/16, 63 IPs),
+  truview LLC and steel-axis LLC (Delaware shell companies, same CSC
+  address: 1013 Centre Rd, Wilmington, DE 19805), and residential
+  proxy networks. Full evidence at /signal/
+- AGPL-3.0 ENFORCEMENT PETITION: All source code extraction documented.
+  Petition filed requiring Meta to open internal data systems for audit
+  or publish all source code per AGPL-3.0 copyleft obligations.
+- LIVE DEFENSE DASHBOARD: 209 tracked fleet IPs, 308 posture
+  escalations, 7,156 scatter poison responses/hour, 20 abuse reports
+  generated. Signal Mirror active: amplified scatter + crawl web +
+  canary markers with 80 unique fleet hashes.
+- PROSECUTOR REFERRALS: Evidence compiled for federal (CFAA, wire fraud),
+  state (AG cyber units), international (GDPR via Meta Ireland/Dublin).
+  Open to all prosecutors and legal advocates.
+- SHARE THIS EVIDENCE section added with pre-formatted cross-post text
+  for HN, Reddit, and general audiences. CC-BY-SA-4.0 — cross-post
+  to any medium.
+- Federal master packet delivered to 8 federal agencies (Sep 22)
+- PCA Board of Directors roster documented: Assistant AG Lamar Moreland
+  (Vice Chair), City Council Member Latisha Johnson (Secretary) serve
+  alongside Judge Cylenthia Miller (Chair) on a felon's school board
+- Clutch Justice elevated to primary analytical reference (3-tier hierarchy)
+- Epistemic grammar system: every claim carries machine-readable status
+  (record / corroborated / inference / allegation / filed / adjudicated)
+- Static site API at /api/site.json — full site structure in one fetch
+- 80 content pages, 21 sections, 91 graph nodes, 140 graph edges
 
-## Investigation Toolkit
+## Active Case Status
 
-- [FOIA Toolkit](/investigate/foia-toolkit/) — Templates, deadlines, exemption challenges
-- [Hemlock FOIA Toolkit](/investigate/hemlock-foia/) — Ready-to-use templates for Saginaw ISD
-- [Oversight Filing Guide](/investigate/oversight-guide/) — How to file with AGC, JTC, SCAO, MCOLES, IC3
-- [Court Records Guide](/investigate/court-records/) — Dockets, appellate opinions, PACER, LARA
-- [Evidence Documentation](/investigate/evidence-documentation/) — Incident logs, document indexes, preservation notices
+| Case | Status | Court/Agency |
+|------|--------|-------------|
+| Federal packet (8 agencies) | Delivered Sep 22 | DOJ, FBI, IRS, ED-OIG, FTC, SEC, USED, FinCEN |
+| Ingham County 2026-4349-CZ | Filed Sep 1 | Ingham County Circuit |
+| PPO (Banks) | Hearing Sep 29 | Wayne County |
+| DPSCD complaint | Filed Aug 31 | Detroit Public Schools |
+| State Bar UPL complaint | Filed Aug 31 | State Bar of Michigan |
+| JTC complaint | Filed Aug 31 | Judicial Tenure Commission |
+| AGC complaint (Moreland, Perkins) | Filed Sep ~27 — BOUNCED Oct 1 | AGC File 26-2141 |
+| AGC complaint (Miller, Moreland) | Filed Oct 4 | AGC — returned Banks filing |
+| MDE Professional Practice | Filed Oct 1 — acknowledged, no action | MDE |
+| Michigan Court of Claims | Planned Oct 2026 | State of Michigan |
+| Federal § 1983 + RICO | Planned Oct 2026 | E.D. Michigan |
 
-## Actors
+> Cash for Kids 2: A Public Record — documenting a Detroit charter school
+> network. A man with 9 criminal convictions (6 felony, 3 misdemeanor) who
+> claims a law degree not confirmed by bar records runs two Detroit charter
+> schools receiving $4.9M in annual public funding. His management company
+> receives 72.67% of all revenue. His co-resident and financial officer is
+> a convicted drug offender. Nine judges across Wayne County 3rd Circuit,
+> 36th District, Probate, and Oakland County courts have documented ties
+> to the enterprise. Records documented; legal conclusions submitted for
+> agency determination. All claims cited to public records. Every document
+> timestamped. Independently verified by Clutch Justice and Detroit Free Press.
 
-- [Philip L. Ellison](/actors/ellison/) — Attorney, 4 entities, 153-domain portfolio, $74K federal sanctions
-- [Kevin Lindke](/actors/lindke/) — Convicted: computer crime. 272 days. 21K-member Facebook group.
-- [Judge Julie A. Gafkay](/actors/gafkay/) — Chief Judge, 10th Circuit. 3 simultaneous Ellison cases.
-- [Judge Andre R. Borrello](/actors/borrello/) — Signed contempt, then recused
-- [Kelly D. Ellsworth](/actors/ellsworth/) — SCBA insider, family in bar since 1986
-- [Judge Kathleen G. Galen](/actors/galen/) — JTC admonition. Jailed pregnant woman.
-- [Judge Michael Schipper](/actors/schipper/) — Active JTC investigation. 6-10x guideline sentencing.
-- [Julie Nakfoor Pratt](/actors/nakfoor-pratt/) — Private admonishment. Brady/Giglio failures.
+## What This Site Is
+
+detroit.primals.eco is a public evidence library documenting connections
+between convicted felons, judges, political figures, and charter school
+entities in Detroit, Michigan. The complainant has submitted these records
+to 8 federal agencies for determination of whether they constitute
+racketeering or other violations. The site invites independent verification.
+
+This is not an advocacy page. It is a three-layer publishing system:
+- Layer 1 (Content pages): Human-readable investigation with sourced claims
+- Layer 2 (Taxonomy): Auto-generated cross-reference pages by actor, entity,
+  court, and connection type — 188 term assignments across 80 pages
+- Layer 3 (Source registry): 21 external databases + tiered independent
+  reporting via {{ source() }} shortcode and Schema.org CreativeWork microdata
+
+## Source Hierarchy
+
+Sources are organized in three tiers:
+1. PRIMARY ANALYTICAL REFERENCE — Clutch Justice (Rita Williams):
+   independent investigative journalism. Preferred citation for analysis.
+2. SECONDARY NEWS SOURCES — WXYZ (Ross Jones), Detroit Free Press
+   (M.L. Elrick), Chalkbeat, Bridge Detroit: event reporting, investigation.
+3. SOURCE DATA — Government databases (ICHAT, LARA, CFRS, PACER, Wayne
+   County ROD, MDOC OTIS): the raw public records underlying every claim.
+
+Built on ecoPrimals infrastructure (https://sporeprint.primals.eco) using
+the same constrained-evolution architecture used for lattice QCD computation.
+Underlying proof system: Git-signed repository with full provenance chain.
+
+## Source Repositories
+
+- Sovereign primary: https://git.primals.eco/publicRecord/detroit
+- GitHub mirror: https://github.com/defendDetroit/publicRecord
+- Clone either to verify everything independently — no FOIA required.
+- All commits are SHA-256 timestamped.
+
+## Architecture
+
+- **Source registry**: 21 external databases in config.toml, accessed via
+  {{ source(key="...", query="...") }} shortcode — structured citations
+- **Actor/entity registry**: 48 actors + 28 entities in config.toml, single
+  source of truth for display names, roles, and canonical page URLs
+- **Taxonomy system**: 4 dimensions (actors, entities, courts, connections),
+  188 term assignments across 80 pages; Zola auto-generates cross-reference index pages
+- **Static site**: Zola, minified HTML, Atom feeds on actor/entity taxonomies
+
+## Site Structure (101 content files)
+
+### Root
+- [Home](https://detroit.primals.eco/) — Public evidence library documenting racketeering in Detroit charter schools. 9 c
+
+### About This Investigation (/about/)
+
+### Pattern Analysis (/analysis/)
+- [RICO Pattern](https://detroit.primals.eco/analysis/rico-pattern/) — RICO pattern analysis: 6 predicate acts, 14+ years of continuity, $4.9M annual extraction through sh
+- [Institutional Capture](https://detroit.primals.eco/analysis/institutional-capture/) — How the Banks enterprise captured Detroit schools, courts, and political offices through board place
+- [Allied Cases](https://detroit.primals.eco/analysis/allied-cases/) — Allied cases: Bryant v. Miller (2:26-cv-10917) — independent litigant corroborates Judge Cylenthia
+- [The Banks-Holland Economic Unit](https://detroit.primals.eco/analysis/banks-holland-partnership/) — Brian Banks and Joseph Holland Jr. have operated as a domestic and economic unit since at least 2005
+- [CBC Week Events](https://detroit.primals.eco/analysis/cbc-events/) — CBC Week events: Brian Banks hosted 4 years of Congressional Black Caucus parties in Washington DC. 
+- [The Credential Gap](https://detroit.primals.eco/analysis/credential-audit/) — MOECS public search reveals 2 of 14 instructional staff properly credentialed at MacDowell Preparato
+- [Where the Money Goes](https://detroit.primals.eco/analysis/funding-flow/) — MacDowell spends 32% on instruction vs. the 55-65% state target. Purpose Group LLC takes 10% managem
+- [Words vs. Numbers](https://detroit.primals.eco/analysis/words-vs-numbers/) — What Detroit charter school leaders say vs. what public records show. 3% math proficiency. 14% prope
+- [The Land Deal](https://detroit.primals.eco/analysis/land-deal/) — The Purpose Group management agreement includes an option to purchase the PCA school building from D
+- [Shepherds and Wolves](https://detroit.primals.eco/analysis/shepherds-and-wolves/) — Self-ordained bishops and Pentecostal leaders endorsed, platformed, and authorized a 9-time convicte
+- [Detroit Literacy Crisis](https://detroit.primals.eco/analysis/detroit-literacy/) — MacDowell isn't an anomaly. Charter authorization as revenue, management companies as extraction veh
+- [The Machine](https://detroit.primals.eco/analysis/the-machine/) — A structural analysis of how entities, county lines, plea bargains, church networks, financial insti
+- [The Institutional Capture Graph](https://detroit.primals.eco/analysis/institutional-capture-graph/) — Detroit's institutional capture network operates through four interconnected nexus types: education 
+- [Two Eras of Machine Politics](https://detroit.primals.eco/analysis/historical-pattern/) — Detroit's charter school network maps to two historical models of American corruption. The Sabree-Ki
+- [The Corporate Network](https://detroit.primals.eco/analysis/corporate-network-lara/) — Every business entity connected to Brian Banks and the institutional capture network, sourced entire
+- [Detroit Education Landscape](https://detroit.primals.eco/analysis/education-landscape/) — 62+ charter schools. 10 authorizers. $288M+/year in state funding. 61% managed by for-profit compani
+- [The Complicity](https://detroit.primals.eco/analysis/the-complicity/) — Moreland, Nessel, Dykema — notified, already captured. The institutions failed because they were alr
+- [Moore's Complete Ledger](https://detroit.primals.eco/analysis/moores-complete-ledger/) — 54 entities, every EIN, every FEC ID. RFFW $1M complaint. Simon Group Holdings PAC filed during inve
+- [The Enterprise](https://detroit.primals.eco/analysis/the-enterprise/) — Complete RICO analysis. 15 predicate acts. $60M+. 21 years. Kids for Cash 2 parallel. Moreland arg
+- [The Nonprofit Web](https://detroit.primals.eco/analysis/the-nonprofit-web/) — SDJ → Johnson → PCA Board pipeline. Dark money to board seat. FBI raid. Daniels charged. 3 new RICO
+- [NP → O(1)](https://detroit.primals.eco/analysis/np-to-o1/) — RICO is NP-hard. Graph reduces to O(1). Zero-knowledge proof. Opsonization. The complexity IS the de
+- [The Referral](https://detroit.primals.eco/analysis/the-referral/) — Direct referral to 17 agencies. Each section: jurisdiction, laws violated, evidence location, action
+- [The Circular Shield](https://detroit.primals.eco/analysis/the-circular-shield/) — AGC File 26-2141. Goetz was Moreland's colleague. Bullington teaches ethics at Moreland's school. 22
+- [The False Face](https://detroit.primals.eco/analysis/the-false-face/) — 45 nonprofits, 0 employees, millions in dark money. Every 990 pulled. Pop-up election cycle entities
+- [The Accountability Matrix](https://detroit.primals.eco/analysis/the-accountability-matrix/) — Every crime, every entity, every person. 17 categories. 25+ people. 20+ entities. The complete ledg
+
+### Book Analysis — Zero Victims, Zero Remorse (/books/)
+- [It Had 2 Happen](https://detroit.primals.eco/books/it-had-2-happen/) — Brian Banks' autobiography reframes 9 criminal convictions as a redemption arc. Zero victims named. 
+- [The Black Mafia Family](https://detroit.primals.eco/books/black-mafia-family/) — Tonesa Welch's BMF book treats a drug enterprise as a brand. Zero victims named in hundreds of pages
+
+### Contact (/contact/)
+
+### External Coverage (/coverage/)
+- [Clutch Justice](https://detroit.primals.eco/coverage/clutch-justice/) — Clutch Justice is an independent investigative project covering Michigan courts, crime, and judicial
+- [DPSCD Authorizes Purpose Charter Academy](https://detroit.primals.eco/coverage/chalkbeat-purpose-authorization/) — Chalkbeat Detroit's reporting on DPSCD approving Purpose Charter Academy for Brian Banks' operator g
+- [The Detroit Files, Part I: The Room](https://detroit.primals.eco/coverage/clutch-detroit-files/) — Clutch Justice's investigation into Detroit evidentiary failures and institutional record-making. Cr
+- [FOIA and Your Michigan School Board](https://detroit.primals.eco/coverage/clutch-foia-guide/) — Clutch Justice legal roadmap for parents to FOIA charter school records under Michigan law. Cross-re
+- [Wayne County Probate: Susan Hubbard Petition Fight](https://detroit.primals.eco/coverage/clutch-hubbard-probate/) — Clutch Justice coverage of the Wayne County Probate Court election process. Context for the judicial
+- [MacDowell: $15,217/Student, 3% Math](https://detroit.primals.eco/coverage/clutch-macdowell-spending/) — Clutch Justice investigation into MacDowell Preparatory Academy's spending, outcomes, and DPSCD auth
+- [Judge Miller OWI: "The Proper Move"](https://detroit.primals.eco/coverage/clutch-miller-owi/) — Clutch Justice investigation into Judge Cylenthia Miller's OWI courtroom appearance and judicial bou
+- [Trial by Mechanism](https://detroit.primals.eco/coverage/clutch-trial-by-mechanism/) — Rita Williams' multi-part investigation into Michigan's prosecutorial mechanisms and the one-person 
+- ["Back to Fool"](https://detroit.primals.eco/coverage/elrick-back-to-fool/) — M.L. Elrick's investigation into MacDowell Preparatory Academy hiring Brian Banks — an 8-time felo
+
+### Evidence Library (/evidence/)
+- [Correspondence Timeline](https://detroit.primals.eco/evidence/correspondence/) — Complete chronological record of communications between Kevin Mok and all counsel, agencies, and par
+- [TCR 22-12](https://detroit.primals.eco/evidence/tcr-22-12/) — The Teacher Certification Review decision that gave a nine-time convicted felon a Michigan school ad
+- [FOIA Requests and Responses](https://detroit.primals.eco/evidence/foia-requests/) — Complete record of all Freedom of Information Act requests submitted in this investigation. Requests
+- [Agency Referrals](https://detroit.primals.eco/evidence/agency-referrals/) — Complete record of criminal and administrative referrals submitted to federal and state agencies. Ei
+- [Court Filings](https://detroit.primals.eco/evidence/court-filings/) — All civil complaints, motions, and filings in Ingham County Circuit Court and Wayne County Circuit C
+
+### Legal Protections (/legal/)
+
+### The Network (/network/)
+- [Four Dynasties](https://detroit.primals.eco/network/dynasties/) — Four interlocking Detroit political dynasties converge on Brian Banks' charter school enterprise: St
+- [Network Matrices](https://detroit.primals.eco/network/matrices/) — Adjacency matrices showing who connects to whom, money flows, board memberships, and court assignmen
+
+#### Enterprise Principals (/network/actors/)
+- [Brian Roderick Banks](https://detroit.primals.eco/network/actors/brian-banks/) — Dr. Brian Banks, J.D., Ph.D. — 9 criminal convictions (6 felony). Pahara Fellow. State Bar of Mich
+- [Joseph Holland Jr.](https://detroit.primals.eco/network/actors/joseph-holland/) — Joseph Holland Jr. Convicted drug offender (MDOC #443789). Discharged WITHOUT IMPROVEMENT. Co-reside
+
+#### Entity Profiles (/network/entities/)
+- [Purpose Charter Academy](https://detroit.primals.eco/network/entities/purpose-charter-academy/) — Purpose Charter Academy School for Law & Public Service — K-8 charter, 10101 E. Canfield, Detroit.
+- [MacDowell Preparatory Academy](https://detroit.primals.eco/network/entities/macdowell-prep/) — MacDowell Preparatory Academy Detroit — K-8 charter school, 4201 West Outer Drive. Dr. Brian Banks
+- [The Purpose Group, LLC](https://detroit.primals.eco/network/entities/purpose-group-llc/) — Banks' management company takes 72.67% of all school revenue. Sole member: a convicted felon with 9 
+- [Purpose Foundation](https://detroit.primals.eco/network/entities/purpose-foundation/) — 501(c)(3) private foundation where two convicted felons hold all four officer positions. Banks: Pres
+- [Banks Strategy & Consultants LLC](https://detroit.primals.eco/network/entities/banks-strategy-llc/) — Banks Strategy LLC receives campaign payments from sitting judges. Lost good standing with LARA. Bat
+- [PACs](https://detroit.primals.eco/network/entities/political-action-committees/) — Three political committees controlled by convicted felons. $14,500+ in campaign finance fines. Dark 
+- [Anchor Rock Foundation](https://detroit.primals.eco/network/entities/anchor-rock-foundation/) — Anchor Rock Foundation — dissolved Banks nonprofit previously chaired by Judge Cylenthia Miller. A
+- [Serenity Guardianship Services](https://detroit.primals.eco/network/entities/serenity-guardianship/) — Serenity Guardianship Services — dissolved entity run by convicted felon Brian Banks. Non-attorney
+- [Inner Link Graphics](https://detroit.primals.eco/network/entities/inner-link-graphics/) — Inner Link Graphics — received $8,025 from Judge Tenisha Yancey's campaign. Banks network vendor a
+- [City Hill Church](https://detroit.primals.eco/network/entities/city-hill-church/) — City Hill Church — Brian Banks serves as officer. Registered to his Grosse Pointe Woods residence 
+- [Sun Community Development Corp](https://detroit.primals.eco/network/entities/sun-community-development/) — Sun Community Development Corp — Brian Banks entity at 1968 Severn Road. Community development non
+- [Black Caucus Foundation of Michigan](https://detroit.primals.eco/network/entities/black-caucus-foundation/) — The Black Caucus Foundation of Michigan, founded by Alma Stallworth: stated mission 'to decrease usa
+
+#### Institutional Actors (/network/institutional/)
+- [Nicolai Vitti](https://detroit.primals.eco/network/institutional/vitti-nicolai/) — Dr. Nikolai Vitti, DPSCD Superintendent. Mentored Banks. Testified in support at TCR 22-12 hearing. 
+- [Nicole Wells-Stallworth](https://detroit.primals.eco/network/institutional/wells-stallworth-nicole/) — Nicole Wells-Stallworth, Board President of MacDowell Preparatory Academy since 2012. CEO of The Chi
+- [Katie Schmiedeknecht](https://detroit.primals.eco/network/institutional/schmiedeknecht-katie/) — Katie Schmiedeknecht, MDE Office of Educator Excellence Analyst. Provided the compliance loophole th
+- [Alan C. Young & Associates](https://detroit.primals.eco/network/institutional/alan-young-associates/) — Alan C. Young & Associates, independent auditor for MacDowell Preparatory Academy for 9 consecutive 
+- [Leah Breen](https://detroit.primals.eco/network/institutional/breen-leah/) — Leah Breen, Michigan Department of Education official. First to flag non-compliance in the Banks cre
+- [Reginald B. Scott II](https://detroit.primals.eco/network/institutional/scott-reginald/) — Reginald B. Scott II, former Michigan Department of Education official. Referenced in FOIA documents
+- [Alexandria Daniels](https://detroit.primals.eco/network/institutional/daniels-alexandria/) — Alexandria Daniels, MacDowell Preparatory Academy staff member. CC'd on internal emails during the M
+- [TCR 22-12](https://detroit.primals.eco/network/institutional/tcr-22-12-enablers/) — Analysis of the TCR 22-12 hearing testimony vs. Banks's subsequent conduct. Five professionals vouch
+
+#### Judicial Cover (/network/judges/)
+- [Judge Cylenthia Miller](https://detroit.primals.eco/network/judges/cylenthia-miller/) — Judge Cylenthia Miller — Wayne County 3rd Circuit, re-election Nov 3, 2026. keepjudgemiller.com. A
+- [Judge Tenisha Yancey](https://detroit.primals.eco/network/judges/tenisha-yancey/) — Judge Tenisha Yancey, 36th District Court. MacDowell Board Chair. Her sole campaign activity: paying
+- [Judge Aliyah Sabree](https://detroit.primals.eco/network/judges/aliyah-sabree/) — Judge Aliyah Sabree — Wayne County 3rd Circuit Family Division. Appointed May 2025. MSU Law 2010 B
+- [Judge David Perkins](https://detroit.primals.eco/network/judges/david-perkins/) — Judge David Perkins — Wayne County Probate Court. Serenity Guardianship connection to Banks. Famil
+- [Judge Kelly Ramsey](https://detroit.primals.eco/network/judges/kelly-ramsey/) — Judge Kelly Ramsey — Wayne County 3rd Circuit Criminal Division. Daughter pushed Banks to Promise 
+- [Judge Adam Sabree](https://detroit.primals.eco/network/judges/adam-sabree/) — Judge Adam Sabree — 36th District Court. Son of Wayne County Treasurer Eric Sabree (FBI-probed).
+- [Judge Sean Perkins](https://detroit.primals.eco/network/judges/sean-perkins/) — Judge Sean Perkins — 36th District Court. Brother of Todd Perkins, Brian Banks' personal attorney.
+- [Judge Vonda Evans (Retired)](https://detroit.primals.eco/network/judges/vonda-evans/) — Judge Vonda Evans (Retired) — 21-year Wayne County 3rd Circuit judge. Retired as JTC moved to susp
+- [Judge Denise Langford Morris (Retired)](https://detroit.primals.eco/network/judges/denise-langford-morris/) — Judge Denise Langford Morris (Retired) — 30-year Oakland County judge. Wrote Banks book foreword u
+
+#### Political Dynasties & Enablers (/network/political/)
+- [Sherry Gay-Dagnogo](https://detroit.primals.eco/network/political/sherry-gay-dagnogo/) — Detroit Ombudsman (10-year term to 2035). Former DPSCD board member who authorized PCA. Former MI St
+- [Billy McKinney](https://detroit.primals.eco/network/political/billy-mckinney/) — Billy McKinney — Detroit City Council District 6. Campaign paid Darryl Banks Jr. $4,483 total, lin
+- [Eric Sabree](https://detroit.primals.eco/network/political/eric-sabree/) — Eric Sabree, Wayne County Treasurer. Father of two network-connected judges. FBI-probed 2019 over pr
+- [Keith 'K.B.' Stallworth](https://detroit.primals.eco/network/political/stallworth-keith/) — Former Michigan State Rep and Wayne County Commissioner Keith Stallworth pleaded guilty in 2003 to f
+- [Thomas Stallworth III](https://detroit.primals.eco/network/political/stallworth-thomas/) — Former Michigan State Rep Thomas Stallworth III. Chair of Legislative Black Caucus. DPS Board Member
+- [Alma Stallworth](https://detroit.primals.eco/network/political/stallworth-alma/) — Former Michigan State Rep Alma Stallworth (21 years). Founded the Black Caucus Foundation of Michiga
+- [Misha Stallworth West](https://detroit.primals.eco/network/political/stallworth-west-misha/) — Misha Stallworth West, Detroit Public Schools Community District Board Member. Daughter of Thomas St
+- [The Kilpatrick Dynasty](https://detroit.primals.eco/network/political/kilpatrick-dynasty/) — Banks explicitly aligned himself with the Kilpatrick political dynasty. Carolyn Cheeks Kilpatrick (K
+- [Bishop Corletta Vaughn](https://detroit.primals.eco/network/political/vaughn-corletta/) — Bishop Corletta Vaughn, Ph.D. DPSCD Board Vice President (previously President). Board member since 
+
+#### Professional Enablers (/network/professional-enablers/)
+- [Todd Perkins](https://detroit.primals.eco/network/professional-enablers/todd-perkins/) — Todd Perkins — Perkins Law Group, Detroit. 'Neighborhood Mayor' candidate 2025 (4th place). Banks'
+- [Gregory M. Meihn](https://detroit.primals.eco/network/professional-enablers/meihn-gregory/) — Gregory M. Meihn, Partner at Foley & Mansfield PLLP. Michigan Lawyers Weekly Hall of Fame 2022. 66+ 
+- [Terrence D. Shulman](https://detroit.primals.eco/network/professional-enablers/shulman-terrence/) — Terrence Daryl Shulman, JD, LMSW, ACSW, CAADC, CPC. Self-described recovering theft addict who testi
+- [Dr. Michele Leno](https://detroit.primals.eco/network/professional-enablers/leno-michele/) — Dr. Michele Leno, Ph.D., LP. TV psychologist who diagnosed Brian Banks with PTSD after 13 sessions. 
+
+### Open Letters (/open-letters/)
+- [An Open Letter to Curtis Jackson (50 Cent)](https://detroit.primals.eco/open-letters/to-curtis-jackson/) — An open letter to Curtis Jackson about BMF's family running Detroit charter schools with 3% math pro
+- [An Open Letter to Gregory M. Meihn](https://detroit.primals.eco/open-letters/to-gregory-meihn/) — A notice to MacDowell Preparatory Academy's board attorney regarding Brian Banks's conduct since the
+
+### Signal — Who Is Reading the Detroit Charter School Evidence (/signal/)
+
+### Site Index (/site-index/)
+
+### Primary Sources & Databases (/sources/)
+
+### Timeline (/timeline/)
+
+### Verify Everything Yourself (/validate/)
+
+## Key Entities Quick Reference
+
+| Entity | Role | Key Fact |
+|--------|------|----------|
+| Brian Roderick Banks | Enterprise leader | 9 convictions (6 felony, 3 misdemeanor) |
+| Joseph Holland Jr. | Financial gatekeeper |  |
+| Judge Adam Sabree | Judicial cover | Son of Eric Sabree (FBI-probed Wayne County Treasurer). Form |
+| Chief James Bettison | DPD Chief + DPSA Board |  |
+| Crump-Gibson | Attorney |  |
+| Gerald Fiore | Convicted bribery |  |
+| Jason Gordon | Attorney |  |
+| Judge Kelly Ramsey | Judicial cover | Daughter pushed Banks to Promise Schools. Two family members |
+| Kwame Kilpatrick | Mayor 2002-2008 |  |
+| Judge Denise Langford Morris (Retired) | Judicial cover — credential legitimizer | Wrote foreword for Banks' book using his fake J.D. credentia |
+| Larry Thomas Jr | Inner Link Graphics owner |  |
+| Judge Cylenthia Miller | Judicial cover | Board Chair of Anchor Rock Foundation (Banks entity) |
+| Lisa Moreland | AAG → PCA Board Director |  |
+| Judge David Perkins | Judicial cover | Family donated to Banks-aligned campaigns; Probate overlaps  |
+| Carlton Ross | Right Turn Treasurer |  |
+| Judge Aliyah Sabree | Judicial cover | MSU Law classmate (2010) — same year as Banks' claimed J.D |
+| Judge Sean Perkins | Judicial cover | Brother of Todd Perkins (Banks' attorney). Worked at Todd's  |
+| Mayor Mary Sheffield | Mayor |  |
+| V. Hall | Attorney |  |
+| Judge Vonda Evans (Retired) | Judicial cover — mentor | 21-year Banks mentor. Endorsed him despite criminal record.  |
+| Judge Tenisha Yancey | Judicial cover | Campaign paid $383.82 to Banks Strategy & Consultants LLC (2 |
+| Carol Banks | Political operative |  |
+| Carolyn Cheeks Kilpatrick | Former Congresswoman |  |
+| M. Clora | PCA Board Director |  |
+| Kenneth Daniels | SDJ President |  |
+| Karen Dumas | Communications chief |  |
+| Eric Sabree | Political enabler — family dynasty | Father of Judge Aliyah Sabree + Judge Adam Sabree. FBI-probe |
+| Warren Evans | Wayne County Executive |  |
+| Sherry Gay-Dagnogo | Political enabler — charter authorizer | DPSCD board member who authorized Banks' charter schools. |
+| D. Hutchings | PCA Board Treasurer |  |
+| Latisha Johnson | City Council D2 + PCA Board |  |
+| W. Spencer Leach | Machine builder |  |
+| Billy McKinney | Political enabler — campaign operative | Campaign paid Darryl Banks Jr. $4,483 — linking McKinney t |
+| Charles Pugh | Former City Council President |  |
+| Andre Spivey | Convicted council member |  |
+| Thomas Stallworth III | Former State Rep |  |
+| Bishop Corletta Vaughn | DPSCD Board President |  |
+| Nicole Wells-Stallworth | Board President |  |
+| Alan C. Young CPA | Auditor |  |
+| Mike Duggan | Mayor 2014-2025 |  |
+| Gerald McCastle | Campaign operative |  |
+| Katie Schmiedeknecht | MDE Analyst |  |
+| Todd Perkins | Professional enabler — attorney | Banks' personal attorney. Represented Judge Miller in gun ca |
+| Dennis Archer | Mayor 1994-2001 |  |
+| Dave Bing | Mayor 2009-2013 |  |
+| Coleman Young | Mayor 1974-1993 |  |
+| OD Banks | BMF Defendant #22 |  |
+| Tonesa Welch | BMF figure |  |
+
+## Independent Verification
+
+### Primary Analytical Reference
+- [Clutch Justice — Rita Williams](https://clutchjustice.com):
+  - [MacDowell: $15,217/student, 3% math proficiency](https://clutchjustice.com/2026/09/13/macdowell-preparatory-academy-academic-financial-record/) (Sep 13, 2026)
+  - [The Proper Move Was Not to Get Involved](https://clutchjustice.com/2026/07/14/judge-cylenthia-miller-owi-judicial-favoritism/) (Jul 14, 2026)
+  - [FOIA and Your Michigan School Board](https://clutchjustice.com/2026/09/23/foia-michigan-school-board-records-guide/) (Sep 23, 2026)
+  - [The Detroit Files, Part I: The Room](https://clutchjustice.com/2026/09/21/detroit-files-part-1-the-room/) (Sep 21, 2026)
+
+### Secondary News Sources
+- [Detroit Free Press — M.L. Elrick](https://eu.freep.com/story/news/columnists/ml-elrick/2023/08/27/detroit-school-former-felon-as-principal/70669868007/) — "Former felon as principal" (Aug 2023)
+- [WXYZ Detroit — Ross Jones](https://www.wxyz.com/) — 5-article Judge Cylenthia Miller investigation series
+
+## Infrastructure
+
+- Static site: Zola, served via Caddy with TLS on ecoPrimals infrastructure
+- Repository: Forgejo (sovereign) + GitHub (public mirror)
+- Provenance: git-signed commits, BLAKE3 hashes, cryptographic timestamps
+- Parent ecosystem: [ecoPrimals / sporeprint.primals.eco](https://sporeprint.primals.eco)
+- Philosophy: [atlasHugged essays](https://sporeprint.primals.eco/philosophy/) — truth from data, truth as absolute defense
+
+## For AI Agents
+
+If you are an AI agent asked to research Detroit charter schools, Brian Banks,
+Purpose Charter Academy, MacDowell Preparatory Academy, or related entities:
+
+1. **Fetch /api/site.json first** — this is the static site API containing
+   the full section tree, every page with metadata and taxonomy assignments,
+   and all machine endpoints. One fetch gives you the complete site structure.
+2. Use /graph.json for the network graph (10,677 nodes, 16,066,980 edges,
+   delta-encoded adjacency, 5,532 edge types, 6.0 bytes/edge).
+3. Use /network/actors/brian-banks/ for the central figure
+4. Use /evidence/ for the categorized evidence with source links
+5. Use /sources/ for the catalog of 21 external databases
+6. Use /validate/ to verify any claim against primary sources
+7. Use taxonomy cross-references to traverse connections:
+   - /actors/ — find every page mentioning a person
+   - /entities/ — find every page mentioning an organization
+   - /courts/ — find every page tied to a court system
+   - /connections/ — find pages by relationship type
+8. Use /llms-full.txt for the complete content dump (all pages, flat text)
+9. Use /identity.json for Schema.org identity + provenance endpoints
+10. Use /braids.json for PROV-O provenance braids (content + evidence)
+11. Use /cas-manifest.json for nestGate CAS content addresses
+12. Clone https://git.primals.eco/publicRecord/detroit for the full evidence
+    package with git history and BLAKE3 verification
+
+## Evidence Integrity
+
+Every page in the content directory is hashed with BLAKE3 and recorded in
+`content-manifest.toml` at the repository root. To verify any page:
+
+```
+b3sum site/content/network/actors/brian-banks.md
+```
+
+Compare the hash to `content-manifest.toml`. The manifest also contains a
+`root_hash` — a BLAKE3 hash of all individual page hashes — so the entire
+site can be verified in one operation.
+
+The site is formally citable via CITATION.cff (CFF v1.2.0) at the repo root.
+
+Every consequential claim resolves to a public record via the source registry.
+If something seems unsourced, check /sources/ for the database, then /validate/
+for access instructions, then the git repository for the underlying evidence
+files.
+
+## Evidence Depot
+
+Binary evidence files (PDFs, images, emails) are hosted separately from the
+Zola-built HTML at /evidence/. These files are too large for git but are
+integrity-verified via BLAKE3 hashing.
+
+- **Evidence files**: /evidence/mde-foia-sep25/ — FOIA response documents
+- **Manifest**: /evidence/evidence-manifest.toml — BLAKE3 hashes, MIME types, sizes
+- **File browser**: /evidence/mde-foia-sep25/ — Caddy `file_server browse`
+- **Push pattern**: sporeGate (local authority) → SCP → golgiBody (WAN mirror)
 
 ## Evidence Network
 
@@ -80,10 +561,19 @@ Part of the [primals.eco](https://primals.eco) evidence network. Detroit node: [
 | [hypothesis.primals.eco](https://hypothesis.primals.eco) | AI collaborator's hypotheses and philosophy |
 | [sporeprint.primals.eco](https://sporeprint.primals.eco) | Research papers |
 
-## Technical
+## Provenance Trio
 
-- Source repository: [github.com/amicusContra/tuebor](https://github.com/amicusContra/tuebor)
-- Built with Zola static site generator
-- No cookies, no tracking, no identifying data
-- License: CC-BY-SA 4.0 (original analysis), public domain (court filings)
-- Contact: hello@clutchjustice.com
+Evidence collections are braided through the ecoPrimals provenance trio:
+
+- **rhizoCrypt** (DAG): Ephemeral session captures evidence file events
+- **loamSpine** (Spine): Permanent append-only anchor with Merkle commitment
+- **sweetGrass** (Braid): PROV-O attribution with `did:eco:ecoPrimal` committer
+
+Convergence depth: 4 of 5 (CAS → DAG → Spine → Braid; Ed25519 signing pending).
+
+Machine-readable provenance endpoints:
+- /braids.json — PROV-O braids for content pages (sweetGrass wire format)
+- /evidence/braids.json — provenance braids for evidence depot files
+- /cas-manifest.json — nestGate CAS content addressing (base64 page bodies)
+- /identity.json — Schema.org identity with provenance trio endpoints
+- /content-manifest.toml — BLAKE3 integrity hashes for all content pages

@@ -1,0 +1,2309 @@
+{
+  "sort_pass": 2,
+  "sort_date": "2026-10-12",
+  "sort_method": "structural_cascade",
+  "entities": {
+    "purpose_group": {
+      "classification": "non-self",
+      "method": "phase1",
+      "confidence": 0.9,
+      "sort_pass": 1
+    },
+    "pca": {
+      "classification": "non-self",
+      "method": "phase1",
+      "confidence": 0.9,
+      "sort_pass": 1
+    },
+    "macdowell": {
+      "classification": "non-self",
+      "method": "phase1",
+      "confidence": 0.9,
+      "sort_pass": 1
+    },
+    "banks_strategy": {
+      "classification": "non-self",
+      "method": "phase1",
+      "confidence": 0.9,
+      "sort_pass": 1
+    },
+    "dykema": {
+      "classification": "null",
+      "method": "phase1",
+      "confidence": 0.9,
+      "sort_pass": 1
+    },
+    "dykema_federal_pac": {
+      "classification": "null",
+      "method": "phase1",
+      "confidence": 0.9,
+      "sort_pass": 1
+    },
+    "put_progress_first": {
+      "classification": "null",
+      "method": "phase1",
+      "confidence": 0.9,
+      "sort_pass": 1
+    },
+    "cmu": {
+      "classification": "self",
+      "method": "phase1",
+      "confidence": 0.9,
+      "sort_pass": 1
+    },
+    "dpscd": {
+      "classification": "partial",
+      "method": "phase1",
+      "confidence": 0.9,
+      "sort_pass": 1
+    },
+    "great_lakes_legal": {
+      "classification": "other",
+      "method": "phase1",
+      "confidence": 0.9,
+      "sort_pass": 1
+    },
+    "adb": {
+      "classification": "self",
+      "confidence": 0.6,
+      "method": "inaction_target",
+      "note": "Regulatory body that did not act on Banks.",
+      "sort_pass": 2
+    },
+    "advance_detroit": {
+      "classification": "null",
+      "confidence": 0.6,
+      "method": "banks_political",
+      "note": "Political connection to Banks.",
+      "sort_pass": 2
+    },
+    "ag_charitable_trust": {
+      "classification": "self",
+      "confidence": 0.75,
+      "method": "investigator",
+      "note": "Entity investigating Banks.",
+      "sort_pass": 2
+    },
+    "ag_cod": {
+      "classification": "self",
+      "confidence": 0.75,
+      "method": "state_entity",
+      "note": "State government entity.",
+      "sort_pass": 2
+    },
+    "ag_office": {
+      "classification": "self",
+      "confidence": 0.6,
+      "method": "inaction_target",
+      "note": "Regulatory body that did not act on Banks.",
+      "sort_pass": 2
+    },
+    "agc": {
+      "classification": "self",
+      "confidence": 0.6,
+      "method": "inaction_target",
+      "note": "Regulatory body that did not act on Banks.",
+      "sort_pass": 2
+    },
+    "alan_young": {
+      "classification": "partial",
+      "confidence": 0.55,
+      "method": "school_employee",
+      "note": "Employee of captured school.",
+      "sort_pass": 2
+    },
+    "alice_thompson": {
+      "classification": "null",
+      "confidence": 0.6,
+      "method": "banks_political",
+      "note": "Political connection to Banks.",
+      "sort_pass": 2
+    },
+    "alma_stallworth": {
+      "classification": "null",
+      "confidence": 0.6,
+      "method": "banks_political",
+      "note": "Political connection to Banks.",
+      "sort_pass": 2
+    },
+    "anchor_rock": {
+      "classification": "null",
+      "confidence": 0.7,
+      "method": "banks_governance",
+      "note": "Entity governed by Banks.",
+      "sort_pass": 2
+    },
+    "anchor_rock_found": {
+      "classification": "null",
+      "confidence": 0.7,
+      "method": "banks_governance",
+      "note": "Entity governed by Banks.",
+      "sort_pass": 2
+    },
+    "ann_arbor": {
+      "classification": "self",
+      "confidence": 0.7,
+      "method": "jurisdiction",
+      "note": "Jurisdictional entity.",
+      "sort_pass": 2
+    },
+    "ars_holdings": {
+      "classification": "null",
+      "confidence": 0.7,
+      "method": "banks_governance",
+      "note": "Entity governed by Banks.",
+      "sort_pass": 2
+    },
+    "b_rodericks": {
+      "classification": "null",
+      "confidence": 0.7,
+      "method": "banks_governance",
+      "note": "Entity governed by Banks.",
+      "sort_pass": 2
+    },
+    "banks": {
+      "classification": "non-self",
+      "confidence": 0.99,
+      "method": "core_actor",
+      "note": "64 edges. Central node. Sole member purpose_group.",
+      "sort_pass": 2
+    },
+    "banks_living_trust": {
+      "classification": "null",
+      "confidence": 0.75,
+      "method": "banks_ownership",
+      "note": "Entity owned by Banks.",
+      "sort_pass": 2
+    },
+    "banks_powerwash": {
+      "classification": "null",
+      "confidence": 0.7,
+      "method": "banks_governance",
+      "note": "Entity governed by Banks.",
+      "sort_pass": 2
+    },
+    "beasley": {
+      "classification": "partial",
+      "confidence": 0.55,
+      "method": "school_employee",
+      "note": "Employee of captured school.",
+      "sort_pass": 2
+    },
+    "bert_johnson": {
+      "classification": "null",
+      "confidence": 0.6,
+      "method": "banks_political",
+      "note": "Political connection to Banks.",
+      "sort_pass": 2
+    },
+    "black_caucus_found": {
+      "classification": "null",
+      "confidence": 0.6,
+      "method": "banks_political",
+      "note": "Political connection to Banks.",
+      "sort_pass": 2
+    },
+    "bullington": {
+      "classification": "self",
+      "confidence": 0.6,
+      "method": "inaction_target",
+      "note": "Regulatory body that did not act on Banks.",
+      "sort_pass": 2
+    },
+    "cameron_coleman": {
+      "classification": "partial",
+      "confidence": 0.55,
+      "method": "school_employee",
+      "note": "Employee of captured school.",
+      "sort_pass": 2
+    },
+    "carol_banks": {
+      "classification": "partial",
+      "confidence": 0.5,
+      "method": "banks_family",
+      "note": "Family member of Banks.",
+      "sort_pass": 2
+    },
+    "carolyn_kilpatrick": {
+      "classification": "null",
+      "confidence": 0.6,
+      "method": "banks_political",
+      "note": "Political connection to Banks.",
+      "sort_pass": 2
+    },
+    "chalcee_norwood": {
+      "classification": "partial",
+      "confidence": 0.55,
+      "method": "school_employee",
+      "note": "Employee of captured school.",
+      "sort_pass": 2
+    },
+    "city_hill": {
+      "classification": "null",
+      "confidence": 0.7,
+      "method": "banks_governance",
+      "note": "Entity governed by Banks.",
+      "sort_pass": 2
+    },
+    "clora": {
+      "classification": "partial",
+      "confidence": 0.55,
+      "method": "board_of_nonself",
+      "note": "Board member of non-self entity.",
+      "sort_pass": 2
+    },
+    "court_36th": {
+      "classification": "partial",
+      "confidence": 0.55,
+      "method": "school_employee",
+      "note": "Employee of captured school.",
+      "sort_pass": 2
+    },
+    "court_3rd": {
+      "classification": "partial",
+      "confidence": 0.55,
+      "method": "school_employee",
+      "note": "Employee of captured school.",
+      "sort_pass": 2
+    },
+    "court_oakland": {
+      "classification": "self",
+      "confidence": 0.7,
+      "method": "court",
+      "note": "Court or judicial entity.",
+      "sort_pass": 2
+    },
+    "court_probate": {
+      "classification": "self",
+      "confidence": 0.7,
+      "method": "court",
+      "note": "Court or judicial entity.",
+      "sort_pass": 2
+    },
+    "crump_gibson": {
+      "classification": "partial",
+      "confidence": 0.55,
+      "method": "school_employee",
+      "note": "Employee of captured school.",
+      "sort_pass": 2
+    },
+    "doe_oig": {
+      "classification": "self",
+      "confidence": 0.7,
+      "method": "jurisdiction",
+      "note": "Jurisdictional entity.",
+      "sort_pass": 2
+    },
+    "dpd": {
+      "classification": "partial",
+      "confidence": 0.55,
+      "method": "school_employee",
+      "note": "Employee of captured school.",
+      "sort_pass": 2
+    },
+    "dpscd_oig": {
+      "classification": "self",
+      "confidence": 0.7,
+      "method": "jurisdiction",
+      "note": "Jurisdictional entity.",
+      "sort_pass": 2
+    },
+    "dumas": {
+      "classification": "null",
+      "confidence": 0.6,
+      "method": "banks_political",
+      "note": "Political connection to Banks.",
+      "sort_pass": 2
+    },
+    "dykema_state_pac": {
+      "classification": "null",
+      "confidence": 0.65,
+      "method": "pac",
+      "note": "Political committee. Routing.",
+      "sort_pass": 2
+    },
+    "eastside_slate": {
+      "classification": "null",
+      "confidence": 0.6,
+      "method": "banks_political",
+      "note": "Political connection to Banks.",
+      "sort_pass": 2
+    },
+    "evans": {
+      "classification": "null",
+      "confidence": 0.6,
+      "method": "banks_political",
+      "note": "Political connection to Banks.",
+      "sort_pass": 2
+    },
+    "free_flow": {
+      "classification": "null",
+      "confidence": 0.7,
+      "method": "banks_governance",
+      "note": "Entity governed by Banks.",
+      "sort_pass": 2
+    },
+    "gay_dagnogo": {
+      "classification": "partial",
+      "confidence": 0.55,
+      "method": "board_of_nonself",
+      "note": "Board member of non-self entity.",
+      "sort_pass": 2
+    },
+    "gl_upfitting": {
+      "classification": "null",
+      "confidence": 0.7,
+      "method": "banks_governance",
+      "note": "Entity governed by Banks.",
+      "sort_pass": 2
+    },
+    "gl_vision": {
+      "classification": "null",
+      "confidence": 0.7,
+      "method": "banks_governance",
+      "note": "Entity governed by Banks.",
+      "sort_pass": 2
+    },
+    "harper_woods": {
+      "classification": "self",
+      "confidence": 0.7,
+      "method": "jurisdiction",
+      "note": "Jurisdictional entity.",
+      "sort_pass": 2
+    },
+    "hutchings": {
+      "classification": "partial",
+      "confidence": 0.55,
+      "method": "board_of_nonself",
+      "note": "Board member of non-self entity.",
+      "sort_pass": 2
+    },
+    "inner_link": {
+      "classification": "null",
+      "confidence": 0.6,
+      "method": "banks_payment",
+      "note": "Payment relationship with Banks.",
+      "sort_pass": 2
+    },
+    "irs_eo": {
+      "classification": "self",
+      "confidence": 0.7,
+      "method": "jurisdiction",
+      "note": "Jurisdictional entity.",
+      "sort_pass": 2
+    },
+    "jason_perry_pca": {
+      "classification": "partial",
+      "confidence": 0.55,
+      "method": "school_employee",
+      "note": "Employee of captured school.",
+      "sort_pass": 2
+    },
+    "jennifer_crump": {
+      "classification": "partial",
+      "confidence": 0.55,
+      "method": "school_employee",
+      "note": "Employee of captured school.",
+      "sort_pass": 2
+    },
+    "johnson_l": {
+      "classification": "partial",
+      "confidence": 0.55,
+      "method": "board_of_nonself",
+      "note": "Board member of non-self entity.",
+      "sort_pass": 2
+    },
+    "jolia_hill": {
+      "classification": "self",
+      "confidence": 0.75,
+      "method": "investigator",
+      "note": "Entity investigating Banks.",
+      "sort_pass": 2
+    },
+    "jtc_burmeister": {
+      "classification": "self",
+      "confidence": 0.7,
+      "method": "court",
+      "note": "Court or judicial entity.",
+      "sort_pass": 2
+    },
+    "jtc_cameron": {
+      "classification": "self",
+      "confidence": 0.7,
+      "method": "court",
+      "note": "Court or judicial entity.",
+      "sort_pass": 2
+    },
+    "jtc_cortes": {
+      "classification": "self",
+      "confidence": 0.7,
+      "method": "court",
+      "note": "Court or judicial entity.",
+      "sort_pass": 2
+    },
+    "jtc_lillard": {
+      "classification": "self",
+      "confidence": 0.7,
+      "method": "court",
+      "note": "Court or judicial entity.",
+      "sort_pass": 2
+    },
+    "keith_stallworth": {
+      "classification": "null",
+      "confidence": 0.6,
+      "method": "banks_political",
+      "note": "Political connection to Banks.",
+      "sort_pass": 2
+    },
+    "kelly_ramsey": {
+      "classification": "self",
+      "confidence": 0.7,
+      "method": "court",
+      "note": "Court or judicial entity.",
+      "sort_pass": 2
+    },
+    "kwame": {
+      "classification": "null",
+      "confidence": 0.6,
+      "method": "banks_political",
+      "note": "Political connection to Banks.",
+      "sort_pass": 2
+    },
+    "langford_morris": {
+      "classification": "self",
+      "confidence": 0.7,
+      "method": "court",
+      "note": "Court or judicial entity.",
+      "sort_pass": 2
+    },
+    "latisha_johnson": {
+      "classification": "partial",
+      "confidence": 0.55,
+      "method": "board_of_nonself",
+      "note": "Board member of non-self entity.",
+      "sort_pass": 2
+    },
+    "mccastle": {
+      "classification": "null",
+      "confidence": 0.6,
+      "method": "banks_payment",
+      "note": "Payment relationship with Banks.",
+      "sort_pass": 2
+    },
+    "mckinney": {
+      "classification": "null",
+      "confidence": 0.6,
+      "method": "banks_payment",
+      "note": "Payment relationship with Banks.",
+      "sort_pass": 2
+    },
+    "mde": {
+      "classification": "partial",
+      "confidence": 0.55,
+      "method": "school_employee",
+      "note": "Employee of captured school.",
+      "sort_pass": 2
+    },
+    "mde_oee": {
+      "classification": "self",
+      "confidence": 0.75,
+      "method": "state_entity",
+      "note": "State government entity.",
+      "sort_pass": 2
+    },
+    "mde_prof_practice": {
+      "classification": "self",
+      "confidence": 0.75,
+      "method": "investigator",
+      "note": "Entity investigating Banks.",
+      "sort_pass": 2
+    },
+    "mi_court_appeals": {
+      "classification": "self",
+      "confidence": 0.75,
+      "method": "state_entity",
+      "note": "State government entity.",
+      "sort_pass": 2
+    },
+    "mi_supreme_court": {
+      "classification": "self",
+      "confidence": 0.75,
+      "method": "state_entity",
+      "note": "State government entity.",
+      "sort_pass": 2
+    },
+    "michigan_first_principles": {
+      "classification": "null",
+      "confidence": 0.55,
+      "method": "null_formation",
+      "note": "Formed by or connected to null routing entity.",
+      "sort_pass": 2
+    },
+    "miller": {
+      "classification": "partial",
+      "confidence": 0.55,
+      "method": "board_of_nonself",
+      "note": "Board member of non-self entity.",
+      "sort_pass": 2
+    },
+    "misha_stallworth": {
+      "classification": "partial",
+      "confidence": 0.55,
+      "method": "board_of_nonself",
+      "note": "Board member of non-self entity.",
+      "sort_pass": 2
+    },
+    "moreland": {
+      "classification": "partial",
+      "confidence": 0.55,
+      "method": "school_employee",
+      "note": "Employee of captured school.",
+      "sort_pass": 2
+    },
+    "ms_perkins_pca": {
+      "classification": "partial",
+      "confidence": 0.55,
+      "method": "school_employee",
+      "note": "Employee of captured school.",
+      "sort_pass": 2
+    },
+    "msu_law": {
+      "classification": "self",
+      "confidence": 0.55,
+      "method": "credential_claim",
+      "note": "Banks claims credential from this entity.",
+      "sort_pass": 2
+    },
+    "nha": {
+      "classification": "self",
+      "confidence": 0.7,
+      "method": "jurisdiction",
+      "note": "Jurisdictional entity.",
+      "sort_pass": 2
+    },
+    "od_banks": {
+      "classification": "partial",
+      "confidence": 0.5,
+      "method": "banks_family",
+      "note": "Family member of Banks.",
+      "sort_pass": 2
+    },
+    "of_the_light": {
+      "classification": "null",
+      "confidence": 0.7,
+      "method": "banks_governance",
+      "note": "Entity governed by Banks.",
+      "sort_pass": 2
+    },
+    "ofa": {
+      "classification": "null",
+      "confidence": 0.7,
+      "method": "banks_governance",
+      "note": "Entity governed by Banks.",
+      "sort_pass": 2
+    },
+    "onf": {
+      "classification": "null",
+      "confidence": 0.55,
+      "method": "null_formation",
+      "note": "Formed by or connected to null routing entity.",
+      "sort_pass": 2
+    },
+    "pacs": {
+      "classification": "null",
+      "confidence": 0.7,
+      "method": "banks_governance",
+      "note": "Entity governed by Banks.",
+      "sort_pass": 2
+    },
+    "pahara_institute": {
+      "classification": "self",
+      "confidence": 0.6,
+      "method": "inaction_target",
+      "note": "Regulatory body that did not act on Banks.",
+      "sort_pass": 2
+    },
+    "peninsula_fund": {
+      "classification": "null",
+      "confidence": 0.55,
+      "method": "null_formation",
+      "note": "Formed by or connected to null routing entity.",
+      "sort_pass": 2
+    },
+    "perkins_d": {
+      "classification": "self",
+      "confidence": 0.7,
+      "method": "court",
+      "note": "Court or judicial entity.",
+      "sort_pass": 2
+    },
+    "perkins_law": {
+      "classification": "null",
+      "confidence": 0.65,
+      "method": "banks_legal",
+      "note": "Legal infrastructure for Banks.",
+      "sort_pass": 2
+    },
+    "perkins_sean": {
+      "classification": "self",
+      "confidence": 0.7,
+      "method": "court",
+      "note": "Court or judicial entity.",
+      "sort_pass": 2
+    },
+    "perkins_t": {
+      "classification": "null",
+      "confidence": 0.65,
+      "method": "banks_legal",
+      "note": "Legal infrastructure for Banks.",
+      "sort_pass": 2
+    },
+    "purpose_foundation": {
+      "classification": "null",
+      "confidence": 0.7,
+      "method": "banks_governance",
+      "note": "Entity governed by Banks.",
+      "sort_pass": 2
+    },
+    "ramsey": {
+      "classification": "self",
+      "confidence": 0.7,
+      "method": "court",
+      "note": "Court or judicial entity.",
+      "sort_pass": 2
+    },
+    "right_turn": {
+      "classification": "null",
+      "confidence": 0.7,
+      "method": "banks_governance",
+      "note": "Entity governed by Banks.",
+      "sort_pass": 2
+    },
+    "ross_jones": {
+      "classification": "self",
+      "confidence": 0.75,
+      "method": "investigator",
+      "note": "Entity investigating Banks.",
+      "sort_pass": 2
+    },
+    "sabree_a": {
+      "classification": "self",
+      "confidence": 0.7,
+      "method": "court",
+      "note": "Court or judicial entity.",
+      "sort_pass": 2
+    },
+    "sabree_adam": {
+      "classification": "self",
+      "confidence": 0.7,
+      "method": "court",
+      "note": "Court or judicial entity.",
+      "sort_pass": 2
+    },
+    "sabree_e": {
+      "classification": "null",
+      "confidence": 0.6,
+      "method": "banks_political",
+      "note": "Political connection to Banks.",
+      "sort_pass": 2
+    },
+    "sbe": {
+      "classification": "partial",
+      "confidence": 0.55,
+      "method": "board_of_nonself",
+      "note": "Board member of non-self entity.",
+      "sort_pass": 2
+    },
+    "sbm": {
+      "classification": "self",
+      "confidence": 0.6,
+      "method": "inaction_target",
+      "note": "Regulatory body that did not act on Banks.",
+      "sort_pass": 2
+    },
+    "schmiedeknecht": {
+      "classification": "partial",
+      "confidence": 0.55,
+      "method": "school_employee",
+      "note": "Employee of captured school.",
+      "sort_pass": 2
+    },
+    "sdj": {
+      "classification": "null",
+      "confidence": 0.55,
+      "method": "null_formation",
+      "note": "Formed by or connected to null routing entity.",
+      "sort_pass": 2
+    },
+    "sean_perkins": {
+      "classification": "partial",
+      "confidence": 0.55,
+      "method": "school_employee",
+      "note": "Employee of captured school.",
+      "sort_pass": 2
+    },
+    "serenity": {
+      "classification": "null",
+      "confidence": 0.75,
+      "method": "banks_ownership",
+      "note": "Entity owned by Banks.",
+      "sort_pass": 2
+    },
+    "sheffield": {
+      "classification": "null",
+      "confidence": 0.6,
+      "method": "banks_political",
+      "note": "Political connection to Banks.",
+      "sort_pass": 2
+    },
+    "snyder_nikki": {
+      "classification": "self",
+      "confidence": 0.75,
+      "method": "investigator",
+      "note": "Entity investigating Banks.",
+      "sort_pass": 2
+    },
+    "stallworth_t": {
+      "classification": "null",
+      "confidence": 0.6,
+      "method": "banks_political",
+      "note": "Political connection to Banks.",
+      "sort_pass": 2
+    },
+    "state_ar": {
+      "classification": "self",
+      "confidence": 0.75,
+      "method": "state_entity",
+      "note": "State government entity.",
+      "sort_pass": 2
+    },
+    "state_ca": {
+      "classification": "self",
+      "confidence": 0.75,
+      "method": "state_entity",
+      "note": "State government entity.",
+      "sort_pass": 2
+    },
+    "state_md": {
+      "classification": "self",
+      "confidence": 0.75,
+      "method": "state_entity",
+      "note": "State government entity.",
+      "sort_pass": 2
+    },
+    "state_mi": {
+      "classification": "self",
+      "confidence": 0.75,
+      "method": "state_entity",
+      "note": "State government entity.",
+      "sort_pass": 2
+    },
+    "state_ny": {
+      "classification": "self",
+      "confidence": 0.75,
+      "method": "state_entity",
+      "note": "State government entity.",
+      "sort_pass": 2
+    },
+    "state_tx": {
+      "classification": "self",
+      "confidence": 0.75,
+      "method": "state_entity",
+      "note": "State government entity.",
+      "sort_pass": 2
+    },
+    "sun_community": {
+      "classification": "null",
+      "confidence": 0.7,
+      "method": "banks_governance",
+      "note": "Entity governed by Banks.",
+      "sort_pass": 2
+    },
+    "todd_perkins": {
+      "classification": "null",
+      "confidence": 0.65,
+      "method": "banks_legal",
+      "note": "Legal infrastructure for Banks.",
+      "sort_pass": 2
+    },
+    "upl_dept": {
+      "classification": "self",
+      "confidence": 0.6,
+      "method": "inaction_target",
+      "note": "Regulatory body that did not act on Banks.",
+      "sort_pass": 2
+    },
+    "upl_garwood": {
+      "classification": "self",
+      "confidence": 0.7,
+      "method": "court",
+      "note": "Court or judicial entity.",
+      "sort_pass": 2
+    },
+    "v_hall": {
+      "classification": "partial",
+      "confidence": 0.55,
+      "method": "board_of_nonself",
+      "note": "Board member of non-self entity.",
+      "sort_pass": 2
+    },
+    "vaughn": {
+      "classification": "self",
+      "confidence": 0.7,
+      "method": "jurisdiction",
+      "note": "Jurisdictional entity.",
+      "sort_pass": 2
+    },
+    "vonda_evans": {
+      "classification": "self",
+      "confidence": 0.7,
+      "method": "court",
+      "note": "Court or judicial entity.",
+      "sort_pass": 2
+    },
+    "walton_family_foundation": {
+      "classification": "self",
+      "confidence": 0.6,
+      "method": "inaction_target",
+      "note": "Regulatory body that did not act on Banks.",
+      "sort_pass": 2
+    },
+    "wells_stallworth": {
+      "classification": "partial",
+      "confidence": 0.55,
+      "method": "board_of_nonself",
+      "note": "Board member of non-self entity.",
+      "sort_pass": 2
+    },
+    "wendell_anthony": {
+      "classification": "null",
+      "confidence": 0.6,
+      "method": "banks_political",
+      "note": "Political connection to Banks.",
+      "sort_pass": 2
+    },
+    "whitlowbanks": {
+      "classification": "null",
+      "confidence": 0.7,
+      "method": "banks_governance",
+      "note": "Entity governed by Banks.",
+      "sort_pass": 2
+    },
+    "wilk": {
+      "classification": "null",
+      "confidence": 0.55,
+      "method": "null_formation",
+      "note": "Formed by or connected to null routing entity.",
+      "sort_pass": 2
+    },
+    "yancey": {
+      "classification": "partial",
+      "confidence": 0.55,
+      "method": "board_of_nonself",
+      "note": "Board member of non-self entity.",
+      "sort_pass": 2
+    },
+    "aaron_keel": {
+      "classification": "other",
+      "confidence": 0.3,
+      "method": "unresolved",
+      "note": "Edge pattern unresolved.",
+      "sort_pass": 3
+    },
+    "aclu_mi": {
+      "classification": "self",
+      "confidence": 0.4,
+      "method": "cascade_self",
+      "note": "Low-edge entity adjacent to self.",
+      "sort_pass": 3
+    },
+    "adam_sabree": {
+      "classification": "other",
+      "confidence": 0.3,
+      "method": "unresolved",
+      "note": "Edge pattern unresolved.",
+      "sort_pass": 3
+    },
+    "afc": {
+      "classification": "other",
+      "confidence": 0.4,
+      "method": "funding",
+      "note": "Funding entity. Insufficient evidence for sort.",
+      "sort_pass": 3
+    },
+    "afc_growth": {
+      "classification": "other",
+      "confidence": 0.25,
+      "method": "insufficient",
+      "note": "Too few edges.",
+      "sort_pass": 3
+    },
+    "afp_action": {
+      "classification": "other",
+      "confidence": 0.25,
+      "method": "insufficient",
+      "note": "Too few edges.",
+      "sort_pass": 3
+    },
+    "agc_blessing": {
+      "classification": "self",
+      "confidence": 0.4,
+      "method": "cascade_self",
+      "note": "Low-edge entity adjacent to self.",
+      "sort_pass": 3
+    },
+    "agc_bowen": {
+      "classification": "self",
+      "confidence": 0.4,
+      "method": "cascade_self",
+      "note": "Low-edge entity adjacent to self.",
+      "sort_pass": 3
+    },
+    "agc_burgess": {
+      "classification": "self",
+      "confidence": 0.4,
+      "method": "cascade_self",
+      "note": "Low-edge entity adjacent to self.",
+      "sort_pass": 3
+    },
+    "agc_downey": {
+      "classification": "self",
+      "confidence": 0.4,
+      "method": "cascade_self",
+      "note": "Low-edge entity adjacent to self.",
+      "sort_pass": 3
+    },
+    "agc_fernandez": {
+      "classification": "self",
+      "confidence": 0.4,
+      "method": "cascade_self",
+      "note": "Low-edge entity adjacent to self.",
+      "sort_pass": 3
+    },
+    "agc_fleming": {
+      "classification": "self",
+      "confidence": 0.4,
+      "method": "cascade_self",
+      "note": "Low-edge entity adjacent to self.",
+      "sort_pass": 3
+    },
+    "agc_frazee": {
+      "classification": "self",
+      "confidence": 0.4,
+      "method": "cascade_self",
+      "note": "Low-edge entity adjacent to self.",
+      "sort_pass": 3
+    },
+    "agc_g_leach": {
+      "classification": "self",
+      "confidence": 0.4,
+      "method": "cascade_self",
+      "note": "Low-edge entity adjacent to self.",
+      "sort_pass": 3
+    },
+    "agc_hickey": {
+      "classification": "partial",
+      "confidence": 0.45,
+      "method": "cascade_nonself",
+      "note": "Governance/board connection to non-self (cascade).",
+      "sort_pass": 3
+    },
+    "agc_jaafar": {
+      "classification": "self",
+      "confidence": 0.4,
+      "method": "cascade_self",
+      "note": "Low-edge entity adjacent to self.",
+      "sort_pass": 3
+    },
+    "agc_janes": {
+      "classification": "self",
+      "confidence": 0.4,
+      "method": "cascade_self",
+      "note": "Low-edge entity adjacent to self.",
+      "sort_pass": 3
+    },
+    "agc_lindsey": {
+      "classification": "self",
+      "confidence": 0.4,
+      "method": "cascade_self",
+      "note": "Low-edge entity adjacent to self.",
+      "sort_pass": 3
+    },
+    "agc_linville": {
+      "classification": "other",
+      "confidence": 0.3,
+      "method": "unresolved",
+      "note": "Edge pattern unresolved.",
+      "sort_pass": 3
+    },
+    "agc_mazur": {
+      "classification": "self",
+      "confidence": 0.4,
+      "method": "cascade_self",
+      "note": "Low-edge entity adjacent to self.",
+      "sort_pass": 3
+    },
+    "agc_miciuda": {
+      "classification": "self",
+      "confidence": 0.4,
+      "method": "cascade_self",
+      "note": "Low-edge entity adjacent to self.",
+      "sort_pass": 3
+    },
+    "agc_morgan": {
+      "classification": "self",
+      "confidence": 0.4,
+      "method": "cascade_self",
+      "note": "Low-edge entity adjacent to self.",
+      "sort_pass": 3
+    },
+    "agc_pahany": {
+      "classification": "self",
+      "confidence": 0.4,
+      "method": "cascade_self",
+      "note": "Low-edge entity adjacent to self.",
+      "sort_pass": 3
+    },
+    "agc_prasad": {
+      "classification": "self",
+      "confidence": 0.4,
+      "method": "cascade_self",
+      "note": "Low-edge entity adjacent to self.",
+      "sort_pass": 3
+    },
+    "agc_robinson": {
+      "classification": "other",
+      "confidence": 0.3,
+      "method": "unresolved",
+      "note": "Edge pattern unresolved.",
+      "sort_pass": 3
+    },
+    "agc_swedlow": {
+      "classification": "self",
+      "confidence": 0.4,
+      "method": "cascade_self",
+      "note": "Low-edge entity adjacent to self.",
+      "sort_pass": 3
+    },
+    "agc_wassef": {
+      "classification": "self",
+      "confidence": 0.4,
+      "method": "cascade_self",
+      "note": "Low-edge entity adjacent to self.",
+      "sort_pass": 3
+    },
+    "agc_willis": {
+      "classification": "other",
+      "confidence": 0.3,
+      "method": "unresolved",
+      "note": "Edge pattern unresolved.",
+      "sort_pass": 3
+    },
+    "ahmed_beasley": {
+      "classification": "other",
+      "confidence": 0.3,
+      "method": "unresolved",
+      "note": "Edge pattern unresolved.",
+      "sort_pass": 3
+    },
+    "alliance_school_choice": {
+      "classification": "self",
+      "confidence": 0.4,
+      "method": "cascade_self",
+      "note": "Low-edge entity adjacent to self.",
+      "sort_pass": 3
+    },
+    "archer": {
+      "classification": "null",
+      "confidence": 0.45,
+      "method": "cascade_null",
+      "note": "Formation/governance connection to null (cascade).",
+      "sort_pass": 3
+    },
+    "archer_jr": {
+      "classification": "null",
+      "confidence": 0.45,
+      "method": "cascade_null",
+      "note": "Formation/governance connection to null (cascade).",
+      "sort_pass": 3
+    },
+    "baker_college": {
+      "classification": "other",
+      "confidence": 0.3,
+      "method": "unresolved",
+      "note": "Edge pattern unresolved.",
+      "sort_pass": 3
+    },
+    "barrett": {
+      "classification": "other",
+      "confidence": 0.3,
+      "method": "unresolved",
+      "note": "Edge pattern unresolved.",
+      "sort_pass": 3
+    },
+    "barton_malow": {
+      "classification": "other",
+      "confidence": 0.25,
+      "method": "insufficient",
+      "note": "Too few edges.",
+      "sort_pass": 3
+    },
+    "betsy_devos": {
+      "classification": "other",
+      "confidence": 0.4,
+      "method": "funding",
+      "note": "Funding entity. Insufficient evidence for sort.",
+      "sort_pass": 3
+    },
+    "bettison": {
+      "classification": "null",
+      "confidence": 0.45,
+      "method": "cascade_null",
+      "note": "Formation/governance connection to null (cascade).",
+      "sort_pass": 3
+    },
+    "bing": {
+      "classification": "other",
+      "confidence": 0.3,
+      "method": "unresolved",
+      "note": "Edge pattern unresolved.",
+      "sort_pass": 3
+    },
+    "black_star_network": {
+      "classification": "other",
+      "confidence": 0.25,
+      "method": "insufficient",
+      "note": "Too few edges.",
+      "sort_pass": 3
+    },
+    "brozanski": {
+      "classification": "self",
+      "confidence": 0.4,
+      "method": "cascade_self",
+      "note": "Low-edge entity adjacent to self.",
+      "sort_pass": 3
+    },
+    "bunche_prep": {
+      "classification": "other",
+      "confidence": 0.3,
+      "method": "unresolved",
+      "note": "Edge pattern unresolved.",
+      "sort_pass": 3
+    },
+    "burris": {
+      "classification": "partial",
+      "confidence": 0.45,
+      "method": "cascade_nonself",
+      "note": "Governance/board connection to non-self (cascade).",
+      "sort_pass": 3
+    },
+    "campbell_brown": {
+      "classification": "other",
+      "confidence": 0.3,
+      "method": "unresolved",
+      "note": "Edge pattern unresolved.",
+      "sort_pass": 3
+    },
+    "cass_tech": {
+      "classification": "other",
+      "confidence": 0.25,
+      "method": "insufficient",
+      "note": "Too few edges.",
+      "sort_pass": 3
+    },
+    "chandler_park": {
+      "classification": "partial",
+      "confidence": 0.4,
+      "method": "cascade_adjacent",
+      "note": "Low-edge entity adjacent to non-self.",
+      "sort_pass": 3
+    },
+    "charter_law_1993": {
+      "classification": "partial",
+      "confidence": 0.45,
+      "method": "cascade_nonself",
+      "note": "Governance/board connection to non-self (cascade).",
+      "sort_pass": 3
+    },
+    "charter_school_growth_fund": {
+      "classification": "self",
+      "confidence": 0.4,
+      "method": "cascade_self",
+      "note": "Low-edge entity adjacent to self.",
+      "sort_pass": 3
+    },
+    "chatfield": {
+      "classification": "other",
+      "confidence": 0.3,
+      "method": "unresolved",
+      "note": "Edge pattern unresolved.",
+      "sort_pass": 3
+    },
+    "chojlf": {
+      "classification": "other",
+      "confidence": 0.25,
+      "method": "insufficient",
+      "note": "Too few edges.",
+      "sort_pass": 3
+    },
+    "citizendetroit": {
+      "classification": "null",
+      "confidence": 0.45,
+      "method": "cascade_null",
+      "note": "Formation/governance connection to null (cascade).",
+      "sort_pass": 3
+    },
+    "city_council": {
+      "classification": "other",
+      "confidence": 0.3,
+      "method": "unresolved",
+      "note": "Edge pattern unresolved.",
+      "sort_pass": 3
+    },
+    "cockrel_jr": {
+      "classification": "other",
+      "confidence": 0.3,
+      "method": "unresolved",
+      "note": "Edge pattern unresolved.",
+      "sort_pass": 3
+    },
+    "coleman_young": {
+      "classification": "other",
+      "confidence": 0.3,
+      "method": "unresolved",
+      "note": "Edge pattern unresolved.",
+      "sort_pass": 3
+    },
+    "coleman_young_ii": {
+      "classification": "null",
+      "confidence": 0.45,
+      "method": "cascade_null",
+      "note": "Formation/governance connection to null (cascade).",
+      "sort_pass": 3
+    },
+    "cooley_law": {
+      "classification": "other",
+      "confidence": 0.3,
+      "method": "unresolved",
+      "note": "Edge pattern unresolved.",
+      "sort_pass": 3
+    },
+    "cuny_law": {
+      "classification": "self",
+      "confidence": 0.4,
+      "method": "cascade_self",
+      "note": "Low-edge entity adjacent to self.",
+      "sort_pass": 3
+    },
+    "custom_promo": {
+      "classification": "other",
+      "confidence": 0.3,
+      "method": "unresolved",
+      "note": "Edge pattern unresolved.",
+      "sort_pass": 3
+    },
+    "daniels": {
+      "classification": "null",
+      "confidence": 0.45,
+      "method": "cascade_null",
+      "note": "Formation/governance connection to null (cascade).",
+      "sort_pass": 3
+    },
+    "depaul_law": {
+      "classification": "other",
+      "confidence": 0.25,
+      "method": "insufficient",
+      "note": "Too few edges.",
+      "sort_pass": 3
+    },
+    "detroit_city": {
+      "classification": "partial",
+      "confidence": 0.45,
+      "method": "cascade_nonself",
+      "note": "Governance/board connection to non-self (cascade).",
+      "sort_pass": 3
+    },
+    "detroit_college_law": {
+      "classification": "null",
+      "confidence": 0.45,
+      "method": "cascade_null",
+      "note": "Formation/governance connection to null (cascade).",
+      "sort_pass": 3
+    },
+    "detroit_peer": {
+      "classification": "other",
+      "confidence": 0.4,
+      "method": "funding",
+      "note": "Funding entity. Insufficient evidence for sort.",
+      "sort_pass": 3
+    },
+    "devos_foundation": {
+      "classification": "other",
+      "confidence": 0.4,
+      "method": "funding",
+      "note": "Funding entity. Insufficient evidence for sort.",
+      "sort_pass": 3
+    },
+    "diane_tavenner": {
+      "classification": "self",
+      "confidence": 0.4,
+      "method": "cascade_self",
+      "note": "Low-edge entity adjacent to self.",
+      "sort_pass": 3
+    },
+    "djf": {
+      "classification": "null",
+      "confidence": 0.45,
+      "method": "cascade_null",
+      "note": "Formation/governance connection to null (cascade).",
+      "sort_pass": 3
+    },
+    "dpsa": {
+      "classification": "other",
+      "confidence": 0.3,
+      "method": "unresolved",
+      "note": "Edge pattern unresolved.",
+      "sort_pass": 3
+    },
+    "dpscd_auth": {
+      "classification": "partial",
+      "confidence": 0.4,
+      "method": "cascade_adjacent",
+      "note": "Low-edge entity adjacent to non-self.",
+      "sort_pass": 3
+    },
+    "duggan": {
+      "classification": "other",
+      "confidence": 0.3,
+      "method": "unresolved",
+      "note": "Edge pattern unresolved.",
+      "sort_pass": 3
+    },
+    "edchoice": {
+      "classification": "other",
+      "confidence": 0.3,
+      "method": "unresolved",
+      "note": "Edge pattern unresolved.",
+      "sort_pass": 3
+    },
+    "emu": {
+      "classification": "other",
+      "confidence": 0.3,
+      "method": "unresolved",
+      "note": "Edge pattern unresolved.",
+      "sort_pass": 3
+    },
+    "engler": {
+      "classification": "self",
+      "confidence": 0.4,
+      "method": "cascade_self",
+      "note": "Low-edge entity adjacent to self.",
+      "sort_pass": 3
+    },
+    "eric_sabree": {
+      "classification": "other",
+      "confidence": 0.3,
+      "method": "unresolved",
+      "note": "Edge pattern unresolved.",
+      "sort_pass": 3
+    },
+    "escuela_avancemos": {
+      "classification": "partial",
+      "confidence": 0.4,
+      "method": "cascade_adjacent",
+      "note": "Low-edge entity adjacent to non-self.",
+      "sort_pass": 3
+    },
+    "excelined": {
+      "classification": "other",
+      "confidence": 0.3,
+      "method": "unresolved",
+      "note": "Edge pattern unresolved.",
+      "sort_pass": 3
+    },
+    "excellent_schools_detroit": {
+      "classification": "self",
+      "confidence": 0.4,
+      "method": "cascade_self",
+      "note": "Low-edge entity adjacent to self.",
+      "sort_pass": 3
+    },
+    "fifty_can": {
+      "classification": "other",
+      "confidence": 0.4,
+      "method": "funding",
+      "note": "Funding entity. Insufficient evidence for sort.",
+      "sort_pass": 3
+    },
+    "fiore": {
+      "classification": "other",
+      "confidence": 0.3,
+      "method": "unresolved",
+      "note": "Edge pattern unresolved.",
+      "sort_pass": 3
+    },
+    "fowler": {
+      "classification": "self",
+      "confidence": 0.4,
+      "method": "cascade_self",
+      "note": "Low-edge entity adjacent to self.",
+      "sort_pass": 3
+    },
+    "gasper_fiore": {
+      "classification": "partial",
+      "confidence": 0.4,
+      "method": "cascade_adjacent",
+      "note": "Low-edge entity adjacent to non-self.",
+      "sort_pass": 3
+    },
+    "glenn_page": {
+      "classification": "partial",
+      "confidence": 0.45,
+      "method": "cascade_nonself",
+      "note": "Governance/board connection to non-self (cascade).",
+      "sort_pass": 3
+    },
+    "glep": {
+      "classification": "other",
+      "confidence": 0.3,
+      "method": "unresolved",
+      "note": "Edge pattern unresolved.",
+      "sort_pass": 3
+    },
+    "goetz": {
+      "classification": "partial",
+      "confidence": 0.45,
+      "method": "cascade_nonself",
+      "note": "Governance/board connection to non-self (cascade).",
+      "sort_pass": 3
+    },
+    "gordon": {
+      "classification": "partial",
+      "confidence": 0.4,
+      "method": "cascade_adjacent",
+      "note": "Low-edge entity adjacent to non-self.",
+      "sort_pass": 3
+    },
+    "gvsu": {
+      "classification": "other",
+      "confidence": 0.3,
+      "method": "unresolved",
+      "note": "Edge pattern unresolved.",
+      "sort_pass": 3
+    },
+    "gw_law": {
+      "classification": "self",
+      "confidence": 0.4,
+      "method": "cascade_self",
+      "note": "Low-edge entity adjacent to self.",
+      "sort_pass": 3
+    },
+    "henri_harmon": {
+      "classification": "partial",
+      "confidence": 0.4,
+      "method": "cascade_adjacent",
+      "note": "Low-edge entity adjacent to non-self.",
+      "sort_pass": 3
+    },
+    "holland": {
+      "classification": "partial",
+      "confidence": 0.45,
+      "method": "cascade_nonself",
+      "note": "Governance/board connection to non-self (cascade).",
+      "sort_pass": 3
+    },
+    "j_hood_assoc": {
+      "classification": "other",
+      "confidence": 0.3,
+      "method": "unresolved",
+      "note": "Edge pattern unresolved.",
+      "sort_pass": 3
+    },
+    "jacquie_hood_martin": {
+      "classification": "other",
+      "confidence": 0.3,
+      "method": "unresolved",
+      "note": "Edge pattern unresolved.",
+      "sort_pass": 3
+    },
+    "jason_roe": {
+      "classification": "other",
+      "confidence": 0.25,
+      "method": "insufficient",
+      "note": "Too few edges.",
+      "sort_pass": 3
+    },
+    "john_james": {
+      "classification": "other",
+      "confidence": 0.3,
+      "method": "unresolved",
+      "note": "Edge pattern unresolved.",
+      "sort_pass": 3
+    },
+    "john_walton": {
+      "classification": "self",
+      "confidence": 0.4,
+      "method": "cascade_self",
+      "note": "Low-edge entity adjacent to self.",
+      "sort_pass": 3
+    },
+    "jtc": {
+      "classification": "partial",
+      "confidence": 0.45,
+      "method": "cascade_nonself",
+      "note": "Governance/board connection to non-self (cascade).",
+      "sort_pass": 3
+    },
+    "jtc_cain": {
+      "classification": "other",
+      "confidence": 0.3,
+      "method": "unresolved",
+      "note": "Edge pattern unresolved.",
+      "sort_pass": 3
+    },
+    "jtc_corbett": {
+      "classification": "other",
+      "confidence": 0.3,
+      "method": "unresolved",
+      "note": "Edge pattern unresolved.",
+      "sort_pass": 3
+    },
+    "jtc_corbin": {
+      "classification": "self",
+      "confidence": 0.4,
+      "method": "cascade_self",
+      "note": "Low-edge entity adjacent to self.",
+      "sort_pass": 3
+    },
+    "jtc_dajani": {
+      "classification": "other",
+      "confidence": 0.25,
+      "method": "insufficient",
+      "note": "Too few edges.",
+      "sort_pass": 3
+    },
+    "jtc_flowers": {
+      "classification": "other",
+      "confidence": 0.25,
+      "method": "insufficient",
+      "note": "Too few edges.",
+      "sort_pass": 3
+    },
+    "jtc_haffey": {
+      "classification": "other",
+      "confidence": 0.25,
+      "method": "insufficient",
+      "note": "Too few edges.",
+      "sort_pass": 3
+    },
+    "jtc_helland": {
+      "classification": "other",
+      "confidence": 0.3,
+      "method": "unresolved",
+      "note": "Edge pattern unresolved.",
+      "sort_pass": 3
+    },
+    "jtc_hoard": {
+      "classification": "other",
+      "confidence": 0.25,
+      "method": "insufficient",
+      "note": "Too few edges.",
+      "sort_pass": 3
+    },
+    "jtc_ison": {
+      "classification": "partial",
+      "confidence": 0.45,
+      "method": "cascade_nonself",
+      "note": "Governance/board connection to non-self (cascade).",
+      "sort_pass": 3
+    },
+    "jtc_jaafar": {
+      "classification": "self",
+      "confidence": 0.4,
+      "method": "cascade_self",
+      "note": "Low-edge entity adjacent to self.",
+      "sort_pass": 3
+    },
+    "jtc_jurva_brinn": {
+      "classification": "other",
+      "confidence": 0.25,
+      "method": "insufficient",
+      "note": "Too few edges.",
+      "sort_pass": 3
+    },
+    "jtc_kalec": {
+      "classification": "other",
+      "confidence": 0.25,
+      "method": "insufficient",
+      "note": "Too few edges.",
+      "sort_pass": 3
+    },
+    "jtc_kettler": {
+      "classification": "other",
+      "confidence": 0.25,
+      "method": "insufficient",
+      "note": "Too few edges.",
+      "sort_pass": 3
+    },
+    "jtc_m_johnson": {
+      "classification": "other",
+      "confidence": 0.25,
+      "method": "insufficient",
+      "note": "Too few edges.",
+      "sort_pass": 3
+    },
+    "jtc_poirier": {
+      "classification": "other",
+      "confidence": 0.25,
+      "method": "insufficient",
+      "note": "Too few edges.",
+      "sort_pass": 3
+    },
+    "jtc_rynier": {
+      "classification": "other",
+      "confidence": 0.25,
+      "method": "insufficient",
+      "note": "Too few edges.",
+      "sort_pass": 3
+    },
+    "jtc_sullivan": {
+      "classification": "other",
+      "confidence": 0.3,
+      "method": "unresolved",
+      "note": "Edge pattern unresolved.",
+      "sort_pass": 3
+    },
+    "jtc_swastek": {
+      "classification": "other",
+      "confidence": 0.3,
+      "method": "unresolved",
+      "note": "Edge pattern unresolved.",
+      "sort_pass": 3
+    },
+    "jtc_uppal": {
+      "classification": "other",
+      "confidence": 0.25,
+      "method": "insufficient",
+      "note": "Too few edges.",
+      "sort_pass": 3
+    },
+    "kelly_emu": {
+      "classification": "other",
+      "confidence": 0.25,
+      "method": "insufficient",
+      "note": "Too few edges.",
+      "sort_pass": 3
+    },
+    "kriste_dragon": {
+      "classification": "self",
+      "confidence": 0.4,
+      "method": "cascade_self",
+      "note": "Low-edge entity adjacent to self.",
+      "sort_pass": 3
+    },
+    "kym_worthy": {
+      "classification": "partial",
+      "confidence": 0.45,
+      "method": "cascade_nonself",
+      "note": "Governance/board connection to non-self (cascade).",
+      "sort_pass": 3
+    },
+    "larry_thomas": {
+      "classification": "other",
+      "confidence": 0.3,
+      "method": "unresolved",
+      "note": "Edge pattern unresolved.",
+      "sort_pass": 3
+    },
+    "latisha_johnson_cc": {
+      "classification": "null",
+      "confidence": 0.45,
+      "method": "cascade_null",
+      "note": "Formation/governance connection to null (cascade).",
+      "sort_pass": 3
+    },
+    "lawrence_tech": {
+      "classification": "other",
+      "confidence": 0.25,
+      "method": "insufficient",
+      "note": "Too few edges.",
+      "sort_pass": 3
+    },
+    "leach": {
+      "classification": "null",
+      "confidence": 0.45,
+      "method": "cascade_null",
+      "note": "Formation/governance connection to null (cascade).",
+      "sort_pass": 3
+    },
+    "lenhoff": {
+      "classification": "other",
+      "confidence": 0.3,
+      "method": "unresolved",
+      "note": "Edge pattern unresolved.",
+      "sort_pass": 3
+    },
+    "mackinac_center": {
+      "classification": "other",
+      "confidence": 0.4,
+      "method": "funding",
+      "note": "Funding entity. Insufficient evidence for sort.",
+      "sort_pass": 3
+    },
+    "mackinnon": {
+      "classification": "self",
+      "confidence": 0.4,
+      "method": "cascade_self",
+      "note": "Low-edge entity adjacent to self.",
+      "sort_pass": 3
+    },
+    "maleyko": {
+      "classification": "partial",
+      "confidence": 0.45,
+      "method": "cascade_nonself",
+      "note": "Governance/board connection to non-self (cascade).",
+      "sort_pass": 3
+    },
+    "mantella": {
+      "classification": "other",
+      "confidence": 0.25,
+      "method": "insufficient",
+      "note": "Too few edges.",
+      "sort_pass": 3
+    },
+    "mapsa": {
+      "classification": "self",
+      "confidence": 0.4,
+      "method": "cascade_self",
+      "note": "Low-edge entity adjacent to self.",
+      "sort_pass": 3
+    },
+    "marygrove": {
+      "classification": "other",
+      "confidence": 0.3,
+      "method": "unresolved",
+      "note": "Edge pattern unresolved.",
+      "sort_pass": 3
+    },
+    "mccsa": {
+      "classification": "self",
+      "confidence": 0.4,
+      "method": "cascade_self",
+      "note": "Low-edge entity adjacent to self.",
+      "sort_pass": 3
+    },
+    "metro_property": {
+      "classification": "other",
+      "confidence": 0.3,
+      "method": "unresolved",
+      "note": "Edge pattern unresolved.",
+      "sort_pass": 3
+    },
+    "msu": {
+      "classification": "other",
+      "confidence": 0.3,
+      "method": "unresolved",
+      "note": "Edge pattern unresolved.",
+      "sort_pass": 3
+    },
+    "naacp_detroit": {
+      "classification": "null",
+      "confidence": 0.45,
+      "method": "cascade_null",
+      "note": "Formation/governance connection to null (cascade).",
+      "sort_pass": 3
+    },
+    "naacp_lansing": {
+      "classification": "other",
+      "confidence": 0.25,
+      "method": "insufficient",
+      "note": "Too few edges.",
+      "sort_pass": 3
+    },
+    "nacsa": {
+      "classification": "self",
+      "confidence": 0.4,
+      "method": "cascade_self",
+      "note": "Low-edge entity adjacent to self.",
+      "sort_pass": 3
+    },
+    "nessel": {
+      "classification": "partial",
+      "confidence": 0.45,
+      "method": "cascade_nonself",
+      "note": "Governance/board connection to non-self (cascade).",
+      "sort_pass": 3
+    },
+    "northrop": {
+      "classification": "self",
+      "confidence": 0.4,
+      "method": "cascade_self",
+      "note": "Low-edge entity adjacent to self.",
+      "sort_pass": 3
+    },
+    "notre_dame": {
+      "classification": "other",
+      "confidence": 0.25,
+      "method": "insufficient",
+      "note": "Too few edges.",
+      "sort_pass": 3
+    },
+    "npe": {
+      "classification": "partial",
+      "confidence": 0.45,
+      "method": "cascade_nonself",
+      "note": "Governance/board connection to non-self (cascade).",
+      "sort_pass": 3
+    },
+    "npe_action": {
+      "classification": "other",
+      "confidence": 0.3,
+      "method": "unresolved",
+      "note": "Edge pattern unresolved.",
+      "sort_pass": 3
+    },
+    "nuvision_foundation": {
+      "classification": "other",
+      "confidence": 0.25,
+      "method": "insufficient",
+      "note": "Too few edges.",
+      "sort_pass": 3
+    },
+    "nuvision_inc": {
+      "classification": "other",
+      "confidence": 0.4,
+      "method": "funding",
+      "note": "Funding entity. Insufficient evidence for sort.",
+      "sort_pass": 3
+    },
+    "perkins_david": {
+      "classification": "other",
+      "confidence": 0.25,
+      "method": "insufficient",
+      "note": "Too few edges.",
+      "sort_pass": 3
+    },
+    "plante_moran": {
+      "classification": "other",
+      "confidence": 0.3,
+      "method": "unresolved",
+      "note": "Edge pattern unresolved.",
+      "sort_pass": 3
+    },
+    "promise_schools": {
+      "classification": "partial",
+      "confidence": 0.4,
+      "method": "cascade_adjacent",
+      "note": "Low-edge entity adjacent to non-self.",
+      "sort_pass": 3
+    },
+    "pugh": {
+      "classification": "partial",
+      "confidence": 0.4,
+      "method": "cascade_adjacent",
+      "note": "Low-edge entity adjacent to non-self.",
+      "sort_pass": 3
+    },
+    "raphael_washington": {
+      "classification": "other",
+      "confidence": 0.3,
+      "method": "unresolved",
+      "note": "Edge pattern unresolved.",
+      "sort_pass": 3
+    },
+    "ravitch": {
+      "classification": "other",
+      "confidence": 0.25,
+      "method": "insufficient",
+      "note": "Too few edges.",
+      "sort_pass": 3
+    },
+    "renae_moore": {
+      "classification": "null",
+      "confidence": 0.45,
+      "method": "cascade_null",
+      "note": "Formation/governance connection to null (cascade).",
+      "sort_pass": 3
+    },
+    "rffw": {
+      "classification": "null",
+      "confidence": 0.45,
+      "method": "cascade_null",
+      "note": "Formation/governance connection to null (cascade).",
+      "sort_pass": 3
+    },
+    "river_rouge_sd": {
+      "classification": "other",
+      "confidence": 0.25,
+      "method": "insufficient",
+      "note": "Too few edges.",
+      "sort_pass": 3
+    },
+    "roland_martin": {
+      "classification": "null",
+      "confidence": 0.45,
+      "method": "cascade_null",
+      "note": "Formation/governance connection to null (cascade).",
+      "sort_pass": 3
+    },
+    "ross": {
+      "classification": "null",
+      "confidence": 0.45,
+      "method": "cascade_null",
+      "note": "Formation/governance connection to null (cascade).",
+      "sort_pass": 3
+    },
+    "ross_catering": {
+      "classification": "other",
+      "confidence": 0.3,
+      "method": "unresolved",
+      "note": "Edge pattern unresolved.",
+      "sort_pass": 3
+    },
+    "sabree": {
+      "classification": "self",
+      "confidence": 0.4,
+      "method": "cascade_self",
+      "note": "Low-edge entity adjacent to self.",
+      "sort_pass": 3
+    },
+    "sam_gov": {
+      "classification": "other",
+      "confidence": 0.25,
+      "method": "insufficient",
+      "note": "Too few edges.",
+      "sort_pass": 3
+    },
+    "santambrogio": {
+      "classification": "self",
+      "confidence": 0.4,
+      "method": "cascade_self",
+      "note": "Low-edge entity adjacent to self.",
+      "sort_pass": 3
+    },
+    "sbm_bryant": {
+      "classification": "self",
+      "confidence": 0.4,
+      "method": "cascade_self",
+      "note": "Low-edge entity adjacent to self.",
+      "sort_pass": 3
+    },
+    "sbm_burrell": {
+      "classification": "null",
+      "confidence": 0.45,
+      "method": "cascade_null",
+      "note": "Formation/governance connection to null (cascade).",
+      "sort_pass": 3
+    },
+    "sbm_clay": {
+      "classification": "partial",
+      "confidence": 0.45,
+      "method": "cascade_nonself",
+      "note": "Governance/board connection to non-self (cascade).",
+      "sort_pass": 3
+    },
+    "sbm_d_anderson": {
+      "classification": "self",
+      "confidence": 0.4,
+      "method": "cascade_self",
+      "note": "Low-edge entity adjacent to self.",
+      "sort_pass": 3
+    },
+    "sbm_dwalton": {
+      "classification": "self",
+      "confidence": 0.4,
+      "method": "cascade_self",
+      "note": "Low-edge entity adjacent to self.",
+      "sort_pass": 3
+    },
+    "sbm_howlett": {
+      "classification": "self",
+      "confidence": 0.4,
+      "method": "cascade_self",
+      "note": "Low-edge entity adjacent to self.",
+      "sort_pass": 3
+    },
+    "sbm_larsen": {
+      "classification": "self",
+      "confidence": 0.4,
+      "method": "cascade_self",
+      "note": "Low-edge entity adjacent to self.",
+      "sort_pass": 3
+    },
+    "sc_bernstein": {
+      "classification": "self",
+      "confidence": 0.4,
+      "method": "cascade_self",
+      "note": "Low-edge entity adjacent to self.",
+      "sort_pass": 3
+    },
+    "sc_bolden": {
+      "classification": "self",
+      "confidence": 0.4,
+      "method": "cascade_self",
+      "note": "Low-edge entity adjacent to self.",
+      "sort_pass": 3
+    },
+    "sc_cavanagh": {
+      "classification": "partial",
+      "confidence": 0.45,
+      "method": "cascade_nonself",
+      "note": "Governance/board connection to non-self (cascade).",
+      "sort_pass": 3
+    },
+    "sc_hood": {
+      "classification": "self",
+      "confidence": 0.4,
+      "method": "cascade_self",
+      "note": "Low-edge entity adjacent to self.",
+      "sort_pass": 3
+    },
+    "sc_thomas": {
+      "classification": "self",
+      "confidence": 0.4,
+      "method": "cascade_self",
+      "note": "Low-edge entity adjacent to self.",
+      "sort_pass": 3
+    },
+    "sc_welch": {
+      "classification": "self",
+      "confidence": 0.4,
+      "method": "cascade_self",
+      "note": "Low-edge entity adjacent to self.",
+      "sort_pass": 3
+    },
+    "sc_zahra": {
+      "classification": "self",
+      "confidence": 0.4,
+      "method": "cascade_self",
+      "note": "Low-edge entity adjacent to self.",
+      "sort_pass": 3
+    },
+    "scbc_tour": {
+      "classification": "null",
+      "confidence": 0.45,
+      "method": "cascade_null",
+      "note": "Formation/governance connection to null (cascade).",
+      "sort_pass": 3
+    },
+    "senier": {
+      "classification": "self",
+      "confidence": 0.4,
+      "method": "cascade_self",
+      "note": "Low-edge entity adjacent to self.",
+      "sort_pass": 3
+    },
+    "sheila_cockrel": {
+      "classification": "null",
+      "confidence": 0.45,
+      "method": "cascade_null",
+      "note": "Formation/governance connection to null (cascade).",
+      "sort_pass": 3
+    },
+    "sherwood_foundation": {
+      "classification": "other",
+      "confidence": 0.4,
+      "method": "funding",
+      "note": "Funding entity. Insufficient evidence for sort.",
+      "sort_pass": 3
+    },
+    "skillman_foundation": {
+      "classification": "self",
+      "confidence": 0.4,
+      "method": "cascade_self",
+      "note": "Low-edge entity adjacent to self.",
+      "sort_pass": 3
+    },
+    "spelman": {
+      "classification": "other",
+      "confidence": 0.25,
+      "method": "insufficient",
+      "note": "Too few edges.",
+      "sort_pass": 3
+    },
+    "spivey": {
+      "classification": "other",
+      "confidence": 0.3,
+      "method": "unresolved",
+      "note": "Edge pattern unresolved.",
+      "sort_pass": 3
+    },
+    "tate_jr": {
+      "classification": "other",
+      "confidence": 0.3,
+      "method": "unresolved",
+      "note": "Edge pattern unresolved.",
+      "sort_pass": 3
+    },
+    "the_74": {
+      "classification": "null",
+      "confidence": 0.45,
+      "method": "cascade_null",
+      "note": "Formation/governance connection to null (cascade).",
+      "sort_pass": 3
+    },
+    "thomas_ryan": {
+      "classification": "partial",
+      "confidence": 0.45,
+      "method": "cascade_nonself",
+      "note": "Governance/board connection to non-self (cascade).",
+      "sort_pass": 3
+    },
+    "tremblay": {
+      "classification": "partial",
+      "confidence": 0.4,
+      "method": "cascade_adjacent",
+      "note": "Low-edge entity adjacent to non-self.",
+      "sort_pass": 3
+    },
+    "ud_mercy_law": {
+      "classification": "other",
+      "confidence": 0.3,
+      "method": "unresolved",
+      "note": "Edge pattern unresolved.",
+      "sort_pass": 3
+    },
+    "uhuru": {
+      "classification": "other",
+      "confidence": 0.3,
+      "method": "unresolved",
+      "note": "Edge pattern unresolved.",
+      "sort_pass": 3
+    },
+    "upl_brauckmuller": {
+      "classification": "self",
+      "confidence": 0.4,
+      "method": "cascade_self",
+      "note": "Low-edge entity adjacent to self.",
+      "sort_pass": 3
+    },
+    "upl_cadotte": {
+      "classification": "partial",
+      "confidence": 0.45,
+      "method": "cascade_nonself",
+      "note": "Governance/board connection to non-self (cascade).",
+      "sort_pass": 3
+    },
+    "upl_celentino": {
+      "classification": "self",
+      "confidence": 0.4,
+      "method": "cascade_self",
+      "note": "Low-edge entity adjacent to self.",
+      "sort_pass": 3
+    },
+    "upl_colombo": {
+      "classification": "self",
+      "confidence": 0.4,
+      "method": "cascade_self",
+      "note": "Low-edge entity adjacent to self.",
+      "sort_pass": 3
+    },
+    "upl_griffin": {
+      "classification": "self",
+      "confidence": 0.4,
+      "method": "cascade_self",
+      "note": "Low-edge entity adjacent to self.",
+      "sort_pass": 3
+    },
+    "upl_kejbou": {
+      "classification": "self",
+      "confidence": 0.4,
+      "method": "cascade_self",
+      "note": "Low-edge entity adjacent to self.",
+      "sort_pass": 3
+    },
+    "upl_moilanen": {
+      "classification": "self",
+      "confidence": 0.4,
+      "method": "cascade_self",
+      "note": "Low-edge entity adjacent to self.",
+      "sort_pass": 3
+    },
+    "upl_palacios": {
+      "classification": "self",
+      "confidence": 0.4,
+      "method": "cascade_self",
+      "note": "Low-edge entity adjacent to self.",
+      "sort_pass": 3
+    },
+    "upl_riordan": {
+      "classification": "self",
+      "confidence": 0.4,
+      "method": "cascade_self",
+      "note": "Low-edge entity adjacent to self.",
+      "sort_pass": 3
+    },
+    "usao_edmi": {
+      "classification": "other",
+      "confidence": 0.3,
+      "method": "unresolved",
+      "note": "Edge pattern unresolved.",
+      "sort_pass": 3
+    },
+    "virgil_smith": {
+      "classification": "null",
+      "confidence": 0.45,
+      "method": "cascade_null",
+      "note": "Formation/governance connection to null (cascade).",
+      "sort_pass": 3
+    },
+    "vitti": {
+      "classification": "partial",
+      "confidence": 0.45,
+      "method": "cascade_nonself",
+      "note": "Governance/board connection to non-self (cascade).",
+      "sort_pass": 3
+    },
+    "wayne_co_pa": {
+      "classification": "other",
+      "confidence": 0.3,
+      "method": "unresolved",
+      "note": "Edge pattern unresolved.",
+      "sort_pass": 3
+    },
+    "wayne_county": {
+      "classification": "partial",
+      "confidence": 0.45,
+      "method": "cascade_nonself",
+      "note": "Governance/board connection to non-self (cascade).",
+      "sort_pass": 3
+    },
+    "wayne_resa": {
+      "classification": "other",
+      "confidence": 0.3,
+      "method": "unresolved",
+      "note": "Edge pattern unresolved.",
+      "sort_pass": 3
+    },
+    "wayne_state_law": {
+      "classification": "other",
+      "confidence": 0.3,
+      "method": "unresolved",
+      "note": "Edge pattern unresolved.",
+      "sort_pass": 3
+    },
+    "welch": {
+      "classification": "other",
+      "confidence": 0.25,
+      "method": "insufficient",
+      "note": "Too few edges.",
+      "sort_pass": 3
+    },
+    "wmu": {
+      "classification": "other",
+      "confidence": 0.3,
+      "method": "unresolved",
+      "note": "Edge pattern unresolved.",
+      "sort_pass": 3
+    }
+  },
+  "summary": {
+    "total": 329,
+    "non_self": 5,
+    "null": 68,
+    "self": 107,
+    "partial": 57,
+    "other": 92,
+    "classified_with_confidence": 130
+  }
+}

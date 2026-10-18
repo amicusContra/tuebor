@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>tuebor — Public Record Investigation - Katie Schmiedeknecht</title>
+    <subtitle>Public evidence library documenting a Detroit charter school network. Convicted felons running schools. Judges with documented connections. $4.9M in public funding. Every fact cited from public records. Every document timestamped. Verify everything.</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://tuebor.primals.eco/actors/katie-schmiedeknecht/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://tuebor.primals.eco"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2026-09-26T00:00:00+00:00</updated>
+    <id>https://tuebor.primals.eco/actors/katie-schmiedeknecht/atom.xml</id>
+    <entry xml:lang="en">
+        <title>The Credential Gap — MacDowell Staff Qualification Audit</title>
+        <published>2026-09-26T00:00:00+00:00</published>
+        <updated>2026-09-26T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://tuebor.primals.eco/analysis/credential-audit/"/>
+        <id>https://tuebor.primals.eco/analysis/credential-audit/</id>
+        
+        <content type="html" xml:base="https://tuebor.primals.eco/analysis/credential-audit/">&lt;p&gt;The &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;mdoe.state.mi.us&#x2F;MOECS&#x2F;PublicCredentialSearch.aspx&quot;&gt;Michigan Online Educator Certification System (MOECS)&lt;&#x2F;a&gt; is the public database where anyone can verify whether a Michigan educator holds a valid teaching certificate, administrator certification, or permit — and which grade levels and subjects each endorsement covers. 
+
+
+
+
+
+
+
+&lt;span class=&quot;confidence-badge confidence-documented&quot; title=&quot;Sourced from public record&quot;&gt;&lt;span aria-hidden=&quot;true&quot;&gt;📄&lt;&#x2F;span&gt; Documented&lt;&#x2F;span&gt;
+&lt;&#x2F;p&gt;
+&lt;p&gt;On &lt;strong&gt;September 26, 2026&lt;&#x2F;strong&gt;, every name listed on MacDowell Preparatory Academy’s public staff roster (&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.macdowellprep.com&#x2F;about&#x2F;&quot;&gt;macdowellprep.com&#x2F;about&#x2F;&lt;&#x2F;a&gt;) was searched in MOECS. The audit found that &lt;strong&gt;only 2 of 14 instructional staff members&lt;&#x2F;strong&gt; are properly credentialed &lt;strong&gt;and&lt;&#x2F;strong&gt; correctly placed for their teaching assignment. 
+
+
+
+
+
+
+
+&lt;span class=&quot;confidence-badge confidence-documented&quot; title=&quot;Sourced from public record&quot;&gt;&lt;span aria-hidden=&quot;true&quot;&gt;📄&lt;&#x2F;span&gt; Documented&lt;&#x2F;span&gt;
+&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;staff-roster-results&quot;&gt;Staff Roster Results 
+
+
+
+
+
+
+
+&lt;span class=&quot;confidence-badge confidence-documented&quot; title=&quot;Sourced from public record&quot;&gt;&lt;span aria-hidden=&quot;true&quot;&gt;📄&lt;&#x2F;span&gt; Documented&lt;&#x2F;span&gt;
+&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;administration-4-positions-603-000-year-combined&quot;&gt;Administration — 4 positions ($603,000&#x2F;year combined)&lt;&#x2F;h3&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Role&lt;&#x2F;th&gt;&lt;th&gt;MOECS Status&lt;&#x2F;th&gt;&lt;th&gt;Indicator&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;Superintendent&#x2F;CAO (Brian Banks)&lt;&#x2F;td&gt;&lt;td&gt;Convicted felon (ICHAT SID 2029469K). School Administrator certificate only — no teaching credential.&lt;&#x2F;td&gt;&lt;td&gt;❌&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Dean of Scholars + Culture (Cameron Coleman)&lt;&#x2F;td&gt;&lt;td&gt;Standard teaching certificate &lt;strong&gt;expired 6&#x2F;30&#x2F;2026&lt;&#x2F;strong&gt;. No administrator certification for Dean role.&lt;&#x2F;td&gt;&lt;td&gt;⏳&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Dean of Academics (Kellie M Stevens)&lt;&#x2F;td&gt;&lt;td&gt;Standard teaching certificate (K-5&#x2F;K-8 elementary). &lt;strong&gt;No administrator certification&lt;&#x2F;strong&gt; for Dean role.&lt;&#x2F;td&gt;&lt;td&gt;⚠️&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Dean of Operations + 8th Grade Teacher (Chalcee Norwood)&lt;&#x2F;td&gt;&lt;td&gt;&lt;strong&gt;Not found&lt;&#x2F;strong&gt; in MOECS public search — 91 “Norwood” results searched, no match for “Chalcee”. Zero credentials discoverable.&lt;&#x2F;td&gt;&lt;td&gt;❌&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;h3 id=&quot;instructional-staff&quot;&gt;Instructional Staff&lt;&#x2F;h3&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Role&lt;&#x2F;th&gt;&lt;th&gt;MOECS Status&lt;&#x2F;th&gt;&lt;th&gt;Indicator&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;Kindergarten (Rachel Webb)&lt;&#x2F;td&gt;&lt;td&gt;Holds Secondary &lt;strong&gt;English&#x2F;Journalism 6-12&lt;&#x2F;strong&gt; certification. Zero elementary endorsement. Teaching kindergarten with a high school certificate.&lt;&#x2F;td&gt;&lt;td&gt;⚠️&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Kindergarten (Lakeisha Bates)&lt;&#x2F;td&gt;&lt;td&gt;&lt;strong&gt;“No matches found”&lt;&#x2F;strong&gt; in MOECS. Zero credentials.&lt;&#x2F;td&gt;&lt;td&gt;❌&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;3rd Grade (Alana Hubbell)&lt;&#x2F;td&gt;&lt;td&gt;Daily Substitute Permit issued through &lt;strong&gt;Escuela Avancemos&lt;&#x2F;strong&gt; — a different school.&lt;&#x2F;td&gt;&lt;td&gt;🔶&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;5th Grade (Ashlie Spencer)&lt;&#x2F;td&gt;&lt;td&gt;Daily Substitute Permit issued through &lt;strong&gt;Chandler Park Academy&lt;&#x2F;strong&gt; — a different school.&lt;&#x2F;td&gt;&lt;td&gt;🔶&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;8th Grade Teacher (Volanda Frazier)&lt;&#x2F;td&gt;&lt;td&gt;Full-Year Basic Substitute permit only — no standard teaching certificate. Assigned as full-time Teacher of Record.&lt;&#x2F;td&gt;&lt;td&gt;⚠️&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;2 instructional staff&lt;&#x2F;td&gt;&lt;td&gt;Properly credentialed &lt;strong&gt;and&lt;&#x2F;strong&gt; correctly placed for their assignment.&lt;&#x2F;td&gt;&lt;td&gt;✅&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;2 staff&lt;&#x2F;td&gt;&lt;td&gt;Expired or pending credentials.&lt;&#x2F;td&gt;&lt;td&gt;⏳&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;p&gt;&lt;strong&gt;Legend:&lt;&#x2F;strong&gt; ✅ Valid · ⚠️ Wrong endorsement&#x2F;placement · ❌ No credentials · 🔶 Substitute permit from other school · ⏳ Expired&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;Source: MOECS public credential search, September 26, 2026. Staff titles from &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.macdowellprep.com&#x2F;about&#x2F;&quot;&gt;macdowellprep.com&#x2F;about&#x2F;&lt;&#x2F;a&gt;.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;the-rachel-webb-finding&quot;&gt;The Rachel Webb Finding 
+
+
+
+
+
+
+
+&lt;span class=&quot;confidence-badge confidence-documented&quot; title=&quot;Sourced from public record&quot;&gt;&lt;span aria-hidden=&quot;true&quot;&gt;📄&lt;&#x2F;span&gt; Documented&lt;&#x2F;span&gt;
+&lt;&#x2F;h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;A kindergarten teacher holds a Secondary English&#x2F;Journalism certification endorsed for grades 6–12.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Elementary education in Michigan requires a specific endorsement in early childhood or elementary education. A 6–12 secondary certification does &lt;strong&gt;not&lt;&#x2F;strong&gt; qualify an educator for K–5 instruction under Michigan law. MOECS shows Rachel Webb’s only endorsements are &lt;strong&gt;English 6–12&lt;&#x2F;strong&gt; and &lt;strong&gt;Journalism 6–12&lt;&#x2F;strong&gt; — neither covers kindergarten.&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;h2 id=&quot;the-substitute-permit-problem&quot;&gt;The Substitute Permit Problem 
+
+
+
+
+
+
+
+&lt;span class=&quot;confidence-badge confidence-documented&quot; title=&quot;Sourced from public record&quot;&gt;&lt;span aria-hidden=&quot;true&quot;&gt;📄&lt;&#x2F;span&gt; Documented&lt;&#x2F;span&gt;
+&lt;&#x2F;h2&gt;
+&lt;p&gt;Two MacDowell instructional staff hold &lt;strong&gt;Daily Substitute Permits&lt;&#x2F;strong&gt; issued through &lt;strong&gt;different schools&lt;&#x2F;strong&gt;:&lt;&#x2F;p&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Staff&lt;&#x2F;th&gt;&lt;th&gt;Assignment&lt;&#x2F;th&gt;&lt;th&gt;Permit Issued Through&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;Alana Hubbell&lt;&#x2F;td&gt;&lt;td&gt;3rd Grade&lt;&#x2F;td&gt;&lt;td&gt;Escuela Avancemos — Detroit&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Ashlie Spencer&lt;&#x2F;td&gt;&lt;td&gt;5th Grade&lt;&#x2F;td&gt;&lt;td&gt;Chandler Park Academy — Harper Woods&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;p&gt;Daily Substitute Permits are tied to the &lt;strong&gt;issuing school&lt;&#x2F;strong&gt; and are intended for &lt;strong&gt;temporary fill-in duty&lt;&#x2F;strong&gt;, not permanent full-time instructional positions. Using substitute permits from other schools to staff ongoing teaching roles is a credential compliance issue under Michigan law.&lt;&#x2F;p&gt;
+&lt;p&gt;Volanda Frazier holds a Full-Year Basic Substitute permit as the full-time 8th grade Teacher of Record — a separate but related compliance problem.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;the-law-mcl-388-1763&quot;&gt;The Law — MCL 388.1763 
+
+
+
+
+
+
+
+&lt;span class=&quot;confidence-badge confidence-documented&quot; title=&quot;Sourced from public record&quot;&gt;&lt;span aria-hidden=&quot;true&quot;&gt;📄&lt;&#x2F;span&gt; Documented&lt;&#x2F;span&gt;
+&lt;&#x2F;h2&gt;
+&lt;p&gt;Michigan Compiled Laws require charter school teachers to hold valid credentials:&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;“A teacher employed by or assigned to a public school academy shall hold a valid Michigan teaching certificate or a permit issued by the superintendent of public instruction.”&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Penalty provisions when violations are found:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Statute&lt;&#x2F;th&gt;&lt;th&gt;Requirement&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;MCL 388.1763(1)&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;A district shall not employ an individual who is not appropriately placed under a valid certificate.&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;MCL 388.1763(2)&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;&lt;strong&gt;50% state aid deduction&lt;&#x2F;strong&gt; for salary paid during the violation period.&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;MCL 388.1763(6)&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;If a school official is &lt;strong&gt;notified&lt;&#x2F;strong&gt; by MDE and &lt;strong&gt;knowingly continues&lt;&#x2F;strong&gt; to employ an uncredentialed individual → &lt;strong&gt;misdemeanor&lt;&#x2F;strong&gt;, &lt;strong&gt;$1,500 fine per incident&lt;&#x2F;strong&gt;.&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;p&gt;When MDE identifies credential violations, the statute requires enforcement — state aid deductions for uncredentialed employment and, where officials continue employment after notification, referral for criminal prosecution.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;what-mde-did&quot;&gt;What MDE Did 
+
+
+
+
+
+
+
+&lt;span class=&quot;confidence-badge confidence-documented&quot; title=&quot;Sourced from public record&quot;&gt;&lt;span aria-hidden=&quot;true&quot;&gt;📄&lt;&#x2F;span&gt; Documented&lt;&#x2F;span&gt;
+&lt;&#x2F;h2&gt;
+&lt;p&gt;MDE was notified of credential problems at MacDowell. Over a &lt;strong&gt;four-year period&lt;&#x2F;strong&gt;, the Office of Educator Excellence investigated &lt;strong&gt;only one name&lt;&#x2F;strong&gt; — Brian Banks — in February 2022. The investigation was &lt;strong&gt;closed within approximately two hours&lt;&#x2F;strong&gt; after OEE Analyst &lt;strong&gt;Katie Schmiedeknecht&lt;&#x2F;strong&gt; communicated that “there will be no need for an investigation.”&lt;&#x2F;p&gt;
+&lt;p&gt;MDE &lt;strong&gt;never checked the rest of the staff roster&lt;&#x2F;strong&gt; — despite MOECS and the Educator Registry (REP) being MDE’s own systems, searchable by any analyst in minutes.&lt;&#x2F;p&gt;
+&lt;p&gt;Schmiedeknecht presents at state conferences on the &lt;strong&gt;same credential compliance rules&lt;&#x2F;strong&gt; she is charged with enforcing — including slides stating that &lt;em&gt;“Any teacher who is not appropriately placed may be subject to a salary deduction based on MCL 388.1763.”&lt;&#x2F;em&gt; Her office failed to enforce those rules at MacDowell while advising the school through the compliance loophole that avoided penalties for Banks.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;Source: MDE FOIA response (September 25, 2026); MOECS public search (September 26, 2026).&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;verify-it-yourself&quot;&gt;Verify It Yourself&lt;&#x2F;h2&gt;
+&lt;p&gt;Anyone can reproduce this audit in minutes:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;Go to MOECS public search: &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;mdoe.state.mi.us&#x2F;MOECS&#x2F;PublicCredentialSearch.aspx&quot;&gt;mdoe.state.mi.us&#x2F;MOECS&#x2F;PublicCredentialSearch.aspx&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Enter the teacher’s last name&lt;&#x2F;li&gt;
+&lt;li&gt;Check: Is the certificate &lt;strong&gt;valid&lt;&#x2F;strong&gt;? Is it &lt;strong&gt;endorsed for the grades and subjects&lt;&#x2F;strong&gt; being taught?&lt;&#x2F;li&gt;
+&lt;li&gt;Compare results to the school’s actual staff roster at &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.macdowellprep.com&#x2F;about&#x2F;&quot;&gt;macdowellprep.com&#x2F;about&#x2F;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;Discrepancies between MOECS endorsements and classroom assignments are visible immediately in the public record.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;the-cost&quot;&gt;The Cost 
+
+
+
+
+
+
+
+&lt;span class=&quot;confidence-badge confidence-documented&quot; title=&quot;Sourced from public record&quot;&gt;&lt;span aria-hidden=&quot;true&quot;&gt;📄&lt;&#x2F;span&gt; Documented&lt;&#x2F;span&gt;
+&lt;&#x2F;h2&gt;
+&lt;p&gt;MacDowell Preparatory Academy serves &lt;strong&gt;362 students&lt;&#x2F;strong&gt;. Four administrators draw &lt;strong&gt;$603,000&#x2F;year&lt;&#x2F;strong&gt; in combined compensation:&lt;&#x2F;p&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Metric&lt;&#x2F;th&gt;&lt;th&gt;MacDowell&lt;&#x2F;th&gt;&lt;th&gt;Context&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;Admin cost per student&lt;&#x2F;td&gt;&lt;td&gt;&lt;strong&gt;$1,665&#x2F;student&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;Michigan state average: approximately &lt;strong&gt;$850&#x2F;student&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Instructional spending&lt;&#x2F;td&gt;&lt;td&gt;&lt;strong&gt;32%&lt;&#x2F;strong&gt; of budget&lt;&#x2F;td&gt;&lt;td&gt;Michigan target: &lt;strong&gt;55–65%&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;p&gt;Administration at nearly &lt;strong&gt;twice the state average&lt;&#x2F;strong&gt; per student diverts public funding away from instruction — in a school where MOECS already shows that most instructional staff lack proper credentials for their assignments.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;&lt;em&gt;This analysis is based entirely on MOECS public search results and Michigan Department of Education records. Every credential status can be independently verified using the steps above.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Detroit Literacy Crisis — The Systemic View</title>
+        <published>2026-09-26T00:00:00+00:00</published>
+        <updated>2026-09-26T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://tuebor.primals.eco/analysis/detroit-literacy/"/>
+        <id>https://tuebor.primals.eco/analysis/detroit-literacy/</id>
+        
+        <content type="html" xml:base="https://tuebor.primals.eco/analysis/detroit-literacy/">&lt;p&gt;MacDowell Preparatory Academy is not an anomaly — it is an extreme example of structural vulnerabilities in Michigan’s charter school oversight. This page connects the documented facts from this investigation to the broader patterns that enable them.&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This analysis draws on the specific documented case to illustrate systemic patterns. The broader conclusions are the complainant’s analytical inference, supported by the specific evidence documented elsewhere on this site.&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;See also: &lt;a href=&quot;&#x2F;analysis&#x2F;credential-audit&#x2F;&quot;&gt;Credential Audit&lt;&#x2F;a&gt;, &lt;a href=&quot;&#x2F;analysis&#x2F;funding-flow&#x2F;&quot;&gt;Funding Flow&lt;&#x2F;a&gt;, &lt;a href=&quot;&#x2F;analysis&#x2F;institutional-capture&#x2F;&quot;&gt;Institutional Capture&lt;&#x2F;a&gt;, &lt;a href=&quot;&#x2F;analysis&#x2F;words-vs-numbers&#x2F;&quot;&gt;Words vs. Numbers&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;five-structural-vulnerabilities&quot;&gt;Five Structural Vulnerabilities&lt;&#x2F;h2&gt;
+&lt;p&gt;The MacDowell case documents five interlocking weaknesses in Michigan’s charter school accountability framework. The first four are structural mechanisms; the fifth is their cumulative effect on students.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;1-charter-authorization-as-revenue&quot;&gt;1. Charter authorization as revenue 
+
+
+
+
+
+
+
+&lt;span class=&quot;confidence-badge confidence-documented&quot; title=&quot;Sourced from public record&quot;&gt;&lt;span aria-hidden=&quot;true&quot;&gt;📄&lt;&#x2F;span&gt; Documented&lt;&#x2F;span&gt;
+&lt;&#x2F;h3&gt;
+&lt;p&gt;Michigan authorizers receive &lt;strong&gt;3% of state aid&lt;&#x2F;strong&gt; from each school they authorize. This creates a financial incentive to authorize and maintain schools regardless of performance.&lt;&#x2F;p&gt;
+&lt;p&gt;At MacDowell Preparatory Academy, DPSCD (the authorizer) receives approximately &lt;strong&gt;$147K&#x2F;year&lt;&#x2F;strong&gt; from that authorization fee alone — revenue that continues as long as the school remains open.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;Source: MDE financial reports; charter authorization fee structure. See &lt;a href=&quot;&#x2F;analysis&#x2F;funding-flow&#x2F;&quot;&gt;Funding Flow&lt;&#x2F;a&gt;.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;2-management-companies-as-extraction-vehicles&quot;&gt;2. Management companies as extraction vehicles 
+
+
+
+
+
+
+
+&lt;span class=&quot;confidence-badge confidence-documented&quot; title=&quot;Sourced from public record&quot;&gt;&lt;span aria-hidden=&quot;true&quot;&gt;📄&lt;&#x2F;span&gt; Documented&lt;&#x2F;span&gt;
+&lt;&#x2F;h3&gt;
+&lt;p&gt;The Purpose Group LLC — Brian Banks’ management company — takes a &lt;strong&gt;10% management fee plus all operating costs&lt;&#x2F;strong&gt;, totaling &lt;strong&gt;72.67% of total revenue&lt;&#x2F;strong&gt; at MacDowell.&lt;&#x2F;p&gt;
+&lt;p&gt;The fee-plus-cost-reimbursement structure means the management company can never lose money while the school absorbs all operational risk. Public per-pupil funding flows through the school entity; the majority exits to the LLC regardless of academic outcomes.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;Source: MDE financial records; Purpose Group Management Agreement (FOIA). See &lt;a href=&quot;&#x2F;analysis&#x2F;funding-flow&#x2F;&quot;&gt;Funding Flow&lt;&#x2F;a&gt; and &lt;a href=&quot;&#x2F;network&#x2F;entities&#x2F;purpose-group-llc&#x2F;&quot;&gt;Purpose Group LLC&lt;&#x2F;a&gt;.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;3-credential-enforcement-as-theater&quot;&gt;3. Credential enforcement as theater 
+
+
+
+
+
+
+
+&lt;span class=&quot;confidence-badge confidence-documented&quot; title=&quot;Sourced from public record&quot;&gt;&lt;span aria-hidden=&quot;true&quot;&gt;📄&lt;&#x2F;span&gt; Documented&lt;&#x2F;span&gt;
+&lt;&#x2F;h3&gt;
+&lt;p&gt;The Michigan Department of Education investigated &lt;strong&gt;one name in four years&lt;&#x2F;strong&gt; at MacDowell — Brian Banks — in February 2022. The investigation was &lt;strong&gt;closed within approximately two hours&lt;&#x2F;strong&gt; after OEE Analyst &lt;strong&gt;Katie Schmiedeknecht&lt;&#x2F;strong&gt; communicated that “there will be no need for an investigation.”&lt;&#x2F;p&gt;
+&lt;p&gt;MDE &lt;strong&gt;never checked the rest of the staff roster&lt;&#x2F;strong&gt; — despite MOECS and the Educator Registry being MDE’s own systems, searchable by any analyst in minutes. A &lt;a href=&quot;&#x2F;analysis&#x2F;credential-audit&#x2F;&quot;&gt;MOECS audit on September 26, 2026&lt;&#x2F;a&gt; found that only &lt;strong&gt;2 of 14 instructional staff&lt;&#x2F;strong&gt; are properly credentialed and correctly placed for their assignments.&lt;&#x2F;p&gt;
+&lt;p&gt;Schmiedeknecht presents at state conferences on the &lt;strong&gt;same credential compliance rules&lt;&#x2F;strong&gt; her office is charged with enforcing — including slides stating that &lt;em&gt;“Any teacher who is not appropriately placed may be subject to a salary deduction based on MCL 388.1763.”&lt;&#x2F;em&gt; Her office failed to enforce those rules at MacDowell.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;Source: MDE FOIA response (September 25, 2026); MOECS public search (September 26, 2026). See &lt;a href=&quot;&#x2F;analysis&#x2F;credential-audit&#x2F;&quot;&gt;Credential Audit&lt;&#x2F;a&gt;.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;4-board-capture&quot;&gt;4. Board capture 
+
+
+
+
+
+
+
+&lt;span class=&quot;confidence-badge confidence-documented&quot; title=&quot;Sourced from public record&quot;&gt;&lt;span aria-hidden=&quot;true&quot;&gt;📄&lt;&#x2F;span&gt; Documented&lt;&#x2F;span&gt;
+&lt;&#x2F;h3&gt;
+&lt;p&gt;Judges, assistant attorneys general, and politicians sit on charter school boards, providing institutional legitimacy without corresponding accountability.&lt;&#x2F;p&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;School&lt;&#x2F;th&gt;&lt;th&gt;Board Chair&lt;&#x2F;th&gt;&lt;th&gt;Role&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;MacDowell Preparatory Academy&lt;&#x2F;td&gt;&lt;td&gt;Judge Tenisha Yancey&lt;&#x2F;td&gt;&lt;td&gt;36th District Court&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Purpose Charter Academy&lt;&#x2F;td&gt;&lt;td&gt;Judge Cylenthia Miller&lt;&#x2F;td&gt;&lt;td&gt;Wayne County 3rd Circuit Court&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;p&gt;These are not isolated appointments. The &lt;a href=&quot;&#x2F;analysis&#x2F;institutional-capture&#x2F;&quot;&gt;Institutional Capture&lt;&#x2F;a&gt; analysis documents a broader pattern of judges, elected officials, and state employees serving on boards of schools connected to the Banks enterprise.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;Source: School websites; Clutch Justice reporting (September 2026). See &lt;a href=&quot;&#x2F;network&#x2F;judges&#x2F;tenisha-yancey&#x2F;&quot;&gt;Tenisha Yancey&lt;&#x2F;a&gt;, &lt;a href=&quot;&#x2F;network&#x2F;judges&#x2F;cylenthia-miller&#x2F;&quot;&gt;Cylenthia Miller&lt;&#x2F;a&gt;.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;5-cumulative-impact-on-students&quot;&gt;5. Cumulative impact on students 
+
+
+
+
+
+
+
+&lt;span class=&quot;confidence-badge confidence-documented&quot; title=&quot;Sourced from public record&quot;&gt;&lt;span aria-hidden=&quot;true&quot;&gt;📄&lt;&#x2F;span&gt; Documented&lt;&#x2F;span&gt;
+&lt;&#x2F;h3&gt;
+&lt;p&gt;Every student at a bottom-3% school with 14% properly credentialed staff is a student who falls further behind. &lt;strong&gt;362 students&lt;&#x2F;strong&gt; attend MacDowell Preparatory Academy.&lt;&#x2F;p&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Metric&lt;&#x2F;th&gt;&lt;th&gt;MacDowell&lt;&#x2F;th&gt;&lt;th&gt;Source&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;Math proficiency&lt;&#x2F;td&gt;&lt;td&gt;3%&lt;&#x2F;td&gt;&lt;td&gt;MDE, SchoolDigger&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Statewide rank&lt;&#x2F;td&gt;&lt;td&gt;Bottom 3% (1,443 of 1,488)&lt;&#x2F;td&gt;&lt;td&gt;SchoolDigger&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Properly credentialed instructional staff&lt;&#x2F;td&gt;&lt;td&gt;2 of 14 (14%)&lt;&#x2F;td&gt;&lt;td&gt;MOECS audit, Sep 26, 2026&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Enrollment&lt;&#x2F;td&gt;&lt;td&gt;362 students&lt;&#x2F;td&gt;&lt;td&gt;MDE records&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;p&gt;The impact compounds annually. Students who enter kindergarten without credentialed teachers and leave middle school with 3% math proficiency carry deficits that accumulate across grade levels — not as a single-year failure, but as a structural outcome of the conditions documented above.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;Source: MDE assessment data; SchoolDigger; &lt;a href=&quot;&#x2F;analysis&#x2F;credential-audit&#x2F;&quot;&gt;Credential Audit&lt;&#x2F;a&gt;.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;the-numbers-general-context&quot;&gt;The Numbers — General Context&lt;&#x2F;h2&gt;
+&lt;p&gt;The following points provide background context. They are cited as general patterns, not as specific statistics fabricated for this page.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Detroit’s overall literacy rates&lt;&#x2F;strong&gt; are among the lowest of any major American city.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Michigan&lt;&#x2F;strong&gt; has one of the highest proportions of charter school enrollment in the country.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Charter schools in Detroit&lt;&#x2F;strong&gt; have a wide performance range — some perform well, many do not.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;The accountability mechanisms&lt;&#x2F;strong&gt; — authorizer oversight, MDE credential enforcement, financial auditing — have documented failure points at every level in this case. 
+
+
+
+
+
+
+
+&lt;span class=&quot;confidence-badge confidence-documented&quot; title=&quot;Sourced from public record&quot;&gt;&lt;span aria-hidden=&quot;true&quot;&gt;📄&lt;&#x2F;span&gt; Documented&lt;&#x2F;span&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;The specific numbers for MacDowell — 3% math proficiency, 72.67% revenue extraction, 14% properly credentialed staff — are documented on this site and in public records. The broader Detroit and Michigan context frames why a single school’s failure matters beyond its own walls.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;what-this-case-reveals&quot;&gt;What This Case Reveals 
+&lt;span class=&quot;epistemic-status es-inference&quot; title=&quot;Analytical inference drawn from records — not adjudicated&quot;&gt;🔍 Inference&lt;&#x2F;span&gt;
+
+&lt;&#x2F;h2&gt;
+&lt;p&gt;This is not just about Brian Banks. 
+&lt;span class=&quot;epistemic-status es-inference&quot; title=&quot;Analytical inference drawn from records — not adjudicated&quot;&gt;🔍 Inference&lt;&#x2F;span&gt;
+
+ The structural vulnerabilities documented in this investigation exist across Michigan’s charter school sector:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Authorization incentives&lt;&#x2F;strong&gt; that prioritize revenue over oversight&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Management company structures&lt;&#x2F;strong&gt; that extract more than they invest&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Credential requirements&lt;&#x2F;strong&gt; that exist on paper but are not enforced&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Governance structures&lt;&#x2F;strong&gt; that create conflicts of interest rather than accountability&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Banks is the most extreme example documented in this investigation — &lt;strong&gt;9 criminal convictions&lt;&#x2F;strong&gt;, fake credentials, &lt;strong&gt;72.67% revenue extraction&lt;&#x2F;strong&gt;, &lt;strong&gt;3% math proficiency&lt;&#x2F;strong&gt;. 
+
+
+
+
+
+
+
+&lt;span class=&quot;confidence-badge confidence-documented&quot; title=&quot;Sourced from public record&quot;&gt;&lt;span aria-hidden=&quot;true&quot;&gt;📄&lt;&#x2F;span&gt; Documented&lt;&#x2F;span&gt;
+ But the structural enabling conditions are not unique to this case. 
+&lt;span class=&quot;epistemic-status es-inference&quot; title=&quot;Analytical inference drawn from records — not adjudicated&quot;&gt;🔍 Inference&lt;&#x2F;span&gt;
+
+&lt;&#x2F;p&gt;
+&lt;p&gt;The same authorization fee model applies to every DPSCD-authorized charter. The same management company fee structure appears wherever a CMO operates under similar contract terms. The same MDE credential enforcement office serves every charter school in Michigan. The same board composition pattern — judges and public officials providing legitimacy — appears at multiple schools in this network.&lt;&#x2F;p&gt;
+&lt;p&gt;MacDowell is the case study. The vulnerabilities are systemic. 
+&lt;span class=&quot;epistemic-status es-inference&quot; title=&quot;Analytical inference drawn from records — not adjudicated&quot;&gt;🔍 Inference&lt;&#x2F;span&gt;
+
+&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;related-reporting&quot;&gt;Related Reporting&lt;&#x2F;h2&gt;
+&lt;p&gt;Independent journalism and public policy discussion provide broader context for the patterns documented here. This site does not reproduce those reports in full — it references them as external corroboration and context.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;clutch-justice&quot;&gt;Clutch Justice&lt;&#x2F;h3&gt;
+&lt;p&gt;Clutch Justice has published reporting on Detroit charter school patterns connected to this investigation, including:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+
+
+
+
+
+&lt;cite class=&quot;source source-news&quot; itemscope itemtype=&quot;https:&#x2F;&#x2F;schema.org&#x2F;CreativeWork&quot;&gt;
+  &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;clutchjustice.com&amp;#x2F;2026&amp;#x2F;09&amp;#x2F;13&amp;#x2F;macdowell-preparatory-academy-academic-financial-record&amp;#x2F;&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot; itemprop=&quot;url&quot; title=&quot;Free access. Independent investigative journalism. Primary analytical reference for this investigation.&quot;&gt;
+    &lt;span class=&quot;source-badge&quot;&gt;📰&lt;&#x2F;span&gt;
+    &lt;span itemprop=&quot;name&quot;&gt;Clutch Justice&lt;&#x2F;span&gt;
+  &lt;&#x2F;a&gt;
+  
+  &lt;span class=&quot;source-label&quot;&gt;: &lt;em&gt;MacDowell: $15,217&amp;#x2F;student, 3% math proficiency&lt;&#x2F;em&gt;&lt;&#x2F;span&gt;
+&lt;&#x2F;cite&gt;
+
+ — Academic and financial analysis of MacDowell’s extraction model, board composition, and DPSCD authorization chain&lt;&#x2F;li&gt;
+&lt;li&gt;
+
+
+
+
+
+
+&lt;cite class=&quot;source source-news&quot; itemscope itemtype=&quot;https:&#x2F;&#x2F;schema.org&#x2F;CreativeWork&quot;&gt;
+  &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;clutchjustice.com&amp;#x2F;2026&amp;#x2F;09&amp;#x2F;23&amp;#x2F;foia-michigan-school-board-records-guide&amp;#x2F;&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot; itemprop=&quot;url&quot; title=&quot;Free access. Independent investigative journalism. Primary analytical reference for this investigation.&quot;&gt;
+    &lt;span class=&quot;source-badge&quot;&gt;📰&lt;&#x2F;span&gt;
+    &lt;span itemprop=&quot;name&quot;&gt;Clutch Justice&lt;&#x2F;span&gt;
+  &lt;&#x2F;a&gt;
+  
+  &lt;span class=&quot;source-label&quot;&gt;: &lt;em&gt;FOIA and Your Michigan School Board&lt;&#x2F;em&gt;&lt;&#x2F;span&gt;
+&lt;&#x2F;cite&gt;
+
+ — Legal guide for parents requesting charter school records under Michigan FOIA&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;See the full &lt;a href=&quot;&#x2F;sources&#x2F;&quot;&gt;Sources index&lt;&#x2F;a&gt; for additional Clutch Justice references cited across this site.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;national-and-state-policy-context&quot;&gt;National and State Policy Context&lt;&#x2F;h3&gt;
+&lt;p&gt;The broader national conversation about charter school accountability — including debates over authorizer incentives, management company transparency, and credential enforcement — provides policy context for the Michigan-specific patterns documented here. Michigan’s own charter school reform discussions address many of the same structural questions: who authorizes, who profits, and who enforces the rules when schools fail.&lt;&#x2F;p&gt;
+&lt;p&gt;This site documents one case in detail. The policy conversation is larger than any single school.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;verify-it-yourself&quot;&gt;Verify It Yourself&lt;&#x2F;h2&gt;
+&lt;p&gt;Every specific claim on this site can be independently checked against public records.&lt;&#x2F;p&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Resource&lt;&#x2F;th&gt;&lt;th&gt;What to check&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.mischooldata.org&#x2F;&quot;&gt;MiSchoolData.org&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;td&gt;Compare charter school performance across Detroit — proficiency rates, enrollment, demographics&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.mischooldata.org&quot;&gt;MI School Data&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;td&gt;Spending patterns by school — instruction vs. administration, management company payments&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;mdoe.state.mi.us&#x2F;MOECS&#x2F;PublicCredentialSearch.aspx&quot;&gt;MOECS Public Search&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;td&gt;Teacher credential verification — compare MOECS results to school staff rosters&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;&#x2F;evidence&#x2F;&quot;&gt;This site’s evidence library&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;td&gt;Documented case files — FOIA responses, financial records, management agreements&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;&#x2F;validate&#x2F;&quot;&gt;Verification page&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;td&gt;Step-by-step instructions for reproducing every major claim&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;p&gt;For the MacDowell credential audit specifically, see the reproduction steps in &lt;a href=&quot;&#x2F;analysis&#x2F;credential-audit&#x2F;#verify-it-yourself&quot;&gt;The Credential Gap&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;The facts documented on this site are specific to the Banks enterprise. The structural analysis is the complainant’s inference, offered to support policy discussion and regulatory action. Every specific claim can be independently verified.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

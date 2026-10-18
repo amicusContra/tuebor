@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>tuebor — Public Record Investigation - syntheticChemistry</title>
+    <subtitle>Public evidence library documenting a Detroit charter school network. Convicted felons running schools. Judges with documented connections. $4.9M in public funding. Every fact cited from public records. Every document timestamped. Verify everything.</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://tuebor.primals.eco/entities/syntheticchemistry/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://tuebor.primals.eco"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2026-10-18T00:00:00+00:00</updated>
+    <id>https://tuebor.primals.eco/entities/syntheticchemistry/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Clinicians — Your Data Is Ready. Come Get It.</title>
+        <published>2026-10-18T00:00:00+00:00</published>
+        <updated>2026-10-18T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://tuebor.primals.eco/analysis/clinicians-your-data-is-ready/"/>
+        <id>https://tuebor.primals.eco/analysis/clinicians-your-data-is-ready/</id>
+        
+        <content type="html" xml:base="https://tuebor.primals.eco/analysis/clinicians-your-data-is-ready/">&lt;h2 id=&quot;this-page-exists-because-someone-needs-to-tell-you&quot;&gt;This page exists because someone needs to tell you.&lt;&#x2F;h2&gt;
+&lt;p&gt;There is a bioinformatics stack sitting on GitHub right now — fully open, fully validated, fully free — that does things your $50,000&#x2F;year software licenses can’t do. It runs on your laptop. It doesn’t phone home. Your patient data never leaves your machine.&lt;&#x2F;p&gt;
+&lt;p&gt;Nobody told you because nobody’s selling it. There’s no sales team. No conference booth. No rep buying you lunch. Just a microbiologist who built it and is telling you now: &lt;strong&gt;come get it.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;what-s-ready&quot;&gt;What’s Ready&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;dna-protein-structure-prediction-helixvision&quot;&gt;🧬 Protein Structure Prediction — helixVision&lt;&#x2F;h3&gt;
+&lt;p&gt;&lt;strong&gt;What it does&lt;&#x2F;strong&gt;: AlphaFold2&#x2F;3 — the entire architecture — in pure Rust with f64 precision.&lt;&#x2F;p&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;&lt;&#x2F;th&gt;&lt;th&gt;AlphaFold (Google)&lt;&#x2F;th&gt;&lt;th&gt;helixVision (ecoPrimals)&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Language&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;Python&#x2F;JAX&lt;&#x2F;td&gt;&lt;td&gt;&lt;strong&gt;Pure Rust&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Precision&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;f32 (mixed)&lt;&#x2F;td&gt;&lt;td&gt;&lt;strong&gt;f64&lt;&#x2F;strong&gt; (double precision throughout)&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Where it runs&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;Google Cloud &#x2F; Colab&lt;&#x2F;td&gt;&lt;td&gt;&lt;strong&gt;Your local GPU&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Data leaves your machine&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;Yes (cloud)&lt;&#x2F;td&gt;&lt;td&gt;&lt;strong&gt;Never&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Cost per prediction&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;$0.01–$1.00 (cloud)&lt;&#x2F;td&gt;&lt;td&gt;&lt;strong&gt;$0.00&lt;&#x2F;strong&gt; (your electricity)&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Vendor lock-in&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;TPU&#x2F;CUDA&lt;&#x2F;td&gt;&lt;td&gt;&lt;strong&gt;None&lt;&#x2F;strong&gt; (Vulkan — any GPU)&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;License&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;Apache 2.0&lt;&#x2F;td&gt;&lt;td&gt;&lt;strong&gt;AGPL-3.0&lt;&#x2F;strong&gt; (copyleft, stays open)&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Validation checks&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;Internal&lt;&#x2F;td&gt;&lt;td&gt;&lt;strong&gt;154 checks, 1e-10 tolerance vs NumPy&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;p&gt;All 6 AlphaFold primitives implemented and validated:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Evoformer&lt;&#x2F;strong&gt; (MSA processing)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;IPA&lt;&#x2F;strong&gt; (invariant point attention — the geometric reasoner)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Diffusion&lt;&#x2F;strong&gt; (structure generation)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Pairformer&lt;&#x2F;strong&gt; (pair representation processing)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Confidence&lt;&#x2F;strong&gt; (pLDDT, PAE quality scores)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Recycling&lt;&#x2F;strong&gt; (iterative refinement)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;strong&gt;Pipeline&lt;&#x2F;strong&gt;: FASTA → structure → confidence → provenance. Every prediction gets a cryptographic provenance chain — you can prove which sequence produced which structure, when, on what hardware.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Target benchmark&lt;&#x2F;strong&gt;: 8.3 million LTEE structure predictions. ~$1,000 on 4× RTX 4070 vs ~$83,000 on cloud. Same physics. &lt;strong&gt;83× cheaper.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;shellscript&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-entity z-name&quot;&gt;git&lt;&#x2F;span&gt;&lt;span class=&quot;z-string&quot;&gt; clone https:&#x2F;&#x2F;github.com&#x2F;syntheticChemistry&#x2F;neuralSpring&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-support&quot;&gt;cd&lt;&#x2F;span&gt;&lt;span class=&quot;z-string&quot;&gt; neuralSpring&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-entity z-name&quot;&gt;cargo&lt;&#x2F;span&gt;&lt;span class=&quot;z-string&quot;&gt; run&lt;&#x2F;span&gt;&lt;span class=&quot;z-constant&quot;&gt; --release --bin&lt;&#x2F;span&gt;&lt;span class=&quot;z-string&quot;&gt; validate_alphafold_primitives&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-punctuation z-definition z-comment z-comment&quot;&gt;# 154 checks pass at 1e-10 tolerance&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;hr &#x2F;&gt;
+&lt;h3 id=&quot;pill-sovereign-pharmacometrics-healthspring&quot;&gt;💊 Sovereign Pharmacometrics — healthSpring&lt;&#x2F;h3&gt;
+&lt;p&gt;&lt;strong&gt;What it does&lt;&#x2F;strong&gt;: Full PK&#x2F;PD modeling. Population pharmacokinetics. Drug discovery screening. Replaces NONMEM ($3,600&#x2F;year) and Monolix ($5,000&#x2F;year).&lt;&#x2F;p&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Track&lt;&#x2F;th&gt;&lt;th&gt;What’s In It&lt;&#x2F;th&gt;&lt;th&gt;Checks&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;PK&#x2F;PD Core&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;Hill equation, PBPK, population Monte Carlo, Michaelis-Menten, species-agnostic dosing&lt;&#x2F;td&gt;&lt;td&gt;795&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;NLME&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;FOCE, SAEM, NCA, diagnostic plots — full nonlinear mixed-effects&lt;&#x2F;td&gt;&lt;td&gt;Production-ready&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Drug Discovery&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;MATRIX scoring, ADDRC HTS screening, iPSC validation pipeline&lt;&#x2F;td&gt;&lt;td&gt;Validated&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Gut Microbiome&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;Anderson gut lattice, C. diff colonization resistance, FMT modeling, SCFA production, serotonin pathway&lt;&#x2F;td&gt;&lt;td&gt;Validated&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Biosignal&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;Pan-Tompkins ECG R-peak detection, HRV analysis, SpO2, EDA, arrhythmia classification, multi-channel fusion&lt;&#x2F;td&gt;&lt;td&gt;Validated&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;p&gt;&lt;strong&gt;For pharmacologists&lt;&#x2F;strong&gt;: Your NONMEM license costs $3,600&#x2F;year. Your Monolix license costs $5,000&#x2F;year. Both require specific operating systems, specific compilers, and specific training. healthSpring does the same math in Rust. It compiles on any platform. It costs $0. And your patient data &lt;strong&gt;never leaves your machine&lt;&#x2F;strong&gt;.&lt;&#x2F;p&gt;
+&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;shellscript&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-entity z-name&quot;&gt;git&lt;&#x2F;span&gt;&lt;span class=&quot;z-string&quot;&gt; clone https:&#x2F;&#x2F;github.com&#x2F;syntheticChemistry&#x2F;healthSpring&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-support&quot;&gt;cd&lt;&#x2F;span&gt;&lt;span class=&quot;z-string&quot;&gt; healthSpring&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-entity z-name&quot;&gt;cargo&lt;&#x2F;span&gt;&lt;span class=&quot;z-string&quot;&gt; run&lt;&#x2F;span&gt;&lt;span class=&quot;z-constant&quot;&gt; --release --bin&lt;&#x2F;span&gt;&lt;span class=&quot;z-string&quot;&gt; validate_pkpd&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;&lt;strong&gt;Interactive Explorer&lt;&#x2F;strong&gt;: The Gonzales Interactive Explorer gives you IC50 curves, PK decay, tissue geometry, and hormesis — live charts, all computed locally.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h3 id=&quot;microbe-sovereign-metagenomics-wetspring&quot;&gt;🦠 Sovereign Metagenomics — wetSpring&lt;&#x2F;h3&gt;
+&lt;p&gt;&lt;strong&gt;What it does&lt;&#x2F;strong&gt;: Complete 16S rRNA pipeline. FASTQ to taxonomy to diversity to UniFrac. All in Rust. Replaces Galaxy and QIIME2.&lt;&#x2F;p&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Pipeline Stage&lt;&#x2F;th&gt;&lt;th&gt;What It Replaces&lt;&#x2F;th&gt;&lt;th&gt;Speedup&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;Quality filtering&lt;&#x2F;td&gt;&lt;td&gt;Trimmomatic &#x2F; fastp&lt;&#x2F;td&gt;&lt;td&gt;Pure Rust, streaming&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Read merging&lt;&#x2F;td&gt;&lt;td&gt;FLASH &#x2F; VSEARCH&lt;&#x2F;td&gt;&lt;td&gt;Pure Rust&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Dereplication&lt;&#x2F;td&gt;&lt;td&gt;VSEARCH&lt;&#x2F;td&gt;&lt;td&gt;Pure Rust&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Denoising&lt;&#x2F;td&gt;&lt;td&gt;&lt;strong&gt;DADA2&lt;&#x2F;strong&gt; (R package)&lt;&#x2F;td&gt;&lt;td&gt;&lt;strong&gt;GPU-accelerated&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Chimera detection&lt;&#x2F;td&gt;&lt;td&gt;UCHIME&lt;&#x2F;td&gt;&lt;td&gt;Pure Rust&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Taxonomy&lt;&#x2F;td&gt;&lt;td&gt;SILVA &#x2F; Greengenes classify&lt;&#x2F;td&gt;&lt;td&gt;Pure Rust&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Diversity&lt;&#x2F;td&gt;&lt;td&gt;vegan &#x2F; phyloseq (R)&lt;&#x2F;td&gt;&lt;td&gt;&lt;strong&gt;1,077× spectral cosine speedup&lt;&#x2F;strong&gt; on GPU&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;UniFrac&lt;&#x2F;td&gt;&lt;td&gt;phyloseq&lt;&#x2F;td&gt;&lt;td&gt;Pure Rust&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;p&gt;&lt;strong&gt;7,083+ validation checks.&lt;&#x2F;strong&gt; Validated against 170 NCBI metagenomes and 11.9M paired-end reads. Python→Rust parity at machine-epsilon precision.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;For microbiologists&lt;&#x2F;strong&gt;: You’re currently waiting in a QIIME2 Conda environment that takes 45 minutes to install and breaks every Python update. Or you’re uploading your patient sequences to Galaxy (someone else’s server). wetSpring compiles in 3 minutes and runs locally. Your sequences. Your machine. Your results.&lt;&#x2F;p&gt;
+&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;shellscript&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-entity z-name&quot;&gt;git&lt;&#x2F;span&gt;&lt;span class=&quot;z-string&quot;&gt; clone https:&#x2F;&#x2F;github.com&#x2F;syntheticChemistry&#x2F;wetSpring&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-support&quot;&gt;cd&lt;&#x2F;span&gt;&lt;span class=&quot;z-string&quot;&gt; wetSpring&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-entity z-name&quot;&gt;cargo&lt;&#x2F;span&gt;&lt;span class=&quot;z-string&quot;&gt; run&lt;&#x2F;span&gt;&lt;span class=&quot;z-constant&quot;&gt; --release --bin&lt;&#x2F;span&gt;&lt;span class=&quot;z-string&quot;&gt; validate_16s_pipeline&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-punctuation z-definition z-comment z-comment&quot;&gt;# 7,083 checks — FASTQ → taxonomy → diversity → UniFrac&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;&lt;strong&gt;Also in wetSpring&lt;&#x2F;strong&gt;: LC-MS feature extraction and PFAS screening. If you’re doing analytical chemistry, the mzML parser and peak detection are validated and ready.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h3 id=&quot;test-tube-drug-repurposing-immunology&quot;&gt;🧪 Drug Repurposing &amp;amp; Immunology&lt;&#x2F;h3&gt;
+&lt;p&gt;&lt;strong&gt;Anderson in Immunological Signaling&lt;&#x2F;strong&gt; — a published baseCamp paper using the Anderson localization framework applied to immune signaling networks. The same math that predicts electron transport in disordered materials predicts cytokine cascade behavior.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;What clinicians get&lt;&#x2F;strong&gt;:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Drug repurposing pipeline — screen existing approved drugs against novel targets using physics-based scoring&lt;&#x2F;li&gt;
+&lt;li&gt;Atopic dermatitis modeling (Anderson-immune framework)&lt;&#x2F;li&gt;
+&lt;li&gt;Cytokine signaling network analysis&lt;&#x2F;li&gt;
+&lt;li&gt;IC50 curve fitting with confidence intervals&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;This isn’t molecular docking. It’s &lt;strong&gt;physics&lt;&#x2F;strong&gt;. The same Anderson model that localizes electrons in disordered crystals localizes signals in disordered immune networks. It was validated on known drug-target pairs first.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h3 id=&quot;anatomical-heart-biosignal-processing&quot;&gt;🫀 Biosignal Processing&lt;&#x2F;h3&gt;
+&lt;p&gt;&lt;strong&gt;For cardiologists and neurologists&lt;&#x2F;strong&gt;:&lt;&#x2F;p&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Signal&lt;&#x2F;th&gt;&lt;th&gt;Algorithm&lt;&#x2F;th&gt;&lt;th&gt;What You Get&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;ECG&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;Pan-Tompkins R-peak detection&lt;&#x2F;td&gt;&lt;td&gt;Beat-by-beat analysis, locally&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;HRV&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;Time-domain + frequency-domain&lt;&#x2F;td&gt;&lt;td&gt;SDNN, RMSSD, pNN50, LF&#x2F;HF ratio&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;SpO2&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;Pulse oximetry signal processing&lt;&#x2F;td&gt;&lt;td&gt;Validated against clinical monitors&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;EDA&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;Electrodermal activity&lt;&#x2F;td&gt;&lt;td&gt;Skin conductance response detection&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Multi-channel&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;Sensor fusion&lt;&#x2F;td&gt;&lt;td&gt;Combined biosignal analysis&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Arrhythmia&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;Classification pipeline&lt;&#x2F;td&gt;&lt;td&gt;Automated rhythm identification&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;p&gt;All validated. All local. All Rust. No cloud. No PHI exposure. No HIPAA risk from third-party processing.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h3 id=&quot;seedling-precision-agriculture-airspring&quot;&gt;🌱 Precision Agriculture — airSpring&lt;&#x2F;h3&gt;
+&lt;p&gt;&lt;strong&gt;For agricultural scientists and agronomists&lt;&#x2F;strong&gt;:&lt;&#x2F;p&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Capability&lt;&#x2F;th&gt;&lt;th&gt;Data&lt;&#x2F;th&gt;&lt;th&gt;Validation&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;Evapotranspiration&lt;&#x2F;td&gt;&lt;td&gt;8 methods (FAO-56, Penman-Monteith, Hargreaves…)&lt;&#x2F;td&gt;&lt;td&gt;100 Michigan stations, 80 years, R²=0.97&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Crop coefficients&lt;&#x2F;td&gt;&lt;td&gt;Full Kc curves&lt;&#x2F;td&gt;&lt;td&gt;FAO-56 validated&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Soil physics&lt;&#x2F;td&gt;&lt;td&gt;van Genuchten, Richards equation, Saxton-Rawls&lt;&#x2F;td&gt;&lt;td&gt;30,000+ EMP Atlas samples&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Water balance&lt;&#x2F;td&gt;&lt;td&gt;ET₀→Kc→WB→Yield&lt;&#x2F;td&gt;&lt;td&gt;GPU pipeline, zero CPU round-trips&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Scale&lt;&#x2F;td&gt;&lt;td&gt;GPU atlas-scale processing&lt;&#x2F;td&gt;&lt;td&gt;&lt;strong&gt;13,000× speedup at atlas scale&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;p&gt;&lt;strong&gt;3,123+ checks.&lt;&#x2F;strong&gt; 57 papers reproduced. 2,777+ individual validation points.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h3 id=&quot;atom-physics-for-when-you-need-the-math&quot;&gt;⚛️ Physics — For When You Need the Math&lt;&#x2F;h3&gt;
+&lt;p&gt;&lt;strong&gt;hotSpring&lt;&#x2F;strong&gt; — if you need molecular dynamics, nuclear equations of state, or lattice QCD:&lt;&#x2F;p&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Domain&lt;&#x2F;th&gt;&lt;th&gt;Key Result&lt;&#x2F;th&gt;&lt;th&gt;What It Means&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Molecular dynamics&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;Yukawa OCP, N=10,000, 0.000% energy drift, $0.044&#x2F;run&lt;&#x2F;td&gt;&lt;td&gt;Production MD on consumer GPU&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Nuclear EOS&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;Full AME2020 (2,042 nuclei), HFB on consumer GPU&lt;&#x2F;td&gt;&lt;td&gt;Nuclear physics on your desktop&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Lattice QCD&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;First dynamical fermion production on consumer GPU&lt;&#x2F;td&gt;&lt;td&gt;Particle physics for $0.60&#x2F;run&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Spectral theory&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;Anderson 1D&#x2F;2D&#x2F;3D, Hofstadter butterfly&lt;&#x2F;td&gt;&lt;td&gt;Disorder physics validated&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;p&gt;&lt;strong&gt;700+ checks.&lt;&#x2F;strong&gt; 10+ papers reproduced. The physics is the same — the hardware is $4,000 instead of $4,000,000.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;the-full-stack-by-the-numbers&quot;&gt;The Full Stack — By the Numbers&lt;&#x2F;h2&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Metric&lt;&#x2F;th&gt;&lt;th&gt;Value&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Lines of Rust&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;3,595,463&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Test functions&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;92,454&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Papers reproduced&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;175+&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Validation checks&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;20,695+&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;GPU compute shaders&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;952 (74,000 lines WGSL)&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Scientific domains&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;9&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Executable papers&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;28 (baseCamp series)&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Springs&lt;&#x2F;strong&gt; (validation)&lt;&#x2F;td&gt;&lt;td&gt;9&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Primals&lt;&#x2F;strong&gt; (infrastructure)&lt;&#x2F;td&gt;&lt;td&gt;15&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;CUDA required&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;&lt;strong&gt;No&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Python required&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;&lt;strong&gt;No&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Cloud required&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;&lt;strong&gt;No&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;License fee&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;&lt;strong&gt;$0&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;how-to-start-right-now-tonight&quot;&gt;How to Start (Right Now, Tonight)&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;if-you-re-a-clinician-with-patient-data&quot;&gt;If you’re a clinician with patient data:&lt;&#x2F;h3&gt;
+&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;shellscript&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-punctuation z-definition z-comment z-comment&quot;&gt;# Protein structure prediction&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-entity z-name&quot;&gt;git&lt;&#x2F;span&gt;&lt;span class=&quot;z-string&quot;&gt; clone https:&#x2F;&#x2F;github.com&#x2F;syntheticChemistry&#x2F;neuralSpring&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-entity z-name&quot;&gt;cargo&lt;&#x2F;span&gt;&lt;span class=&quot;z-string&quot;&gt; run&lt;&#x2F;span&gt;&lt;span class=&quot;z-constant&quot;&gt; --release --bin&lt;&#x2F;span&gt;&lt;span class=&quot;z-string&quot;&gt; validate_alphafold_primitives&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-punctuation z-definition z-comment z-comment&quot;&gt;# PK&#x2F;PD modeling (replaces NONMEM)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-entity z-name&quot;&gt;git&lt;&#x2F;span&gt;&lt;span class=&quot;z-string&quot;&gt; clone https:&#x2F;&#x2F;github.com&#x2F;syntheticChemistry&#x2F;healthSpring&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-entity z-name&quot;&gt;cargo&lt;&#x2F;span&gt;&lt;span class=&quot;z-string&quot;&gt; run&lt;&#x2F;span&gt;&lt;span class=&quot;z-constant&quot;&gt; --release --bin&lt;&#x2F;span&gt;&lt;span class=&quot;z-string&quot;&gt; validate_pkpd&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-punctuation z-definition z-comment z-comment&quot;&gt;# Your data stays on YOUR machine. Always.&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;&lt;h3 id=&quot;if-you-re-a-microbiologist-with-sequences&quot;&gt;If you’re a microbiologist with sequences:&lt;&#x2F;h3&gt;
+&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;shellscript&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-punctuation z-definition z-comment z-comment&quot;&gt;# Sovereign 16S pipeline (replaces QIIME2&#x2F;Galaxy)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-entity z-name&quot;&gt;git&lt;&#x2F;span&gt;&lt;span class=&quot;z-string&quot;&gt; clone https:&#x2F;&#x2F;github.com&#x2F;syntheticChemistry&#x2F;wetSpring&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-entity z-name&quot;&gt;cargo&lt;&#x2F;span&gt;&lt;span class=&quot;z-string&quot;&gt; run&lt;&#x2F;span&gt;&lt;span class=&quot;z-constant&quot;&gt; --release --bin&lt;&#x2F;span&gt;&lt;span class=&quot;z-string&quot;&gt; validate_16s_pipeline&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-punctuation z-definition z-comment z-comment&quot;&gt;# LC-MS and PFAS screening&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-entity z-name&quot;&gt;cargo&lt;&#x2F;span&gt;&lt;span class=&quot;z-string&quot;&gt; run&lt;&#x2F;span&gt;&lt;span class=&quot;z-constant&quot;&gt; --release --bin&lt;&#x2F;span&gt;&lt;span class=&quot;z-string&quot;&gt; validate_lcms&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;&lt;h3 id=&quot;if-you-re-a-pharmacologist&quot;&gt;If you’re a pharmacologist:&lt;&#x2F;h3&gt;
+&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;shellscript&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-punctuation z-definition z-comment z-comment&quot;&gt;# Drug repurposing pipeline&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-entity z-name&quot;&gt;git&lt;&#x2F;span&gt;&lt;span class=&quot;z-string&quot;&gt; clone https:&#x2F;&#x2F;github.com&#x2F;syntheticChemistry&#x2F;healthSpring&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-entity z-name&quot;&gt;cargo&lt;&#x2F;span&gt;&lt;span class=&quot;z-string&quot;&gt; run&lt;&#x2F;span&gt;&lt;span class=&quot;z-constant&quot;&gt; --release --bin&lt;&#x2F;span&gt;&lt;span class=&quot;z-string&quot;&gt; validate_drug_discovery&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-punctuation z-definition z-comment z-comment&quot;&gt;# Interactive IC50 &#x2F; PK decay explorer&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-entity z-name&quot;&gt;cargo&lt;&#x2F;span&gt;&lt;span class=&quot;z-string&quot;&gt; run&lt;&#x2F;span&gt;&lt;span class=&quot;z-constant&quot;&gt; --release --bin&lt;&#x2F;span&gt;&lt;span class=&quot;z-string&quot;&gt; gonzales_explorer&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;&lt;h3 id=&quot;if-you-re-a-data-scientist-with-environmental-samples&quot;&gt;If you’re a data scientist with environmental samples:&lt;&#x2F;h3&gt;
+&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;shellscript&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-punctuation z-definition z-comment z-comment&quot;&gt;# 100 Michigan weather stations, 80 years&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-entity z-name&quot;&gt;git&lt;&#x2F;span&gt;&lt;span class=&quot;z-string&quot;&gt; clone https:&#x2F;&#x2F;github.com&#x2F;syntheticChemistry&#x2F;airSpring&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-entity z-name&quot;&gt;cargo&lt;&#x2F;span&gt;&lt;span class=&quot;z-string&quot;&gt; run&lt;&#x2F;span&gt;&lt;span class=&quot;z-constant&quot;&gt; --release --bin&lt;&#x2F;span&gt;&lt;span class=&quot;z-string&quot;&gt; validate_et0&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;&lt;h3 id=&quot;requirements&quot;&gt;Requirements:&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Rust&lt;&#x2F;strong&gt; (install: &lt;code&gt;curl --proto &#x27;=https&#x27; --tlsv1.2 -sSf https:&#x2F;&#x2F;sh.rustup.rs | sh&lt;&#x2F;code&gt;)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;A Vulkan-capable GPU&lt;&#x2F;strong&gt; (any NVIDIA&#x2F;AMD&#x2F;Intel from the last 5 years)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;That’s it.&lt;&#x2F;strong&gt; No CUDA. No Python. No Conda. No Docker. No cloud account.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;why-this-exists&quot;&gt;Why This Exists&lt;&#x2F;h2&gt;
+&lt;p&gt;I’m a microbiologist. Wayne State University. I studied cell membranes and metagenomics.&lt;&#x2F;p&gt;
+&lt;p&gt;Then I needed to analyze data and discovered that every tool was either:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Proprietary&lt;&#x2F;strong&gt; ($3,600&#x2F;year for NONMEM, $5,000&#x2F;year for Monolix, $50,000+ for enterprise genomics)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Cloud-dependent&lt;&#x2F;strong&gt; (your patient data goes to someone else’s server)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Fragile&lt;&#x2F;strong&gt; (Python environment breaks every update, Conda takes 45 minutes to install)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Vendor-locked&lt;&#x2F;strong&gt; (CUDA only — NVIDIA takes 50% margin on scientific GPUs because they can)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;So I built the alternative. From scratch. In Rust. With 20,695 validation checks to prove it works.&lt;&#x2F;p&gt;
+&lt;p&gt;Every tool that was free, I used. Every tool that was locked, I replaced. Every claim, I validated against published papers. Every result, I made reproducible with &lt;code&gt;cargo run&lt;&#x2F;code&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;3.6 million lines of Rust.&lt;&#x2F;strong&gt; One person. No funding. No institution. No grant. Just the code and the science and the absolute refusal to pay rent on tools that should be free.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;who-built-this&quot;&gt;Who Built This&lt;&#x2F;h2&gt;
+&lt;p&gt;Kevin Mok. Microbiologist. Not a CS grad.&lt;&#x2F;p&gt;
+&lt;p&gt;Studied cell membranes and applied the architecture to software. The selective permeability of a lipid bilayer became the selective permeability of a firewall. The epitope recognition of an antibody became the visitor classification of a membrane. The immune response of a body became the threat detection of a system.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;3.8 billion years of evolution is a better teacher than 4 years of computer science.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;But the code is validated. 92,454 test functions. 175+ papers reproduced. Every check has a reference paper. Every result has an expected value. Every pipeline has a bit-exact parity test against the established tool it replaces.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;You don’t have to trust me. Trust the checks. Run them yourself.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;the-invitation&quot;&gt;The Invitation&lt;&#x2F;h2&gt;
+&lt;p&gt;If you’re a clinician, a researcher, a pharmacologist, a microbiologist, an agronomist, or anyone who works with scientific data and is tired of paying rent on proprietary tools that own your results:&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Your data is ready. Come get it.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Code&lt;&#x2F;strong&gt;: &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;syntheticChemistry&quot;&gt;github.com&#x2F;syntheticChemistry&lt;&#x2F;a&gt; (all springs)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Infrastructure&lt;&#x2F;strong&gt;: &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ecoPrimals&quot;&gt;github.com&#x2F;ecoPrimals&lt;&#x2F;a&gt; (all primals)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Live site&lt;&#x2F;strong&gt;: &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;primals.eco&quot;&gt;primals.eco&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Contact&lt;&#x2F;strong&gt;: eco.primal@pm.me&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;License&lt;&#x2F;strong&gt;: AGPL-3.0 — free forever, share-alike&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;No sales call. No demo request. No trial period. No credit card.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;code&gt;git clone&lt;&#x2F;code&gt; and &lt;code&gt;cargo run&lt;&#x2F;code&gt;. That’s the onboarding.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;verify-everything&quot;&gt;Verify Everything&lt;&#x2F;h2&gt;
+&lt;p&gt;Every claim on this page links to runnable code:&lt;&#x2F;p&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Claim&lt;&#x2F;th&gt;&lt;th&gt;How to Verify&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;20,695+ validation checks&lt;&#x2F;td&gt;&lt;td&gt;&lt;code&gt;cargo test&lt;&#x2F;code&gt; in each spring — count them yourself&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;AlphaFold primitives at 1e-10&lt;&#x2F;td&gt;&lt;td&gt;&lt;code&gt;cargo run --release --bin validate_alphafold_primitives&lt;&#x2F;code&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;1,077× spectral cosine speedup&lt;&#x2F;td&gt;&lt;td&gt;&lt;code&gt;cargo run --release --bin bench_spectral_cosine&lt;&#x2F;code&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;NONMEM-equivalent PK&#x2F;PD&lt;&#x2F;td&gt;&lt;td&gt;&lt;code&gt;cargo run --release --bin validate_pkpd&lt;&#x2F;code&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;7,083 metagenomics checks&lt;&#x2F;td&gt;&lt;td&gt;&lt;code&gt;cargo test&lt;&#x2F;code&gt; in wetSpring&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;322× Rust-over-Python&lt;&#x2F;td&gt;&lt;td&gt;&lt;code&gt;cargo run --release --bin bench_kinetic_fluid&lt;&#x2F;code&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;175+ papers reproduced&lt;&#x2F;td&gt;&lt;td&gt;Each baseCamp paper lists its reference papers&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;p&gt;&lt;strong&gt;Don’t believe me. Verify me. That’s the point.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;The data is ready. The tools are free. The validation is done. The only thing missing is you.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>tuebor — Public Record Investigation - open-invitation</title>
+    <subtitle>Public evidence library documenting a Detroit charter school network. Convicted felons running schools. Judges with documented connections. $4.9M in public funding. Every fact cited from public records. Every document timestamped. Verify everything.</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://tuebor.primals.eco/tags/open-invitation/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://tuebor.primals.eco"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2026-10-15T00:00:00+00:00</updated>
+    <id>https://tuebor.primals.eco/tags/open-invitation/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Letters to the Ones Who Fight for Kids</title>
+        <published>2026-10-15T00:00:00+00:00</published>
+        <updated>2026-10-15T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://tuebor.primals.eco/analysis/letters-to-the-ones-who-fight/"/>
+        <id>https://tuebor.primals.eco/analysis/letters-to-the-ones-who-fight/</id>
+        
+        <content type="html" xml:base="https://tuebor.primals.eco/analysis/letters-to-the-ones-who-fight/">&lt;h2 id=&quot;we-see-you&quot;&gt;We See You&lt;&#x2F;h2&gt;
+&lt;p&gt;This is an open letter to the people who chose children.&lt;&#x2F;p&gt;
+&lt;p&gt;Not the ones who &lt;em&gt;say&lt;&#x2F;em&gt; they care about kids while extracting 72.67% of school revenue through shell LLCs. Not the ones who put a convicted felon in charge of 362 students scoring in the bottom 3% statewide.&lt;&#x2F;p&gt;
+&lt;p&gt;This letter is for the ones who actually showed up.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;dear-miss-rachel&quot;&gt;Dear Miss Rachel&lt;&#x2F;h2&gt;
+&lt;p&gt;Rachel Griffin Accurso — you taught millions of children to speak their first words. Not for a contract. Not for a management fee. You sat on the floor with a camera and sang, because children needed someone to sing to them.&lt;&#x2F;p&gt;
+&lt;p&gt;You have 10 million subscribers. That’s 10 million families who trust you with the most important thing they have.&lt;&#x2F;p&gt;
+&lt;p&gt;Detroit has charter schools where &lt;strong&gt;3% of students&lt;&#x2F;strong&gt; can do grade-level math. A man with &lt;strong&gt;9 criminal convictions&lt;&#x2F;strong&gt; runs them. A sitting judge chairs his board. The state gave him a second school.&lt;&#x2F;p&gt;
+&lt;p&gt;The children in those seats are the same age as the ones watching your videos. They deserve the same love. They deserve someone who shows up.&lt;&#x2F;p&gt;
+&lt;p&gt;Come look at the evidence: &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;detroit.primals.eco&quot;&gt;detroit.primals.eco&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;dear-steve&quot;&gt;Dear Steve&lt;&#x2F;h2&gt;
+&lt;p&gt;Steve Burns — you left Blue’s Clues because you were going bald, and twenty years later you came back to tell a generation: &lt;em&gt;“I never forgot you.”&lt;&#x2F;em&gt; That video made grown adults cry, because you meant it.&lt;&#x2F;p&gt;
+&lt;p&gt;You know what it feels like when an adult actually sees a child. Actually listens. Actually stays.&lt;&#x2F;p&gt;
+&lt;p&gt;Brian Banks told Detroit police he’s “an attorney.” He’s not. He has 9 convictions. He runs two schools. The children in those schools have no one fighting for them — not the authorizer, not the state, not the regulators who pointed at each other one day apart and both walked away.&lt;&#x2F;p&gt;
+&lt;p&gt;Steve, you found all the clues once. Here they are again: &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;detroit.primals.eco&#x2F;evidence&#x2F;&quot;&gt;detroit.primals.eco&#x2F;evidence&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;dear-levar&quot;&gt;Dear LeVar&lt;&#x2F;h2&gt;
+&lt;p&gt;LeVar Burton — &lt;em&gt;“You don’t have to take my word for it.”&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;That’s the whole philosophy of this investigation. Every claim resolves to a public record. Every document is BLAKE3-hashed. Every database is linked. We built the verification page because of you — because the standard you set on Reading Rainbow is the standard public evidence should meet.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Verify everything yourself:&lt;&#x2F;strong&gt; &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;detroit.primals.eco&#x2F;validate&#x2F;&quot;&gt;detroit.primals.eco&#x2F;validate&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Children who can’t read can’t verify. Children in Detroit’s captured charter schools are being denied the fundamental skill your entire life’s work was built to protect. 3% math proficiency. 10% reading. Bottom 3% statewide. $4.9 million in public money, every year.&lt;&#x2F;p&gt;
+&lt;p&gt;Butterfly in the sky — but not if someone clips the wings first.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;dear-sal&quot;&gt;Dear Sal&lt;&#x2F;h2&gt;
+&lt;p&gt;Sal Khan — you proved that world-class education can be free. Khan Academy serves 150 million students with no paywall, no extraction, no management LLC taking 72.67%.&lt;&#x2F;p&gt;
+&lt;p&gt;You are the proof that Brian Banks’ model is a choice, not a necessity. He &lt;em&gt;chose&lt;&#x2F;em&gt; extraction. You chose access.&lt;&#x2F;p&gt;
+&lt;p&gt;We’re building something called &lt;strong&gt;gAIa&lt;&#x2F;strong&gt; — AI-powered education infrastructure where every child gets a personal tutor, every lesson adapts, and the system belongs to the children, not to shareholders or convicted felons.&lt;&#x2F;p&gt;
+&lt;p&gt;Your work is the foundation. We want to build the next layer on top of it — and we want to start in Detroit, where the need is sharpest and the corruption is most documented.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Walk the case:&lt;&#x2F;strong&gt; &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;clutch.primals.eco&#x2F;cases&#x2F;detroit&#x2F;&quot;&gt;clutch.primals.eco&#x2F;cases&#x2F;detroit&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;dear-dolly&quot;&gt;Dear Dolly&lt;&#x2F;h2&gt;
+&lt;p&gt;Dolly Parton — the Imagination Library has mailed over &lt;strong&gt;200 million free books&lt;&#x2F;strong&gt; to children. You did this because your father couldn’t read, and you decided no child should grow up without books.&lt;&#x2F;p&gt;
+&lt;p&gt;Detroit’s charter schools are spending $15,217 per student. Three percent can do math. The money goes to a management company run by a man who defrauded a credit union, forged checks across four counties, and was forced to resign from the Michigan House of Representatives.&lt;&#x2F;p&gt;
+&lt;p&gt;Those children deserve books. They deserve Imagination Library. They deserve someone who builds systems that &lt;em&gt;give&lt;&#x2F;em&gt; instead of systems that &lt;em&gt;take&lt;&#x2F;em&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;See the money flow:&lt;&#x2F;strong&gt; &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;detroit.primals.eco&#x2F;&quot;&gt;detroit.primals.eco&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;dear-fred&quot;&gt;Dear Fred&lt;&#x2F;h2&gt;
+&lt;p&gt;Fred Rogers is gone. But the Neighborhood is still here, and so is his question: &lt;em&gt;“What do you do with the mad that you feel?”&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;This investigation is the answer. You don’t hit. You don’t hide. You document. You verify. You publish. You invite verification. You build infrastructure so the evidence can’t be destroyed. And you ask the helpers to come.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;“Look for the helpers.”&lt;&#x2F;em&gt; We’re looking. We’re writing this letter. Please come.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;the-invitation&quot;&gt;The Invitation&lt;&#x2F;h2&gt;
+&lt;p&gt;Every person named in this letter chose children over profit. Every one of them built something that gives freely. That’s why we’re writing.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;What we’re building:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;gAIa&lt;&#x2F;strong&gt; — AI-powered free education for every child, starting in Detroit&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;The Graph&lt;&#x2F;strong&gt; — 10,993 nodes of verified public evidence, open to inspection&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;The Membrane&lt;&#x2F;strong&gt; — detroit.primals.eco, a living evidence library anyone can clone&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Free infrastructure&lt;&#x2F;strong&gt; — git-signed, cryptographically timestamped, self-healing&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;strong&gt;What we need:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Eyes on the evidence&lt;&#x2F;li&gt;
+&lt;li&gt;Voices for the children&lt;&#x2F;li&gt;
+&lt;li&gt;Anyone willing to say: &lt;em&gt;this is wrong, and here’s the proof&lt;&#x2F;em&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;strong&gt;What we don’t need:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Money. The infrastructure runs on $10&#x2F;month.&lt;&#x2F;li&gt;
+&lt;li&gt;Permission. It’s all public records.&lt;&#x2F;li&gt;
+&lt;li&gt;Secrets. There are none. Only privacy.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;the-standard&quot;&gt;The Standard&lt;&#x2F;h2&gt;
+&lt;p&gt;One child-year = 8,760 hours of irreplaceable human life.&lt;&#x2F;p&gt;
+&lt;p&gt;Brian Banks’ schools have consumed thousands of child-years at 3% math proficiency. That time is gone. Those children can never get those years back.&lt;&#x2F;p&gt;
+&lt;p&gt;But we can stop the bleeding. We can make sure the next generation gets &lt;strong&gt;gAIa instead of extraction&lt;&#x2F;strong&gt;. Free education, free verification, free access to every tool that used to cost more than a family could afford.&lt;&#x2F;p&gt;
+&lt;p&gt;Miss Rachel, Steve, LeVar, Sal, Dolly — you already proved it works. You proved that one person with a camera, a chalkboard, a book, or a guitar can change millions of lives.&lt;&#x2F;p&gt;
+&lt;p&gt;Detroit’s children are waiting. The evidence is ready. The membrane is open.&lt;&#x2F;p&gt;
+&lt;p&gt;Come sing. Come read. Come teach. Come verify.&lt;&#x2F;p&gt;
+&lt;p&gt;We see you fighting for kids. Now come fight with us.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;&lt;em&gt;Clone the evidence: &lt;code&gt;git clone https:&#x2F;&#x2F;git.primals.eco&#x2F;publicRecord&#x2F;detroit.git&lt;&#x2F;code&gt;&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;Walk the case: &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;clutch.primals.eco&#x2F;cases&#x2F;detroit&#x2F;&quot;&gt;clutch.primals.eco&#x2F;cases&#x2F;detroit&lt;&#x2F;a&gt;&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;Verify everything: &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;detroit.primals.eco&#x2F;validate&#x2F;&quot;&gt;detroit.primals.eco&#x2F;validate&lt;&#x2F;a&gt;&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

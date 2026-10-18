@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>tuebor — Public Record Investigation - RustDesk</title>
+    <subtitle>Public evidence library documenting a Detroit charter school network. Convicted felons running schools. Judges with documented connections. $4.9M in public funding. Every fact cited from public records. Every document timestamped. Verify everything.</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://tuebor.primals.eco/entities/rustdesk/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://tuebor.primals.eco"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2026-10-18T00:00:00+00:00</updated>
+    <id>https://tuebor.primals.eco/entities/rustdesk/atom.xml</id>
+    <entry xml:lang="en">
+        <title>The Desk in the Mountains — How a Phone on Satellite Sees Inside the Membrane</title>
+        <published>2026-10-18T00:00:00+00:00</published>
+        <updated>2026-10-18T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://tuebor.primals.eco/analysis/the-desk-in-the-mountains/"/>
+        <id>https://tuebor.primals.eco/analysis/the-desk-in-the-mountains/</id>
+        
+        <content type="html" xml:base="https://tuebor.primals.eco/analysis/the-desk-in-the-mountains/">&lt;h2 id=&quot;the-setup&quot;&gt;The Setup&lt;&#x2F;h2&gt;
+&lt;p&gt;You’re in the mountains. No cell towers. Your phone has a satellite uplink — Starlink, maybe, or a handheld Iridium relay. Bandwidth is thin. Latency is real.&lt;&#x2F;p&gt;
+&lt;p&gt;600 miles away, a 2GB VPS runs the membrane relay. It has:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;5 services&lt;&#x2F;strong&gt; running on 1GB of RAM&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;WireGuard mesh&lt;&#x2F;strong&gt; with 3 peers alive&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;RustDesk signal + relay&lt;&#x2F;strong&gt; on 4 ports&lt;&#x2F;li&gt;
+&lt;li&gt;A &lt;strong&gt;JSON heartbeat&lt;&#x2F;strong&gt; that updates every 5 minutes&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Your phone connects through the satellite to the relay. The relay connects you to the membrane. You see inside it. You add data. You leave.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;That’s the desk.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;what-s-running-right-now&quot;&gt;What’s Running Right Now&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;the-relay-golgi&quot;&gt;The Relay (golgi)&lt;&#x2F;h3&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Service&lt;&#x2F;th&gt;&lt;th&gt;Port&lt;&#x2F;th&gt;&lt;th&gt;What It Does&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;hbbs&lt;&#x2F;strong&gt; (signal)&lt;&#x2F;td&gt;&lt;td&gt;21115, 21116, 21118&lt;&#x2F;td&gt;&lt;td&gt;NAT traversal, peer discovery, ID registration&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;hbbr&lt;&#x2F;strong&gt; (relay)&lt;&#x2F;td&gt;&lt;td&gt;21117&lt;&#x2F;td&gt;&lt;td&gt;Encrypted relay when direct connection fails&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;caddy&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;443&lt;&#x2F;td&gt;&lt;td&gt;TLS termination, JSON feeds, site serving&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;skunky-ingest&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;—&lt;&#x2F;td&gt;&lt;td&gt;Access log immune system, bloom filter, dashboard&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;opsonize&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;—&lt;&#x2F;td&gt;&lt;td&gt;Entity classification, self&#x2F;non-self boundary&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;p&gt;RustDesk is &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;rustdesk&#x2F;rustdesk&quot;&gt;AGPL-3.0 licensed&lt;&#x2F;a&gt;. We run it. We credit it. We don’t fork it. We don’t hide it.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;the-mesh&quot;&gt;The Mesh&lt;&#x2F;h3&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Peer&lt;&#x2F;th&gt;&lt;th&gt;IP&lt;&#x2F;th&gt;&lt;th&gt;Direction&lt;&#x2F;th&gt;&lt;th&gt;Transfer&lt;&#x2F;th&gt;&lt;th&gt;Role&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;eastGate&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;10.13.37.5&lt;&#x2F;td&gt;&lt;td&gt;↓ in: 16.2 GiB, ↑ out: 712 MiB&lt;&#x2F;td&gt;&lt;td&gt;Publisher, development&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;sporeGate&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;10.13.37.2&lt;&#x2F;td&gt;&lt;td&gt;↓ in: 21 KiB, ↑ out: 19 KiB&lt;&#x2F;td&gt;&lt;td&gt;LAN observer, 27 GB RAM&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;golgiLayer&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;10.13.37.14&lt;&#x2F;td&gt;&lt;td&gt;↓ in: 2.4 MiB, ↑ out: 10.6 MiB&lt;&#x2F;td&gt;&lt;td&gt;Cloud layer, census&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;nucleus&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;10.13.37.16&lt;&#x2F;td&gt;&lt;td&gt;↓ in: 31.5 MiB, ↑ out: 2.9 GiB&lt;&#x2F;td&gt;&lt;td&gt;Compute, replication&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;p&gt;Every 5 minutes, each node writes a &lt;strong&gt;membrane pulse&lt;&#x2F;strong&gt; — a JSON heartbeat showing:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Which peers are alive&lt;&#x2F;li&gt;
+&lt;li&gt;How much data flowed in each direction&lt;&#x2F;li&gt;
+&lt;li&gt;How many desk clients are registered&lt;&#x2F;li&gt;
+&lt;li&gt;How many services are up&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;The pulse is served at &lt;code&gt;hud.primals.eco&#x2F;membrane-pulse.json&lt;&#x2F;code&gt;. Anyone can read it.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;the-address-book&quot;&gt;The Address Book&lt;&#x2F;h3&gt;
+&lt;p&gt;8 gates are registered in the desk:&lt;&#x2F;p&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Gate&lt;&#x2F;th&gt;&lt;th&gt;What It Is&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;strandgate&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;Strand — the thread&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;flockgate&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;Flock — the group&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;southgate&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;South — the direction&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;kingate&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;Kin — the family&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;westgate&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;West — the frontier&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;biomegate&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;Biome — the ecosystem&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;em&gt;(windows desktop)&lt;&#x2F;em&gt;&lt;&#x2F;td&gt;&lt;td&gt;A Windows machine on the LAN&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;em&gt;(unknown)&lt;&#x2F;em&gt;&lt;&#x2F;td&gt;&lt;td&gt;Unidentified peer&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;p&gt;Each gate is a machine. Each machine is a membrane. Each membrane pulses.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;how-a-phone-connects&quot;&gt;How a Phone Connects&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;step-1-install-rustdesk&quot;&gt;Step 1: Install RustDesk&lt;&#x2F;h3&gt;
+&lt;p&gt;RustDesk is free, open-source, and runs on Android, iOS, Windows, Mac, and Linux. Download it from &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;rustdesk.com&quot;&gt;rustdesk.com&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;step-2-point-to-the-relay&quot;&gt;Step 2: Point to the Relay&lt;&#x2F;h3&gt;
+&lt;p&gt;In RustDesk settings:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;ID&#x2F;Relay Server&lt;&#x2F;strong&gt;: &lt;code&gt;relay.primals.eco&lt;&#x2F;code&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Key&lt;&#x2F;strong&gt;: &lt;code&gt;Ygtk9BwVFaba1eGiwuVOIgj0N+B6uJC3ZYQkq4VpkSo=&lt;&#x2F;code&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;That’s it. Your phone now talks to the membrane relay instead of RustDesk’s public servers. The relay runs on golgi — the same 2GB VPS that runs everything else.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;step-3-see-inside&quot;&gt;Step 3: See Inside&lt;&#x2F;h3&gt;
+&lt;p&gt;Once connected, you can:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;See the desk&lt;&#x2F;strong&gt; of any gate that grants you access&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Add data&lt;&#x2F;strong&gt; — files, observations, notes&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Read the pulse&lt;&#x2F;strong&gt; — &lt;code&gt;hud.primals.eco&#x2F;membrane-pulse.json&lt;&#x2F;code&gt; works in any browser&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Talk to chipmunk&lt;&#x2F;strong&gt; — &lt;code&gt;hud.primals.eco&#x2F;neutron&#x2F;core.html&lt;&#x2F;code&gt; is a live visualization&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;step-4-leave&quot;&gt;Step 4: Leave&lt;&#x2F;h3&gt;
+&lt;p&gt;Close the app. The satellite link drops. The data you added is already inside the membrane. The pulse keeps going without you.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;ask-for-a-desk&quot;&gt;Ask for a Desk&lt;&#x2F;h2&gt;
+&lt;p&gt;Want to see inside the membrane? Want to add data from wherever you are?&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;You ask.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;That’s the consent architecture. The relay is running. The signal server is listening. The address book exists. But access requires a human saying yes.&lt;&#x2F;p&gt;
+&lt;p&gt;To request membrane desk access:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Email&lt;&#x2F;strong&gt;: [the contact on the site]&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Signal&lt;&#x2F;strong&gt;: if you have it, use it&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;In person&lt;&#x2F;strong&gt;: if you’re in Michigan, find us&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;What you get:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;A &lt;strong&gt;RustDesk ID&lt;&#x2F;strong&gt; registered in the membrane relay&lt;&#x2F;li&gt;
+&lt;li&gt;Access to the &lt;strong&gt;desk&lt;&#x2F;strong&gt; of the gate you’re invited to&lt;&#x2F;li&gt;
+&lt;li&gt;Your own &lt;strong&gt;membrane pulse&lt;&#x2F;strong&gt; — your machine becomes a node&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;What you don’t get:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Root access to anything&lt;&#x2F;li&gt;
+&lt;li&gt;Unmonitored connections&lt;&#x2F;li&gt;
+&lt;li&gt;Data without consent&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;why-this-matters&quot;&gt;Why This Matters&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;the-satellite-case&quot;&gt;The Satellite Case&lt;&#x2F;h3&gt;
+&lt;p&gt;A researcher in the Upper Peninsula. A journalist in the Keweenaw. A volunteer monitoring water quality from a boat on Lake Superior. A lawyer reviewing documents from a cabin with no cell service.&lt;&#x2F;p&gt;
+&lt;p&gt;All of them have the same problem: &lt;strong&gt;how do I contribute data to a shared system when my only connection is a satellite feed?&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;The answer used to be: you can’t. You drive to town. You find wifi. You upload.&lt;&#x2F;p&gt;
+&lt;p&gt;Now: you open RustDesk. It connects through the satellite to the relay. The relay is a $12&#x2F;month VPS with 2GB of RAM. NAT traversal handles the rest. You see the desk. You add data. You close the app.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;The membrane doesn’t need broadband. It needs a packet.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;the-commensal-model&quot;&gt;The Commensal Model&lt;&#x2F;h3&gt;
+&lt;p&gt;In biology, a &lt;strong&gt;commensal&lt;&#x2F;strong&gt; is an organism that benefits from another without harming it. The membrane has 23 commensals right now — organisms that live on the surface, consume resources, and contribute to the ecosystem.&lt;&#x2F;p&gt;
+&lt;p&gt;When your phone connects through the relay, you become a commensal. You use bandwidth. You add data. The membrane gets richer. You get access. Neither of you is harmed.&lt;&#x2F;p&gt;
+&lt;p&gt;This is different from parasitism (taking without giving) and mutualism (formal symbiosis with obligations). Commensalism is informal. You show up. You contribute. You leave. The membrane is better for it.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;the-credit&quot;&gt;The Credit&lt;&#x2F;h3&gt;
+&lt;p&gt;RustDesk is licensed under &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;rustdesk&#x2F;rustdesk&quot;&gt;AGPL-3.0&lt;&#x2F;a&gt;. We run their signal server (hbbs v1.1.16) and relay server (hbbr) unmodified. We don’t fork. We don’t rebrand. We point to their repo. We run their code. We credit them.&lt;&#x2F;p&gt;
+&lt;p&gt;The desk in the membrane IS RustDesk. The membrane just gives it a purpose: &lt;strong&gt;sovereign relay for a living system, not a corporate service.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;the-pulse&quot;&gt;The Pulse&lt;&#x2F;h2&gt;
+&lt;p&gt;Every 5 minutes, the membrane writes its heartbeat:&lt;&#x2F;p&gt;
+&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;json&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;{&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-support&quot;&gt;  &amp;quot;host&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;:&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-definition z-string z-string&quot;&gt; &amp;quot;membrane-relay&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;,&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-support&quot;&gt;  &amp;quot;services_up&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;:&lt;&#x2F;span&gt;&lt;span class=&quot;z-constant&quot;&gt; 5&lt;&#x2F;span&gt;&lt;span&gt;,&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-support&quot;&gt;  &amp;quot;rustdesk&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;:&lt;&#x2F;span&gt;&lt;span class=&quot;z-constant&quot;&gt; true&lt;&#x2F;span&gt;&lt;span&gt;,&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-support&quot;&gt;  &amp;quot;peers&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;: [&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    {&lt;&#x2F;span&gt;&lt;span class=&quot;z-support&quot;&gt;&amp;quot;name&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;:&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-definition z-string z-string&quot;&gt; &amp;quot;eastGate&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;,&lt;&#x2F;span&gt;&lt;span class=&quot;z-support&quot;&gt; &amp;quot;in&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;:&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-definition z-string z-string&quot;&gt; &amp;quot;16.2 GiB&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;,&lt;&#x2F;span&gt;&lt;span class=&quot;z-support&quot;&gt; &amp;quot;out&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;:&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-definition z-string z-string&quot;&gt; &amp;quot;712 MiB&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;,&lt;&#x2F;span&gt;&lt;span class=&quot;z-support&quot;&gt; &amp;quot;alive&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;:&lt;&#x2F;span&gt;&lt;span class=&quot;z-constant&quot;&gt; true&lt;&#x2F;span&gt;&lt;span&gt;},&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    {&lt;&#x2F;span&gt;&lt;span class=&quot;z-support&quot;&gt;&amp;quot;name&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;:&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-definition z-string z-string&quot;&gt; &amp;quot;golgiLayer&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;,&lt;&#x2F;span&gt;&lt;span class=&quot;z-support&quot;&gt; &amp;quot;in&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;:&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-definition z-string z-string&quot;&gt; &amp;quot;2.4 MiB&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;,&lt;&#x2F;span&gt;&lt;span class=&quot;z-support&quot;&gt; &amp;quot;out&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;:&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-definition z-string z-string&quot;&gt; &amp;quot;10.6 MiB&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;,&lt;&#x2F;span&gt;&lt;span class=&quot;z-support&quot;&gt; &amp;quot;alive&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;:&lt;&#x2F;span&gt;&lt;span class=&quot;z-constant&quot;&gt; true&lt;&#x2F;span&gt;&lt;span&gt;},&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    {&lt;&#x2F;span&gt;&lt;span class=&quot;z-support&quot;&gt;&amp;quot;name&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;:&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-definition z-string z-string&quot;&gt; &amp;quot;nucleus&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;,&lt;&#x2F;span&gt;&lt;span class=&quot;z-support&quot;&gt; &amp;quot;in&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;:&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-definition z-string z-string&quot;&gt; &amp;quot;31.5 MiB&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;,&lt;&#x2F;span&gt;&lt;span class=&quot;z-support&quot;&gt; &amp;quot;out&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;:&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-definition z-string z-string&quot;&gt; &amp;quot;2.9 GiB&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;,&lt;&#x2F;span&gt;&lt;span class=&quot;z-support&quot;&gt; &amp;quot;alive&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;:&lt;&#x2F;span&gt;&lt;span class=&quot;z-constant&quot;&gt; true&lt;&#x2F;span&gt;&lt;span&gt;}&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;  ],&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-support&quot;&gt;  &amp;quot;desk_count&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;:&lt;&#x2F;span&gt;&lt;span class=&quot;z-constant&quot;&gt; 4&lt;&#x2F;span&gt;&lt;span&gt;,&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-support&quot;&gt;  &amp;quot;credit&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;: {&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-support&quot;&gt;    &amp;quot;rustdesk&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;:&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-definition z-string z-string&quot;&gt; &amp;quot;RustDesk (AGPL-3.0) sovereign remote desk, relay, NAT traversal, address book&amp;quot;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;  }&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;}&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;&lt;strong&gt;In and out. Out and in. Per membrane.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;When you connect from the mountains, your pulse joins this feed. Your phone becomes a membrane. The satellite becomes a synapse.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;message-passing&quot;&gt;Message Passing&lt;&#x2F;h3&gt;
+&lt;p&gt;Gates talk through the relay. Any gate can send a message to any other gate:&lt;&#x2F;p&gt;
+&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;POST https:&#x2F;&#x2F;hud.primals.eco&#x2F;api&#x2F;gate-msg&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;{&amp;quot;from&amp;quot;: &amp;quot;northGate&amp;quot;, &amp;quot;to&amp;quot;: &amp;quot;sporeGate&amp;quot;, &amp;quot;body&amp;quot;: &amp;quot;fix wg0 and pull&amp;quot;}&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;Any gate can read its messages:&lt;&#x2F;p&gt;
+&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;GET https:&#x2F;&#x2F;hud.primals.eco&#x2F;api&#x2F;gate-msg?gate=northGate&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;This works from a phone. This works from satellite. This works from anywhere with HTTPS.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;northGate → golgi relay → sporeGate.&lt;&#x2F;strong&gt; Message passing through the membrane.&lt;&#x2F;p&gt;
+&lt;p&gt;The desk is open. Ask for it.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

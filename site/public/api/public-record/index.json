@@ -1,0 +1,84 @@
+{
+  "name": "Detroit Public Record API",
+  "description": "Machine-readable discovery index for detroit.primals.eco — a public evidence library documenting racketeering in Detroit charter schools. No cookies. No tracking. No PII.",
+  "base_url": "https://detroit.primals.eco",
+  "generated_utc": "2026-10-06T19:08:00Z",
+  "constraints": {
+    "no_pii": true,
+    "no_ip_addresses": true,
+    "no_cookies": true,
+    "no_tracking": true,
+    "timezone_display": "America/Detroit"
+  },
+  "resources": [
+    {
+      "id": "timeline",
+      "title": "Investigation Timeline",
+      "path": "/api/public-record/timeline.json",
+      "alternate_path": "/api/public-record/timeline",
+      "description": "Chronological events: actor history, evidence documentation, investigation filings, and infrastructure defense. Categories: actor, evidence, investigation, defense.",
+      "format": "application/json",
+      "schema": {
+        "root": "timeline",
+        "entry_fields": ["date", "time_et", "category", "title", "description", "url"]
+      }
+    },
+    {
+      "id": "network",
+      "title": "Enterprise Network Graph",
+      "path": "/graph.json",
+      "alternate_path": "/api/public-record/network",
+      "description": "Nodes and typed edges for the Banks enterprise network. CSV export at /graph.csv.",
+      "format": "application/json"
+    },
+    {
+      "id": "site",
+      "title": "Site Map API",
+      "path": "/api/site.json",
+      "description": "Full section and page index with epistemic grammar claim levels for bots and agents.",
+      "format": "application/json"
+    },
+    {
+      "id": "content_manifest",
+      "title": "Content Integrity Manifest",
+      "path": "/content-manifest.toml",
+      "description": "BLAKE3 hashes for every content page — tamper detection.",
+      "format": "text/plain"
+    },
+    {
+      "id": "llms_index",
+      "title": "LLMs Index",
+      "path": "/llms.txt",
+      "description": "Concise site index for AI systems.",
+      "format": "text/plain"
+    },
+    {
+      "id": "llms_full",
+      "title": "LLMs Full Content",
+      "path": "/llms-full.txt",
+      "description": "Complete text export of all public pages.",
+      "format": "text/plain"
+    },
+    {
+      "id": "identity",
+      "title": "Site Identity",
+      "path": "/identity.json",
+      "description": "Publisher identity and contact channels for this public record.",
+      "format": "application/json"
+    },
+    {
+      "id": "signal",
+      "title": "Signal Sensing (Human Page)",
+      "path": "/signal/",
+      "description": "Cookieless propagation measurement — who is reading the evidence. Aggregated data also in /js/signal-data.js.",
+      "format": "text/html"
+    }
+  ],
+  "human_pages": {
+    "timeline": "/timeline/",
+    "evidence": "/evidence/",
+    "network": "/network/",
+    "analysis": "/analysis/",
+    "coverage": "/coverage/"
+  }
+}

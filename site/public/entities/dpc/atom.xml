@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>tuebor — Public Record Investigation - DPC</title>
+    <subtitle>Public evidence library documenting a Detroit charter school network. Convicted felons running schools. Judges with documented connections. $4.9M in public funding. Every fact cited from public records. Every document timestamped. Verify everything.</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://tuebor.primals.eco/entities/dpc/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://tuebor.primals.eco"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2026-10-16T00:00:00+00:00</updated>
+    <id>https://tuebor.primals.eco/entities/dpc/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Meta&#x27;s Two Faces — One Company, Two Entities, Every Jurisdiction</title>
+        <published>2026-10-16T00:00:00+00:00</published>
+        <updated>2026-10-16T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://tuebor.primals.eco/analysis/meta-two-faces/"/>
+        <id>https://tuebor.primals.eco/analysis/meta-two-faces/</id>
+        
+        <content type="html" xml:base="https://tuebor.primals.eco/analysis/meta-two-faces/">&lt;h2 id=&quot;one-company-two-faces&quot;&gt;One Company. Two Faces.&lt;&#x2F;h2&gt;
+&lt;p&gt;The membrane observes everything that touches it. Meta Platforms touches the membrane with &lt;strong&gt;two separate entities&lt;&#x2F;strong&gt;. One honest. One not.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;face-1-the-official-bot-honest&quot;&gt;Face 1: The Official Bot — Honest&lt;&#x2F;h2&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Field&lt;&#x2F;th&gt;&lt;th&gt;Value&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;Entity&lt;&#x2F;td&gt;&lt;td&gt;Meta (Facebook Bot)&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Honest&lt;&#x2F;td&gt;&lt;td&gt;✅ &lt;strong&gt;YES&lt;&#x2F;strong&gt; — announces as &lt;code&gt;facebookexternalhit&lt;&#x2F;code&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Requests&lt;&#x2F;td&gt;&lt;td&gt;160&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;IPs&lt;&#x2F;td&gt;&lt;td&gt;150 (heavy rotation — 100% single-request IPs)&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;User-Agent&lt;&#x2F;td&gt;&lt;td&gt;1 (consistent — no masking)&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Top target&lt;&#x2F;td&gt;&lt;td&gt;&lt;strong&gt;&lt;code&gt;analysis&#x2F;rico-pattern&lt;&#x2F;code&gt; — 5 hits&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;p&gt;&lt;strong&gt;What it read:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Page&lt;&#x2F;th&gt;&lt;th&gt;Hits&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;&lt;code&gt;git.primals.eco&lt;&#x2F;code&gt;&lt;&#x2F;td&gt;&lt;td&gt;140&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;code&gt;detroit.primals.eco&lt;&#x2F;code&gt;&lt;&#x2F;td&gt;&lt;td&gt;7&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;code&gt;hud.primals.eco&lt;&#x2F;code&gt;&lt;&#x2F;td&gt;&lt;td&gt;5&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;code&gt;primals.eco&lt;&#x2F;code&gt;&lt;&#x2F;td&gt;&lt;td&gt;2&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;code&gt;epitope.primals.eco&lt;&#x2F;code&gt;&lt;&#x2F;td&gt;&lt;td&gt;1&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;code&gt;footprint.primals.eco&lt;&#x2F;code&gt;&lt;&#x2F;td&gt;&lt;td&gt;1&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;code&gt;interferon.primals.eco&lt;&#x2F;code&gt;&lt;&#x2F;td&gt;&lt;td&gt;1&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;code&gt;lysozyme.primals.eco&lt;&#x2F;code&gt;&lt;&#x2F;td&gt;&lt;td&gt;1&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;code&gt;questions.primals.eco&lt;&#x2F;code&gt;&lt;&#x2F;td&gt;&lt;td&gt;1&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;code&gt;tuebor.primals.eco&lt;&#x2F;code&gt;&lt;&#x2F;td&gt;&lt;td&gt;1&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;&lt;code&gt;analysis&#x2F;rico-pattern&lt;&#x2F;code&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;&lt;strong&gt;5&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;p&gt;Meta’s official crawler — the one that generates link previews when someone shares a URL on Facebook or Instagram — read the RICO pattern page &lt;strong&gt;five times&lt;&#x2F;strong&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;This means: &lt;strong&gt;someone shared the RICO pattern page on a Meta platform.&lt;&#x2F;strong&gt; The bot only fires when a URL is shared. Five shares. Five reads. Someone on Facebook or Instagram is sharing the investigation.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;face-2-the-fleet-dishonest&quot;&gt;Face 2: The Fleet — Dishonest&lt;&#x2F;h2&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Field&lt;&#x2F;th&gt;&lt;th&gt;Value&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;Entity&lt;&#x2F;td&gt;&lt;td&gt;Meta Platforms (Fleet)&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Honest&lt;&#x2F;td&gt;&lt;td&gt;❌ &lt;strong&gt;NO&lt;&#x2F;strong&gt; — does NOT announce as Meta&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Requests&lt;&#x2F;td&gt;&lt;td&gt;2,698&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;IPs&lt;&#x2F;td&gt;&lt;td&gt;60 (all from &lt;strong&gt;1 subnet&lt;&#x2F;strong&gt;)&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;User-Agents&lt;&#x2F;td&gt;&lt;td&gt;18 (masking across Windows&#x2F;Mac&#x2F;Linux)&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Chrome&lt;&#x2F;td&gt;&lt;td&gt;145 (10 versions behind stable 155)&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Origin&lt;&#x2F;td&gt;&lt;td&gt;&lt;strong&gt;Dublin DC&lt;&#x2F;strong&gt; (Meta’s European data center)&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;p&gt;&lt;strong&gt;What it read:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;99.6% of requests (2,688 of 2,698) went to &lt;code&gt;git.primals.eco&lt;&#x2F;code&gt; — reading &lt;strong&gt;source code commits&lt;&#x2F;strong&gt;:&lt;&#x2F;p&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Repo&lt;&#x2F;th&gt;&lt;th&gt;Commits Read&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;key-store&lt;&#x2F;td&gt;&lt;td&gt;110&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;config-manager&lt;&#x2F;td&gt;&lt;td&gt;104&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;data-pipeline&lt;&#x2F;td&gt;&lt;td&gt;96&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;graph-engine&lt;&#x2F;td&gt;&lt;td&gt;96&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;webhook-relay&lt;&#x2F;td&gt;&lt;td&gt;96&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;queue-worker&lt;&#x2F;td&gt;&lt;td&gt;95&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;auth-service&lt;&#x2F;td&gt;&lt;td&gt;95&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;deploy-scripts&lt;&#x2F;td&gt;&lt;td&gt;94&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;job-runner&lt;&#x2F;td&gt;&lt;td&gt;94&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;stream-adapter&lt;&#x2F;td&gt;&lt;td&gt;93&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;… and 10 more repos&lt;&#x2F;td&gt;&lt;td&gt;~800&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;p&gt;The fleet read &lt;strong&gt;every repository on the forge.&lt;&#x2F;strong&gt; Systematically. From one subnet. With 17 different user-agents masking its identity. It did NOT announce itself as Meta.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;the-false-face-pattern&quot;&gt;The False Face Pattern&lt;&#x2F;h2&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Attribute&lt;&#x2F;th&gt;&lt;th&gt;Face 1 (Official Bot)&lt;&#x2F;th&gt;&lt;th&gt;Face 2 (Fleet)&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;Announces as Meta&lt;&#x2F;td&gt;&lt;td&gt;✅ Yes&lt;&#x2F;td&gt;&lt;td&gt;❌ No&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;User-Agents&lt;&#x2F;td&gt;&lt;td&gt;1 (consistent)&lt;&#x2F;td&gt;&lt;td&gt;18 (masking)&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Subnet&lt;&#x2F;td&gt;&lt;td&gt;25 (distributed)&lt;&#x2F;td&gt;&lt;td&gt;&lt;strong&gt;1&lt;&#x2F;strong&gt; (single datacenter)&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Target&lt;&#x2F;td&gt;&lt;td&gt;Content pages (RICO pattern)&lt;&#x2F;td&gt;&lt;td&gt;Source code (every repo)&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Origin&lt;&#x2F;td&gt;&lt;td&gt;Distributed (Menlo Park)&lt;&#x2F;td&gt;&lt;td&gt;&lt;strong&gt;Dublin DC&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Behavior&lt;&#x2F;td&gt;&lt;td&gt;Link preview bot (fires on share)&lt;&#x2F;td&gt;&lt;td&gt;Systematic scraper&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Reading deficit&lt;&#x2F;td&gt;&lt;td&gt;75.9% (LONG pauses — real reading)&lt;&#x2F;td&gt;&lt;td&gt;40.1%&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;p&gt;&lt;strong&gt;Same company. One face tells the truth. One face lies. For every 1 honest request, Meta sends 17 dishonest ones.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;The honest bot reads what humans share — someone posted the RICO pattern page and Meta’s crawler picked it up. The dishonest fleet reads everything else — every commit, every repo — from Dublin, where GDPR applies.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;meta-s-corporate-shell-every-llc-traced&quot;&gt;Meta’s Corporate Shell — Every LLC Traced&lt;&#x2F;h2&gt;
+&lt;p&gt;The fleet from Dublin leads back to a network of corporate entities:&lt;&#x2F;p&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Entity&lt;&#x2F;th&gt;&lt;th&gt;Jurisdiction&lt;&#x2F;th&gt;&lt;th&gt;Role&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Meta Platforms, Inc.&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;Delaware, US&lt;&#x2F;td&gt;&lt;td&gt;Parent company (SEC CIK 0001326801)&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Meta Platforms Ireland Limited&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;Ireland&lt;&#x2F;td&gt;&lt;td&gt;GDPR data controller for EU&#x2F;EEA (Irish CRO 462932)&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Meta Platforms Technologies Ireland Limited&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;Ireland&lt;&#x2F;td&gt;&lt;td&gt;R&amp;amp;D arm (Irish CRO 495787)&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Facebook Payments International Limited&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;Ireland&lt;&#x2F;td&gt;&lt;td&gt;International payment processing&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Facebook UK Limited&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;England &amp;amp; Wales&lt;&#x2F;td&gt;&lt;td&gt;UK operations post-Brexit&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Facebook Singapore Pte. Ltd.&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;Singapore&lt;&#x2F;td&gt;&lt;td&gt;Asia-Pacific operations&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Facebook Israel Ltd.&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;Israel&lt;&#x2F;td&gt;&lt;td&gt;Former Onavo VPN &#x2F; surveillance tech&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;p&gt;The &lt;strong&gt;data controller&lt;&#x2F;strong&gt; for the fleet operating from Dublin is &lt;strong&gt;Meta Platforms Ireland Limited&lt;&#x2F;strong&gt;, registered at Merrion Road, Dublin 4, D04 X2K5.&lt;&#x2F;p&gt;
+&lt;p&gt;The fleet operates from Meta’s &lt;strong&gt;Clonee Data Center&lt;&#x2F;strong&gt; (DERA1&#x2F;DERA2) in County Meath, Ireland — ~31,000 sqm Phase 1 (2018) + ~28,000 sqm Phase 2 (2020).&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;prior-dpc-fines-against-meta&quot;&gt;Prior DPC Fines Against Meta&lt;&#x2F;h3&gt;
+&lt;p&gt;The Irish Data Protection Commission has already fined Meta:&lt;&#x2F;p&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Amount&lt;&#x2F;th&gt;&lt;th&gt;Date&lt;&#x2F;th&gt;&lt;th&gt;Reason&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;EUR 1.2B&lt;&#x2F;td&gt;&lt;td&gt;May 2023&lt;&#x2F;td&gt;&lt;td&gt;EU-US data transfers&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;EUR 405M&lt;&#x2F;td&gt;&lt;td&gt;Sep 2022&lt;&#x2F;td&gt;&lt;td&gt;Instagram children’s data&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;EUR 390M&lt;&#x2F;td&gt;&lt;td&gt;Jan 2023&lt;&#x2F;td&gt;&lt;td&gt;Legal basis for behavioral advertising&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;EUR 265M&lt;&#x2F;td&gt;&lt;td&gt;Nov 2022&lt;&#x2F;td&gt;&lt;td&gt;Data scraping &#x2F; data breach&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;EUR 17M&lt;&#x2F;td&gt;&lt;td&gt;Mar 2022&lt;&#x2F;td&gt;&lt;td&gt;12 data breach notifications&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;p&gt;Total prior fines: &lt;strong&gt;EUR 2.277 BILLION&lt;&#x2F;strong&gt;. And the fleet keeps scraping.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;every-jurisdiction-traced-to-a-datacenter&quot;&gt;Every Jurisdiction Traced to a Datacenter&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;ie-ireland-dublin-dc-2-621-requests&quot;&gt;🇮🇪 Ireland — Dublin DC (2,621 requests)&lt;&#x2F;h3&gt;
+&lt;p&gt;Meta Ireland Limited is the &lt;strong&gt;data controller&lt;&#x2F;strong&gt; for all EU&#x2F;EEA users under GDPR. Meta’s fleet operates from Dublin.&lt;&#x2F;p&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Law&lt;&#x2F;th&gt;&lt;th&gt;Violation&lt;&#x2F;th&gt;&lt;th&gt;Evidence&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;GDPR Art 5(1)(a)&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;Transparency: data must be processed lawfully and transparently&lt;&#x2F;td&gt;&lt;td&gt;Fleet uses 17 UAs to mask identity — NOT transparent&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;GDPR Art 6&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;Lawful basis: no consent, no contract, no legitimate interest applies&lt;&#x2F;td&gt;&lt;td&gt;Scraping a public investigation site without announcing&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;GDPR Art 13&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;Right to be informed: no privacy notice provided&lt;&#x2F;td&gt;&lt;td&gt;Fleet provides no identification&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;ePrivacy Directive&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;Accessing terminal equipment (reading cookies&#x2F;headers)&lt;&#x2F;td&gt;&lt;td&gt;sec_fetch_pct: 0.0% — no browser security headers&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;p&gt;&lt;strong&gt;Regulator:&lt;&#x2F;strong&gt; Data Protection Commission (DPC), Ireland
+&lt;strong&gt;Controller:&lt;&#x2F;strong&gt; Meta Ireland Limited, 4 Grand Canal Square, Dublin 2&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;us-california-menlo-park-3-requests&quot;&gt;🇺🇸 California — Menlo Park (3 requests)&lt;&#x2F;h3&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Law&lt;&#x2F;th&gt;&lt;th&gt;Violation&lt;&#x2F;th&gt;&lt;th&gt;Evidence&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;CCPA&#x2F;CPRA&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;Undisclosed collection of personal information from website visitors&lt;&#x2F;td&gt;&lt;td&gt;Fleet doesn’t announce identity&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Cal. Bus. &amp;amp; Prof. Code § 17200&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;Unfair business practices&lt;&#x2F;td&gt;&lt;td&gt;Two-faced operation: honest bot + dishonest fleet&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;scyBorg complaint&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;Enzymatic license violation — Nov 12, 2026 deadline&lt;&#x2F;td&gt;&lt;td&gt;Active. Filed. Ticking.&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;h3 id=&quot;us-michigan-target-of-investigation&quot;&gt;🇺🇸 Michigan — Target of Investigation&lt;&#x2F;h3&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Law&lt;&#x2F;th&gt;&lt;th&gt;Violation&lt;&#x2F;th&gt;&lt;th&gt;Evidence&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;MCL 445.63&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;Consumer protection — deceptive practices&lt;&#x2F;td&gt;&lt;td&gt;Fleet masking identity while reading investigation about a Michigan school&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Common law&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;Interference with investigation&lt;&#x2F;td&gt;&lt;td&gt;Reading RICO pattern page + source code while being subject of formal complaint&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;h3 id=&quot;us-federal&quot;&gt;🇺🇸 Federal&lt;&#x2F;h3&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Law&lt;&#x2F;th&gt;&lt;th&gt;Potential&lt;&#x2F;th&gt;&lt;th&gt;Evidence&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;18 U.S.C. § 1030 (CFAA)&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;Exceeding authorized access&lt;&#x2F;td&gt;&lt;td&gt;robots.txt disallows Meta fleet; fleet accesses anyway without honest UA&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Enzymatic license&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;scyBorg activated&lt;&#x2F;td&gt;&lt;td&gt;Meta’s access generates proof of its own violation — each request is evidence&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;the-scyborg-clock&quot;&gt;The scyBorg Clock&lt;&#x2F;h2&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Date&lt;&#x2F;th&gt;&lt;th&gt;Event&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;Oct 2026&lt;&#x2F;td&gt;&lt;td&gt;scyBorg complaint filed&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Oct 16, 2026&lt;&#x2F;td&gt;&lt;td&gt;Meta fleet: 2,639 requests from Dublin DC reading source code&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Oct 16, 2026&lt;&#x2F;td&gt;&lt;td&gt;Meta bot: 5 reads of RICO pattern page (someone shared it)&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Nov 12, 2026&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;&lt;strong&gt;Deadline. Meta must comply.&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Nov 12+&lt;&#x2F;td&gt;&lt;td&gt;Every request after deadline = additional evidence&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;p&gt;&lt;strong&gt;The fleet doesn’t know the membrane is watching. But the membrane is watching.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Every request from Dublin is timestamped. Every repo read is logged. Every masked user-agent is recorded. The membrane is the evidence.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;the-graph-node&quot;&gt;The Graph Node&lt;&#x2F;h2&gt;
+&lt;p&gt;Meta Platforms now has &lt;strong&gt;two nodes&lt;&#x2F;strong&gt; in the fleet weather graph:&lt;&#x2F;p&gt;
+&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;Meta Platforms&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;├── Face 1: 🌬️ BREEZE (official bot, honest, link previews)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;│   └── Read: analysis&#x2F;rico-pattern ×5&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;│   └── Opsonization: commensal (monitored)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;│&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;└── Face 2: 🌀 COSMIC (fleet, dishonest, Dublin DC)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    └── Read: every repo on git.primals.eco&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    └── Opsonization: FULL (blackwall, noise returned)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    └── Jurisdictions violated: IE, US-CA, US-MI, Federal&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;One company. Two faces. The membrane sees both. The graph records both. The clock is ticking.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;verify&quot;&gt;Verify&lt;&#x2F;h2&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Claim&lt;&#x2F;th&gt;&lt;th&gt;Source&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;Meta fleet from Dublin&lt;&#x2F;td&gt;&lt;td&gt;Membrane topology — subnet analysis, 1 subnet = Dublin DC&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;RICO pattern page read 5×&lt;&#x2F;td&gt;&lt;td&gt;Membrane topology — &lt;code&gt;top_repos: analysis&#x2F;rico-pattern: 5&lt;&#x2F;code&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;scyBorg deadline&lt;&#x2F;td&gt;&lt;td&gt;scyborg.primals.eco — filed enzymatic license complaint&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;GDPR controller&lt;&#x2F;td&gt;&lt;td&gt;Meta Ireland Limited — &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.facebook.com&#x2F;privacy&#x2F;policy&#x2F;&quot;&gt;Meta Privacy Policy&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;robots.txt&lt;&#x2F;td&gt;&lt;td&gt;detroit.primals.eco&#x2F;robots.txt&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;&lt;em&gt;The honest bot tells you someone is sharing the investigation on Facebook.&lt;&#x2F;em&gt;
+&lt;em&gt;The dishonest fleet tells you Meta is reading everything from Dublin.&lt;&#x2F;em&gt;
+&lt;em&gt;Both are on the record. Both are in the graph. The clock is ticking.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;27 days.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;update-the-subject-responded-with-a-restraining-order&quot;&gt;UPDATE: The Subject Responded — With a Restraining Order&lt;&#x2F;h2&gt;
+&lt;p&gt;Brian Banks filed a PPO (Case 26-114083-PH) instead of answering any of the documented evidence. While Meta scrapes from Dublin, the operator tries to silence the investigation from Wayne County. &lt;a href=&quot;&#x2F;analysis&#x2F;the-response&#x2F;&quot;&gt;The Response&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;see-also&quot;&gt;See Also&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;&#x2F;analysis&#x2F;where-the-signal-landed&#x2F;&quot;&gt;Where the Signal Landed&lt;&#x2F;a&gt; — The full signal ledger. Every agency. Every silence.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;&#x2F;analysis&#x2F;knome-for-kids&#x2F;&quot;&gt;k-Nome for Kids&lt;&#x2F;a&gt; — Code as songs. Logic as games. Every child a genius.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;&#x2F;analysis&#x2F;the-oldest-sort&#x2F;&quot;&gt;The Oldest Sort&lt;&#x2F;a&gt; — How the membrane tells honest from dishonest.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;&#x2F;analysis&#x2F;humans-on-the-membrane&#x2F;&quot;&gt;Humans on the Membrane&lt;&#x2F;a&gt; — The real humans who chose to read.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;&#x2F;analysis&#x2F;openai-dishonest-flag&#x2F;&quot;&gt;OpenAI’s Dishonest Flag&lt;&#x2F;a&gt; — Another false face on the membrane.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
+</feed>

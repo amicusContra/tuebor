@@ -11,10 +11,16 @@
   <meta property="og:type" content="website">
   <meta property="og:url" content="{{ current_url | default(value=config.base_url) | safe }}">
   <meta property="og:site_name" content="Tuebor — Michigan Public Record">
+  <meta property="og:image" content="{% block og_image %}{{ config.base_url | safe }}/img/og-default.png{% endblock og_image %}">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="{% block og_image_alt %}Tuebor — Michigan Public Record Investigation{% endblock og_image_alt %}">
   <meta name="keywords" content="{% block keywords %}{{ config.extra.keywords | default(value='') }}{% endblock keywords %}">
-  <meta name="twitter:card" content="summary">
+  <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="{% block twitter_title %}{{ config.title }}{% endblock twitter_title %}">
   <meta name="twitter:description" content="{% block twitter_desc %}{{ config.description }}{% endblock twitter_desc %}">
+  <meta name="twitter:image" content="{% block twitter_image %}{{ config.base_url | safe }}/img/og-default.png{% endblock twitter_image %}">
+  <meta name="fediverse:creator" content="{% block fedi_creator %}{% endblock fedi_creator %}">
   {% block structured_data %}{% endblock structured_data %}
   <link rel="stylesheet" href="{{ get_url(path='css/main.css') }}">
   <link rel="alternate" type="application/atom+xml" title="{{ config.title }}" href="{{ get_url(path='atom.xml') }}">

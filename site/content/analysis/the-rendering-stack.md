@@ -3,9 +3,10 @@ title = "The Rendering Stack — Kintsugi Geometry, Coral Time, and the Inverted
 description = "Four layers build a world. Hard geometry you push against. Soft matter that breathes. Signal lines that connect. A HUD to see through. Then kintsugi fills the cracks with gold, coral grows the structure from below, and Zeno's paradox inverts — the arrow was already there."
 date = 2026-10-19
 updated = 2026-10-19
+weight = 1
 
 [taxonomies]
-tags = ["architecture", "membrane", "topology", "rendering", "hud", "geometry", "kintsugi", "coral", "zeno", "paradox"]
+connections = ["architecture", "membrane", "topology", "rendering", "hud", "geometry", "kintsugi", "coral", "zeno", "paradox"]
 
 [extra]
 keywords = "rendering stack, hard geometry, soft matter, signal lines, HUD, membrane architecture, bag of holding, topology, kintsugi, kintsukuroi, coral reef, Zeno paradox, inverted paradox, degrees of freedom"

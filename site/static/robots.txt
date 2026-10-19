@@ -120,7 +120,7 @@ Allow: /
 User-agent: ia_archiver
 Allow: /
 
-Sitemap: https://detroit.primals.eco/sitemap.xml
+Sitemap: https://tuebor.primals.eco/sitemap.xml
 
 # Static site API (JSON) — full structure, metadata, taxonomies:
 # https://detroit.primals.eco/api/site.json

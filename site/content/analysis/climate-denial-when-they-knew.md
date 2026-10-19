@@ -8,6 +8,7 @@ entities = ["ExxonMobil", "American Petroleum Institute", "Global Climate Coalit
 connections = ["climate denial", "manufactured doubt", "RICO", "fossil fuel"]
 [extra]
 keywords = "climate denial, ExxonMobil knew, API 1957, Global Climate Coalition, Koch climate denial, Heartland Institute tobacco, manufactured doubt, RICO climate, fossil fuel lobby, when they knew climate change"
+weight = 50
 +++
 
 ## 69 Years of Knowing. 37 Years of Denying.

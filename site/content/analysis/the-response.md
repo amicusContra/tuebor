@@ -14,6 +14,7 @@ og_title = "The Response: A Restraining Order Instead of Answers"
 og_description = "Brian Banks — 9 convictions, $4.9M in public money, 3% math — responded to a documented investigation not with answers, but with a Personal Protection Order. Case 26-114083-PH. Filed the same day as the SBE meeting. The silence broke. This is what it sounds like."
 og_type = "article"
 twitter_card = "summary_large_image"
+weight = 50
 +++
 
 ## The Signal Ledger Updated

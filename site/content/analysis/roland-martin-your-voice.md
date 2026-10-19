@@ -9,6 +9,7 @@ connections = ["endorsement", "charter school fraud", "community voice"]
 [extra]
 keywords = "Roland Martin, Black Star Network, Brian Banks Detroit, COGIC endorsement, NAACP Detroit, charter school fraud, school choice, community voice, Detroit education, 9 convictions, Purpose Charter Academy"
 og_image = "/img/og-default.png"
+weight = 50
 +++
 
 ## Roland Martin Said He's Your Voice

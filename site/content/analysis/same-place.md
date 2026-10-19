@@ -14,6 +14,7 @@ og_title = "The Same Place: Robocalls, FCC Failures, and the Double Standard"
 og_description = "Your robocall and your political text and your sports betting ad all come from the same corporate infrastructure. $7.4T in market cap can reach your phone whenever it wants. One person sending documented evidence of public corruption gets silence. The FCC has authority. It doesn't use it. Nikki Snyder answered in 13 minutes."
 og_type = "article"
 twitter_card = "summary_large_image"
+weight = 50
 +++
 
 ## It All Comes From the Same Place

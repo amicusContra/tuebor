@@ -8,6 +8,7 @@ entities = ["ExxonMobil", "DOGE", "Fox Corporation", "CMU", "Black Star Network"
 connections = ["false face", "great accounting", "RICO", "epitope inheritance"]
 [extra]
 keywords = "great accounting, false faces, public record Detroit, John Engler CMU, Betsy DeVos charter, Curtis Wright FDA Purdue, OxyContin revolving door, David Zaslav Cartoon Network, DOGE Edward Coristine, climate denial Exxon, Roland Martin Banks, community mental health consent"
+weight = 50
 +++
 
 ## Every Name. Every Face. Every Record.

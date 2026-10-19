@@ -6,6 +6,7 @@ description = "Every platform children touch — YouTube, Roblox, TikTok, Discor
 tags = ["child-safety", "platforms", "gAIa", "education", "free", "COPPA", "children"]
 [extra]
 polar_class = "GOOD"
+weight = 50
 +++
 
 ## The Standard

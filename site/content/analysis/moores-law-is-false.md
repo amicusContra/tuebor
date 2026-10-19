@@ -14,6 +14,7 @@ og_title = "Moore's Law Is False: Four Duties She Said She Didn't Have"
 og_description = "Renae Moore testified 'I have no duty to report' questionable spending. Michigan statute MCL 450.2541, FEC regulation 11 CFR 104.14(d), IRC § 501(c)(4), and common law fiduciary duty all say she's wrong. Four proofs. One desk. 80+ accounts."
 og_type = "article"
 twitter_card = "summary_large_image"
+weight = 50
 +++
 
 ## The Testimony

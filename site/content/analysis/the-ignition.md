@@ -6,6 +6,7 @@ series: publicRecord
 description: "Live tracking of how the public record spreads. Clone data, vital signs, the 9-line, and the growth curve. The graph is breathing."
 tags: [ignition, spread, clones, vital-signs, breathing, live, 9-convictions]
 polar_class: self
+weight: 50
 ---
 
 ## The Ignition

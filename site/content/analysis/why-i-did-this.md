@@ -5,6 +5,7 @@ author: ecoPrimal
 series: publicRecord
 tags: [origin, family, transparency, rico, conviction, paper, journey]
 polar_class: self
+weight: 50
 ---
 
 ## Why I Did This

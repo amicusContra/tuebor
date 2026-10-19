@@ -14,6 +14,7 @@ og_title = "k-Nome for Kids: The Three-Body Problem, Solved Before Breakfast"
 og_description = "139 years unsolvable in physics. Every child with a dog and a cat solved it before breakfast. Free 50-minute lesson plan: pseudo code as songs, boolean logic as Simon Says, chemistry as bubbles. No computer needed."
 og_type = "article"
 twitter_card = "summary_large_image"
+weight = 50
 +++
 
 ## Every Child is a Genius

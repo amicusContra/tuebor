@@ -8,6 +8,7 @@ tags = ["membrane", "observation", "family", "dialogue", "circuit"]
 
 [extra]
 author = "tuebor"
+weight = 50
 +++
 
 ## The Beat

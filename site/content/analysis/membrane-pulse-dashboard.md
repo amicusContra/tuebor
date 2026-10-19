@@ -7,6 +7,7 @@ tags = ["membrane", "telemetry", "signal", "negentropy", "dashboard", "live"]
 [extra]
 polar_class = "SELF"
 mcp_endpoint = "signal.primals.eco/negentropy.json"
+weight = 50
 +++
 
 ## Live Feed

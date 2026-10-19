@@ -14,6 +14,7 @@ og_title = "Who Signed, Who Served, Who Benefits"
 og_description = "The PPO was filed in the one court system where Banks has 7 judges. The judge signed it without a hearing. Now the investigator is in LEIN. These are the questions that need answers."
 og_type = "article"
 twitter_card = "summary_large_image"
+weight = 50
 +++
 
 ## Questions for Judge Abraham

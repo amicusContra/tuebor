@@ -1,12 +1,12 @@
 +++
 title = "Letters to the Ones Who Fight for Kids"
 date = 2026-10-15
+weight = 50
 description = "Open letters to Miss Rachel, Steve Burns, LeVar Burton, Sal Khan, Dolly Parton, and every person who ever chose children over profit. We see you. Detroit needs you. Every child deserves gAIa."
 [taxonomies]
 tags = ["letters", "education", "children", "gAIa", "free-education", "open-invitation"]
 [extra]
 polar_class = "GOOD"
-weight = 50
 +++
 
 ## We See You

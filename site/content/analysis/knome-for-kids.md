@@ -2,6 +2,7 @@
 title = "k-Nome for Kids: Code is a Song, Logic is a Game"
 description = "The three-body problem solved by every child before breakfast. Pseudo code as songs kids can sing. Boolean logic as choose-your-own-adventure. 6 lessons, 50 minutes, ages 4+. Free lesson plan for teachers, TAs, parents. Every child is their own genius."
 date = 2026-10-16
+weight = 50
 
 [taxonomies]
 entities = ["education", "STEM", "Detroit", "children", "teachers"]
@@ -14,7 +15,6 @@ og_title = "k-Nome for Kids: The Three-Body Problem, Solved Before Breakfast"
 og_description = "139 years unsolvable in physics. Every child with a dog and a cat solved it before breakfast. Free 50-minute lesson plan: pseudo code as songs, boolean logic as Simon Says, chemistry as bubbles. No computer needed."
 og_type = "article"
 twitter_card = "summary_large_image"
-weight = 50
 +++
 
 ## Every Child is a Genius

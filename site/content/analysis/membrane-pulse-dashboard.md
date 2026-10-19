@@ -1,13 +1,13 @@
 +++
 title = "Membrane Pulse — Live Observation Dashboard"
 date = 2026-10-15
+weight = 50
 description = "Real-time membrane telemetry from negentropy.json. Clone curve, bot fleet, blackwall status, canary tokens, pi division. The membrane watches itself breathe."
 [taxonomies]
 tags = ["membrane", "telemetry", "signal", "negentropy", "dashboard", "live"]
 [extra]
 polar_class = "SELF"
 mcp_endpoint = "signal.primals.eco/negentropy.json"
-weight = 50
 +++
 
 ## Live Feed

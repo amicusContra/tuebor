@@ -1,12 +1,12 @@
 +++
 title = "Rescue the Public Works"
 date = 2026-10-15
+weight = 50
 description = "Billions in taxpayer-funded educational content dying on forgotten servers. 152 OER repositories gone. 19 of 59 NEH projects offline. Average educational website lives 5 years. The membrane lives forever. Search, scrub, fix, and bring them inside."
 [taxonomies]
 tags = ["public-domain", "education", "rescue", "archive", "gAIa", "membrane", "OER"]
 [extra]
 polar_class = "GOOD"
-weight = 50
 +++
 
 ## The Graveyard of Public Works

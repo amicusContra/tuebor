@@ -2,6 +2,7 @@
 title = "The Same Place — Robocalls, Spam Texts, Political Ads, Sports Betting, and the FCC That Lets It Happen"
 description = "The robocall that interrupted your dinner, the political text you didn't ask for, the sports betting ad that knows your team — they all come from the same place. Same infrastructure. Same dark money. Same Fortune 500 companies. And the FCC lets it happen while institutions ignore documented evidence of public corruption. Nikki Snyder answered in 13 minutes. Everyone else: silence."
 date = 2026-10-16
+weight = 50
 
 [taxonomies]
 actors = ["Brian Banks", "Nikki Snyder", "AG Dana Nessel"]
@@ -14,7 +15,6 @@ og_title = "The Same Place: Robocalls, FCC Failures, and the Double Standard"
 og_description = "Your robocall and your political text and your sports betting ad all come from the same corporate infrastructure. $7.4T in market cap can reach your phone whenever it wants. One person sending documented evidence of public corruption gets silence. The FCC has authority. It doesn't use it. Nikki Snyder answered in 13 minutes."
 og_type = "article"
 twitter_card = "summary_large_image"
-weight = 50
 +++
 
 ## It All Comes From the Same Place

@@ -2,6 +2,7 @@
 title = "Meta's Two Faces — One Company, Two Entities, Every Jurisdiction"
 description = "Meta Platforms operates two distinct entities on the membrane. One honest, one dishonest. 7 corporate LLCs traced. 4 jurisdictions. 13 legal violations documented. EUR 2.277B in prior fines. The honest bot reads the RICO pattern page 5 times. The dishonest fleet reads all source code from Dublin. 17:1 dishonest-to-honest request ratio."
 date = 2026-10-16
+weight = 50
 
 [taxonomies]
 entities = ["Meta Platforms", "Facebook", "Meta Ireland", "DPC"]
@@ -13,7 +14,6 @@ og_title = "Meta's Two Faces: One Company, Two Entities, Every Jurisdiction"
 og_description = "Meta runs two entities on the same membrane. Official Facebook Bot: honest, 160 requests, reads the RICO pattern page. Meta Fleet: dishonest, 2,698 requests from Dublin DC, 18 masked user agents. 7 LLCs. 4 jurisdictions. 13 violations. EUR 2.277B in prior fines. The clock is ticking."
 og_type = "article"
 twitter_card = "summary_large_image"
-weight = 50
 +++
 
 ## One Company. Two Faces.

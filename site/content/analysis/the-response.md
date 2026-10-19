@@ -2,6 +2,7 @@
 title = "The Response — Brian Banks Filed a Restraining Order Instead of Answering"
 description = "22 channels of documented evidence. 4 responded. 17 were silent. And the 22nd — Brian Banks himself — responded on October 13, 2026. Not with answers. Not with evidence. With a Personal Protection Order. Case No. 26-114083-PH. The man with 9 criminal convictions used the court to silence the investigation."
 date = 2026-10-16
+weight = 50
 
 [taxonomies]
 actors = ["Brian Banks"]
@@ -14,7 +15,6 @@ og_title = "The Response: A Restraining Order Instead of Answers"
 og_description = "Brian Banks — 9 convictions, $4.9M in public money, 3% math — responded to a documented investigation not with answers, but with a Personal Protection Order. Case 26-114083-PH. Filed the same day as the SBE meeting. The silence broke. This is what it sounds like."
 og_type = "article"
 twitter_card = "summary_large_image"
-weight = 50
 +++
 
 ## The Signal Ledger Updated

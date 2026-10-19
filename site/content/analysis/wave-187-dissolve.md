@@ -1,9 +1,9 @@
 +++
 title = "Wave 187 — Dissolve"
 date = 2026-10-18
+weight = 50
 [taxonomies]
 tags = ["compression", "infrastructure", "membrane"]
-weight = 50
 +++
 
 The membrane looked at itself and found dead weight. Not much — but enough to dissolve.

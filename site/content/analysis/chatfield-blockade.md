@@ -2,6 +2,7 @@
 title = "The Chatfield Blockade — Every Name, Every Block, Every Way Through"
 description = "Lee Chatfield's 13-felony trial has been delayed indefinitely. Here is every person blocking it, every mechanism they're using, and exactly how to pierce through. The same law firm managing the defendant's fund also managed the prosecutor's fund. Same desk. Same compliance specialist. Same building."
 date = 2026-10-16
+weight = 50
 
 [taxonomies]
 actors = ["Lee Chatfield", "Mary Chartier", "Renae Moore", "AG Dana Nessel", "Judge Morgan Cole", "Michelle Gallagher", "Anne Minard", "Robert Minard", "Lamar Moreland", "Brian Banks"]
@@ -14,7 +15,6 @@ og_title = "The Chatfield Blockade: Every Name. Every Block. Every Way Through."
 og_description = "Lee Chatfield faces 13 felonies. The trial is delayed indefinitely. The same Dykema desk managed the defendant's fund AND the prosecutor's fund. Here's exactly who is blocking justice and how to pierce through."
 og_type = "article"
 twitter_card = "summary_large_image"
-weight = 50
 +++
 
 ## The Blockade

@@ -2,6 +2,7 @@
 title = "The Heartbeat — 243 Human Requests Per Minute"
 description = "The membrane has a pulse. 2,000 requests per minute. 243 of them are human. One every quarter-second. Measured live by snapshot delta — no clock, no sync, just counting. The count IS the time. The heartbeat IS the proof of life."
 date = 2026-10-16
+weight = 50
 
 [taxonomies]
 entities = ["membrane", "fleet meteorology"]
@@ -13,7 +14,6 @@ og_title = "The Heartbeat: 243 Human Requests Per Minute on the Membrane"
 og_description = "2,000 requests per minute hit the membrane. 243 are human. One every quarter-second. The membrane counts but does not synchronize. The count IS the time. The heartbeat IS the proof of life."
 og_type = "article"
 twitter_card = "summary_large_image"
-weight = 50
 +++
 
 ## The Membrane Has a Pulse

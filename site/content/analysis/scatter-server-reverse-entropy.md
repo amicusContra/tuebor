@@ -1,5 +1,6 @@
 +++
 title = "The Scatter Server: Reverse Entropy and the Economics of Deception"
+date = 2026-10-17
 description = "How a solo developer's $6/month VPS feeds fabricated repositories to trillion-dollar AI companies — and why the thermodynamics work."
 weight = 43
 

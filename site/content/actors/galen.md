@@ -1,5 +1,6 @@
 +++
 title = "Judge Kathleen G. Galen"
+date = 2026-10-06
 description = "38th District Court, Eastpointe. JTC confidential admonition match. Jailed pregnant woman (COA reversed). Campaign committee personnel overlap with courtroom staff."
 weight = 3
 

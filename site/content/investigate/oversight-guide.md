@@ -1,5 +1,6 @@
 +++
 title = "Michigan Oversight Filing Guide"
+date = 2026-10-06
 description = "How to file complaints with Michigan's judicial, attorney, and law enforcement oversight bodies. What each one does, what it can't, and what actually moves the needle."
 weight = 2
 

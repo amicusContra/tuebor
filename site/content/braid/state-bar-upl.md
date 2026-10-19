@@ -1,5 +1,6 @@
 +++
 title = "Data Braid — State Bar UPL Department"
+date = 2026-10-12
 description = "Shannon entropy H=1.58, degree 3, immune pressure 100%. Every connection, every edge type, every layer."
 weight = 51
 

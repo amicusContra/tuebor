@@ -1,5 +1,6 @@
 +++
 title = "Kevin Lindke — The Client"
+date = 2026-10-07
 description = "Ellison's client in the SLAPP suit and the Supreme Court case. Convicted of using computers to commit a crime. Registered domains in a child's name. Coordinated harassment through 21,000-member Facebook group. Served 272 days. PPOs from multiple counties."
 weight = 7
 

@@ -1,5 +1,6 @@
 +++
 title = "Philip L. Ellison"
+date = 2026-10-06
 description = "Attorney, Outside Legal Counsel PLC. Filed SLAPP suit against journalist. Submitted fabricated witness 'Samantha Aljouny.' Invoked anti-SLAPP in parallel case while running SLAPP in this one."
 weight = 1
 

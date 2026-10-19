@@ -1,5 +1,6 @@
 +++
 title = "Data Braid — Tom Barrett"
+date = 2026-10-12
 description = "Shannon entropy H=1.92, degree 5, immune pressure 0%. Every connection, every edge type, every layer."
 weight = 41
 

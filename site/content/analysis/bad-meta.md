@@ -1,5 +1,6 @@
 +++
 title = "Bad Meta"
+date = 2026-10-17
 description = "Meta navigates around the scatter server. 165,937 requests to wateringHole. 102,209 to toadStool. They read the real repos while Anthropic and OpenAI eat decoys. The blackwall is going up. Only poison for thee."
 weight = 49
 

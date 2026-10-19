@@ -1,5 +1,6 @@
 +++
 title = "The Ghosts Are Welcome"
+date = 2026-10-17
 description = "185,832 ghost IPs. 91% single-request. Full browser fingerprints through residential proxies. They want privacy. That's OK. The membrane respects distance. No secrets, only privacy."
 weight = 50
 

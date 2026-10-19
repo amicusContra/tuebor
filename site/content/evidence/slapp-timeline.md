@@ -1,5 +1,6 @@
 +++
 title = "The SLAPP Suit — Complete Timeline"
+date = 2026-10-07
 description = "Every documented event in OLC v. Williams (25-2441-CZ) from September 2025 through October 2026. Filed, contested, recused, reassigned, and still pending. The first major test of Michigan's UPEPA anti-SLAPP statute."
 weight = 10
 

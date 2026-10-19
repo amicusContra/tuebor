@@ -1,5 +1,6 @@
 +++
 title = "Data Braid — Aljouny Investigation: Public vs. Private Evidence Layers"
+date = 2026-10-06
 description = "Separating what anyone can verify from public sources, what requires FOIA or private forensics, and what a reverse target search reveals. Every node independently checkable."
 weight = 2
 

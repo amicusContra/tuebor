@@ -1,5 +1,6 @@
 +++
 title = "$73,752.45: The Federal Sanctions Against Philip L. Ellison"
+date = 2026-10-07
 description = "Philip L. Ellison has been sanctioned $74,752.45 across two federal cases: $73,752.45 by the Sixth Circuit for frivolous RICO claims (SCOTUS cert denied), and $1,000 by the Eastern District of Michigan for baselessly accusing opposing counsel of ethical violations. Sourced to federal court records."
 weight = 5
 

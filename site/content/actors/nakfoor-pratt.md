@@ -1,5 +1,6 @@
 +++
 title = "Julie Nakfoor Pratt"
+date = 2026-10-06
 description = "Barry County Prosecuting Attorney. Private admonishment (MRPC 3.4(e)). Brady/Giglio failures. FOIA obstruction. Ruled Johnson deputy shooting justified."
 weight = 5
 

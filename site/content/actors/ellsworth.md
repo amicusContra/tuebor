@@ -1,5 +1,6 @@
 +++
 title = "Kelly D. Ellsworth"
+date = 2026-10-06
 description = "Saginaw County attorney, Shinners & Ellsworth PLC. Briefly represented Rita Williams. Dissuaded her from fighting. SCBA member in the same small-town bar as Gafkay and Ellison."
 weight = 8
 

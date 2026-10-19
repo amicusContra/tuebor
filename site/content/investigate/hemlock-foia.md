@@ -1,5 +1,6 @@
 +++
 title = "Hemlock FOIA Toolkit — How to Request Records About the Ellison Network"
+date = 2026-10-07
 description = "Ready-to-use FOIA request templates for Saginaw County agencies. Target: school board contracts, vendor agreements, FOIA compliance, recusal records. Every template cites the specific Michigan statute."
 weight = 5
 

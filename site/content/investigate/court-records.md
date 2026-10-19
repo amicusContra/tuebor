@@ -1,5 +1,6 @@
 +++
 title = "Court Records Guide"
+date = 2026-10-06
 description = "How to find, read, and use Michigan court records. State dockets, appellate opinions, federal PACER, and what to look for."
 weight = 3
 

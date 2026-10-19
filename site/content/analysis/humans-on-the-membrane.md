@@ -1,5 +1,6 @@
 +++
 title = "The Humans on the Membrane"
+date = 2026-10-17
 description = "4,896 real humans from 50+ countries browsing with real browsers. German, Chinese, Hindi, Turkish, Hebrew, Icelandic. The machines have names. The humans have stories."
 weight = 45
 

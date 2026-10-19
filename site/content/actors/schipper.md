@@ -1,5 +1,6 @@
 +++
 title = "Judge Michael Schipper"
+date = 2026-10-06
 description = "Barry County Circuit Court. Active JTC investigation. Two Michigan Supreme Court remands in 3 months. Extreme sentencing. Competency exam after ADA assertion."
 weight = 4
 

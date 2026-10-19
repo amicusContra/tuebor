@@ -1,5 +1,6 @@
 +++
 title = "FOIAworks Infrastructure Scan — What the Server Tells Anyone Who Asks"
+date = 2026-10-09
 description = "Passive reconnaissance of foiaworks.com reveals GoDaddy shared hosting, exposed cPanel admin interface, misconfigured email, no privacy policy, 3,537-entity targeting database, and a Microsoft 365 tenant. Every finding comes from public DNS, HTTP headers, SSL certificates, and the site's own sitemap."
 weight = 4
 

@@ -1,5 +1,6 @@
 +++
 title = "ritafelinewilliams.com — The Impersonation Domain"
+date = 2026-10-07
 description = "An active website using a journalist's full legal name. Created September 9, 2025. Renewed September 10, 2026. Collecting names and emails through a contact form. Privacy-protected registration. Part of a documented 3-domain registration campaign."
 weight = 9
 

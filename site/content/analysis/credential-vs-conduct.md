@@ -1,5 +1,6 @@
 +++
 title = "Credential vs. Conduct — The Ellison Paradox"
+date = 2026-10-07
 description = "A structured analysis of every credential claim Philip L. Ellison makes and the documented conduct that contradicts it. The resume says civil rights champion. The docket says sanctioned, reversed, and representing a convicted harasser."
 weight = 73
 

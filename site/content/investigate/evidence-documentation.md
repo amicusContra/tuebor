@@ -1,5 +1,6 @@
 +++
 title = "Evidence Documentation"
+date = 2026-10-06
 description = "How to build a contemporaneous record that attorneys and oversight bodies can actually use. Incident logs, document indexes, preservation notices."
 weight = 5
 

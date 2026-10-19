@@ -1,5 +1,6 @@
 +++
 title = "Data Braid — AT&T"
+date = 2026-10-12
 description = "Shannon entropy H=1.00, degree 2, immune pressure 0%. Every connection, every edge type, every layer."
 weight = 69
 

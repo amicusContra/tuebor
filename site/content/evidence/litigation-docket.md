@@ -1,5 +1,6 @@
 +++
 title = "The Complete Ellison Litigation Docket"
+date = 2026-10-07
 description = "Every known active and resolved case involving Philip L. Ellison — as counsel, plaintiff, and sanctioned party. Federal, state, appellate, and Supreme Court. Updated October 2026."
 weight = 8
 

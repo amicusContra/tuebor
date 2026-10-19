@@ -1,5 +1,6 @@
 +++
 title = "Data Braid — Michigan Supreme Court"
+date = 2026-10-12
 description = "Shannon entropy H=0.81, degree 4, immune pressure 25%. Every connection, every edge type, every layer."
 weight = 75
 

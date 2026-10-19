@@ -1,5 +1,6 @@
 +++
 title = "Fill the Seats: How to Get In"
+date = 2026-10-17
 description = "Every open seat in Michigan, ranked by impact. Exact steps to file, apply, or write in. Don't you want to tell a bishop to back down? Now you can."
 weight = 0
 

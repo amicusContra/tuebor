@@ -1,5 +1,6 @@
 +++
 title = "Do Not Use FOIAworks — Use the Free FOIA Generator Instead"
+date = 2026-10-07
 description = "FOIAworks charges up to $69.95/month, has no privacy policy, and is operated by an attorney sanctioned $74,752.45 who fabricated a witness and filed a SLAPP suit against a journalist. The Clutch Justice FOIA Generator is free, client-side, and stores nothing."
 weight = 0
 

@@ -1,5 +1,6 @@
 +++
 title = "Judge Julie A. Gafkay"
+date = 2026-10-06
 description = "Chief Judge, 10th Circuit Court (Saginaw County). Successor judge in the SLAPP suit. Presides over three simultaneous Ellison cases. Former SVSU adjunct colleague of the attorney appearing before her."
 weight = 6
 

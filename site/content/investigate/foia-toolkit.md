@@ -1,5 +1,6 @@
 +++
 title = "Michigan FOIA Toolkit"
+date = 2026-10-06
 description = "How to file a Michigan Freedom of Information Act request that produces results. Templates, deadlines, exemption challenges, and appeal paths."
 weight = 1
 

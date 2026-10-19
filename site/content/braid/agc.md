@@ -1,5 +1,6 @@
 +++
 title = "Data Braid — Attorney Grievance Commission"
+date = 2026-10-12
 description = "Shannon entropy H=1.58, degree 3, immune pressure 67%. Every connection, every edge type, every layer."
 weight = 51
 

@@ -1,5 +1,6 @@
 +++
 title = "Cast of Characters: Every Human Is an Actor"
+date = 2026-10-17
 description = "The membrane doesn't just count visitors. It reads their stories. Investigators, scholars, architects, burglars — every human who touches the membrane plays a role, even if they don't know the membrane sees."
 weight = 48
 

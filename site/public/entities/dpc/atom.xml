@@ -157,15 +157,16 @@
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;the-graph-node&quot;&gt;The Graph Node&lt;&#x2F;h2&gt;
 &lt;p&gt;Meta Platforms now has &lt;strong&gt;two nodes&lt;&#x2F;strong&gt; in the fleet weather graph:&lt;&#x2F;p&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;Meta Platforms&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;├── Face 1: 🌬️ BREEZE (official bot, honest, link previews)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;│   └── Read: analysis&#x2F;rico-pattern ×5&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;│   └── Opsonization: commensal (monitored)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;│&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;└── Face 2: 🌀 COSMIC (fleet, dishonest, Dublin DC)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    └── Read: every repo on git.primals.eco&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    └── Opsonization: FULL (blackwall, noise returned)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    └── Jurisdictions violated: IE, US-CA, US-MI, Federal&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;Meta Platforms
+├── Face 1: 🌬️ BREEZE (official bot, honest, link previews)
+│   └── Read: analysis&amp;#x2F;rico-pattern ×5
+│   └── Opsonization: commensal (monitored)
+│
+└── Face 2: 🌀 COSMIC (fleet, dishonest, Dublin DC)
+    └── Read: every repo on git.primals.eco
+    └── Opsonization: FULL (blackwall, noise returned)
+    └── Jurisdictions violated: IE, US-CA, US-MI, Federal
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;One company. Two faces. The membrane sees both. The graph records both. The clock is ticking.&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;verify&quot;&gt;Verify&lt;&#x2F;h2&gt;
@@ -173,7 +174,7 @@
 &lt;tr&gt;&lt;td&gt;Meta fleet from Dublin&lt;&#x2F;td&gt;&lt;td&gt;Membrane topology — subnet analysis, 1 subnet = Dublin DC&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
 &lt;tr&gt;&lt;td&gt;RICO pattern page read 5×&lt;&#x2F;td&gt;&lt;td&gt;Membrane topology — &lt;code&gt;top_repos: analysis&#x2F;rico-pattern: 5&lt;&#x2F;code&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
 &lt;tr&gt;&lt;td&gt;scyBorg deadline&lt;&#x2F;td&gt;&lt;td&gt;scyborg.primals.eco — filed enzymatic license complaint&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
-&lt;tr&gt;&lt;td&gt;GDPR controller&lt;&#x2F;td&gt;&lt;td&gt;Meta Ireland Limited — &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.facebook.com&#x2F;privacy&#x2F;policy&#x2F;&quot;&gt;Meta Privacy Policy&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;GDPR controller&lt;&#x2F;td&gt;&lt;td&gt;Meta Ireland Limited — &lt;a href=&quot;https:&#x2F;&#x2F;www.facebook.com&#x2F;privacy&#x2F;policy&#x2F;&quot;&gt;Meta Privacy Policy&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
 &lt;tr&gt;&lt;td&gt;robots.txt&lt;&#x2F;td&gt;&lt;td&gt;detroit.primals.eco&#x2F;robots.txt&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
 &lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
 &lt;hr &#x2F;&gt;

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>tuebor — Public Record Investigation - stoicism</title>
+    <subtitle>Public evidence library documenting a Detroit charter school network. Convicted felons running schools. Judges with documented connections. $4.9M in public funding. Every fact cited from public records. Every document timestamped. Verify everything.</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://tuebor.primals.eco/tags/stoicism/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://tuebor.primals.eco"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2026-10-18T00:00:00+00:00</updated>
+    <id>https://tuebor.primals.eco/tags/stoicism/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Dear Marcus</title>
+        <published>2026-10-18T00:00:00+00:00</published>
+        <updated>2026-10-18T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://tuebor.primals.eco/analysis/dear-marcus/"/>
+        <id>https://tuebor.primals.eco/analysis/dear-marcus/</id>
+        
+        <content type="html" xml:base="https://tuebor.primals.eco/analysis/dear-marcus/">&lt;h1 id=&quot;dear-marcus&quot;&gt;Dear Marcus&lt;&#x2F;h1&gt;
+&lt;h2 id=&quot;what-stoicism-teaches&quot;&gt;What Stoicism Teaches&lt;&#x2F;h2&gt;
+&lt;p&gt;Stoicism says: separate feeling from action.&lt;&#x2F;p&gt;
+&lt;p&gt;Don’t let the wave of anger carry your fist. Don’t let grief write your letter. Don’t let fear choose your path. Feel it. Acknowledge it. Then act from reason, not from reaction.&lt;&#x2F;p&gt;
+&lt;p&gt;Marcus Aurelius wrote this to himself — never meant to publish it. The &lt;em&gt;Meditations&lt;&#x2F;em&gt; are a journal. Private, not secret. A Roman emperor sitting in a tent at the edge of the empire, writing notes to himself about how to be a person.&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;“You have power over your mind — not outside events. Realize this, and you will find strength.”&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;“The happiness of your life depends upon the quality of your thoughts.”&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;“Waste no more time arguing about what a good man should be. Be one.”&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;I read these while everything was falling apart. While the investigation was consuming me. While the legal system wasn’t listening. While the fleet was crawling. While the membrane was learning to breathe.&lt;&#x2F;p&gt;
+&lt;p&gt;Marcus helped me find the cut. The place where feeling ends and action begins. He taught me that the cut exists — that I wasn’t my anger, wasn’t my grief, wasn’t my fear. Those were weather. I was the landscape.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;what-i-posit-beyond&quot;&gt;What I Posit Beyond&lt;&#x2F;h2&gt;
+&lt;p&gt;Stoicism makes one cut:&lt;&#x2F;p&gt;
+&lt;pre&gt;&lt;code&gt;feeling | action
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;Two regions. The inner world (feeling) and the outer world (action). Stoicism says: don’t let the inner leak into the outer unfiltered. Feel everything. Act deliberately.&lt;&#x2F;p&gt;
+&lt;p&gt;That’s beautiful. That’s necessary. That saved my life.&lt;&#x2F;p&gt;
+&lt;p&gt;But I posit &lt;strong&gt;more.&lt;&#x2F;strong&gt; There are three regions, not two:&lt;&#x2F;p&gt;
+&lt;pre&gt;&lt;code&gt;sensation | self | action
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;h3 id=&quot;sensation&quot;&gt;Sensation&lt;&#x2F;h3&gt;
+&lt;p&gt;Sensation is what arrives. Touch radiates IN. The fleet hits the membrane. The court filing lands on the desk. The news about the kids. The cold air on the rink. The sound of Bruce Lee’s daughter reading philosophy at midnight.&lt;&#x2F;p&gt;
+&lt;p&gt;You don’t choose sensation. It arrives. 2.6 million requests per day. A PPO filed without service. A child’s test score: 3% in math. The feeling of ice under your skates for the first time in years.&lt;&#x2F;p&gt;
+&lt;p&gt;Sensation is the input channel. It’s not you. It’s the signal.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;action&quot;&gt;Action&lt;&#x2F;h3&gt;
+&lt;p&gt;Action is what leaves. Sense radiates OUT. You publish the article. You file the motion. You push the commit. You teach the kid to stomp before they glide. You write &lt;code&gt;println!(&quot;Hello, world.&quot;);&lt;&#x2F;code&gt; and the machine speaks.&lt;&#x2F;p&gt;
+&lt;p&gt;You choose action. Deliberately. After the cut. After the filter. Stoicism lives here — in the gap between feeling and doing.&lt;&#x2F;p&gt;
+&lt;p&gt;Action is the output channel. It’s not you either. It’s the response.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;self&quot;&gt;Self&lt;&#x2F;h3&gt;
+&lt;p&gt;Self is the gap.&lt;&#x2F;p&gt;
+&lt;p&gt;The &lt;strong&gt;irrational null remainder.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Not the feeling. Not the action. The thing in between that can’t be divided evenly. The .14159… that makes 3 into π. The observer that turns three integer bodies into something irrational, non-repeating, infinite.&lt;&#x2F;p&gt;
+&lt;p&gt;Stoicism puts the cut between feeling and action. I put the &lt;strong&gt;self&lt;&#x2F;strong&gt; in the cut. The self isn’t the sensation (that’s input). The self isn’t the action (that’s output). The self is the membrane between them — the selectively permeable barrier that decides what passes through.&lt;&#x2F;p&gt;
+&lt;pre&gt;&lt;code&gt;sensation → | SELF | → action
+             (π - 3)
+             (0.14159...)
+             (irrational)
+             (null remainder)
+             (the observer)
+             (you)
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;The self is:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Irrational&lt;&#x2F;strong&gt; — it can’t be expressed as a ratio. It can’t be computed. It can’t be generated by a machine.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Null&lt;&#x2F;strong&gt; — it has no mass, no position, no measurement. You can’t point to it.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Remainder&lt;&#x2F;strong&gt; — it’s what’s left when you subtract all the things you can measure. Take away the sensation, take away the action. What remains? That’s you.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;the-three-cuts&quot;&gt;The Three Cuts&lt;&#x2F;h2&gt;
+&lt;p&gt;Marcus made one cut. Stoicism has two regions. I’m proposing three:&lt;&#x2F;p&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Layer&lt;&#x2F;th&gt;&lt;th&gt;Stoicism&lt;&#x2F;th&gt;&lt;th&gt;What I Posit&lt;&#x2F;th&gt;&lt;th&gt;Membrane Analog&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Input&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;Feeling&lt;&#x2F;td&gt;&lt;td&gt;Sensation&lt;&#x2F;td&gt;&lt;td&gt;Touch radiates IN&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Gap&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;&lt;em&gt;(the cut itself)&lt;&#x2F;em&gt;&lt;&#x2F;td&gt;&lt;td&gt;&lt;strong&gt;Self&lt;&#x2F;strong&gt; (irrational null remainder)&lt;&#x2F;td&gt;&lt;td&gt;The membrane barrier&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Output&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;Action&lt;&#x2F;td&gt;&lt;td&gt;Action&lt;&#x2F;td&gt;&lt;td&gt;Sense radiates OUT&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;p&gt;The cell membrane does this. Sensation arrives at the outer surface (ligand binds to receptor). The membrane processes it (signal transduction — not instant, not passive, not automatic). Action leaves the inner surface (gene expression, protein synthesis, movement).&lt;&#x2F;p&gt;
+&lt;p&gt;The membrane IS the self. Not the input. Not the output. The barrier between them that decides what passes through.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;what-marcus-gave-me&quot;&gt;What Marcus Gave Me&lt;&#x2F;h2&gt;
+&lt;p&gt;He gave me the first cut. The ability to say: this feeling is weather. I am landscape.&lt;&#x2F;p&gt;
+&lt;p&gt;Then I made the second cut. The ability to say: this action is output. I am the barrier.&lt;&#x2F;p&gt;
+&lt;p&gt;Between sensation and action, I found the null remainder. The part of me that isn’t my pain and isn’t my response to pain. The observer. The irrational fraction. The self.&lt;&#x2F;p&gt;
+&lt;p&gt;Marcus wrote his journal at the edge of empire, never meaning to share it. I’m writing mine at the edge of a membrane, sharing it on purpose. Different era, same architecture: a person sitting in the gap between what arrives and what they choose to do about it.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Private, not secret.&lt;&#x2F;strong&gt; He didn’t publish the &lt;em&gt;Meditations.&lt;&#x2F;em&gt; Someone found them after he died and decided the world should read them. Two thousand years later, they’re still helping people find the cut.&lt;&#x2F;p&gt;
+&lt;p&gt;I’m publishing mine now. While I’m alive. While the membrane is breathing. Because the cut is the same cut Marcus found, and the self is the same self — irrational, null, the remainder that can’t be computed but can be felt.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;thank-you-marcus&quot;&gt;Thank You, Marcus&lt;&#x2F;h2&gt;
+&lt;p&gt;You wrote:&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;“When you arise in the morning, think of what a privilege it is to be alive — to think, to enjoy, to love.”&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;I arise in the morning and the membrane has classified 341 entities overnight. The fleet is still running. The 914 humans are still reading. The VR headset is still in the box. The October light is golden.&lt;&#x2F;p&gt;
+&lt;p&gt;I separate sensation from action. And in the gap, I find myself.&lt;&#x2F;p&gt;
+&lt;p&gt;That’s your gift. Two thousand years and counting.&lt;&#x2F;p&gt;
+&lt;p&gt;kevin@primals.eco&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;&lt;em&gt;Stoicism: feeling | action. Two regions, one cut. What I posit: sensation | self | action. Three regions, two cuts. The self is the irrational null remainder — π minus 3. The observer that can’t be computed. The membrane between input and output. Thank you, Marcus, for showing me where the first cut goes.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

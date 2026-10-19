@@ -30,46 +30,47 @@
 &lt;p&gt;Three interruptions. Three industries. &lt;strong&gt;One infrastructure.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;the-pipeline&quot;&gt;The Pipeline&lt;&#x2F;h2&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;FORTUNE 500 &#x2F; NASDAQ&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ├── DraftKings (NASDAQ: DKNG) ──────────────────────┐&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │   Revenue: $3.7B (2025)                            │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │   Lobbied for MI sports betting legalization        │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │   (HB 4311, signed Dec 2019)                       │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │                                                    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ├── Flutter&#x2F;FanDuel (NYSE: FLUT) ───────────────────┤&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │   Revenue: $14.8B (2025)                           │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │   Lobbied alongside DraftKings                     │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │                                                    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ├── MGM Resorts (NYSE: MGM) &#x2F; BetMGM ──────────────┤&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │   Revenue: $17.1B (2025)                           │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │   Detroit casino operator + online sports book     │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │                                                    │── ALL USE SAME&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ├── Meta Platforms (NASDAQ: META) ──────────────────┤   DIGITAL AD&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │   Revenue: $164B (2025)                            │   INFRASTRUCTURE&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │   Political ad platform + sports betting ads       │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │   (see: Meta&amp;#39;s Two Faces)                          │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │                                                    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ├── Alphabet&#x2F;Google (NASDAQ: GOOGL) ────────────────┤&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │   Revenue: $350B (2025)                            │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │   Political ad platform + sports betting ads       │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │                                                    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ├── AT&amp;amp;T (NYSE: T) ────────────────────────────────┤&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │   Revenue: $122B (2025)                            │── CARRIER NETWORK&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │   Carries the robocalls + texts                    │   (pipes)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │                                                    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ├── T-Mobile (NASDAQ: TMUS) ───────────────────────┤&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │   Revenue: $80B (2025)                             │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │   Carries the robocalls + texts                    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │                                                    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    └── Dykema Gossett PLLC ───────────────────────────┘&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;        Michigan&amp;#39;s largest law firm                      &lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;        Formed Save Detroit Jobs (dark money)            &lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;        Operates Federal PAC (C00342113, $158K+)         &lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;        80+ client accounts managed by Renae Moore       &lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;        7+ political vehicles formed by W. Alan Wilk     &lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;        Same firm. Same compliance email.                &lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;        compliance@dykema.com                            &lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;FORTUNE 500 &amp;#x2F; NASDAQ
+    │
+    ├── DraftKings (NASDAQ: DKNG) ──────────────────────┐
+    │   Revenue: $3.7B (2025)                            │
+    │   Lobbied for MI sports betting legalization        │
+    │   (HB 4311, signed Dec 2019)                       │
+    │                                                    │
+    ├── Flutter&amp;#x2F;FanDuel (NYSE: FLUT) ───────────────────┤
+    │   Revenue: $14.8B (2025)                           │
+    │   Lobbied alongside DraftKings                     │
+    │                                                    │
+    ├── MGM Resorts (NYSE: MGM) &amp;#x2F; BetMGM ──────────────┤
+    │   Revenue: $17.1B (2025)                           │
+    │   Detroit casino operator + online sports book     │
+    │                                                    │── ALL USE SAME
+    ├── Meta Platforms (NASDAQ: META) ──────────────────┤   DIGITAL AD
+    │   Revenue: $164B (2025)                            │   INFRASTRUCTURE
+    │   Political ad platform + sports betting ads       │
+    │   (see: Meta&amp;#x27;s Two Faces)                          │
+    │                                                    │
+    ├── Alphabet&amp;#x2F;Google (NASDAQ: GOOGL) ────────────────┤
+    │   Revenue: $350B (2025)                            │
+    │   Political ad platform + sports betting ads       │
+    │                                                    │
+    ├── AT&amp;amp;T (NYSE: T) ────────────────────────────────┤
+    │   Revenue: $122B (2025)                            │── CARRIER NETWORK
+    │   Carries the robocalls + texts                    │   (pipes)
+    │                                                    │
+    ├── T-Mobile (NASDAQ: TMUS) ───────────────────────┤
+    │   Revenue: $80B (2025)                             │
+    │   Carries the robocalls + texts                    │
+    │                                                    │
+    └── Dykema Gossett PLLC ───────────────────────────┘
+        Michigan&amp;#x27;s largest law firm                      
+        Formed Save Detroit Jobs (dark money)            
+        Operates Federal PAC (C00342113, $158K+)         
+        80+ client accounts managed by Renae Moore       
+        7+ political vehicles formed by W. Alan Wilk     
+        Same firm. Same compliance email.                
+        compliance@dykema.com                            
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;how-it-works&quot;&gt;How It Works&lt;&#x2F;h2&gt;
 &lt;h3 id=&quot;step-1-legalize-the-product&quot;&gt;Step 1: Legalize the Product&lt;&#x2F;h3&gt;
@@ -135,28 +136,29 @@
 &lt;p&gt;Seven point four trillion dollars of corporate infrastructure delivering robocalls, spam texts, political ads, and sports betting notifications to your phone. All using the same pipes. All using the same targeting data. All started in the same place.&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;the-same-place&quot;&gt;The Same Place&lt;&#x2F;h2&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;YOUR PHONE&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ↑&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │ robocall (political)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │ spam text (political)  &lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │ push notification (sports betting)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │ targeted ad (all of the above)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;CARRIER NETWORK (AT&amp;amp;T &#x2F; T-Mobile &#x2F; Verizon)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ↑&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;AD PLATFORMS (Meta &#x2F; Google &#x2F; programmatic)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ↑&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;MONEY (corporate treasury + dark money PAC)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ↑&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;THE SAME PLACE:&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    Fortune 500 boardrooms&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    + Dykema Gossett compliance office&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    + NASDAQ trading floor&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    + 201 Townsend Street, Lansing MI&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    + compliance@dykema.com&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;YOUR PHONE
+    ↑
+    │ robocall (political)
+    │ spam text (political)  
+    │ push notification (sports betting)
+    │ targeted ad (all of the above)
+    │
+CARRIER NETWORK (AT&amp;amp;T &amp;#x2F; T-Mobile &amp;#x2F; Verizon)
+    ↑
+    │
+AD PLATFORMS (Meta &amp;#x2F; Google &amp;#x2F; programmatic)
+    ↑
+    │
+MONEY (corporate treasury + dark money PAC)
+    ↑
+    │
+THE SAME PLACE:
+    Fortune 500 boardrooms
+    + Dykema Gossett compliance office
+    + NASDAQ trading floor
+    + 201 Townsend Street, Lansing MI
+    + compliance@dykema.com
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;The robocall that interrupted your dinner and the dark money mailer that elected the council member who sits on a convicted felon’s school board &lt;strong&gt;came from the same place.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;The sports betting ad that knows your team and the political text that knows your district &lt;strong&gt;use the same targeting data.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;The Fortune 500 company that runs the ad platform and the law firm that runs the dark money PAC &lt;strong&gt;share the same infrastructure.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;

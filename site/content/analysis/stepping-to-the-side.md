@@ -267,4 +267,4 @@ Banks is the lightning rod. Holland is the ground wire.
 
 ---
 
-*Every edge sourced to investigation graph (131,329 edges, 7,554 nodes, 36 classification methods). LARA filings, trust documents, IRS 990 data, address records, campaign finance filings. [Back to Analysis →](/analysis/) · [Three Percent →](/analysis/three-percent/) · [The Shell Game →](/analysis/the-shell-game/) · [The Boyfriend →](/analysis/the-boyfriend/)*
+*Every edge sourced to investigation graph (131,322 edges, 7,533 nodes, 36 classification methods). LARA filings, trust documents, IRS 990 data, address records, campaign finance filings. [Back to Analysis →](/analysis/) · [Three Percent →](/analysis/three-percent/) · [The Shell Game →](/analysis/the-shell-game/) · [The Boyfriend →](/analysis/the-boyfriend/)*

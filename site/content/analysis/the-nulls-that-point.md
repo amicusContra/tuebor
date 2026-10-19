@@ -211,4 +211,4 @@ Follow the nulls. They point.
 
 ---
 
-*Traced from explore.json (341 entities), graph.json (131,329 edges, 7,554 nodes), classification.json (36 methods). [Back to Analysis →](/analysis/) · [The Shell Game →](/analysis/the-shell-game/) · [Stepping to the Side →](/analysis/stepping-to-the-side/)*
+*Traced from explore.json (341 entities), graph.json (131,322 edges, 7,533 nodes), classification.json (36 methods). [Back to Analysis →](/analysis/) · [The Shell Game →](/analysis/the-shell-game/) · [Stepping to the Side →](/analysis/stepping-to-the-side/)*

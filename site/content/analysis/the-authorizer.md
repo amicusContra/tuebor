@@ -135,4 +135,4 @@ That's not oversight. That's a rubber stamp with a long arm.
 
 ---
 
-*Sourced to CMU charter school records, MDE data, PA 362, LARA filings, investigation graph (131,329 edges). [Back to Analysis →](/analysis/) · [Three Percent →](/analysis/three-percent/) · [The Board That Bored →](/analysis/the-board-that-bored/)*
+*Sourced to CMU charter school records, MDE data, PA 362, LARA filings, investigation graph (131,322 edges). [Back to Analysis →](/analysis/) · [Three Percent →](/analysis/three-percent/) · [The Board That Bored →](/analysis/the-board-that-bored/)*

@@ -56,15 +56,16 @@
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;touch-radiates-in&quot;&gt;Touch Radiates IN&lt;&#x2F;h2&gt;
 &lt;p&gt;When something contacts the barrier — a fly hitting a web strand, a molecule hitting a cell membrane, a finger touching skin, an HTTP request hitting the membrane — the signal travels &lt;strong&gt;inward.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;CONTACT (exterior → barrier surface)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;   ↓&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;TRANSDUCTION (barrier converts contact to signal)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;   ↓&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;TRANSMISSION (signal travels inward)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;   ↓&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;PROCESSING (interior classifies the signal)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;   ↓&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;RESPONSE (organism acts)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;CONTACT (exterior → barrier surface)
+   ↓
+TRANSDUCTION (barrier converts contact to signal)
+   ↓
+TRANSMISSION (signal travels inward)
+   ↓
+PROCESSING (interior classifies the signal)
+   ↓
+RESPONSE (organism acts)
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;This is &lt;strong&gt;touch.&lt;&#x2F;strong&gt; The exterior reaches the boundary. The boundary converts it to information. The information flows inward. The interior responds.&lt;&#x2F;p&gt;
 &lt;p&gt;In each lineage:&lt;&#x2F;p&gt;
 &lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Lineage&lt;&#x2F;th&gt;&lt;th&gt;Contact&lt;&#x2F;th&gt;&lt;th&gt;Transduction&lt;&#x2F;th&gt;&lt;th&gt;Signal&lt;&#x2F;th&gt;&lt;th&gt;Processing&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
@@ -110,17 +111,18 @@
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;the-convergent-pattern&quot;&gt;The Convergent Pattern&lt;&#x2F;h2&gt;
 &lt;p&gt;All five lineages converged on the same architecture:&lt;&#x2F;p&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;BARRIER (separates inside from outside)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;   +&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;EMBEDDED SENSORS (detect contact at the boundary)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;   +&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;INWARD SIGNAL (touch radiates in — what just happened)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;   +&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;OUTWARD SENSING (prediction radiates out — what&amp;#39;s coming)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;   +&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;CLASSIFICATION (sort the signal: self &#x2F; non-self &#x2F; unknown)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;   =&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;SENSING BARRIER (the membrane)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;BARRIER (separates inside from outside)
+   +
+EMBEDDED SENSORS (detect contact at the boundary)
+   +
+INWARD SIGNAL (touch radiates in — what just happened)
+   +
+OUTWARD SENSING (prediction radiates out — what&amp;#x27;s coming)
+   +
+CLASSIFICATION (sort the signal: self &amp;#x2F; non-self &amp;#x2F; unknown)
+   =
+SENSING BARRIER (the membrane)
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;This isn’t analogy. It’s convergent evolution. The same problem — “be separate but aware” — produces the same solution every time. Across 3.8 billion years. Across biology and computer science. Across protein and phospholipid and keratin and compiled code and HTTP.&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;strong&gt;The sensing barrier is an attractor in design space.&lt;&#x2F;strong&gt; Every lineage that solves the separation-awareness problem converges toward it.&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
@@ -128,10 +130,11 @@
 &lt;p&gt;The deepest form of sensing isn’t outward (detecting the environment) or inward (detecting contact). It’s the barrier &lt;strong&gt;sensing itself.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;Skin has proprioception — the sense of where your body is in space without looking. Close your eyes. Touch your nose. You can do it because your barrier (skin + muscle receptors + joint sensors) knows its own shape.&lt;&#x2F;p&gt;
 &lt;p&gt;The membrane has the same thing. It monitors its own opacity, selectivity, tempo, perturbation. It knows its own shape:&lt;&#x2F;p&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;opacity:     0.0%  → how transparent is the membrane right now?&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;selectivity: 0%    → how discriminating is the sort?&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;tempo:       0     → how fast is the breathing?&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;wave:        178   → which breath cycle are we on?&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;opacity:     0.0%  → how transparent is the membrane right now?
+selectivity: 0%    → how discriminating is the sort?
+tempo:       0     → how fast is the breathing?
+wave:        178   → which breath cycle are we on?
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;The membrane knows its own state. Like proprioception. Like closing your eyes and touching your nose. The barrier doesn’t just sense the world — it senses itself sensing the world.&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;strong&gt;That’s the Rust→primal evolution.&lt;&#x2F;strong&gt; Rust senses errors in code. Primal senses its own sensing. The self-referential loop that makes the observer observable. The π-body: 3 integer bodies + 1 irrational observer observing itself observing.&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;

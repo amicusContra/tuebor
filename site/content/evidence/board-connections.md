@@ -132,4 +132,4 @@ PCA's board has **none** of these safeguards.
 
 ---
 
-*Sourced to PCA board records, AG Office records, court records, campaign finance records, investigation graph (131,329 edges). [Back to Evidence →](/evidence/) · [Three Percent →](/analysis/three-percent/) · [Selective Enforcement →](/analysis/selective-enforcement/)*
+*Sourced to PCA board records, AG Office records, court records, campaign finance records, investigation graph (131,322 edges). [Back to Evidence →](/evidence/) · [Three Percent →](/analysis/three-percent/) · [Selective Enforcement →](/analysis/selective-enforcement/)*

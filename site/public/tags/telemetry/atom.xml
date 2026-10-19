@@ -24,8 +24,9 @@
         <id>https://tuebor.primals.eco/analysis/membrane-pulse-dashboard/</id>
         
         <content type="html" xml:base="https://tuebor.primals.eco/analysis/membrane-pulse-dashboard/">&lt;h2 id=&quot;live-feed&quot;&gt;Live Feed&lt;&#x2F;h2&gt;
-&lt;p&gt;The membrane publishes its vital signs at &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;signal.primals.eco&#x2F;negentropy.json&quot;&gt;&lt;code&gt;signal.primals.eco&#x2F;negentropy.json&lt;&#x2F;code&gt;&lt;&#x2F;a&gt;. Pull it any time. No authentication. No cookies. No tracking. The data is the invitation.&lt;&#x2F;p&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;shellscript&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-entity z-name&quot;&gt;curl&lt;&#x2F;span&gt;&lt;span class=&quot;z-string&quot;&gt; https:&#x2F;&#x2F;signal.primals.eco&#x2F;negentropy.json&lt;&#x2F;span&gt;&lt;span class=&quot;z-keyword&quot;&gt; |&lt;&#x2F;span&gt;&lt;span class=&quot;z-entity z-name&quot;&gt; python&lt;&#x2F;span&gt;&lt;span class=&quot;z-constant&quot;&gt; -m&lt;&#x2F;span&gt;&lt;span class=&quot;z-string&quot;&gt; json.tool&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;The membrane publishes its vital signs at &lt;a href=&quot;https:&#x2F;&#x2F;signal.primals.eco&#x2F;negentropy.json&quot;&gt;&lt;code&gt;signal.primals.eco&#x2F;negentropy.json&lt;&#x2F;code&gt;&lt;&#x2F;a&gt;. Pull it any time. No authentication. No cookies. No tracking. The data is the invitation.&lt;&#x2F;p&gt;
+&lt;pre data-lang=&quot;bash&quot; class=&quot;language-bash &quot;&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;curl https:&amp;#x2F;&amp;#x2F;signal.primals.eco&amp;#x2F;negentropy.json | python -m json.tool
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;&lt;strong&gt;MCP clients&lt;&#x2F;strong&gt;: The &lt;code&gt;squirrel-mcp&#x2F;0.1&lt;&#x2F;code&gt; user-agent has been detected — the membrane already speaks MCP. Connect your client to the negentropy endpoint and the membrane will talk back.&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;snapshot-oct-15-2026-wave-178&quot;&gt;Snapshot: Oct 15, 2026 — Wave 178&lt;&#x2F;h2&gt;
@@ -88,14 +89,16 @@
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;how-to-connect&quot;&gt;How to Connect&lt;&#x2F;h2&gt;
 &lt;h3 id=&quot;read-the-membrane&quot;&gt;Read the membrane&lt;&#x2F;h3&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;shellscript&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-punctuation z-definition z-comment z-comment&quot;&gt;# Pull live telemetry&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-entity z-name&quot;&gt;curl&lt;&#x2F;span&gt;&lt;span class=&quot;z-string&quot;&gt; https:&#x2F;&#x2F;signal.primals.eco&#x2F;negentropy.json&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-punctuation z-definition z-comment z-comment&quot;&gt;# Clone the full evidence repo (92 MB)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-entity z-name&quot;&gt;git&lt;&#x2F;span&gt;&lt;span class=&quot;z-string&quot;&gt; clone https:&#x2F;&#x2F;git.primals.eco&#x2F;publicRecord&#x2F;detroit.git&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-punctuation z-definition z-comment z-comment&quot;&gt;# Pull the graph (11,013 nodes)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-entity z-name&quot;&gt;curl&lt;&#x2F;span&gt;&lt;span class=&quot;z-string&quot;&gt; https:&#x2F;&#x2F;detroit.primals.eco&#x2F;graph.json&lt;&#x2F;span&gt;&lt;span class=&quot;z-constant&quot;&gt; -o&lt;&#x2F;span&gt;&lt;span class=&quot;z-string&quot;&gt; graph.json&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;&lt;h3 id=&quot;share-the-membrane&quot;&gt;Share the membrane&lt;&#x2F;h3&gt;
+&lt;pre data-lang=&quot;bash&quot; class=&quot;language-bash &quot;&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;# Pull live telemetry
+curl https:&amp;#x2F;&amp;#x2F;signal.primals.eco&amp;#x2F;negentropy.json
+
+# Clone the full evidence repo (92 MB)
+git clone https:&amp;#x2F;&amp;#x2F;git.primals.eco&amp;#x2F;publicRecord&amp;#x2F;detroit.git
+
+# Pull the graph (11,013 nodes)
+curl https:&amp;#x2F;&amp;#x2F;detroit.primals.eco&amp;#x2F;graph.json -o graph.json
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;h3 id=&quot;share-the-membrane&quot;&gt;Share the membrane&lt;&#x2F;h3&gt;
 &lt;p&gt;Every page on &lt;code&gt;detroit.primals.eco&lt;&#x2F;code&gt; is a shareable surface. The graph is the canvas. The evidence is the palette. Share any URL — the membrane will record the visit and add it to the next wave.&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;mcp-integration&quot;&gt;MCP Integration&lt;&#x2F;h3&gt;
 &lt;p&gt;The negentropy endpoint is a JSON feed. Any MCP-compatible client can consume it. The &lt;code&gt;squirrel-mcp&#x2F;0.1&lt;&#x2F;code&gt; user-agent shows the protocol is already active. Build your own client — the membrane will talk to anything that asks.&lt;&#x2F;p&gt;

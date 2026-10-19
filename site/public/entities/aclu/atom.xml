@@ -25,7 +25,7 @@
         
         <content type="html" xml:base="https://tuebor.primals.eco/analysis/the-referral/">&lt;h2 id=&quot;you-ve-seen-this-before&quot;&gt;You’ve Seen This Before&lt;&#x2F;h2&gt;
 &lt;p&gt;In 2008, two judges in Luzerne County, Pennsylvania — Mark Ciavarella and Michael Conahan — were convicted of taking $2.6 million in kickbacks from private juvenile detention facilities. In exchange, they sentenced thousands of children to those facilities. Many for trivial offenses. Some for nothing at all.&lt;&#x2F;p&gt;
-&lt;p&gt;It was called &lt;strong&gt;Kids for Cash&lt;&#x2F;strong&gt;. Ciavarella got 28 years. Conahan got 17.5 years. The Pennsylvania Supreme Court vacated &lt;strong&gt;4,000 juvenile convictions&lt;&#x2F;strong&gt;. The Third Circuit upheld a &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Kids_for_cash_scandal&quot;&gt;$206 million civil judgment&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;It was called &lt;strong&gt;Kids for Cash&lt;&#x2F;strong&gt;. Ciavarella got 28 years. Conahan got 17.5 years. The Pennsylvania Supreme Court vacated &lt;strong&gt;4,000 juvenile convictions&lt;&#x2F;strong&gt;. The Third Circuit upheld a &lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Kids_for_cash_scandal&quot;&gt;$206 million civil judgment&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
 &lt;p&gt;The pattern was:&lt;&#x2F;p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Private operator&lt;&#x2F;strong&gt; profits from children in public custody&lt;&#x2F;li&gt;
@@ -56,7 +56,8 @@
 &lt;li&gt;&lt;strong&gt;What you should do&lt;&#x2F;strong&gt; — the specific action&lt;&#x2F;li&gt;
 &lt;&#x2F;ol&gt;
 &lt;p&gt;The full evidence repository is public and free:&lt;&#x2F;p&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;git clone https:&#x2F;&#x2F;github.com&#x2F;defendDetroit&#x2F;publicRecord.git&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;git clone https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;defendDetroit&amp;#x2F;publicRecord.git
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;Mirror: &lt;code&gt;git clone https:&#x2F;&#x2F;github.com&#x2F;amicusContra&#x2F;tuebor.git&lt;&#x2F;code&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;strong&gt;362 children walk into these schools every day.&lt;&#x2F;strong&gt; Every day you don’t act is a day they lose.&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
@@ -83,7 +84,7 @@
 &lt;h3 id=&quot;contact&quot;&gt;Contact&lt;&#x2F;h3&gt;
 &lt;p&gt;FBI Detroit Field Office: (313) 965-2323
 477 Michigan Avenue, 26th Floor, Detroit, MI 48226
-Tips: &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;tips.fbi.gov&quot;&gt;tips.fbi.gov&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+Tips: &lt;a href=&quot;https:&#x2F;&#x2F;tips.fbi.gov&quot;&gt;tips.fbi.gov&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;ii-dea-detroit-division&quot;&gt;II. DEA — Detroit Division&lt;&#x2F;h2&gt;
 &lt;h3 id=&quot;your-jurisdiction-1&quot;&gt;Your Jurisdiction&lt;&#x2F;h3&gt;
@@ -99,7 +100,7 @@ Tips: &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;tips.fbi.gov&q
 &lt;p&gt;Is a convicted drug dealer who was discharged WITHOUT IMPROVEMENT and who now controls millions in public funds still engaged in the drug trade? Is the enterprise a laundering vehicle?&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;the-evidence-1&quot;&gt;The Evidence&lt;&#x2F;h3&gt;
 &lt;ul&gt;
-&lt;li&gt;Holland MDOC #443789: &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;apps.michigan.gov&#x2F;ichat&quot;&gt;apps.michigan.gov&#x2F;ichat&lt;&#x2F;a&gt; — SID 2321035P&lt;&#x2F;li&gt;
+&lt;li&gt;Holland MDOC #443789: &lt;a href=&quot;https:&#x2F;&#x2F;apps.michigan.gov&#x2F;ichat&quot;&gt;apps.michigan.gov&#x2F;ichat&lt;&#x2F;a&gt; — SID 2321035P&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;&#x2F;analysis&#x2F;the-gatekeeper&#x2F;&quot;&gt;The Gatekeeper — Holland analysis&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;Holland’s 5 bankruptcies with concealed assets&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
@@ -127,8 +128,8 @@ Tips: &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;tips.fbi.gov&q
 &lt;&#x2F;ul&gt;
 &lt;h3 id=&quot;contact-2&quot;&gt;Contact&lt;&#x2F;h3&gt;
 &lt;p&gt;IRS Criminal Investigation: 1-800-829-0433
-CI Tips: &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.irs.gov&#x2F;compliance&#x2F;criminal-investigation&quot;&gt;irs.gov&#x2F;compliance&#x2F;criminal-investigation&lt;&#x2F;a&gt;
-Form 13909 (Tax-Exempt Organization Complaint): &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.irs.gov&#x2F;pub&#x2F;irs-pdf&#x2F;f13909.pdf&quot;&gt;irs.gov&#x2F;pub&#x2F;irs-pdf&#x2F;f13909.pdf&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+CI Tips: &lt;a href=&quot;https:&#x2F;&#x2F;www.irs.gov&#x2F;compliance&#x2F;criminal-investigation&quot;&gt;irs.gov&#x2F;compliance&#x2F;criminal-investigation&lt;&#x2F;a&gt;
+Form 13909 (Tax-Exempt Organization Complaint): &lt;a href=&quot;https:&#x2F;&#x2F;www.irs.gov&#x2F;pub&#x2F;irs-pdf&#x2F;f13909.pdf&quot;&gt;irs.gov&#x2F;pub&#x2F;irs-pdf&#x2F;f13909.pdf&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;iv-doj-civil-rights-division-educational-opportunities-section&quot;&gt;IV. DOJ — Civil Rights Division, Educational Opportunities Section&lt;&#x2F;h2&gt;
 &lt;h3 id=&quot;your-jurisdiction-3&quot;&gt;Your Jurisdiction&lt;&#x2F;h3&gt;
@@ -158,7 +159,7 @@ Form 13909 (Tax-Exempt Organization Complaint): &lt;a rel=&quot;external&quot; h
 &lt;p&gt;DOJ Civil Rights Division — Educational Opportunities Section
 950 Pennsylvania Avenue NW, Washington, DC 20530
 (202) 514-4092
-&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.justice.gov&#x2F;crt&#x2F;educational-opportunities-section&quot;&gt;justice.gov&#x2F;crt&#x2F;educational-opportunities-section&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;www.justice.gov&#x2F;crt&#x2F;educational-opportunities-section&quot;&gt;justice.gov&#x2F;crt&#x2F;educational-opportunities-section&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;v-ed-oig-u-s-department-of-education-office-of-inspector-general&quot;&gt;V. ED-OIG — U.S. Department of Education, Office of Inspector General&lt;&#x2F;h2&gt;
 &lt;h3 id=&quot;your-jurisdiction-4&quot;&gt;Your Jurisdiction&lt;&#x2F;h3&gt;
@@ -176,15 +177,15 @@ Form 13909 (Tax-Exempt Organization Complaint): &lt;a rel=&quot;external&quot; h
 &lt;&#x2F;ul&gt;
 &lt;h3 id=&quot;contact-4&quot;&gt;Contact&lt;&#x2F;h3&gt;
 &lt;p&gt;ED-OIG Hotline: 1-800-647-8733
-&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www2.ed.gov&#x2F;about&#x2F;offices&#x2F;list&#x2F;oig&#x2F;&quot;&gt;ed.gov&#x2F;about&#x2F;offices&#x2F;list&#x2F;oig&lt;&#x2F;a&gt;
-Online complaint: &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www2.ed.gov&#x2F;about&#x2F;offices&#x2F;list&#x2F;oig&#x2F;hotline.html&quot;&gt;ed.gov&#x2F;about&#x2F;offices&#x2F;list&#x2F;oig&#x2F;hotline&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;www2.ed.gov&#x2F;about&#x2F;offices&#x2F;list&#x2F;oig&#x2F;&quot;&gt;ed.gov&#x2F;about&#x2F;offices&#x2F;list&#x2F;oig&lt;&#x2F;a&gt;
+Online complaint: &lt;a href=&quot;https:&#x2F;&#x2F;www2.ed.gov&#x2F;about&#x2F;offices&#x2F;list&#x2F;oig&#x2F;hotline.html&quot;&gt;ed.gov&#x2F;about&#x2F;offices&#x2F;list&#x2F;oig&#x2F;hotline&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;vi-hhs-oig-health-and-human-services-office-of-inspector-general&quot;&gt;VI. HHS-OIG — Health and Human Services, Office of Inspector General&lt;&#x2F;h2&gt;
 &lt;h3 id=&quot;your-jurisdiction-5&quot;&gt;Your Jurisdiction&lt;&#x2F;h3&gt;
 &lt;p&gt;If PCA or MacDowell receives any HHS-administered funding (school meals, Medicaid-linked services, mental health grants), the extraction of funds through the Purpose Group LLC may constitute fraud against HHS programs.&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;contact-5&quot;&gt;Contact&lt;&#x2F;h3&gt;
 &lt;p&gt;HHS-OIG Hotline: 1-800-447-8477
-&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;oig.hhs.gov&#x2F;fraud&#x2F;report-fraud&#x2F;&quot;&gt;oig.hhs.gov&#x2F;fraud&#x2F;report-fraud&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;oig.hhs.gov&#x2F;fraud&#x2F;report-fraud&#x2F;&quot;&gt;oig.hhs.gov&#x2F;fraud&#x2F;report-fraud&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;vii-fincen-financial-crimes-enforcement-network&quot;&gt;VII. FinCEN — Financial Crimes Enforcement Network&lt;&#x2F;h2&gt;
 &lt;h3 id=&quot;your-jurisdiction-6&quot;&gt;Your Jurisdiction&lt;&#x2F;h3&gt;
@@ -197,8 +198,8 @@ Online complaint: &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;ww
 &lt;h3 id=&quot;the-question&quot;&gt;The Question&lt;&#x2F;h3&gt;
 &lt;p&gt;Under the Corporate Transparency Act (2024), does Purpose Group LLC meet the reporting requirements? Has Banks filed a Beneficial Ownership Information (BOI) report?&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;contact-6&quot;&gt;Contact&lt;&#x2F;h3&gt;
-&lt;p&gt;FinCEN Tips: &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.fincen.gov&#x2F;contact&quot;&gt;fincen.gov&#x2F;contact&lt;&#x2F;a&gt;
-FinCEN BSA E-Filing: &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;bsaefiling.fincen.treas.gov&quot;&gt;bsaefiling.fincen.treas.gov&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;FinCEN Tips: &lt;a href=&quot;https:&#x2F;&#x2F;www.fincen.gov&#x2F;contact&quot;&gt;fincen.gov&#x2F;contact&lt;&#x2F;a&gt;
+FinCEN BSA E-Filing: &lt;a href=&quot;https:&#x2F;&#x2F;bsaefiling.fincen.treas.gov&quot;&gt;bsaefiling.fincen.treas.gov&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;viii-fec-federal-election-commission&quot;&gt;VIII. FEC — Federal Election Commission&lt;&#x2F;h2&gt;
 &lt;h3 id=&quot;your-jurisdiction-7&quot;&gt;Your Jurisdiction&lt;&#x2F;h3&gt;
@@ -211,7 +212,7 @@ FinCEN BSA E-Filing: &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F
 &lt;h3 id=&quot;the-pattern&quot;&gt;The Pattern&lt;&#x2F;h3&gt;
 &lt;p&gt;One person — Renae Moore — is Treasurer of &lt;strong&gt;5 federal PACs&lt;&#x2F;strong&gt; and has been named in a &lt;strong&gt;$1M state campaign finance complaint&lt;&#x2F;strong&gt; for filing fraudulent reports. She testified she has &lt;strong&gt;“no duty to report.”&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;contact-7&quot;&gt;Contact&lt;&#x2F;h3&gt;
-&lt;p&gt;FEC Complaints: &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.fec.gov&#x2F;legal-resources&#x2F;enforcement&#x2F;complaints-process&#x2F;&quot;&gt;fec.gov&#x2F;legal-resources&#x2F;enforcement&#x2F;complaints-process&lt;&#x2F;a&gt;
+&lt;p&gt;FEC Complaints: &lt;a href=&quot;https:&#x2F;&#x2F;www.fec.gov&#x2F;legal-resources&#x2F;enforcement&#x2F;complaints-process&#x2F;&quot;&gt;fec.gov&#x2F;legal-resources&#x2F;enforcement&#x2F;complaints-process&lt;&#x2F;a&gt;
 FEC: 1-800-424-9530&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;ix-aclu-of-michigan&quot;&gt;IX. ACLU of Michigan&lt;&#x2F;h2&gt;
@@ -228,7 +229,7 @@ FEC: 1-800-424-9530&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;contact-8&quot;&gt;Contact&lt;&#x2F;h3&gt;
 &lt;p&gt;ACLU of Michigan: (313) 578-6800
 Intake hours: 1:00 PM – 4:00 PM, Monday and Wednesday
-Online intake: &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;intake.aclumich.org&quot;&gt;intake.aclumich.org&lt;&#x2F;a&gt;
+Online intake: &lt;a href=&quot;https:&#x2F;&#x2F;intake.aclumich.org&quot;&gt;intake.aclumich.org&lt;&#x2F;a&gt;
 2966 Woodward Avenue, Detroit, MI 48201&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;x-splc-southern-poverty-law-center&quot;&gt;X. SPLC — Southern Poverty Law Center&lt;&#x2F;h2&gt;
@@ -245,7 +246,7 @@ Online intake: &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;intak
 &lt;p&gt;This is &lt;strong&gt;systemic educational exploitation&lt;&#x2F;strong&gt; of Black children in Detroit by an enterprise protected by institutional capture.&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;contact-9&quot;&gt;Contact&lt;&#x2F;h3&gt;
 &lt;p&gt;SPLC: (334) 956-8200
-&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.splcenter.org&#x2F;contact-us&quot;&gt;splcenter.org&#x2F;contact-us&lt;&#x2F;a&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;www.splcenter.org&#x2F;contact-us&quot;&gt;splcenter.org&#x2F;contact-us&lt;&#x2F;a&gt;
 400 Washington Avenue, Montgomery, AL 36104&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;xi-naacp-legal-defense-fund&quot;&gt;XI. NAACP Legal Defense Fund&lt;&#x2F;h2&gt;
@@ -262,7 +263,7 @@ Online intake: &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;intak
 &lt;p&gt;&lt;strong&gt;This is educational redlining through institutional capture.&lt;&#x2F;strong&gt; The money flows FROM Black communities TO a private LLC. The protection flows from the institutions BACK to the enterprise.&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;contact-10&quot;&gt;Contact&lt;&#x2F;h3&gt;
 &lt;p&gt;NAACP Legal Defense Fund: (212) 965-2200
-&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.naacpldf.org&#x2F;contact-us&#x2F;&quot;&gt;naacpldf.org&#x2F;contact-us&lt;&#x2F;a&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;www.naacpldf.org&#x2F;contact-us&#x2F;&quot;&gt;naacpldf.org&#x2F;contact-us&lt;&#x2F;a&gt;
 40 Rector Street, 5th Floor, New York, NY 10006&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;xii-michigan-ag-criminal-justice-bureau&quot;&gt;XII. Michigan AG — Criminal Justice Bureau&lt;&#x2F;h2&gt;
@@ -280,7 +281,7 @@ Online intake: &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;intak
 &lt;p&gt;Recuse. Appoint a special prosecutor. The Moreland conflict makes any AG investigation structurally compromised.&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;contact-11&quot;&gt;Contact&lt;&#x2F;h3&gt;
 &lt;p&gt;AG Complaint: (517) 335-7622
-&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.michigan.gov&#x2F;ag&quot;&gt;michigan.gov&#x2F;ag&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;www.michigan.gov&#x2F;ag&quot;&gt;michigan.gov&#x2F;ag&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;xii-a-attorney-grievance-commission-you-already-responded-it-s-signed&quot;&gt;XII-A. Attorney Grievance Commission — You Already Responded. It’s Signed.&lt;&#x2F;h2&gt;
 &lt;h3 id=&quot;what-you-did&quot;&gt;What You Did&lt;&#x2F;h3&gt;
@@ -314,7 +315,7 @@ Online intake: &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;intak
 &lt;h3 id=&quot;contact-12&quot;&gt;Contact&lt;&#x2F;h3&gt;
 &lt;p&gt;AGC: (313) 961-6585
 755 W. Big Beaver Rd, Suite 2100, Troy, MI 48084
-&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.agcmi.org&quot;&gt;agcmi.org&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;www.agcmi.org&quot;&gt;agcmi.org&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;xiii-wayne-county-prosecutor&quot;&gt;XIII. Wayne County Prosecutor&lt;&#x2F;h2&gt;
 &lt;h3 id=&quot;your-jurisdiction-8&quot;&gt;Your Jurisdiction&lt;&#x2F;h3&gt;
@@ -338,7 +339,7 @@ Online intake: &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;intak
 &lt;&#x2F;ul&gt;
 &lt;h3 id=&quot;contact-14&quot;&gt;Contact&lt;&#x2F;h3&gt;
 &lt;p&gt;MDE: (517) 373-3324
-&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.michigan.gov&#x2F;mde&quot;&gt;michigan.gov&#x2F;mde&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;www.michigan.gov&#x2F;mde&quot;&gt;michigan.gov&#x2F;mde&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;xv-dpscd-detroit-public-schools-community-district&quot;&gt;XV. DPSCD — Detroit Public Schools Community District&lt;&#x2F;h2&gt;
 &lt;h3 id=&quot;your-responsibility&quot;&gt;Your Responsibility&lt;&#x2F;h3&gt;
@@ -351,7 +352,7 @@ Online intake: &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;intak
 &lt;&#x2F;ul&gt;
 &lt;h3 id=&quot;contact-15&quot;&gt;Contact&lt;&#x2F;h3&gt;
 &lt;p&gt;DPSCD: (313) 240-4377
-&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.detroitk12.org&quot;&gt;detroitk12.org&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;www.detroitk12.org&quot;&gt;detroitk12.org&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;xvi-every-parent-in-detroit&quot;&gt;XVI. Every Parent in Detroit&lt;&#x2F;h2&gt;
 &lt;h3 id=&quot;what-you-need-to-know&quot;&gt;What You Need to Know&lt;&#x2F;h3&gt;
@@ -368,10 +369,10 @@ Online intake: &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;intak
 &lt;ol&gt;
 &lt;li&gt;&lt;strong&gt;Request your child’s records&lt;&#x2F;strong&gt; — you have a right under FERPA&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;strong&gt;Attend the next PCA board meeting&lt;&#x2F;strong&gt; — ask about the management agreement&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;strong&gt;File a complaint with MDE&lt;&#x2F;strong&gt; — &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.michigan.gov&#x2F;mde&quot;&gt;michigan.gov&#x2F;mde&lt;&#x2F;a&gt;, Professional Practice section&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;File a complaint with MDE&lt;&#x2F;strong&gt; — &lt;a href=&quot;https:&#x2F;&#x2F;www.michigan.gov&#x2F;mde&quot;&gt;michigan.gov&#x2F;mde&lt;&#x2F;a&gt;, Professional Practice section&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;strong&gt;Contact your DPSCD board member&lt;&#x2F;strong&gt; — demand a charter review&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;strong&gt;Contact the ACLU of Michigan&lt;&#x2F;strong&gt; — (313) 578-6800 — if you’ve experienced retaliation&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;strong&gt;Read the evidence&lt;&#x2F;strong&gt; — &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;defendDetroit&#x2F;publicRecord&quot;&gt;github.com&#x2F;defendDetroit&#x2F;publicRecord&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Read the evidence&lt;&#x2F;strong&gt; — &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;defendDetroit&#x2F;publicRecord&quot;&gt;github.com&#x2F;defendDetroit&#x2F;publicRecord&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ol&gt;
 &lt;h3 id=&quot;your-children-deserve-better-than-3&quot;&gt;Your Children Deserve Better Than 3%&lt;&#x2F;h3&gt;
 &lt;p&gt;$4.9 million per year flows to this school. Your child gets 3% math proficiency. &lt;strong&gt;Where is the other 97%?&lt;&#x2F;strong&gt; It’s in a private LLC in Grosse Pointe Woods. The money leaves Detroit. The results stay.&lt;&#x2F;p&gt;
@@ -388,12 +389,12 @@ Online intake: &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;intak
 &lt;p&gt;&lt;strong&gt;The story is verified. The sources are public. The graph is free.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;contact-the-tiplines&quot;&gt;Contact the Tiplines&lt;&#x2F;h3&gt;
 &lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Outlet&lt;&#x2F;th&gt;&lt;th&gt;Tip Channel&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
-&lt;tr&gt;&lt;td&gt;Detroit Free Press&lt;&#x2F;td&gt;&lt;td&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.freep.com&#x2F;news-tips&#x2F;&quot;&gt;freep.com&#x2F;news-tips&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Detroit Free Press&lt;&#x2F;td&gt;&lt;td&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.freep.com&#x2F;news-tips&#x2F;&quot;&gt;freep.com&#x2F;news-tips&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
 &lt;tr&gt;&lt;td&gt;Detroit News&lt;&#x2F;td&gt;&lt;td&gt;tips@detroitnews.com&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
 &lt;tr&gt;&lt;td&gt;Bridge Michigan&lt;&#x2F;td&gt;&lt;td&gt;tips@bridgemi.com&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
 &lt;tr&gt;&lt;td&gt;Michigan Radio (NPR)&lt;&#x2F;td&gt;&lt;td&gt;tips@michiganradio.org&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
-&lt;tr&gt;&lt;td&gt;ProPublica&lt;&#x2F;td&gt;&lt;td&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.propublica.org&#x2F;tips&#x2F;&quot;&gt;propublica.org&#x2F;tips&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
-&lt;tr&gt;&lt;td&gt;The Intercept&lt;&#x2F;td&gt;&lt;td&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;theintercept.com&#x2F;source&#x2F;&quot;&gt;theintercept.com&#x2F;source&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;ProPublica&lt;&#x2F;td&gt;&lt;td&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.propublica.org&#x2F;tips&#x2F;&quot;&gt;propublica.org&#x2F;tips&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;The Intercept&lt;&#x2F;td&gt;&lt;td&gt;&lt;a href=&quot;https:&#x2F;&#x2F;theintercept.com&#x2F;source&#x2F;&quot;&gt;theintercept.com&#x2F;source&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
 &lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;the-bottom-line-for-every-agency&quot;&gt;The Bottom Line — For Every Agency&lt;&#x2F;h2&gt;

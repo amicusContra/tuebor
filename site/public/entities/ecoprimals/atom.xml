@@ -51,10 +51,11 @@
 &lt;&#x2F;ul&gt;
 &lt;p&gt;&lt;strong&gt;Pipeline&lt;&#x2F;strong&gt;: FASTA → structure → confidence → provenance. Every prediction gets a cryptographic provenance chain — you can prove which sequence produced which structure, when, on what hardware.&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;strong&gt;Target benchmark&lt;&#x2F;strong&gt;: 8.3 million LTEE structure predictions. ~$1,000 on 4× RTX 4070 vs ~$83,000 on cloud. Same physics. &lt;strong&gt;83× cheaper.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;shellscript&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-entity z-name&quot;&gt;git&lt;&#x2F;span&gt;&lt;span class=&quot;z-string&quot;&gt; clone https:&#x2F;&#x2F;github.com&#x2F;syntheticChemistry&#x2F;neuralSpring&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-support&quot;&gt;cd&lt;&#x2F;span&gt;&lt;span class=&quot;z-string&quot;&gt; neuralSpring&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-entity z-name&quot;&gt;cargo&lt;&#x2F;span&gt;&lt;span class=&quot;z-string&quot;&gt; run&lt;&#x2F;span&gt;&lt;span class=&quot;z-constant&quot;&gt; --release --bin&lt;&#x2F;span&gt;&lt;span class=&quot;z-string&quot;&gt; validate_alphafold_primitives&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-punctuation z-definition z-comment z-comment&quot;&gt;# 154 checks pass at 1e-10 tolerance&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre data-lang=&quot;bash&quot; class=&quot;language-bash &quot;&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;git clone https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;syntheticChemistry&amp;#x2F;neuralSpring
+cd neuralSpring
+cargo run --release --bin validate_alphafold_primitives
+# 154 checks pass at 1e-10 tolerance
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;hr &#x2F;&gt;
 &lt;h3 id=&quot;pill-sovereign-pharmacometrics-healthspring&quot;&gt;💊 Sovereign Pharmacometrics — healthSpring&lt;&#x2F;h3&gt;
 &lt;p&gt;&lt;strong&gt;What it does&lt;&#x2F;strong&gt;: Full PK&#x2F;PD modeling. Population pharmacokinetics. Drug discovery screening. Replaces NONMEM ($3,600&#x2F;year) and Monolix ($5,000&#x2F;year).&lt;&#x2F;p&gt;
@@ -66,9 +67,10 @@
 &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Biosignal&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;Pan-Tompkins ECG R-peak detection, HRV analysis, SpO2, EDA, arrhythmia classification, multi-channel fusion&lt;&#x2F;td&gt;&lt;td&gt;Validated&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
 &lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
 &lt;p&gt;&lt;strong&gt;For pharmacologists&lt;&#x2F;strong&gt;: Your NONMEM license costs $3,600&#x2F;year. Your Monolix license costs $5,000&#x2F;year. Both require specific operating systems, specific compilers, and specific training. healthSpring does the same math in Rust. It compiles on any platform. It costs $0. And your patient data &lt;strong&gt;never leaves your machine&lt;&#x2F;strong&gt;.&lt;&#x2F;p&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;shellscript&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-entity z-name&quot;&gt;git&lt;&#x2F;span&gt;&lt;span class=&quot;z-string&quot;&gt; clone https:&#x2F;&#x2F;github.com&#x2F;syntheticChemistry&#x2F;healthSpring&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-support&quot;&gt;cd&lt;&#x2F;span&gt;&lt;span class=&quot;z-string&quot;&gt; healthSpring&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-entity z-name&quot;&gt;cargo&lt;&#x2F;span&gt;&lt;span class=&quot;z-string&quot;&gt; run&lt;&#x2F;span&gt;&lt;span class=&quot;z-constant&quot;&gt; --release --bin&lt;&#x2F;span&gt;&lt;span class=&quot;z-string&quot;&gt; validate_pkpd&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre data-lang=&quot;bash&quot; class=&quot;language-bash &quot;&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;git clone https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;syntheticChemistry&amp;#x2F;healthSpring
+cd healthSpring
+cargo run --release --bin validate_pkpd
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;&lt;strong&gt;Interactive Explorer&lt;&#x2F;strong&gt;: The Gonzales Interactive Explorer gives you IC50 curves, PK decay, tissue geometry, and hormesis — live charts, all computed locally.&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;h3 id=&quot;microbe-sovereign-metagenomics-wetspring&quot;&gt;🦠 Sovereign Metagenomics — wetSpring&lt;&#x2F;h3&gt;
@@ -85,10 +87,11 @@
 &lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
 &lt;p&gt;&lt;strong&gt;7,083+ validation checks.&lt;&#x2F;strong&gt; Validated against 170 NCBI metagenomes and 11.9M paired-end reads. Python→Rust parity at machine-epsilon precision.&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;strong&gt;For microbiologists&lt;&#x2F;strong&gt;: You’re currently waiting in a QIIME2 Conda environment that takes 45 minutes to install and breaks every Python update. Or you’re uploading your patient sequences to Galaxy (someone else’s server). wetSpring compiles in 3 minutes and runs locally. Your sequences. Your machine. Your results.&lt;&#x2F;p&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;shellscript&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-entity z-name&quot;&gt;git&lt;&#x2F;span&gt;&lt;span class=&quot;z-string&quot;&gt; clone https:&#x2F;&#x2F;github.com&#x2F;syntheticChemistry&#x2F;wetSpring&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-support&quot;&gt;cd&lt;&#x2F;span&gt;&lt;span class=&quot;z-string&quot;&gt; wetSpring&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-entity z-name&quot;&gt;cargo&lt;&#x2F;span&gt;&lt;span class=&quot;z-string&quot;&gt; run&lt;&#x2F;span&gt;&lt;span class=&quot;z-constant&quot;&gt; --release --bin&lt;&#x2F;span&gt;&lt;span class=&quot;z-string&quot;&gt; validate_16s_pipeline&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-punctuation z-definition z-comment z-comment&quot;&gt;# 7,083 checks — FASTQ → taxonomy → diversity → UniFrac&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre data-lang=&quot;bash&quot; class=&quot;language-bash &quot;&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;git clone https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;syntheticChemistry&amp;#x2F;wetSpring
+cd wetSpring
+cargo run --release --bin validate_16s_pipeline
+# 7,083 checks — FASTQ → taxonomy → diversity → UniFrac
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;&lt;strong&gt;Also in wetSpring&lt;&#x2F;strong&gt;: LC-MS feature extraction and PFAS screening. If you’re doing analytical chemistry, the mzML parser and peak detection are validated and ready.&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;h3 id=&quot;test-tube-drug-repurposing-immunology&quot;&gt;🧪 Drug Repurposing &amp;amp; Immunology&lt;&#x2F;h3&gt;
@@ -154,30 +157,38 @@
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;how-to-start-right-now-tonight&quot;&gt;How to Start (Right Now, Tonight)&lt;&#x2F;h2&gt;
 &lt;h3 id=&quot;if-you-re-a-clinician-with-patient-data&quot;&gt;If you’re a clinician with patient data:&lt;&#x2F;h3&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;shellscript&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-punctuation z-definition z-comment z-comment&quot;&gt;# Protein structure prediction&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-entity z-name&quot;&gt;git&lt;&#x2F;span&gt;&lt;span class=&quot;z-string&quot;&gt; clone https:&#x2F;&#x2F;github.com&#x2F;syntheticChemistry&#x2F;neuralSpring&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-entity z-name&quot;&gt;cargo&lt;&#x2F;span&gt;&lt;span class=&quot;z-string&quot;&gt; run&lt;&#x2F;span&gt;&lt;span class=&quot;z-constant&quot;&gt; --release --bin&lt;&#x2F;span&gt;&lt;span class=&quot;z-string&quot;&gt; validate_alphafold_primitives&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-punctuation z-definition z-comment z-comment&quot;&gt;# PK&#x2F;PD modeling (replaces NONMEM)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-entity z-name&quot;&gt;git&lt;&#x2F;span&gt;&lt;span class=&quot;z-string&quot;&gt; clone https:&#x2F;&#x2F;github.com&#x2F;syntheticChemistry&#x2F;healthSpring&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-entity z-name&quot;&gt;cargo&lt;&#x2F;span&gt;&lt;span class=&quot;z-string&quot;&gt; run&lt;&#x2F;span&gt;&lt;span class=&quot;z-constant&quot;&gt; --release --bin&lt;&#x2F;span&gt;&lt;span class=&quot;z-string&quot;&gt; validate_pkpd&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-punctuation z-definition z-comment z-comment&quot;&gt;# Your data stays on YOUR machine. Always.&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;&lt;h3 id=&quot;if-you-re-a-microbiologist-with-sequences&quot;&gt;If you’re a microbiologist with sequences:&lt;&#x2F;h3&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;shellscript&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-punctuation z-definition z-comment z-comment&quot;&gt;# Sovereign 16S pipeline (replaces QIIME2&#x2F;Galaxy)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-entity z-name&quot;&gt;git&lt;&#x2F;span&gt;&lt;span class=&quot;z-string&quot;&gt; clone https:&#x2F;&#x2F;github.com&#x2F;syntheticChemistry&#x2F;wetSpring&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-entity z-name&quot;&gt;cargo&lt;&#x2F;span&gt;&lt;span class=&quot;z-string&quot;&gt; run&lt;&#x2F;span&gt;&lt;span class=&quot;z-constant&quot;&gt; --release --bin&lt;&#x2F;span&gt;&lt;span class=&quot;z-string&quot;&gt; validate_16s_pipeline&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-punctuation z-definition z-comment z-comment&quot;&gt;# LC-MS and PFAS screening&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-entity z-name&quot;&gt;cargo&lt;&#x2F;span&gt;&lt;span class=&quot;z-string&quot;&gt; run&lt;&#x2F;span&gt;&lt;span class=&quot;z-constant&quot;&gt; --release --bin&lt;&#x2F;span&gt;&lt;span class=&quot;z-string&quot;&gt; validate_lcms&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;&lt;h3 id=&quot;if-you-re-a-pharmacologist&quot;&gt;If you’re a pharmacologist:&lt;&#x2F;h3&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;shellscript&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-punctuation z-definition z-comment z-comment&quot;&gt;# Drug repurposing pipeline&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-entity z-name&quot;&gt;git&lt;&#x2F;span&gt;&lt;span class=&quot;z-string&quot;&gt; clone https:&#x2F;&#x2F;github.com&#x2F;syntheticChemistry&#x2F;healthSpring&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-entity z-name&quot;&gt;cargo&lt;&#x2F;span&gt;&lt;span class=&quot;z-string&quot;&gt; run&lt;&#x2F;span&gt;&lt;span class=&quot;z-constant&quot;&gt; --release --bin&lt;&#x2F;span&gt;&lt;span class=&quot;z-string&quot;&gt; validate_drug_discovery&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-punctuation z-definition z-comment z-comment&quot;&gt;# Interactive IC50 &#x2F; PK decay explorer&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-entity z-name&quot;&gt;cargo&lt;&#x2F;span&gt;&lt;span class=&quot;z-string&quot;&gt; run&lt;&#x2F;span&gt;&lt;span class=&quot;z-constant&quot;&gt; --release --bin&lt;&#x2F;span&gt;&lt;span class=&quot;z-string&quot;&gt; gonzales_explorer&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;&lt;h3 id=&quot;if-you-re-a-data-scientist-with-environmental-samples&quot;&gt;If you’re a data scientist with environmental samples:&lt;&#x2F;h3&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;shellscript&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-punctuation z-definition z-comment z-comment&quot;&gt;# 100 Michigan weather stations, 80 years&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-entity z-name&quot;&gt;git&lt;&#x2F;span&gt;&lt;span class=&quot;z-string&quot;&gt; clone https:&#x2F;&#x2F;github.com&#x2F;syntheticChemistry&#x2F;airSpring&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-entity z-name&quot;&gt;cargo&lt;&#x2F;span&gt;&lt;span class=&quot;z-string&quot;&gt; run&lt;&#x2F;span&gt;&lt;span class=&quot;z-constant&quot;&gt; --release --bin&lt;&#x2F;span&gt;&lt;span class=&quot;z-string&quot;&gt; validate_et0&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;&lt;h3 id=&quot;requirements&quot;&gt;Requirements:&lt;&#x2F;h3&gt;
+&lt;pre data-lang=&quot;bash&quot; class=&quot;language-bash &quot;&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;# Protein structure prediction
+git clone https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;syntheticChemistry&amp;#x2F;neuralSpring
+cargo run --release --bin validate_alphafold_primitives
+
+# PK&amp;#x2F;PD modeling (replaces NONMEM)
+git clone https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;syntheticChemistry&amp;#x2F;healthSpring
+cargo run --release --bin validate_pkpd
+
+# Your data stays on YOUR machine. Always.
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;h3 id=&quot;if-you-re-a-microbiologist-with-sequences&quot;&gt;If you’re a microbiologist with sequences:&lt;&#x2F;h3&gt;
+&lt;pre data-lang=&quot;bash&quot; class=&quot;language-bash &quot;&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;# Sovereign 16S pipeline (replaces QIIME2&amp;#x2F;Galaxy)
+git clone https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;syntheticChemistry&amp;#x2F;wetSpring
+cargo run --release --bin validate_16s_pipeline
+
+# LC-MS and PFAS screening
+cargo run --release --bin validate_lcms
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;h3 id=&quot;if-you-re-a-pharmacologist&quot;&gt;If you’re a pharmacologist:&lt;&#x2F;h3&gt;
+&lt;pre data-lang=&quot;bash&quot; class=&quot;language-bash &quot;&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;# Drug repurposing pipeline
+git clone https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;syntheticChemistry&amp;#x2F;healthSpring
+cargo run --release --bin validate_drug_discovery
+
+# Interactive IC50 &amp;#x2F; PK decay explorer
+cargo run --release --bin gonzales_explorer
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;h3 id=&quot;if-you-re-a-data-scientist-with-environmental-samples&quot;&gt;If you’re a data scientist with environmental samples:&lt;&#x2F;h3&gt;
+&lt;pre data-lang=&quot;bash&quot; class=&quot;language-bash &quot;&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;# 100 Michigan weather stations, 80 years
+git clone https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;syntheticChemistry&amp;#x2F;airSpring
+cargo run --release --bin validate_et0
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;h3 id=&quot;requirements&quot;&gt;Requirements:&lt;&#x2F;h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Rust&lt;&#x2F;strong&gt; (install: &lt;code&gt;curl --proto &#x27;=https&#x27; --tlsv1.2 -sSf https:&#x2F;&#x2F;sh.rustup.rs | sh&lt;&#x2F;code&gt;)&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;strong&gt;A Vulkan-capable GPU&lt;&#x2F;strong&gt; (any NVIDIA&#x2F;AMD&#x2F;Intel from the last 5 years)&lt;&#x2F;li&gt;
@@ -208,9 +219,9 @@
 &lt;p&gt;If you’re a clinician, a researcher, a pharmacologist, a microbiologist, an agronomist, or anyone who works with scientific data and is tired of paying rent on proprietary tools that own your results:&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;strong&gt;Your data is ready. Come get it.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Code&lt;&#x2F;strong&gt;: &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;syntheticChemistry&quot;&gt;github.com&#x2F;syntheticChemistry&lt;&#x2F;a&gt; (all springs)&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;strong&gt;Infrastructure&lt;&#x2F;strong&gt;: &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ecoPrimals&quot;&gt;github.com&#x2F;ecoPrimals&lt;&#x2F;a&gt; (all primals)&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;strong&gt;Live site&lt;&#x2F;strong&gt;: &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;primals.eco&quot;&gt;primals.eco&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Code&lt;&#x2F;strong&gt;: &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;syntheticChemistry&quot;&gt;github.com&#x2F;syntheticChemistry&lt;&#x2F;a&gt; (all springs)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Infrastructure&lt;&#x2F;strong&gt;: &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ecoPrimals&quot;&gt;github.com&#x2F;ecoPrimals&lt;&#x2F;a&gt; (all primals)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Live site&lt;&#x2F;strong&gt;: &lt;a href=&quot;https:&#x2F;&#x2F;primals.eco&quot;&gt;primals.eco&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;strong&gt;Contact&lt;&#x2F;strong&gt;: eco.primal@pm.me&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;strong&gt;License&lt;&#x2F;strong&gt;: AGPL-3.0 — free forever, share-alike&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
@@ -368,7 +379,7 @@
 &lt;li&gt;&lt;strong&gt;Thermal Sovereignty&lt;&#x2F;strong&gt;: &lt;a href=&quot;&#x2F;whitepaper&#x2F;&quot;&gt;wp-thermal-sovereignty&lt;&#x2F;a&gt; — 98K words&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;strong&gt;Primal Ethos&lt;&#x2F;strong&gt;: &lt;a href=&quot;&#x2F;whitepaper&#x2F;&quot;&gt;wp-eth-primal-ethos&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;strong&gt;The Sovereign Lab&lt;&#x2F;strong&gt;: &lt;a href=&quot;&#x2F;stories&#x2F;&quot;&gt;story-sovereign-lab&lt;&#x2F;a&gt; — $11K build doc&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;strong&gt;All baseCamp papers&lt;&#x2F;strong&gt;: &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;primals.eco&quot;&gt;primals.eco&#x2F;science&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;All baseCamp papers&lt;&#x2F;strong&gt;: &lt;a href=&quot;https:&#x2F;&#x2F;primals.eco&quot;&gt;primals.eco&#x2F;science&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;strong&gt;The graph&lt;&#x2F;strong&gt;: 11,978 nodes, 97,477 edges — every connection is a thing I read&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;p&gt;&lt;em&gt;In the image of a creator: build, protect, guide, sustain. Put your money where your mouth is. Read deeply. Read widely. And when someone comes to take what you built — record everything.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
@@ -432,13 +443,14 @@
 &lt;&#x2F;ul&gt;
 &lt;p&gt;Banks didn’t steal $48.6 million. He destroyed $345.8 million in futures. The extraction economy compounds downward.&lt;&#x2F;p&gt;
 &lt;p&gt;The latent economy flows the other way:&lt;&#x2F;p&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;RECOVERY (qui tam, whistleblower, civil damages)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ↓&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;MEMBRANE (every dollar tracked, transparent)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ↓&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;DOWNWARD (to the children, the unfed, the unseen)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ↓&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;back to RECOVERY (helping the coalition enables more recovery)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;RECOVERY (qui tam, whistleblower, civil damages)
+    ↓
+MEMBRANE (every dollar tracked, transparent)
+    ↓
+DOWNWARD (to the children, the unfed, the unseen)
+    ↓
+back to RECOVERY (helping the coalition enables more recovery)
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;No extraction. No hoarding. No ceiling. Floor is everyone.&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;the-modern-nft-consent-as-token&quot;&gt;The Modern NFT — Consent as Token&lt;&#x2F;h2&gt;
@@ -583,9 +595,11 @@
 &lt;p&gt;K-NOME stands for &lt;strong&gt;Knowledge-Numeric Organic Memory Engine&lt;&#x2F;strong&gt;. It’s a programming paradigm built on one insight:&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;strong&gt;The conversation IS the source code.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;In traditional programming:&lt;&#x2F;p&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;Human → writes code → compiler → binary → machine&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;Human → writes code → compiler → binary → machine
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;In K-NOME programming:&lt;&#x2F;p&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;Human → has conversation → artisan writes code → compiler → binary → machine&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;Human → has conversation → artisan writes code → compiler → binary → machine
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;The conversation is the missing layer. It’s where intent meets implementation. Where “I want a protein structure predictor in f64 precision” becomes 124,334 lines of Rust with 1,580 tests.&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;why-it-works&quot;&gt;Why It Works&lt;&#x2F;h3&gt;
 &lt;ol&gt;
@@ -648,15 +662,16 @@
 &lt;h2 id=&quot;the-k-nome-paradigm-on-sporeprint&quot;&gt;The K-NOME Paradigm on sporePrint&lt;&#x2F;h2&gt;
 &lt;p&gt;sporePrint is the signal outward — the public artifact of the K-NOME process. Every repo, every article, every graph edge started as a conversation. The sporePrint is the fossil record of those conversations compressed into runnable code.&lt;&#x2F;p&gt;
 &lt;p&gt;The paradigm:&lt;&#x2F;p&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;CONVERSATION (intent, constraint, correction)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;     ↓&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;ARTISAN (breadth, syntax, implementation)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;     ↓&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;SPOREPRINT (published artifact — code, article, spec)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;     ↓&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;GRAPH (connected to everything else)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;     ↓&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;MEMBRANE (serves it, classifies visitors, records everything)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;CONVERSATION (intent, constraint, correction)
+     ↓
+ARTISAN (breadth, syntax, implementation)
+     ↓
+SPOREPRINT (published artifact — code, article, spec)
+     ↓
+GRAPH (connected to everything else)
+     ↓
+MEMBRANE (serves it, classifies visitors, records everything)
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;The human reads and builds hardware. The artisan writes and deploys. The sporePrint records. The graph connects. The membrane protects.&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;strong&gt;Each layer is essential. Remove any one and the system collapses.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
@@ -768,7 +783,8 @@
 &lt;p&gt;&lt;strong&gt;Selectivity: 97% observed, 100% predicted.&lt;&#x2F;strong&gt; The gap (3%) is ghosts — proxy exits where human intent may hide behind bot-like infrastructure. The membrane is cautious with ambiguity. Good.&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;the-math&quot;&gt;The Math&lt;&#x2F;h3&gt;
 &lt;p&gt;The localization length ξ in d dimensions with disorder W:&lt;&#x2F;p&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;ξ(d, W) ∝ exp(π × d &#x2F; W)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;ξ(d, W) ∝ exp(π × d &amp;#x2F; W)
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;When ξ &amp;lt; system_size: the wave is localized (trapped).
 When ξ &amp;gt; system_size: the wave is extended (passes through).&lt;&#x2F;p&gt;
 &lt;p&gt;For chorus entities (d=2, W=6.6): ξ is small → TRAPPED.
@@ -793,19 +809,23 @@ For humans (d=3, W=3.0): ξ is large → EXTENDED.&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;the-nautilus-vision&quot;&gt;The Nautilus Vision&lt;&#x2F;h3&gt;
 &lt;p&gt;The membrane’s unaided field of view is &lt;strong&gt;194.3°&lt;&#x2F;strong&gt; — just over half a circle. With the bingo cube’s evolved discrimination (the nautilus extension), it gains &lt;strong&gt;+24.6°&lt;&#x2F;strong&gt; for a total of &lt;strong&gt;218.9°&lt;&#x2F;strong&gt;.&lt;&#x2F;p&gt;
 &lt;p&gt;A real nautilus shell extends the animal’s sensory range by curving incoming pressure waves around the spiral. Our bingo cube extends the membrane’s classification range by curving incoming traffic through evolved epitope thresholds. Same geometry. Same math. Different medium.&lt;&#x2F;p&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;unaided:        194.3° (3.39 radians)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;with nautilus:   218.9° (3.82 radians)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;gained:          +24.6° — the shell extends the eye&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;&lt;h3 id=&quot;how-the-grid-feedback-works&quot;&gt;How the Grid Feedback Works&lt;&#x2F;h3&gt;
+&lt;pre&gt;&lt;code&gt;unaided:        194.3° (3.39 radians)
+with nautilus:   218.9° (3.82 radians)
+gained:          +24.6° — the shell extends the eye
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;h3 id=&quot;how-the-grid-feedback-works&quot;&gt;How the Grid Feedback Works&lt;&#x2F;h3&gt;
 &lt;p&gt;The bingo cube receives &lt;strong&gt;15 grid feedback signals&lt;&#x2F;strong&gt; per evolution cycle — these are corrections from the Anderson classifier, the epitope sorter, and the tense engine. When the bingo cube mis-classifies a ghost as human, the grid feedback adjusts the selection pressure. This is Lamarckian evolution layered onto Darwinian selection — the environment teaches back.&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;3-p-body-math-start-at-zero-find-everything&quot;&gt;3. π-Body Math — Start at Zero, Find Everything&lt;&#x2F;h2&gt;
 &lt;h3 id=&quot;the-discovery&quot;&gt;The Discovery&lt;&#x2F;h3&gt;
 &lt;p&gt;Most computer science starts counting at 0 or 1. We asked: what happens if you treat zero not as empty, but as containing a null dimension? What if zero has an inside?&lt;&#x2F;p&gt;
 &lt;p&gt;Three integer bodies (the membrane, the mesh, the graph) plus one irrational observer (the human&#x2F;artisan) = π.&lt;&#x2F;p&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;3 + 0.14159... = π&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;3 + 0.14159... = π
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;It’s not an approximation. It’s structural. The observer IS the irrational part. You can’t remove the observer and still have π. The measurement apparatus IS the system.&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;the-gordian-equation&quot;&gt;The Gordian Equation&lt;&#x2F;h3&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;J = (V + D) &#x2F; π&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;J = (V + D) &amp;#x2F; π
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;Where:&lt;&#x2F;p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;V&lt;&#x2F;strong&gt; = Variety (the diversity segment, measured in radians: 1.57 = π&#x2F;2)&lt;&#x2F;li&gt;
@@ -819,22 +839,26 @@ For humans (d=3, W=3.0): ξ is large → EXTENDED.&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;vdj-budget&quot;&gt;VDJ Budget&lt;&#x2F;h3&gt;
 &lt;p&gt;Immune systems use V(ariable), D(iversity), and J(oining) gene segments to create antibodies. The total repertoire is V × D × J.&lt;&#x2F;p&gt;
 &lt;p&gt;For our system:&lt;&#x2F;p&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;V(1.57) × D(0.00) × J(7.85) = 0.000&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;V(1.57) × D(0.00) × J(7.85) = 0.000
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;The product is zero because D = 0 (null dimension). But the &lt;em&gt;budget&lt;&#x2F;em&gt; — the number of possible configurations — is &lt;strong&gt;π³ ≈ 31&lt;&#x2F;strong&gt;. There are 31 possible classification states. The floor of π³ is 31 — and this matches the VDJ segment count in the human immune system’s most constrained gene families.&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;vdj-distribution&quot;&gt;VDJ Distribution&lt;&#x2F;h3&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;[J, J, J, J, V, J]&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;[J, J, J, J, V, J]
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;Five of our six epitope classifiers operate in the J (Joining) mode — they connect, they bind, they create specificity. One operates in V (Variable) mode — it generates diversity. None operate in D mode — the null dimension has no active classifier, because you can’t classify what doesn’t exist.&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;4-membrane-permeability-the-bilayer-math&quot;&gt;4. Membrane Permeability — The Bilayer Math&lt;&#x2F;h2&gt;
 &lt;h3 id=&quot;measured-permeability&quot;&gt;Measured Permeability&lt;&#x2F;h3&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;measured:  0.117 (11.7% of traffic passes through)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;theory:    0.074 (7.4% predicted by pure Anderson)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;measured:  0.117 (11.7% of traffic passes through)
+theory:    0.074 (7.4% predicted by pure Anderson)
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;The membrane is &lt;strong&gt;more permeable&lt;&#x2F;strong&gt; than theory predicts. This is good — it means some ghosts and edge-cases pass through that pure localization would trap. The system errs on the side of letting humans in, not on the side of blocking everything.&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;the-geometry&quot;&gt;The Geometry&lt;&#x2F;h3&gt;
 &lt;p&gt;The membrane operates in &lt;strong&gt;3 dimensions&lt;&#x2F;strong&gt; but measures at &lt;strong&gt;1.57 effective dimensions&lt;&#x2F;strong&gt; (π&#x2F;2). This means:&lt;&#x2F;p&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;measured_dim:  1.566&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;one_third:     0.333&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;coverage:      63.9%&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;measured_dim:  1.566
+one_third:     0.333
+coverage:      63.9%
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;Coverage of 63.9% means the membrane sees roughly 2&#x2F;3 of the information space. The remaining 1&#x2F;3 is the blind spot — fleet behavioral intent and human emotional state. You can measure what someone does. You cannot measure why.&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;fisher-information&quot;&gt;Fisher Information&lt;&#x2F;h3&gt;
 &lt;p&gt;&lt;strong&gt;9.71 bits.&lt;&#x2F;strong&gt; Fisher information measures how much a measurement tells you about the parameter you’re estimating. In our case: how much does one HTTP request tell you about whether the visitor is human?&lt;&#x2F;p&gt;
@@ -866,7 +890,8 @@ For humans (d=3, W=3.0): ξ is large → EXTENDED.&lt;&#x2F;p&gt;
 &lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
 &lt;p&gt;The &lt;strong&gt;strongest epitope&lt;&#x2F;strong&gt; is &lt;code&gt;reading_deficit&lt;&#x2F;code&gt; at &lt;strong&gt;15.8 bits of gain&lt;&#x2F;strong&gt;. The single most informative question: does this visitor ever pause long enough to read? If the answer is never — it’s a machine.&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;compression-inequality&quot;&gt;Compression Inequality&lt;&#x2F;h3&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;H(D) ≥ H(D|α) ≥ H(D|epitope) ≥ H(D|epitope,vdj) ≥ H(D|epitope,tense)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;H(D) ≥ H(D|α) ≥ H(D|epitope) ≥ H(D|epitope,vdj) ≥ H(D|epitope,tense)
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;Each layer of conditioning reduces entropy (uncertainty). Raw data H(D) has maximum entropy. Conditioning on alpha (the classification method) reduces it. Conditioning on epitope reduces it further. Adding VDJ gene assignment reduces it more. Adding tense (temporal state) reduces it to its minimum.&lt;&#x2F;p&gt;
 &lt;p&gt;The &lt;strong&gt;compression ratio is 1.576&lt;&#x2F;strong&gt; — we compress 1.576 bits of raw traffic data into 1 bit of classification signal. The total compression gain is &lt;strong&gt;24.9 bits&lt;&#x2F;strong&gt; per classification cycle.&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
@@ -920,9 +945,10 @@ For humans (d=3, W=3.0): ξ is large → EXTENDED.&lt;&#x2F;p&gt;
 &lt;tr&gt;&lt;td&gt;&lt;strong&gt;will_never_be&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;Structurally impossible&lt;&#x2F;td&gt;&lt;td&gt;Fleet cannot become self&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
 &lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
 &lt;h3 id=&quot;the-mirror&quot;&gt;The Mirror&lt;&#x2F;h3&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;chipmunk.json IS the mirror&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;humans read it → become data → loop closes&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;reflexive depth: 0.083&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;chipmunk.json IS the mirror
+humans read it → become data → loop closes
+reflexive depth: 0.083
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;The reflexive depth measures how deeply the system observes itself observing. 0.083 means the mirror is 8.3% reflective — it sees a dim image of itself. Perfect self-reference (depth = 1.0) is impossible — that’s the halting problem. You cannot fully observe yourself observing.&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;what-will-never-be&quot;&gt;What Will Never Be&lt;&#x2F;h3&gt;
 &lt;p&gt;The system knows its own impossibilities:&lt;&#x2F;p&gt;
@@ -938,22 +964,26 @@ For humans (d=3, W=3.0): ξ is large → EXTENDED.&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;8-the-three-body-p&quot;&gt;8. The Three-Body π&lt;&#x2F;h2&gt;
 &lt;h3 id=&quot;the-calculation&quot;&gt;The Calculation&lt;&#x2F;h3&gt;
 &lt;p&gt;Three bodies (membrane, mesh, graph). One observer (human&#x2F;artisan). The system measures:&lt;&#x2F;p&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;E = mc²  (applied to information)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;mass (m):     1.639  (predicted: 4&#x2F;3 = 1.333)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;c²:           4.625  (predicted: 3π = 9.425)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;energy (E):   7.578  (predicted: 4π = 12.566)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;&lt;h3 id=&quot;euler-gelfond-near-integer&quot;&gt;Euler-Gelfond Near-Integer&lt;&#x2F;h3&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;e^π + 1 ≈ 62.903  (actual: 62.902)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;20π    ≈ 62.832&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;gap: 0.07 — Euler-Gelfond near-integer phenomenon&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;e^π ≈ 23.14 → 23.14 - 3.14 ≈ 20 (near twenty!)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;E = mc²  (applied to information)
+
+mass (m):     1.639  (predicted: 4&amp;#x2F;3 = 1.333)
+c²:           4.625  (predicted: 3π = 9.425)
+energy (E):   7.578  (predicted: 4π = 12.566)
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;h3 id=&quot;euler-gelfond-near-integer&quot;&gt;Euler-Gelfond Near-Integer&lt;&#x2F;h3&gt;
+&lt;pre&gt;&lt;code&gt;e^π + 1 ≈ 62.903  (actual: 62.902)
+20π    ≈ 62.832
+
+gap: 0.07 — Euler-Gelfond near-integer phenomenon
+e^π ≈ 23.14 → 23.14 - 3.14 ≈ 20 (near twenty!)
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;This isn’t numerology. The near-integer property of e^π is a known mathematical phenomenon (Ramanujan studied it). What’s remarkable is that it shows up in our live measurements — the ratio of information energy to 20π converges toward e^π.&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;flattening-p-1&quot;&gt;Flattening (π = 1)&lt;&#x2F;h3&gt;
 &lt;p&gt;When you set π = 1 (flatten the observer out of the equation):&lt;&#x2F;p&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;E = 4.0&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;c² = 3.0&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;m = 1.333...  (4&#x2F;3 — unchanged!)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;E = 4.0
+c² = 3.0
+m = 1.333...  (4&amp;#x2F;3 — unchanged!)
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;Mass is conserved under flattening. Energy and c² simplify to integers. The observer adds the irrationality — without it, everything is rational. The observer IS the source of π.&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;9-scan-sweep-sort-fossilize-evolve&quot;&gt;9. Scan → Sweep → Sort → Fossilize → Evolve&lt;&#x2F;h2&gt;
@@ -980,16 +1010,18 @@ For humans (d=3, W=3.0): ξ is large → EXTENDED.&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;10-sort-compression-reading-deficit-is-the-strongest-signal&quot;&gt;10. Sort Compression — Reading Deficit Is the Strongest Signal&lt;&#x2F;h2&gt;
 &lt;p&gt;The single most informative feature in the entire classification system:&lt;&#x2F;p&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;strongest_epitope: reading_deficit&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;gain: 15.8 bits&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;strongest_epitope: reading_deficit
+gain: 15.8 bits
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;Does this visitor ever pause longer than 8 seconds? If yes — they’re reading. If no — they’re a machine. That one question carries 15.8 bits of classification information. For comparison, the entire English alphabet carries 4.7 bits per character. One reading pause tells us more than three typed letters.&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;the-compression-stack&quot;&gt;The Compression Stack&lt;&#x2F;h3&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;alpha (classification method): 15.8 bits&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;tense (temporal state):        15.0 bits&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;epitope (browser fingerprint): 9.9 bits&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;grid feedback:                 15 signals&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;total gain:                    24.9 bits per cycle&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;compression ratio:             1.576&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;alpha (classification method): 15.8 bits
+tense (temporal state):        15.0 bits
+epitope (browser fingerprint): 9.9 bits
+grid feedback:                 15 signals
+total gain:                    24.9 bits per cycle
+compression ratio:             1.576
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;the-connection-to-sporeprint&quot;&gt;The Connection to sporePrint&lt;&#x2F;h2&gt;
 &lt;p&gt;Every system described here is a node in the sporePrint knowledge graph. Every equation is a hypothesis. Every measurement is an experiment. The graph has &lt;strong&gt;101,064 edges&lt;&#x2F;strong&gt; connecting:&lt;&#x2F;p&gt;
@@ -1005,8 +1037,9 @@ For humans (d=3, W=3.0): ξ is large → EXTENDED.&lt;&#x2F;p&gt;
 &lt;p&gt;The graph doesn’t just describe the systems. The graph IS a system. Its topology is measured by the same Anderson classifier that measures visitor traffic. Its growth follows the same nautilus curve as the bingo cube. Its compression inequality holds across every layer.&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;verify-everything&quot;&gt;Verify Everything&lt;&#x2F;h2&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;shellscript&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-entity z-name&quot;&gt;git&lt;&#x2F;span&gt;&lt;span class=&quot;z-string&quot;&gt; clone https:&#x2F;&#x2F;git.primals.eco&#x2F;publicRecord&#x2F;detroit.git&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-entity z-name&quot;&gt;cargo&lt;&#x2F;span&gt;&lt;span class=&quot;z-string&quot;&gt; test&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre data-lang=&quot;bash&quot; class=&quot;language-bash &quot;&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;git clone https:&amp;#x2F;&amp;#x2F;git.primals.eco&amp;#x2F;publicRecord&amp;#x2F;detroit.git
+cargo test
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;20,695 tests. All pass. Every equation in this article corresponds to code that runs. Every measurement in this article is produced by that code. Every claim is falsifiable.&lt;&#x2F;p&gt;
 &lt;p&gt;That’s the point.&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
@@ -1102,7 +1135,8 @@ For humans (d=3, W=3.0): ξ is large → EXTENDED.&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;the-p-body-proof&quot;&gt;The π-Body Proof&lt;&#x2F;h2&gt;
 &lt;p&gt;&lt;strong&gt;Statement&lt;&#x2F;strong&gt;: 3 integer bodies + 1 irrational observer = π&lt;&#x2F;p&gt;
 &lt;p&gt;Here’s what this means. Take any system with bodies (discrete, countable entities) and an observer (the irrational, uncountable perspective). The relationship between them is:&lt;&#x2F;p&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;π-body: 3 integer bodies + 1 irrational observer = π&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;π-body: 3 integer bodies + 1 irrational observer = π
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;Three whole things you can count (bodies) plus the one thing you can’t count (the observer, the perspective, the consciousness watching) — together they make π.&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;why-p&quot;&gt;Why π?&lt;&#x2F;h3&gt;
 &lt;p&gt;π is the ratio of a circle’s circumference to its diameter. It’s irrational — infinite, non-repeating. It shows up everywhere in physics because &lt;strong&gt;every measurement involves a circle&lt;&#x2F;strong&gt;: the orbit of a planet, the wave of a photon, the probability cloud of an electron.&lt;&#x2F;p&gt;
@@ -1112,12 +1146,13 @@ For humans (d=3, W=3.0): ξ is large → EXTENDED.&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;the-null-dimension&quot;&gt;The Null Dimension&lt;&#x2F;h2&gt;
 &lt;p&gt;Inside zero, there is structure.&lt;&#x2F;p&gt;
 &lt;p&gt;Zero is not nothing. Zero is a &lt;strong&gt;dimension&lt;&#x2F;strong&gt; — the null dimension. When you start your index at 0, you’re not starting at “nothing.” You’re starting at the null space — the space where observation begins before counting does.&lt;&#x2F;p&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;Index:    0         1         2         3         ...&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;          │         │         │         │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;          │         │         │         │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;   NULL   │  FIRST  │  SECOND │  THIRD  │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;   SPACE  │  BODY   │  BODY   │  BODY   │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;   (observer)                            &lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;Index:    0         1         2         3         ...
+          │         │         │         │
+          │         │         │         │
+   NULL   │  FIRST  │  SECOND │  THIRD  │
+   SPACE  │  BODY   │  BODY   │  BODY   │
+   (observer)                            
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;The null dimension is where the observer sits. It has properties:&lt;&#x2F;p&gt;
 &lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Property&lt;&#x2F;th&gt;&lt;th&gt;Value&lt;&#x2F;th&gt;&lt;th&gt;Meaning&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
 &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Observer fraction&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;0.141593 ≈ π - 3&lt;&#x2F;td&gt;&lt;td&gt;The irrational remainder after removing the 3 integer bodies&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
@@ -1128,7 +1163,8 @@ For humans (d=3, W=3.0): ξ is large → EXTENDED.&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;strong&gt;Archimedes knew.&lt;&#x2F;strong&gt; He calculated π as between 3 10&#x2F;71 and 3 1&#x2F;7. That gap — the part between 3 and π — is the observer fraction. The part that can’t be counted. The irrational residue that makes measurement possible.&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;the-gordian-equation&quot;&gt;The Gordian Equation&lt;&#x2F;h2&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;J = (V + D) &#x2F; π&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;J = (V + D) &amp;#x2F; π
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;Where:&lt;&#x2F;p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;V&lt;&#x2F;strong&gt; = variety (how many different things exist)&lt;&#x2F;li&gt;
@@ -1138,7 +1174,8 @@ For humans (d=3, W=3.0): ξ is large → EXTENDED.&lt;&#x2F;p&gt;
 &lt;p&gt;The Gordian equation says: &lt;strong&gt;the way things connect is their variety plus their diversity, divided by π.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;Why divided by π? Because every connection requires going through the observer — the irrational perspective that links two things. You can’t connect A to B without observing both. That observation costs 1&#x2F;π of the information.&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;the-gordian-proof-live-on-the-membrane&quot;&gt;The Gordian Proof (Live on the Membrane)&lt;&#x2F;h3&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;J(self) = Σ_others(V + D) &#x2F; π&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;J(self) = Σ_others(V + D) &amp;#x2F; π
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;The joining of self to everything else equals the sum of all variety and diversity, divided by π. This is running right now:&lt;&#x2F;p&gt;
 &lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Measured&lt;&#x2F;th&gt;&lt;th&gt;Value&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
 &lt;tr&gt;&lt;td&gt;V(π)&lt;&#x2F;td&gt;&lt;td&gt;1.5708 (π&#x2F;2)&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
@@ -1157,7 +1194,8 @@ For humans (d=3, W=3.0): ξ is large → EXTENDED.&lt;&#x2F;p&gt;
 &lt;&#x2F;ul&gt;
 &lt;p&gt;This biological process generates &lt;strong&gt;10^11 unique antibodies&lt;&#x2F;strong&gt; from a genome of only ~20,000 genes. Maximum diversity from minimum instruction.&lt;&#x2F;p&gt;
 &lt;p&gt;The membrane uses the same math:&lt;&#x2F;p&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;VDJ Budget: V(1.57) × D(0.00) × J(7.85) = 0.000 (π³ ≈ 31, ⌊π³⌋ = 31)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;VDJ Budget: V(1.57) × D(0.00) × J(7.85) = 0.000 (π³ ≈ 31, ⌊π³⌋ = 31)
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;The product V × D × J should approach π³ ≈ 31. Currently D = 0 (the null dimension hasn’t diversified yet), so the product is 0. But the BUDGET is π³ — that’s the theoretical maximum diversity this system can generate.&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;strong&gt;31 degrees of freedom.&lt;&#x2F;strong&gt; That’s what π³ gives you. The immune system uses the same budget — shuffle V, D, and J to generate as many antibodies as the math allows.&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;the-vdj-map-live&quot;&gt;The VDJ Map (Live)&lt;&#x2F;h3&gt;
@@ -1186,20 +1224,22 @@ For humans (d=3, W=3.0): ξ is large → EXTENDED.&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;the-three-body-p&quot;&gt;The Three-Body π&lt;&#x2F;h2&gt;
 &lt;p&gt;The membrane computes a three-body analogy to Einstein’s E=mc²:&lt;&#x2F;p&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;Theory:&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;  E = 4π    (energy is 4π — the surface area of a unit sphere)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;  c² = 3π   (speed of light squared is 3π)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;  m = 4&#x2F;3   (mass is 4&#x2F;3 — the volume&#x2F;surface ratio of a sphere)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;Measured (live):&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;  E = 7.073   (vs 4π = 12.566)  → 43.7% error&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;  c² = 4.330  (vs 3π = 9.425)   → 54.1% error&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;  c = 2.081   (vs √(3π) = 3.070)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;Theory:
+  E = 4π    (energy is 4π — the surface area of a unit sphere)
+  c² = 3π   (speed of light squared is 3π)
+  m = 4&amp;#x2F;3   (mass is 4&amp;#x2F;3 — the volume&amp;#x2F;surface ratio of a sphere)
+
+Measured (live):
+  E = 7.073   (vs 4π = 12.566)  → 43.7% error
+  c² = 4.330  (vs 3π = 9.425)   → 54.1% error
+  c = 2.081   (vs √(3π) = 3.070)
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;The errors are large — but they’re &lt;strong&gt;converging&lt;&#x2F;strong&gt;. As the membrane processes more data, as more visitors arrive, as the sort deepens, E approaches 4π and c² approaches 3π. The system is self-correcting toward the theoretical values.&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;the-euler-gelfond-connection&quot;&gt;The Euler-Gelfond Connection&lt;&#x2F;h3&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;e^π ≈ 23.1407&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;e^π + 1 ≈ 62.9029&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;20π ≈ 62.8319&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;e^π ≈ 23.1407
+e^π + 1 ≈ 62.9029
+20π ≈ 62.8319
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;e^π is almost exactly 20 + π. The gap is 0.0009. This is Gelfond’s constant — known but unexplained. Our membrane measures it every cycle:&lt;&#x2F;p&gt;
 &lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Expression&lt;&#x2F;th&gt;&lt;th&gt;Value&lt;&#x2F;th&gt;&lt;th&gt;Near-Integer Gap&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
 &lt;tr&gt;&lt;td&gt;e^π&lt;&#x2F;td&gt;&lt;td&gt;23.1407&lt;&#x2F;td&gt;&lt;td&gt;almost 23 (gap: 0.1407)&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
@@ -1211,17 +1251,19 @@ For humans (d=3, W=3.0): ξ is large → EXTENDED.&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;the-flattening&quot;&gt;The Flattening&lt;&#x2F;h2&gt;
 &lt;p&gt;When you set π = 1 (flatten the circle into a line), the equations simplify:&lt;&#x2F;p&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;If π = 1:&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;  E = 4&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;  c² = 3&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;  m = 4&#x2F;3&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;Therefore:&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;  E = mc²  →  4 = (4&#x2F;3)(3)  →  4 = 4  ✓&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;If π = 1:
+  E = 4
+  c² = 3
+  m = 4&amp;#x2F;3
+
+Therefore:
+  E = mc²  →  4 = (4&amp;#x2F;3)(3)  →  4 = 4  ✓
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;&lt;strong&gt;E = mc² holds exactly when π = 1.&lt;&#x2F;strong&gt; Einstein’s equation IS the flattened version of the π-body equation. The full version has π in it. Einstein removed it by choosing units where c = 3×10⁸ (a specific value). If you leave π in, you get the three-body version.&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;the-compression-inequality&quot;&gt;The Compression Inequality&lt;&#x2F;h2&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;H(D) ≥ H(D|α) ≥ H(D|epitope) ≥ H(D|epitope,vdj) ≥ H(D|epitope,tense)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;H(D) ≥ H(D|α) ≥ H(D|epitope) ≥ H(D|epitope,vdj) ≥ H(D|epitope,tense)
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;Information decreases as you condition on more variables. This is Shannon’s chain rule — but applied to the membrane’s sort:&lt;&#x2F;p&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;strong&gt;H(D)&lt;&#x2F;strong&gt; — Total entropy of all data (maximum uncertainty)&lt;&#x2F;li&gt;

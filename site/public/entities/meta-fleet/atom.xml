@@ -26,7 +26,7 @@
         <content type="html" xml:base="https://tuebor.primals.eco/analysis/meta-in-the-open/">&lt;h2 id=&quot;this-page-is-a-mirror&quot;&gt;This Page Is a Mirror&lt;&#x2F;h2&gt;
 &lt;p&gt;Meta is scraping this site. This page documents the scraping. Meta will scrape this page. This page will document them scraping this page.&lt;&#x2F;p&gt;
 &lt;p&gt;The loop is intentional.&lt;&#x2F;p&gt;
-&lt;p&gt;&lt;strong&gt;Live membrane feed&lt;&#x2F;strong&gt;: &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;hud.primals.eco&quot;&gt;hud.primals.eco&lt;&#x2F;a&gt; — updated every 5 minutes.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Live membrane feed&lt;&#x2F;strong&gt;: &lt;a href=&quot;https:&#x2F;&#x2F;hud.primals.eco&quot;&gt;hud.primals.eco&lt;&#x2F;a&gt; — updated every 5 minutes.&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;strong&gt;Last data pull&lt;&#x2F;strong&gt;: October 18, 2026 — 04:50:38 UTC (12:50 AM EDT)&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;the-fleet-18-synchronized-entities&quot;&gt;The Fleet: 18 Synchronized Entities&lt;&#x2F;h2&gt;
@@ -109,7 +109,8 @@
 &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Symbiotic class&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;parasite&lt;&#x2F;td&gt;&lt;td&gt;Classified by behavior&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
 &lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
 &lt;h3 id=&quot;the-duplicated-q-header&quot;&gt;The Duplicated q= Header&lt;&#x2F;h3&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;http&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-entity z-name z-tag&quot;&gt;Accept-Language&lt;&#x2F;span&gt;&lt;span class=&quot;z-keyword&quot;&gt;:&lt;&#x2F;span&gt;&lt;span class=&quot;z-string&quot;&gt; en-US,en;q=0.9;q=0.9&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre data-lang=&quot;http&quot; class=&quot;language-http &quot;&gt;&lt;code class=&quot;language-http&quot; data-lang=&quot;http&quot;&gt;Accept-Language: en-US,en;q=0.9;q=0.9
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;This is a configuration artifact. Real browsers produce one quality parameter per language. The duplication comes from a template that was copy-pasted or auto-generated. It identifies the request as automated — a human browser would never produce this header.&lt;&#x2F;p&gt;
 &lt;p&gt;This single header is forensic evidence. It proves the request came from Meta’s fleet configuration, not from a human browsing the web.&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
@@ -167,7 +168,7 @@
 &lt;h2 id=&quot;why-this-page-exists&quot;&gt;Why This Page Exists&lt;&#x2F;h2&gt;
 &lt;p&gt;This page is evidence. Not argument — evidence.&lt;&#x2F;p&gt;
 &lt;p&gt;Every number above comes from HTTP request logs processed through the membrane’s classification pipeline. Every timestamp is UTC. Every IP hash is a BLAKE2b digest of behavioral invariants. Every path distribution is computed from raw access logs.&lt;&#x2F;p&gt;
-&lt;p&gt;The data is reproducible. The methodology is published in &lt;a href=&quot;&#x2F;analysis&#x2F;the-living-proof&#x2F;&quot;&gt;&lt;code&gt;the-living-proof&lt;&#x2F;code&gt;&lt;&#x2F;a&gt;. The source code is at &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;git.primals.eco&quot;&gt;git.primals.eco&lt;&#x2F;a&gt;. The tests pass.&lt;&#x2F;p&gt;
+&lt;p&gt;The data is reproducible. The methodology is published in &lt;a href=&quot;&#x2F;analysis&#x2F;the-living-proof&#x2F;&quot;&gt;&lt;code&gt;the-living-proof&lt;&#x2F;code&gt;&lt;&#x2F;a&gt;. The source code is at &lt;a href=&quot;https:&#x2F;&#x2F;git.primals.eco&quot;&gt;git.primals.eco&lt;&#x2F;a&gt;. The tests pass.&lt;&#x2F;p&gt;
 &lt;p&gt;Meta’s fleet behavior is being documented in real time, on a public website, on the infrastructure they’re scraping. This page is updated with every membrane measurement cycle. Every time Meta scrapes this site, the scraping is documented on this site.&lt;&#x2F;p&gt;
 &lt;p&gt;The loop is the proof.&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
@@ -205,7 +206,7 @@
 &lt;li&gt;&lt;strong&gt;CFAA&lt;&#x2F;strong&gt; 18 U.S.C. § 1030 — unauthorized access framework for fleet activity exceeding scope of robots.txt consent.&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;strong&gt;AGPL-3.0&lt;&#x2F;strong&gt; — copyleft license under which our source code is published; fleet scraping without source disclosure = violation.&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
-&lt;p&gt;All raw data is available through the membrane feed at &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;hud.primals.eco&quot;&gt;hud.primals.eco&lt;&#x2F;a&gt;. The methodology is documented in &lt;a href=&quot;&#x2F;analysis&#x2F;the-living-proof&#x2F;&quot;&gt;&lt;code&gt;the-living-proof&lt;&#x2F;code&gt;&lt;&#x2F;a&gt;. The privacy proof is in &lt;a href=&quot;&#x2F;analysis&#x2F;the-corollary&#x2F;&quot;&gt;&lt;code&gt;the-corollary&lt;&#x2F;code&gt;&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;All raw data is available through the membrane feed at &lt;a href=&quot;https:&#x2F;&#x2F;hud.primals.eco&quot;&gt;hud.primals.eco&lt;&#x2F;a&gt;. The methodology is documented in &lt;a href=&quot;&#x2F;analysis&#x2F;the-living-proof&#x2F;&quot;&gt;&lt;code&gt;the-living-proof&lt;&#x2F;code&gt;&lt;&#x2F;a&gt;. The privacy proof is in &lt;a href=&quot;&#x2F;analysis&#x2F;the-corollary&#x2F;&quot;&gt;&lt;code&gt;the-corollary&lt;&#x2F;code&gt;&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
 &lt;p&gt;This page will always be updated. More citations will always be added. If you’re a researcher, journalist, or attorney and want to discuss methodology: &lt;strong&gt;kevin@primals.eco&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;p&gt;&lt;em&gt;This page was written from a conversation box at 12:52 AM EDT on October 18, 2026. The membrane measured 1,563,200 requests during its composition. The bingo cube evolved 167 generations. The Anderson classifier localized 53,760 fleet entities. The dwell time climbed from 596 to 609 minutes.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
@@ -257,12 +258,13 @@
 &lt;p&gt;Meta’s fleet probed our infrastructure with behavioral patterns that reveal a different intent:&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;the-avatar-probes&quot;&gt;The Avatar Probes&lt;&#x2F;h3&gt;
 &lt;p&gt;Two fleet entities (IP hashes &lt;code&gt;af4a0401&lt;&#x2F;code&gt; and &lt;code&gt;451cba78&lt;&#x2F;code&gt;) specifically requested &lt;strong&gt;user avatar URLs&lt;&#x2F;strong&gt;:&lt;&#x2F;p&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;avatars&#x2F;708b8b60726a6da4c7b26063f212098b&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;avatars&#x2F;84369568ec293e456994b4c44e5e8a9c&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;avatars&#x2F;edbc3a877afb3ff5dc45d3a77c7403ce&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;avatars&#x2F;147ba2e4b74fa4594171896f94484805&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;avatars&#x2F;330eb44d169f89ffcdfb6916f76892f9&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;avatars&#x2F;a11dcea9e88e8ca4228404461a82635b&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;avatars&amp;#x2F;708b8b60726a6da4c7b26063f212098b
+avatars&amp;#x2F;84369568ec293e456994b4c44e5e8a9c
+avatars&amp;#x2F;edbc3a877afb3ff5dc45d3a77c7403ce
+avatars&amp;#x2F;147ba2e4b74fa4594171896f94484805
+avatars&amp;#x2F;330eb44d169f89ffcdfb6916f76892f9
+avatars&amp;#x2F;a11dcea9e88e8ca4228404461a82635b
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;Avatar URLs are &lt;strong&gt;unique to user profiles.&lt;&#x2F;strong&gt; Each avatar hash corresponds to a specific person’s account. By requesting these URLs, Meta’s fleet wasn’t reading code — it was &lt;strong&gt;mapping the humans who wrote the code.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;This is personal data collection. User profile enumeration. People-targeting, not content-targeting.&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;the-blame-scanner&quot;&gt;The Blame Scanner&lt;&#x2F;h3&gt;
@@ -429,12 +431,13 @@
 &lt;p&gt;&lt;strong&gt;IP Hashes&lt;&#x2F;strong&gt;: &lt;code&gt;af4a0401&lt;&#x2F;code&gt;, &lt;code&gt;451cba78&lt;&#x2F;code&gt;
 &lt;strong&gt;Curiosity&lt;&#x2F;strong&gt;: 0.58 (2× the 0.28 baseline of siblings)&lt;&#x2F;p&gt;
 &lt;p&gt;These two entities probed 6 specific avatar URLs:&lt;&#x2F;p&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;avatars&#x2F;708b8b60726a6da4c7b26063f212098b&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;avatars&#x2F;84369568ec293e456994b4c44e5e8a9c&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;avatars&#x2F;edbc3a877afb3ff5dc45d3a77c7403ce&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;avatars&#x2F;147ba2e4b74fa4594171896f94484805&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;avatars&#x2F;330eb44d169f89ffcdfb6916f76892f9&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;avatars&#x2F;a11dcea9e88e8ca4228404461a82635b&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;avatars&amp;#x2F;708b8b60726a6da4c7b26063f212098b
+avatars&amp;#x2F;84369568ec293e456994b4c44e5e8a9c
+avatars&amp;#x2F;edbc3a877afb3ff5dc45d3a77c7403ce
+avatars&amp;#x2F;147ba2e4b74fa4594171896f94484805
+avatars&amp;#x2F;330eb44d169f89ffcdfb6916f76892f9
+avatars&amp;#x2F;a11dcea9e88e8ca4228404461a82635b
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;The fusiform face area in the human brain recognizes faces — not objects, not text, not scenery. These two entities recognize &lt;em&gt;people&lt;&#x2F;em&gt; — not code, not commits, not structure. They’re mapping WHO, not WHAT.&lt;&#x2F;p&gt;
 &lt;p&gt;Entity #16 also read 31 source files (highest in the main swarm). Correlating code authorship with user identity. Facial recognition for git.&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;strong&gt;Classification&lt;&#x2F;strong&gt;: Chorus-blame. 2.5D (higher dimension than pure chorus — they navigate more freely). Partially localized — more curious, but still trapped in scatter.&lt;&#x2F;p&gt;
@@ -478,7 +481,8 @@
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;the-epitope-pipeline-how-humans-evolve-through-the-membrane&quot;&gt;The Epitope Pipeline: How Humans Evolve Through the Membrane&lt;&#x2F;h2&gt;
 &lt;p&gt;While Meta’s fleet gets trapped, human visitors transform:&lt;&#x2F;p&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;visitor (3) → observer (2) → reader (1) → coder (21) → investigator (1)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;visitor (3) → observer (2) → reader (1) → coder (21) → investigator (1)
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;The funnel inverts: 21 coders vs 3 new visitors this cycle. The people arriving now already know what they’re looking at. The membrane selects for depth, not volume.&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;strong&gt;Current transitions:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;ul&gt;
@@ -504,7 +508,7 @@
 &lt;p&gt;Meta performed an organizational MRI on themselves by hitting our membrane. They just can’t read the scan results. We can.&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;live-feed&quot;&gt;Live Feed&lt;&#x2F;h2&gt;
-&lt;p&gt;The membrane continues measuring: &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;hud.primals.eco&quot;&gt;hud.primals.eco&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;The membrane continues measuring: &lt;a href=&quot;https:&#x2F;&#x2F;hud.primals.eco&quot;&gt;hud.primals.eco&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;The nervous system continues revealing itself with every request. The phantom limb still twitches. Dublin still relays. The blame specialists’ avatar probes are already in the graph. And the epitope pipeline continues transforming visitors into investigators.&lt;&#x2F;p&gt;
 &lt;p&gt;The next measurement will include Meta reading this article about Meta’s nervous system. The loop is the proof.&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;

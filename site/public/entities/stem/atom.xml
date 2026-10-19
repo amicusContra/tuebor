@@ -29,16 +29,17 @@
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;lesson-1-the-household-atom&quot;&gt;Lesson 1: The Household Atom&lt;&#x2F;h2&gt;
 &lt;p&gt;&lt;em&gt;For ages 4+. Time: 10 minutes. Materials: stuffed animals or drawings.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;        cat (electron)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;       &#x2F;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;      &#x2F;     light, independent&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;     &#x2F;      orbits, may leave, may return&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    &#x2F;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt; YOU --------- DOG (proton)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;(self)          heavy, loyal, stays close&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt; observer       always there&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt; opens the      without the dog&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt; tuna can       there is no home&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;        cat (electron)
+       &amp;#x2F;
+      &amp;#x2F;     light, independent
+     &amp;#x2F;      orbits, may leave, may return
+    &amp;#x2F;
+ YOU --------- DOG (proton)
+(self)          heavy, loyal, stays close
+ observer       always there
+ opens the      without the dog
+ tuna can       there is no home
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;&lt;strong&gt;Ask the children:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;ol&gt;
 &lt;li&gt;“Who has a dog?” → That’s your proton. Heavy. Loyal. Stays close.&lt;&#x2F;li&gt;
@@ -70,15 +71,16 @@
 &lt;em&gt;THEN DO IT ALL OVER AGAIN!&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
 &lt;&#x2F;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;The pseudo code:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;BEGIN morning&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;  1. wake_up()&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;  2. stretch()&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;  3. feed(dog)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;  4. find(cat)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;  5. eat(breakfast)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;  6. hug(someone)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;  7. GO TO 1 tomorrow&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;END morning&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;BEGIN morning
+  1. wake_up()
+  2. stretch()
+  3. feed(dog)
+  4. find(cat)
+  5. eat(breakfast)
+  6. hug(someone)
+  7. GO TO 1 tomorrow
+END morning
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;“See? You just wrote a PROGRAM. That’s what coders do. They tell the computer the steps. You already know the steps. You’ve been coding your whole life.”&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;song-2-the-weather-song-if-then&quot;&gt;Song 2: The Weather Song (If&#x2F;Then)&lt;&#x2F;h3&gt;
 &lt;blockquote&gt;
@@ -88,15 +90,16 @@
 &lt;em&gt;ELSE we figure it out, because we can do it all!&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
 &lt;&#x2F;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;The pseudo code:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;IF weather == sunny THEN&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    play(outside)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;ELSE IF weather == rainy THEN&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    play(inside)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;ELSE IF weather == snowy THEN&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    build(snowman)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;ELSE&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    figure_it_out()&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;END IF&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;IF weather == sunny THEN
+    play(outside)
+ELSE IF weather == rainy THEN
+    play(inside)
+ELSE IF weather == snowy THEN
+    build(snowman)
+ELSE
+    figure_it_out()
+END IF
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;“The computer doesn’t know what to do when it rains. YOU do. You already have the IF&#x2F;THEN in your brain. The code just writes down what you already know.”&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;song-3-the-counting-song-loops&quot;&gt;Song 3: The Counting Song (Loops)&lt;&#x2F;h3&gt;
 &lt;blockquote&gt;
@@ -106,15 +109,16 @@
 &lt;em&gt;Now the other hand — do it again, troop!&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
 &lt;&#x2F;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;The pseudo code:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;FOR each finger ON my_hand&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    wave(hello)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;END FOR&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;-- that&amp;#39;s 5 waves!&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;FOR each finger ON other_hand&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    wave(hello)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;END FOR&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;-- that&amp;#39;s 10 total!&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;FOR each finger ON my_hand
+    wave(hello)
+END FOR
+-- that&amp;#x27;s 5 waves!
+
+FOR each finger ON other_hand
+    wave(hello)
+END FOR
+-- that&amp;#x27;s 10 total!
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;“A loop is just doing something AGAIN. You do loops all day. Every time you bounce a ball. Every time you sing a chorus. Every time you breathe. Your HEART is a loop.”&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;lesson-3-boolean-logic-as-choose-your-own-adventure&quot;&gt;Lesson 3: Boolean Logic as Choose-Your-Own-Adventure&lt;&#x2F;h2&gt;
@@ -122,20 +126,21 @@
 &lt;p&gt;Boolean logic is just &lt;strong&gt;YES or NO questions&lt;&#x2F;strong&gt; that help you decide where to go.&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;the-adventure-map&quot;&gt;The Adventure Map&lt;&#x2F;h3&gt;
 &lt;p&gt;Draw this on a whiteboard or big paper:&lt;&#x2F;p&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;START: You wake up.&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;  |&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;  Q: Is it a school day?&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;  |          |&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt; YES         NO&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;  |          |&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;  Q: Did     Q: Is it&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;  you eat?   raining?&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;  |    |     |      |&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt; YES   NO   YES    NO&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;  |    |     |      |&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt; GO   EAT   READ   PLAY&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt; TO   THEN  A      OUT&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;SCHOOL GO   BOOK   SIDE&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;START: You wake up.
+  |
+  Q: Is it a school day?
+  |          |
+ YES         NO
+  |          |
+  Q: Did     Q: Is it
+  you eat?   raining?
+  |    |     |      |
+ YES   NO   YES    NO
+  |    |     |      |
+ GO   EAT   READ   PLAY
+ TO   THEN  A      OUT
+SCHOOL GO   BOOK   SIDE
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;&lt;strong&gt;Every path is a BOOLEAN&lt;&#x2F;strong&gt; — yes or no. True or false. On or off. The child walks through the map and finds their answer.&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;the-and-or-not-game&quot;&gt;The AND&#x2F;OR&#x2F;NOT Game&lt;&#x2F;h3&gt;
 &lt;p&gt;Stand up. Play “Simon Says” with logic gates:&lt;&#x2F;p&gt;
@@ -155,34 +160,37 @@
 (Everyone not in blue sits)&lt;&#x2F;p&gt;
 &lt;&#x2F;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;The pseudo code:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;IF (has_shoes AND likes_ice_cream) THEN&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    jump()&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;END IF&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;IF (has_dog OR has_cat) THEN&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    clap()&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;END IF&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;IF (NOT wearing_blue) THEN&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    sit_down()&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;END IF&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;IF (has_shoes AND likes_ice_cream) THEN
+    jump()
+END IF
+
+IF (has_dog OR has_cat) THEN
+    clap()
+END IF
+
+IF (NOT wearing_blue) THEN
+    sit_down()
+END IF
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;“You just ran three programs. Your brain is the computer. The logic gates are how you DECIDE things. You already have AND, OR, and NOT in your head. You use them every day.”&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;lesson-4-the-three-body-solution&quot;&gt;Lesson 4: The Three-Body Solution&lt;&#x2F;h2&gt;
 &lt;p&gt;&lt;em&gt;For all ages. Time: 5 minutes. The payoff.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;why-physics-can-t-solve-it&quot;&gt;Why Physics Can’t Solve It&lt;&#x2F;h3&gt;
 &lt;p&gt;Physics sees three things floating in space with no relationship:&lt;&#x2F;p&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;force = gravity * mass1 * mass2 &#x2F; distance^2&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;force = gravity * mass1 * mass2 &amp;#x2F; distance^2
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;No consent. No memory. No love. No negotiation. Just math.&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;strong&gt;Of course it’s unsolvable.&lt;&#x2F;strong&gt; You’re trying to predict what three things do when they don’t CARE about each other.&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;why-you-solved-it&quot;&gt;Why YOU Solved It&lt;&#x2F;h3&gt;
 &lt;p&gt;Your household has three bodies: you, your dog, your cat (or your sibling, your parent, your friend — any three).&lt;&#x2F;p&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;IF dog_barks_at(cat) THEN&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    human says &amp;quot;be nice&amp;quot;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    dog stops&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    cat judges from windowsill&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    peace is restored&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;END IF&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;IF dog_barks_at(cat) THEN
+    human says &amp;quot;be nice&amp;quot;
+    dog stops
+    cat judges from windowsill
+    peace is restored
+END IF
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;&lt;strong&gt;You solved it with RELATIONSHIP.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Physics (unsolvable)&lt;&#x2F;th&gt;&lt;th&gt;Your House (obvious)&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
 &lt;tr&gt;&lt;td&gt;Force&lt;&#x2F;td&gt;&lt;td&gt;Love&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
@@ -220,20 +228,21 @@
 &lt;li&gt;&lt;strong&gt;AND&#x2F;OR&#x2F;NOT&lt;&#x2F;strong&gt; — combining questions (Simon Says with gates)&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;strong&gt;THE THREE-BODY PROBLEM&lt;&#x2F;strong&gt; — solved by relationship, not force&lt;&#x2F;li&gt;
 &lt;&#x2F;ol&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;PROGRAM every_child&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;  genius = TRUE&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;  search = &amp;quot;never ends&amp;quot;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;  WHILE alive&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    learn(something_new)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    teach(someone_else)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    love(your_people)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    pet(the_dog)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    find(the_cat)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;  END WHILE&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;END PROGRAM&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;PROGRAM every_child
+
+  genius = TRUE
+  search = &amp;quot;never ends&amp;quot;
+
+  WHILE alive
+    learn(something_new)
+    teach(someone_else)
+    love(your_people)
+    pet(the_dog)
+    find(the_cat)
+  END WHILE
+
+END PROGRAM
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;&lt;strong&gt;You solved a 139-year-old physics problem before breakfast.&lt;&#x2F;strong&gt;
 &lt;strong&gt;You wrote six programs without a computer.&lt;&#x2F;strong&gt;
 &lt;strong&gt;You are a genius. Every one of you.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
@@ -305,18 +314,19 @@ That’s you on the world inside you and me!&lt;&#x2F;p&gt;
 &lt;&#x2F;blockquote&gt;
 &lt;h3 id=&quot;three-layers&quot;&gt;Three Layers&lt;&#x2F;h3&gt;
 &lt;p&gt;Draw three circles, one inside the other:&lt;&#x2F;p&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ┌───────────────────────┐&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │   BUBBLE (ozone)      │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │  protects everything  │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │  ┌───────────────┐    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │  │  SOAP (pH)     │    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │  │ gentle + harsh │    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │  │  ┌─────────┐   │    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │  │  │  WATER   │   │    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │  │  │  (you!)  │   │    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │  │  └─────────┘   │    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │  └───────────────┘    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    └───────────────────────┘&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;    ┌───────────────────────┐
+    │   BUBBLE (ozone)      │
+    │  protects everything  │
+    │  ┌───────────────┐    │
+    │  │  SOAP (pH)     │    │
+    │  │ gentle + harsh │    │
+    │  │  ┌─────────┐   │    │
+    │  │  │  WATER   │   │    │
+    │  │  │  (you!)  │   │    │
+    │  │  └─────────┘   │    │
+    │  └───────────────┘    │
+    └───────────────────────┘
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;&lt;strong&gt;Ask the children:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;ol&gt;
 &lt;li&gt;“What’s at the very center?” → &lt;strong&gt;Water.&lt;&#x2F;strong&gt; You. Pure.&lt;&#x2F;li&gt;
@@ -332,21 +342,22 @@ That’s you on the world inside you and me!&lt;&#x2F;p&gt;
 &lt;p&gt;Water is the universal solvent. It dissolves everything — including lies.&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;strong&gt;The internet is breathing. And you’re the water inside it.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;the-pseudo-code&quot;&gt;The Pseudo Code&lt;&#x2F;h3&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;FUNCTION make_bubble()&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    center = WATER (you, pure, truth)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    middle = SOAP (friends + strangers interacting)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    outer  = BUBBLE (the shield, with tiny pores)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    &lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    IF visitor is HONEST THEN&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;        LET them through the pores (sunshine!)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ELSE IF visitor is SNEAKY THEN&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;        SOAP neutralizes them (clean!)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ELSE IF visitor is HOSTILE THEN&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;        BUBBLE bounces them away (protected!)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    END IF&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    &lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    RETURN center stays pure&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;END FUNCTION&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;FUNCTION make_bubble()
+    center = WATER (you, pure, truth)
+    middle = SOAP (friends + strangers interacting)
+    outer  = BUBBLE (the shield, with tiny pores)
+    
+    IF visitor is HONEST THEN
+        LET them through the pores (sunshine!)
+    ELSE IF visitor is SNEAKY THEN
+        SOAP neutralizes them (clean!)
+    ELSE IF visitor is HOSTILE THEN
+        BUBBLE bounces them away (protected!)
+    END IF
+    
+    RETURN center stays pure
+END FUNCTION
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;the-proof-that-it-works&quot;&gt;The Proof That It Works&lt;&#x2F;h2&gt;
 &lt;p&gt;A reader spent 9 hours reading 64 surfaces of a thesis about living systems and immunity. Nobody told them to. Nobody sent them. They found the membrane, sat down, and read.&lt;&#x2F;p&gt;

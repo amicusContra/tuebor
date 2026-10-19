@@ -110,4 +110,4 @@ In a system where the defense attorney governs the accountancy board, the audito
 
 ---
 
-*Sourced to LARA attorney records, ADB records, court records, investigation graph (131,329 edges). [Back to Analysis →](/analysis/) · [The Auditor Who Forgot →](/analysis/the-auditor-who-forgot-to-audit/) · [Three Percent →](/analysis/three-percent/)*
+*Sourced to LARA attorney records, ADB records, court records, investigation graph (131,322 edges). [Back to Analysis →](/analysis/) · [The Auditor Who Forgot →](/analysis/the-auditor-who-forgot-to-audit/) · [Three Percent →](/analysis/three-percent/)*

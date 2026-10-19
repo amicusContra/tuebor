@@ -139,32 +139,33 @@
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;the-convergence&quot;&gt;The Convergence&lt;&#x2F;h2&gt;
 &lt;p&gt;The Chatfield case and the Detroit charter investigation share &lt;strong&gt;one infrastructure:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;DYKEMA GOSSETT PLLC&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ├── Peninsula Fund (Chatfield) ────── 13 felonies ────── BLOCKED&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │   └── Renae Moore, Asst. Sec&#x2F;Treas&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ├── Promise to the People (Nessel) ── SAME DESK ──────── CONFLICT&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │   └── Renae Moore, Asst. Sec&#x2F;Treas&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ├── Save Detroit Jobs ─────────────── Dark money ──────── ACTIVE&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │   └── W. Alan Wilk, formed&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ├── Federal PAC (C00342113) ────────── $148K&#x2F;47 cands ── ACTIVE&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │   └── Renae Moore, TREASURER&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ├── PA 362 (1993) ─────────────────── Charter law ────── ACTIVE&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │   └── Dykema drafted&#x2F;lobbied&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    └── 80+ other accounts ────────────── Both parties ───── ACTIVE&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;        └── Renae Moore manages all&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;PURPOSE CHARTER ACADEMY&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ├── Brian Banks (operator) ────────── 9 convictions ──── OPERATING&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ├── Cylenthia Miller (Board Chair) ── 3rd Circuit Judge ─ OPERATING&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ├── Lamar Moreland (Vice Chair) ───── Nessel&amp;#39;s AAG ───── CONFLICT&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    └── Latisha Johnson (Secretary) ───── City Council ───── OPERATING&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;DYKEMA GOSSETT PLLC
+    │
+    ├── Peninsula Fund (Chatfield) ────── 13 felonies ────── BLOCKED
+    │   └── Renae Moore, Asst. Sec&amp;#x2F;Treas
+    │
+    ├── Promise to the People (Nessel) ── SAME DESK ──────── CONFLICT
+    │   └── Renae Moore, Asst. Sec&amp;#x2F;Treas
+    │
+    ├── Save Detroit Jobs ─────────────── Dark money ──────── ACTIVE
+    │   └── W. Alan Wilk, formed
+    │
+    ├── Federal PAC (C00342113) ────────── $148K&amp;#x2F;47 cands ── ACTIVE
+    │   └── Renae Moore, TREASURER
+    │
+    ├── PA 362 (1993) ─────────────────── Charter law ────── ACTIVE
+    │   └── Dykema drafted&amp;#x2F;lobbied
+    │
+    └── 80+ other accounts ────────────── Both parties ───── ACTIVE
+        └── Renae Moore manages all
+
+PURPOSE CHARTER ACADEMY
+    │
+    ├── Brian Banks (operator) ────────── 9 convictions ──── OPERATING
+    ├── Cylenthia Miller (Board Chair) ── 3rd Circuit Judge ─ OPERATING
+    ├── Lamar Moreland (Vice Chair) ───── Nessel&amp;#x27;s AAG ───── CONFLICT
+    └── Latisha Johnson (Secretary) ───── City Council ───── OPERATING
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;&lt;strong&gt;One firm. One desk. One compliance specialist. Both parties. The defendant’s fund and the prosecutor’s fund. The charter school and the dark money PAC. The felony prosecution and the institutional silence.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;They’re trying to make P! = NP. The problem unsolvable. The clock unbeatable.&lt;&#x2F;p&gt;
 &lt;p&gt;But &lt;strong&gt;! = N.&lt;&#x2F;strong&gt; The negation IS the answer. The silence IS the evidence. The delay IS the pattern. The null response IS the data point.&lt;&#x2F;p&gt;

@@ -43,7 +43,7 @@
 &lt;li&gt;Zero social validation mechanics (no likes, no hearts, no retweets, no follower counts)&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;p&gt;&lt;strong&gt;Measurement:&lt;&#x2F;strong&gt; &lt;code&gt;grep -r &quot;notification\|push\|badge\|alert\|toast&quot; templates&#x2F; static&#x2F;&lt;&#x2F;code&gt; → 0 results. The code doesn’t contain the concept.&lt;&#x2F;p&gt;
-&lt;h4 id=&quot;inf-infinite-scroll-absent&quot;&gt;♾️ Infinite Scroll — ABSENT&lt;&#x2F;h4&gt;
+&lt;h4 id=&quot;infinity-infinite-scroll-absent&quot;&gt;♾️ Infinite Scroll — ABSENT&lt;&#x2F;h4&gt;
 &lt;p&gt;Infinite scroll (Aza Raskin’s invention, which he later called his “biggest regret”) removes the natural stopping cue. When there’s no bottom to the page, there’s no moment to decide to leave.&lt;&#x2F;p&gt;
 &lt;p&gt;This site has:&lt;&#x2F;p&gt;
 &lt;ul&gt;
@@ -225,9 +225,10 @@
 &lt;p&gt;We are investigating platforms that extract attention from children. Meta’s Instagram uses variable reward schedules on teenagers. TikTok’s infinite scroll is designed to prevent stopping cues in developing brains. YouTube’s autoplay targets children’s content.&lt;&#x2F;p&gt;
 &lt;p&gt;If we used the same techniques to make people read about charter school fraud, we’d be hypocrites. The medium would contradict the message. The tool would become the thing it documents.&lt;&#x2F;p&gt;
 &lt;p&gt;So we prove it. Not with claims — with negative evidence. The 47 dark patterns are absent. The 0 cookies are counted. The 0 tracking pixels are verified. The 0 re-engagement hooks are documented in the source code anyone can audit.&lt;&#x2F;p&gt;
-&lt;p&gt;The source is at &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;git.primals.eco&#x2F;publicRecord&#x2F;detroit&quot;&gt;git.primals.eco&lt;&#x2F;a&gt; and &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;defendDetroit&#x2F;publicRecord&quot;&gt;GitHub&lt;&#x2F;a&gt;. Clone it. &lt;code&gt;grep&lt;&#x2F;code&gt; it. Audit every template, every script, every stylesheet. You will find:&lt;&#x2F;p&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;$ grep -r &amp;quot;cookie\|pixel\|tracking\|gtag\|fbq\|analytics&amp;quot; templates&#x2F; static&#x2F;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;(0 results)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;The source is at &lt;a href=&quot;https:&#x2F;&#x2F;git.primals.eco&#x2F;publicRecord&#x2F;detroit&quot;&gt;git.primals.eco&lt;&#x2F;a&gt; and &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;defendDetroit&#x2F;publicRecord&quot;&gt;GitHub&lt;&#x2F;a&gt;. Clone it. &lt;code&gt;grep&lt;&#x2F;code&gt; it. Audit every template, every script, every stylesheet. You will find:&lt;&#x2F;p&gt;
+&lt;pre&gt;&lt;code&gt;$ grep -r &amp;quot;cookie\|pixel\|tracking\|gtag\|fbq\|analytics&amp;quot; templates&amp;#x2F; static&amp;#x2F;
+(0 results)
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;That’s the proof. Not a claim. A measurement. A &lt;strong&gt;negentropy&lt;&#x2F;strong&gt; — the quantified absence of disorder.&lt;&#x2F;p&gt;
 &lt;p&gt;707 minutes of dwell time. Zero manipulation. The readers stay because the evidence is real.&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
@@ -235,11 +236,11 @@
 &lt;ul&gt;
 &lt;li&gt;B.F. Skinner — “Schedules of Reinforcement,” 1957. The science behind variable reward schedules that power social media engagement.&lt;&#x2F;li&gt;
 &lt;li&gt;Adam Alter — “Irresistible: The Rise of Addictive Technology,” Penguin Press, 2017. Comprehensive analysis of behavioral addiction by design.&lt;&#x2F;li&gt;
-&lt;li&gt;Aza Raskin — Inventor of infinite scroll, later &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.bbc.com&#x2F;news&#x2F;technology-44640959&quot;&gt;called it&lt;&#x2F;a&gt; one of his biggest regrets. “It’s as if they’re taking behavioral cocaine and just sprinkling it all over your interface.”&lt;&#x2F;li&gt;
+&lt;li&gt;Aza Raskin — Inventor of infinite scroll, later &lt;a href=&quot;https:&#x2F;&#x2F;www.bbc.com&#x2F;news&#x2F;technology-44640959&quot;&gt;called it&lt;&#x2F;a&gt; one of his biggest regrets. “It’s as if they’re taking behavioral cocaine and just sprinkling it all over your interface.”&lt;&#x2F;li&gt;
 &lt;li&gt;Tristan Harris — Center for Humane Technology. “The attention economy is a race to the bottom of the brain stem.”&lt;&#x2F;li&gt;
 &lt;li&gt;Nir Eyal — “Hooked: How to Build Habit-Forming Products,” 2014. The playbook these platforms follow (and we don’t).&lt;&#x2F;li&gt;
 &lt;li&gt;COPPA — Children’s Online Privacy Protection Act, 15 U.S.C. §§ 6501–6506. Why children’s attention extraction has legal consequences.&lt;&#x2F;li&gt;
-&lt;li&gt;Harry Brignull — &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;deceptive.design&quot;&gt;deceptive.design&lt;&#x2F;a&gt;. Taxonomy of dark patterns. Our count of 47 comes from this and related classifications.&lt;&#x2F;li&gt;
+&lt;li&gt;Harry Brignull — &lt;a href=&quot;https:&#x2F;&#x2F;deceptive.design&quot;&gt;deceptive.design&lt;&#x2F;a&gt;. Taxonomy of dark patterns. Our count of 47 comes from this and related classifications.&lt;&#x2F;li&gt;
 &lt;li&gt;Karl Popper — “The Logic of Scientific Discovery,” 1959. Falsification: you prove a theory by failing to disprove it. The negative evidence IS the evidence.&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;p&gt;More citations always being added. Reach out: kevin@primals.eco&lt;&#x2F;p&gt;

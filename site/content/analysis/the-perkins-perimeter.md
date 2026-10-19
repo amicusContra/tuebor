@@ -97,4 +97,4 @@ A perimeter made of ambiguity is still a perimeter.
 
 ---
 
-*Sourced to court records, LARA filings, PCA records, investigation graph (131,329 edges). [Back to Analysis →](/analysis/) · [Three Percent →](/analysis/three-percent/) · [The Shell Game →](/analysis/the-shell-game/)*
+*Sourced to court records, LARA filings, PCA records, investigation graph (131,322 edges). [Back to Analysis →](/analysis/) · [Three Percent →](/analysis/three-percent/) · [The Shell Game →](/analysis/the-shell-game/)*

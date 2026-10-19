@@ -23,7 +23,7 @@
         <link rel="alternate" type="text/html" href="https://tuebor.primals.eco/analysis/credential-audit/"/>
         <id>https://tuebor.primals.eco/analysis/credential-audit/</id>
         
-        <content type="html" xml:base="https://tuebor.primals.eco/analysis/credential-audit/">&lt;p&gt;The &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;mdoe.state.mi.us&#x2F;MOECS&#x2F;PublicCredentialSearch.aspx&quot;&gt;Michigan Online Educator Certification System (MOECS)&lt;&#x2F;a&gt; is the public database where anyone can verify whether a Michigan educator holds a valid teaching certificate, administrator certification, or permit — and which grade levels and subjects each endorsement covers. 
+        <content type="html" xml:base="https://tuebor.primals.eco/analysis/credential-audit/">&lt;p&gt;The &lt;a href=&quot;https:&#x2F;&#x2F;mdoe.state.mi.us&#x2F;MOECS&#x2F;PublicCredentialSearch.aspx&quot;&gt;Michigan Online Educator Certification System (MOECS)&lt;&#x2F;a&gt; is the public database where anyone can verify whether a Michigan educator holds a valid teaching certificate, administrator certification, or permit — and which grade levels and subjects each endorsement covers. 
 
 
 
@@ -33,7 +33,7 @@
 
 &lt;span class=&quot;confidence-badge confidence-documented&quot; title=&quot;Sourced from public record&quot;&gt;&lt;span aria-hidden=&quot;true&quot;&gt;📄&lt;&#x2F;span&gt; Documented&lt;&#x2F;span&gt;
 &lt;&#x2F;p&gt;
-&lt;p&gt;On &lt;strong&gt;September 26, 2026&lt;&#x2F;strong&gt;, every name listed on MacDowell Preparatory Academy’s public staff roster (&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.macdowellprep.com&#x2F;about&#x2F;&quot;&gt;macdowellprep.com&#x2F;about&#x2F;&lt;&#x2F;a&gt;) was searched in MOECS. The audit found that &lt;strong&gt;only 2 of 14 instructional staff members&lt;&#x2F;strong&gt; are properly credentialed &lt;strong&gt;and&lt;&#x2F;strong&gt; correctly placed for their teaching assignment. 
+&lt;p&gt;On &lt;strong&gt;September 26, 2026&lt;&#x2F;strong&gt;, every name listed on MacDowell Preparatory Academy’s public staff roster (&lt;a href=&quot;https:&#x2F;&#x2F;www.macdowellprep.com&#x2F;about&#x2F;&quot;&gt;macdowellprep.com&#x2F;about&#x2F;&lt;&#x2F;a&gt;) was searched in MOECS. The audit found that &lt;strong&gt;only 2 of 14 instructional staff members&lt;&#x2F;strong&gt; are properly credentialed &lt;strong&gt;and&lt;&#x2F;strong&gt; correctly placed for their teaching assignment. 
 
 
 
@@ -71,7 +71,7 @@
 &lt;tr&gt;&lt;td&gt;2 staff&lt;&#x2F;td&gt;&lt;td&gt;Expired or pending credentials.&lt;&#x2F;td&gt;&lt;td&gt;⏳&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
 &lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
 &lt;p&gt;&lt;strong&gt;Legend:&lt;&#x2F;strong&gt; ✅ Valid · ⚠️ Wrong endorsement&#x2F;placement · ❌ No credentials · 🔶 Substitute permit from other school · ⏳ Expired&lt;&#x2F;p&gt;
-&lt;p&gt;&lt;em&gt;Source: MOECS public credential search, September 26, 2026. Staff titles from &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.macdowellprep.com&#x2F;about&#x2F;&quot;&gt;macdowellprep.com&#x2F;about&#x2F;&lt;&#x2F;a&gt;.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;Source: MOECS public credential search, September 26, 2026. Staff titles from &lt;a href=&quot;https:&#x2F;&#x2F;www.macdowellprep.com&#x2F;about&#x2F;&quot;&gt;macdowellprep.com&#x2F;about&#x2F;&lt;&#x2F;a&gt;.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;the-rachel-webb-finding&quot;&gt;The Rachel Webb Finding 
 
 
@@ -141,10 +141,10 @@
 &lt;h2 id=&quot;verify-it-yourself&quot;&gt;Verify It Yourself&lt;&#x2F;h2&gt;
 &lt;p&gt;Anyone can reproduce this audit in minutes:&lt;&#x2F;p&gt;
 &lt;ol&gt;
-&lt;li&gt;Go to MOECS public search: &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;mdoe.state.mi.us&#x2F;MOECS&#x2F;PublicCredentialSearch.aspx&quot;&gt;mdoe.state.mi.us&#x2F;MOECS&#x2F;PublicCredentialSearch.aspx&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Go to MOECS public search: &lt;a href=&quot;https:&#x2F;&#x2F;mdoe.state.mi.us&#x2F;MOECS&#x2F;PublicCredentialSearch.aspx&quot;&gt;mdoe.state.mi.us&#x2F;MOECS&#x2F;PublicCredentialSearch.aspx&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;Enter the teacher’s last name&lt;&#x2F;li&gt;
 &lt;li&gt;Check: Is the certificate &lt;strong&gt;valid&lt;&#x2F;strong&gt;? Is it &lt;strong&gt;endorsed for the grades and subjects&lt;&#x2F;strong&gt; being taught?&lt;&#x2F;li&gt;
-&lt;li&gt;Compare results to the school’s actual staff roster at &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.macdowellprep.com&#x2F;about&#x2F;&quot;&gt;macdowellprep.com&#x2F;about&#x2F;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Compare results to the school’s actual staff roster at &lt;a href=&quot;https:&#x2F;&#x2F;www.macdowellprep.com&#x2F;about&#x2F;&quot;&gt;macdowellprep.com&#x2F;about&#x2F;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ol&gt;
 &lt;p&gt;Discrepancies between MOECS endorsements and classroom assignments are visible immediately in the public record.&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;the-cost&quot;&gt;The Cost 
@@ -364,9 +364,9 @@
 &lt;h2 id=&quot;verify-it-yourself&quot;&gt;Verify It Yourself&lt;&#x2F;h2&gt;
 &lt;p&gt;Every specific claim on this site can be independently checked against public records.&lt;&#x2F;p&gt;
 &lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Resource&lt;&#x2F;th&gt;&lt;th&gt;What to check&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
-&lt;tr&gt;&lt;td&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.mischooldata.org&#x2F;&quot;&gt;MiSchoolData.org&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;td&gt;Compare charter school performance across Detroit — proficiency rates, enrollment, demographics&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
-&lt;tr&gt;&lt;td&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.mischooldata.org&quot;&gt;MI School Data&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;td&gt;Spending patterns by school — instruction vs. administration, management company payments&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
-&lt;tr&gt;&lt;td&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;mdoe.state.mi.us&#x2F;MOECS&#x2F;PublicCredentialSearch.aspx&quot;&gt;MOECS Public Search&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;td&gt;Teacher credential verification — compare MOECS results to school staff rosters&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.mischooldata.org&#x2F;&quot;&gt;MiSchoolData.org&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;td&gt;Compare charter school performance across Detroit — proficiency rates, enrollment, demographics&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.mischooldata.org&quot;&gt;MI School Data&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;td&gt;Spending patterns by school — instruction vs. administration, management company payments&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https:&#x2F;&#x2F;mdoe.state.mi.us&#x2F;MOECS&#x2F;PublicCredentialSearch.aspx&quot;&gt;MOECS Public Search&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;td&gt;Teacher credential verification — compare MOECS results to school staff rosters&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
 &lt;tr&gt;&lt;td&gt;&lt;a href=&quot;&#x2F;evidence&#x2F;&quot;&gt;This site’s evidence library&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;td&gt;Documented case files — FOIA responses, financial records, management agreements&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
 &lt;tr&gt;&lt;td&gt;&lt;a href=&quot;&#x2F;validate&#x2F;&quot;&gt;Verification page&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;td&gt;Step-by-step instructions for reproducing every major claim&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
 &lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;

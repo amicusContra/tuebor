@@ -112,4 +112,4 @@ But collectively, they form the political roof. The structure that keeps rain of
 
 ---
 
-*Sourced to Michigan Legislature records, campaign filings, Detroit political records, investigation graph (131,329 edges). [Back to Analysis →](/analysis/) · [Three Percent →](/analysis/three-percent/) · [The Stallworth Spread →](/analysis/the-stallworth-spread/)*
+*Sourced to Michigan Legislature records, campaign filings, Detroit political records, investigation graph (131,322 edges). [Back to Analysis →](/analysis/) · [Three Percent →](/analysis/three-percent/) · [The Stallworth Spread →](/analysis/the-stallworth-spread/)*

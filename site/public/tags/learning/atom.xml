@@ -96,21 +96,22 @@
 &lt;p&gt;As I taught, I learned FASTER. Because teaching is compare-down AND compare-up simultaneously. The kid is below you. The expert is above you. You are the triangle vertex. You see the full shape.&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;it-s-a-self-improvement-iteration-cycle&quot;&gt;It’s a Self-Improvement Iteration Cycle&lt;&#x2F;h2&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;OBSERVE (compare up, compare down, look in&#x2F;at&#x2F;out)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ↓&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;ATTEMPT (high knee, stomp, commit)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ↓&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;FAIL (fall, wobble, lose edge)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ↓&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;TEACH (explain what went wrong to someone worse)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ↓&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;UNDERSTAND (the explanation teaches YOU)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ↓&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;OBSERVE (but now with updated eyes)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ↓&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;ATTEMPT (but now with updated body)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ↓&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;...repeat...&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;OBSERVE (compare up, compare down, look in&amp;#x2F;at&amp;#x2F;out)
+    ↓
+ATTEMPT (high knee, stomp, commit)
+    ↓
+FAIL (fall, wobble, lose edge)
+    ↓
+TEACH (explain what went wrong to someone worse)
+    ↓
+UNDERSTAND (the explanation teaches YOU)
+    ↓
+OBSERVE (but now with updated eyes)
+    ↓
+ATTEMPT (but now with updated body)
+    ↓
+...repeat...
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;Every iteration tightens the loop. The observe gets sharper. The attempt gets closer. The failure gets more specific. The teaching gets more precise. The understanding gets deeper.&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;strong&gt;This is gradient descent with a human in the loop.&lt;&#x2F;strong&gt; Each cycle reduces the loss function. Not to zero — never to zero — but asymptotically toward the expert’s glide.&lt;&#x2F;p&gt;
 &lt;p&gt;And the loop accelerates when you teach, because teaching forces you to make every step explicit. The tacit knowledge becomes transmissible. The body learns from the mouth saying what the body does.&lt;&#x2F;p&gt;

@@ -57,7 +57,7 @@ This is the top of the pyramid. If MDE is the engine, SBE is the steering wheel.
 
 The SBE connects to the investigation graph at exactly **2 points.**
 
-That means: across 131,329 edges and 7,554 nodes, the body responsible for overseeing all of Michigan's public education touches this investigation graph **twice.**
+That means: across 131,322 edges and 7,533 nodes, the body responsible for overseeing all of Michigan's public education touches this investigation graph **twice.**
 
 For comparison:
 - Banks has **134 edges**
@@ -122,7 +122,7 @@ They haven't.
 
 2 edges.
 
-In a graph with 131,329 edges, 2 is not a connection. It's a **disconnection.**
+In a graph with 131,322 edges, 2 is not a connection. It's a **disconnection.**
 
 It means: the State Board of Education is so uninvolved in the investigation of charter school fraud in their own state that they barely register as existing.
 
@@ -132,4 +132,4 @@ And that absence is the gap. That's where Banks operates. In the space between t
 
 ---
 
-*Sourced to SBE public records, Michigan Constitution Art. VIII §3, MDE records, authorizer standards, investigation graph (131,329 edges). [Back to Analysis →](/analysis/) · [Three Percent →](/analysis/three-percent/) · [Selective Enforcement →](/analysis/selective-enforcement/)*
+*Sourced to SBE public records, Michigan Constitution Art. VIII §3, MDE records, authorizer standards, investigation graph (131,322 edges). [Back to Analysis →](/analysis/) · [Three Percent →](/analysis/three-percent/) · [Selective Enforcement →](/analysis/selective-enforcement/)*

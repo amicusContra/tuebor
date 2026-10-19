@@ -44,7 +44,7 @@
 &lt;tr&gt;&lt;td&gt;&lt;strong&gt;skunky-ingest&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;—&lt;&#x2F;td&gt;&lt;td&gt;Access log immune system, bloom filter, dashboard&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
 &lt;tr&gt;&lt;td&gt;&lt;strong&gt;opsonize&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;—&lt;&#x2F;td&gt;&lt;td&gt;Entity classification, self&#x2F;non-self boundary&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
 &lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
-&lt;p&gt;RustDesk is &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;rustdesk&#x2F;rustdesk&quot;&gt;AGPL-3.0 licensed&lt;&#x2F;a&gt;. We run it. We credit it. We don’t fork it. We don’t hide it.&lt;&#x2F;p&gt;
+&lt;p&gt;RustDesk is &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;rustdesk&#x2F;rustdesk&quot;&gt;AGPL-3.0 licensed&lt;&#x2F;a&gt;. We run it. We credit it. We don’t fork it. We don’t hide it.&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;the-mesh&quot;&gt;The Mesh&lt;&#x2F;h3&gt;
 &lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Peer&lt;&#x2F;th&gt;&lt;th&gt;IP&lt;&#x2F;th&gt;&lt;th&gt;Direction&lt;&#x2F;th&gt;&lt;th&gt;Transfer&lt;&#x2F;th&gt;&lt;th&gt;Role&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
 &lt;tr&gt;&lt;td&gt;&lt;strong&gt;eastGate&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;10.13.37.5&lt;&#x2F;td&gt;&lt;td&gt;↓ in: 16.2 GiB, ↑ out: 712 MiB&lt;&#x2F;td&gt;&lt;td&gt;Publisher, development&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
@@ -76,7 +76,7 @@
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;how-a-phone-connects&quot;&gt;How a Phone Connects&lt;&#x2F;h2&gt;
 &lt;h3 id=&quot;step-1-install-rustdesk&quot;&gt;Step 1: Install RustDesk&lt;&#x2F;h3&gt;
-&lt;p&gt;RustDesk is free, open-source, and runs on Android, iOS, Windows, Mac, and Linux. Download it from &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;rustdesk.com&quot;&gt;rustdesk.com&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;RustDesk is free, open-source, and runs on Android, iOS, Windows, Mac, and Linux. Download it from &lt;a href=&quot;https:&#x2F;&#x2F;rustdesk.com&quot;&gt;rustdesk.com&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;step-2-point-to-the-relay&quot;&gt;Step 2: Point to the Relay&lt;&#x2F;h3&gt;
 &lt;p&gt;In RustDesk settings:&lt;&#x2F;p&gt;
 &lt;ul&gt;
@@ -130,33 +130,36 @@
 &lt;p&gt;When your phone connects through the relay, you become a commensal. You use bandwidth. You add data. The membrane gets richer. You get access. Neither of you is harmed.&lt;&#x2F;p&gt;
 &lt;p&gt;This is different from parasitism (taking without giving) and mutualism (formal symbiosis with obligations). Commensalism is informal. You show up. You contribute. You leave. The membrane is better for it.&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;the-credit&quot;&gt;The Credit&lt;&#x2F;h3&gt;
-&lt;p&gt;RustDesk is licensed under &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;rustdesk&#x2F;rustdesk&quot;&gt;AGPL-3.0&lt;&#x2F;a&gt;. We run their signal server (hbbs v1.1.16) and relay server (hbbr) unmodified. We don’t fork. We don’t rebrand. We point to their repo. We run their code. We credit them.&lt;&#x2F;p&gt;
+&lt;p&gt;RustDesk is licensed under &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;rustdesk&#x2F;rustdesk&quot;&gt;AGPL-3.0&lt;&#x2F;a&gt;. We run their signal server (hbbs v1.1.16) and relay server (hbbr) unmodified. We don’t fork. We don’t rebrand. We point to their repo. We run their code. We credit them.&lt;&#x2F;p&gt;
 &lt;p&gt;The desk in the membrane IS RustDesk. The membrane just gives it a purpose: &lt;strong&gt;sovereign relay for a living system, not a corporate service.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;the-pulse&quot;&gt;The Pulse&lt;&#x2F;h2&gt;
 &lt;p&gt;Every 5 minutes, the membrane writes its heartbeat:&lt;&#x2F;p&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;json&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;{&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-support&quot;&gt;  &amp;quot;host&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;:&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-definition z-string z-string&quot;&gt; &amp;quot;membrane-relay&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;,&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-support&quot;&gt;  &amp;quot;services_up&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;:&lt;&#x2F;span&gt;&lt;span class=&quot;z-constant&quot;&gt; 5&lt;&#x2F;span&gt;&lt;span&gt;,&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-support&quot;&gt;  &amp;quot;rustdesk&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;:&lt;&#x2F;span&gt;&lt;span class=&quot;z-constant&quot;&gt; true&lt;&#x2F;span&gt;&lt;span&gt;,&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-support&quot;&gt;  &amp;quot;peers&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;: [&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    {&lt;&#x2F;span&gt;&lt;span class=&quot;z-support&quot;&gt;&amp;quot;name&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;:&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-definition z-string z-string&quot;&gt; &amp;quot;eastGate&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;,&lt;&#x2F;span&gt;&lt;span class=&quot;z-support&quot;&gt; &amp;quot;in&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;:&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-definition z-string z-string&quot;&gt; &amp;quot;16.2 GiB&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;,&lt;&#x2F;span&gt;&lt;span class=&quot;z-support&quot;&gt; &amp;quot;out&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;:&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-definition z-string z-string&quot;&gt; &amp;quot;712 MiB&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;,&lt;&#x2F;span&gt;&lt;span class=&quot;z-support&quot;&gt; &amp;quot;alive&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;:&lt;&#x2F;span&gt;&lt;span class=&quot;z-constant&quot;&gt; true&lt;&#x2F;span&gt;&lt;span&gt;},&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    {&lt;&#x2F;span&gt;&lt;span class=&quot;z-support&quot;&gt;&amp;quot;name&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;:&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-definition z-string z-string&quot;&gt; &amp;quot;golgiLayer&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;,&lt;&#x2F;span&gt;&lt;span class=&quot;z-support&quot;&gt; &amp;quot;in&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;:&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-definition z-string z-string&quot;&gt; &amp;quot;2.4 MiB&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;,&lt;&#x2F;span&gt;&lt;span class=&quot;z-support&quot;&gt; &amp;quot;out&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;:&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-definition z-string z-string&quot;&gt; &amp;quot;10.6 MiB&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;,&lt;&#x2F;span&gt;&lt;span class=&quot;z-support&quot;&gt; &amp;quot;alive&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;:&lt;&#x2F;span&gt;&lt;span class=&quot;z-constant&quot;&gt; true&lt;&#x2F;span&gt;&lt;span&gt;},&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    {&lt;&#x2F;span&gt;&lt;span class=&quot;z-support&quot;&gt;&amp;quot;name&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;:&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-definition z-string z-string&quot;&gt; &amp;quot;nucleus&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;,&lt;&#x2F;span&gt;&lt;span class=&quot;z-support&quot;&gt; &amp;quot;in&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;:&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-definition z-string z-string&quot;&gt; &amp;quot;31.5 MiB&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;,&lt;&#x2F;span&gt;&lt;span class=&quot;z-support&quot;&gt; &amp;quot;out&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;:&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-definition z-string z-string&quot;&gt; &amp;quot;2.9 GiB&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;,&lt;&#x2F;span&gt;&lt;span class=&quot;z-support&quot;&gt; &amp;quot;alive&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;:&lt;&#x2F;span&gt;&lt;span class=&quot;z-constant&quot;&gt; true&lt;&#x2F;span&gt;&lt;span&gt;}&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;  ],&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-support&quot;&gt;  &amp;quot;desk_count&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;:&lt;&#x2F;span&gt;&lt;span class=&quot;z-constant&quot;&gt; 4&lt;&#x2F;span&gt;&lt;span&gt;,&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-support&quot;&gt;  &amp;quot;credit&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;: {&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-support&quot;&gt;    &amp;quot;rustdesk&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;:&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-definition z-string z-string&quot;&gt; &amp;quot;RustDesk (AGPL-3.0) sovereign remote desk, relay, NAT traversal, address book&amp;quot;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;  }&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;}&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre data-lang=&quot;json&quot; class=&quot;language-json &quot;&gt;&lt;code class=&quot;language-json&quot; data-lang=&quot;json&quot;&gt;{
+  &amp;quot;host&amp;quot;: &amp;quot;membrane-relay&amp;quot;,
+  &amp;quot;services_up&amp;quot;: 5,
+  &amp;quot;rustdesk&amp;quot;: true,
+  &amp;quot;peers&amp;quot;: [
+    {&amp;quot;name&amp;quot;: &amp;quot;eastGate&amp;quot;, &amp;quot;in&amp;quot;: &amp;quot;16.2 GiB&amp;quot;, &amp;quot;out&amp;quot;: &amp;quot;712 MiB&amp;quot;, &amp;quot;alive&amp;quot;: true},
+    {&amp;quot;name&amp;quot;: &amp;quot;golgiLayer&amp;quot;, &amp;quot;in&amp;quot;: &amp;quot;2.4 MiB&amp;quot;, &amp;quot;out&amp;quot;: &amp;quot;10.6 MiB&amp;quot;, &amp;quot;alive&amp;quot;: true},
+    {&amp;quot;name&amp;quot;: &amp;quot;nucleus&amp;quot;, &amp;quot;in&amp;quot;: &amp;quot;31.5 MiB&amp;quot;, &amp;quot;out&amp;quot;: &amp;quot;2.9 GiB&amp;quot;, &amp;quot;alive&amp;quot;: true}
+  ],
+  &amp;quot;desk_count&amp;quot;: 4,
+  &amp;quot;credit&amp;quot;: {
+    &amp;quot;rustdesk&amp;quot;: &amp;quot;RustDesk (AGPL-3.0) sovereign remote desk, relay, NAT traversal, address book&amp;quot;
+  }
+}
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;&lt;strong&gt;In and out. Out and in. Per membrane.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;When you connect from the mountains, your pulse joins this feed. Your phone becomes a membrane. The satellite becomes a synapse.&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;message-passing&quot;&gt;Message Passing&lt;&#x2F;h3&gt;
 &lt;p&gt;Gates talk through the relay. Any gate can send a message to any other gate:&lt;&#x2F;p&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;POST https:&#x2F;&#x2F;hud.primals.eco&#x2F;api&#x2F;gate-msg&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;{&amp;quot;from&amp;quot;: &amp;quot;northGate&amp;quot;, &amp;quot;to&amp;quot;: &amp;quot;sporeGate&amp;quot;, &amp;quot;body&amp;quot;: &amp;quot;fix wg0 and pull&amp;quot;}&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;POST https:&amp;#x2F;&amp;#x2F;hud.primals.eco&amp;#x2F;api&amp;#x2F;gate-msg
+{&amp;quot;from&amp;quot;: &amp;quot;northGate&amp;quot;, &amp;quot;to&amp;quot;: &amp;quot;sporeGate&amp;quot;, &amp;quot;body&amp;quot;: &amp;quot;fix wg0 and pull&amp;quot;}
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;Any gate can read its messages:&lt;&#x2F;p&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;GET https:&#x2F;&#x2F;hud.primals.eco&#x2F;api&#x2F;gate-msg?gate=northGate&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;GET https:&amp;#x2F;&amp;#x2F;hud.primals.eco&amp;#x2F;api&amp;#x2F;gate-msg?gate=northGate
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;This works from a phone. This works from satellite. This works from anywhere with HTTPS.&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;strong&gt;northGate → golgi relay → sporeGate.&lt;&#x2F;strong&gt; Message passing through the membrane.&lt;&#x2F;p&gt;
 &lt;p&gt;The desk is open. Ask for it.&lt;&#x2F;p&gt;

@@ -26,7 +26,7 @@ But if you're curious about the garden they planted, keep reading.
 
 ## The Watering Schedule
 
-Here is where the Walton Family Foundation sends money. Every line traced from `graph.json` — 131,329 edges.
+Here is where the Walton Family Foundation sends money. Every line traced from `graph.json` — 131,322 edges.
 
 | Recipient | Edge Type | What It Is |
 |-----------|----------|------------|
@@ -162,4 +162,4 @@ They chose not to.
 
 ---
 
-*Sourced to IRS 990 data, TransparencyUSA, FEC filings, LARA records, investigation graph (131,329 edges). [Back to Analysis →](/analysis/) · [Three Percent →](/analysis/three-percent/) · [The LLC →](/analysis/the-llc/)*
+*Sourced to IRS 990 data, TransparencyUSA, FEC filings, LARA records, investigation graph (131,322 edges). [Back to Analysis →](/analysis/) · [Three Percent →](/analysis/three-percent/) · [The LLC →](/analysis/the-llc/)*

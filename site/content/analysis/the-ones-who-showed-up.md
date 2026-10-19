@@ -205,4 +205,4 @@ And the investigation is winning. Because the data is public. The edges are trac
 
 ---
 
-*Built from graph.json (131,329 edges), explore.json (341 entities). All entity classifications and edge types sourced from the investigation dataset. [Back to Analysis →](/analysis/) · [Three Percent →](/analysis/three-percent/) · [Stepping to the Side →](/analysis/stepping-to-the-side/)*
+*Built from graph.json (131,322 edges), explore.json (341 entities). All entity classifications and edge types sourced from the investigation dataset. [Back to Analysis →](/analysis/) · [Three Percent →](/analysis/three-percent/) · [Stepping to the Side →](/analysis/stepping-to-the-side/)*

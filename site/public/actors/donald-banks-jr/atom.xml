@@ -51,12 +51,13 @@
 &lt;p&gt;Meta’s fleet probed our infrastructure with behavioral patterns that reveal a different intent:&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;the-avatar-probes&quot;&gt;The Avatar Probes&lt;&#x2F;h3&gt;
 &lt;p&gt;Two fleet entities (IP hashes &lt;code&gt;af4a0401&lt;&#x2F;code&gt; and &lt;code&gt;451cba78&lt;&#x2F;code&gt;) specifically requested &lt;strong&gt;user avatar URLs&lt;&#x2F;strong&gt;:&lt;&#x2F;p&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;avatars&#x2F;708b8b60726a6da4c7b26063f212098b&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;avatars&#x2F;84369568ec293e456994b4c44e5e8a9c&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;avatars&#x2F;edbc3a877afb3ff5dc45d3a77c7403ce&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;avatars&#x2F;147ba2e4b74fa4594171896f94484805&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;avatars&#x2F;330eb44d169f89ffcdfb6916f76892f9&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;avatars&#x2F;a11dcea9e88e8ca4228404461a82635b&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;avatars&amp;#x2F;708b8b60726a6da4c7b26063f212098b
+avatars&amp;#x2F;84369568ec293e456994b4c44e5e8a9c
+avatars&amp;#x2F;edbc3a877afb3ff5dc45d3a77c7403ce
+avatars&amp;#x2F;147ba2e4b74fa4594171896f94484805
+avatars&amp;#x2F;330eb44d169f89ffcdfb6916f76892f9
+avatars&amp;#x2F;a11dcea9e88e8ca4228404461a82635b
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;Avatar URLs are &lt;strong&gt;unique to user profiles.&lt;&#x2F;strong&gt; Each avatar hash corresponds to a specific person’s account. By requesting these URLs, Meta’s fleet wasn’t reading code — it was &lt;strong&gt;mapping the humans who wrote the code.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;This is personal data collection. User profile enumeration. People-targeting, not content-targeting.&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;the-blame-scanner&quot;&gt;The Blame Scanner&lt;&#x2F;h3&gt;

@@ -24,9 +24,9 @@
         <id>https://tuebor.primals.eco/analysis/corporate-network-lara/</id>
         
         <content type="html" xml:base="https://tuebor.primals.eco/analysis/corporate-network-lara/">&lt;h2 id=&quot;how-to-read-this-page&quot;&gt;How to Read This Page&lt;&#x2F;h2&gt;
-&lt;p&gt;Every entity listed below is a public record in the &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;mibusinessregistry.lara.state.mi.us&#x2F;search&#x2F;business&quot;&gt;Michigan LARA Business Entity Search&lt;&#x2F;a&gt;. Entity IDs are provided so anyone can verify. Officer names, addresses, and filing dates come directly from LARA annual reports and formation documents — all public records under Michigan law.&lt;&#x2F;p&gt;
+&lt;p&gt;Every entity listed below is a public record in the &lt;a href=&quot;https:&#x2F;&#x2F;mibusinessregistry.lara.state.mi.us&#x2F;search&#x2F;business&quot;&gt;Michigan LARA Business Entity Search&lt;&#x2F;a&gt;. Entity IDs are provided so anyone can verify. Officer names, addresses, and filing dates come directly from LARA annual reports and formation documents — all public records under Michigan law.&lt;&#x2F;p&gt;
 &lt;p&gt;We focus on &lt;strong&gt;business addresses&lt;&#x2F;strong&gt; and &lt;strong&gt;registered agent addresses&lt;&#x2F;strong&gt; (which are legally required to be public for service of process). We do not publish residential addresses for peripheral individuals.&lt;&#x2F;p&gt;
-&lt;p&gt;&lt;strong&gt;Source notation:&lt;&#x2F;strong&gt; “LARA [Entity ID]” means the data comes from Michigan Department of Licensing and Regulatory Affairs business entity filings. You can verify any entity by searching &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;mibusinessregistry.lara.state.mi.us&#x2F;search&#x2F;business&quot;&gt;mibusinessregistry.lara.state.mi.us&lt;&#x2F;a&gt; with the Entity ID number.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Source notation:&lt;&#x2F;strong&gt; “LARA [Entity ID]” means the data comes from Michigan Department of Licensing and Regulatory Affairs business entity filings. You can verify any entity by searching &lt;a href=&quot;https:&#x2F;&#x2F;mibusinessregistry.lara.state.mi.us&#x2F;search&#x2F;business&quot;&gt;mibusinessregistry.lara.state.mi.us&lt;&#x2F;a&gt; with the Entity ID number.&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;the-purpose-empire-three-entities-one-man&quot;&gt;The Purpose Empire — Three Entities, One Man&lt;&#x2F;h2&gt;
 &lt;p&gt;Brian Banks controls &lt;strong&gt;three&lt;&#x2F;strong&gt; “Purpose”-branded entities. Together they form the corporate infrastructure for his charter school operation.&lt;&#x2F;p&gt;
@@ -188,14 +188,15 @@
 &lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
 &lt;p&gt;&lt;em&gt;Source: ProPublica Nonprofit Explorer, IRS Form 990 filings for EIN 82-2361291&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;strong&gt;The Stallworth dynasty&lt;&#x2F;strong&gt; (all public record, documented on this site):&lt;&#x2F;p&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;Keith &amp;quot;K.B.&amp;quot; Stallworth&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;  Federal money laundering conviction (2003)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;  → Brother: Thomas Stallworth III (former State Rep)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;      → Married: Nicole Wells-Stallworth&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;          MacDowell Board President — hired Banks&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;      → Daughter: Misha Stallworth West&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;          DPSCD Board — authorized Banks&amp;#39; charter&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;          CitizenDetroit Director — same board as Banks&amp;#39; attorney&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;Keith &amp;quot;K.B.&amp;quot; Stallworth
+  Federal money laundering conviction (2003)
+  → Brother: Thomas Stallworth III (former State Rep)
+      → Married: Nicole Wells-Stallworth
+          MacDowell Board President — hired Banks
+      → Daughter: Misha Stallworth West
+          DPSCD Board — authorized Banks&amp;#x27; charter
+          CitizenDetroit Director — same board as Banks&amp;#x27; attorney
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;These problems originate in dynasties, move through entities, and land on humans. The board overlap does not imply that Crump-Gibson knew about the Stallworth family’s role in installing Banks. It means the &lt;strong&gt;social graph through which Banks finds legal representation is the same social graph through which charter school authorization flows.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;Correlation does not imply causation. But causation can be masked — and hidden — by correlation.&lt;&#x2F;p&gt;
 &lt;p&gt;Within 24 hours of entering Banks’ case, Crump-Gibson voluntarily limited her scope in writing, declining law enforcement and PPO matters. That is a written record of an attorney drawing an ethical line. The &lt;a href=&quot;&#x2F;evidence&#x2F;correspondence&#x2F;&quot;&gt;correspondence timeline&lt;&#x2F;a&gt; documents the full sequence.&lt;&#x2F;p&gt;
@@ -226,7 +227,7 @@
 &lt;p&gt;The dissolve-and-reform pattern (Custom Promotions Inc dissolved February 2022 → Custom Promotions LLC filed May 2022) may be used to shed liabilities while maintaining brand continuity. The three-name dark money vehicle (Save Detroit Jobs → Impact Detroit → Detroit Leaders) allows the same entity to operate under different public identities for different audiences.&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;how-to-verify&quot;&gt;How to Verify&lt;&#x2F;h2&gt;
-&lt;p&gt;Every entity on this page can be verified at &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;mibusinessregistry.lara.state.mi.us&#x2F;search&#x2F;business&quot;&gt;Michigan LARA Business Entity Search&lt;&#x2F;a&gt;:&lt;&#x2F;p&gt;
+&lt;p&gt;Every entity on this page can be verified at &lt;a href=&quot;https:&#x2F;&#x2F;mibusinessregistry.lara.state.mi.us&#x2F;search&#x2F;business&quot;&gt;Michigan LARA Business Entity Search&lt;&#x2F;a&gt;:&lt;&#x2F;p&gt;
 &lt;ol&gt;
 &lt;li&gt;Go to the search page&lt;&#x2F;li&gt;
 &lt;li&gt;Enter the Entity ID number in the search field&lt;&#x2F;li&gt;

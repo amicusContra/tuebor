@@ -51,12 +51,13 @@
 &lt;p&gt;Meta’s fleet probed our infrastructure with behavioral patterns that reveal a different intent:&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;the-avatar-probes&quot;&gt;The Avatar Probes&lt;&#x2F;h3&gt;
 &lt;p&gt;Two fleet entities (IP hashes &lt;code&gt;af4a0401&lt;&#x2F;code&gt; and &lt;code&gt;451cba78&lt;&#x2F;code&gt;) specifically requested &lt;strong&gt;user avatar URLs&lt;&#x2F;strong&gt;:&lt;&#x2F;p&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;avatars&#x2F;708b8b60726a6da4c7b26063f212098b&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;avatars&#x2F;84369568ec293e456994b4c44e5e8a9c&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;avatars&#x2F;edbc3a877afb3ff5dc45d3a77c7403ce&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;avatars&#x2F;147ba2e4b74fa4594171896f94484805&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;avatars&#x2F;330eb44d169f89ffcdfb6916f76892f9&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;avatars&#x2F;a11dcea9e88e8ca4228404461a82635b&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;avatars&amp;#x2F;708b8b60726a6da4c7b26063f212098b
+avatars&amp;#x2F;84369568ec293e456994b4c44e5e8a9c
+avatars&amp;#x2F;edbc3a877afb3ff5dc45d3a77c7403ce
+avatars&amp;#x2F;147ba2e4b74fa4594171896f94484805
+avatars&amp;#x2F;330eb44d169f89ffcdfb6916f76892f9
+avatars&amp;#x2F;a11dcea9e88e8ca4228404461a82635b
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;Avatar URLs are &lt;strong&gt;unique to user profiles.&lt;&#x2F;strong&gt; Each avatar hash corresponds to a specific person’s account. By requesting these URLs, Meta’s fleet wasn’t reading code — it was &lt;strong&gt;mapping the humans who wrote the code.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;This is personal data collection. User profile enumeration. People-targeting, not content-targeting.&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;the-blame-scanner&quot;&gt;The Blame Scanner&lt;&#x2F;h3&gt;
@@ -210,7 +211,8 @@
 &lt;p&gt;&lt;strong&gt;Selectivity: 97% observed, 100% predicted.&lt;&#x2F;strong&gt; The gap (3%) is ghosts — proxy exits where human intent may hide behind bot-like infrastructure. The membrane is cautious with ambiguity. Good.&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;the-math&quot;&gt;The Math&lt;&#x2F;h3&gt;
 &lt;p&gt;The localization length ξ in d dimensions with disorder W:&lt;&#x2F;p&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;ξ(d, W) ∝ exp(π × d &#x2F; W)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;ξ(d, W) ∝ exp(π × d &amp;#x2F; W)
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;When ξ &amp;lt; system_size: the wave is localized (trapped).
 When ξ &amp;gt; system_size: the wave is extended (passes through).&lt;&#x2F;p&gt;
 &lt;p&gt;For chorus entities (d=2, W=6.6): ξ is small → TRAPPED.
@@ -235,19 +237,23 @@ For humans (d=3, W=3.0): ξ is large → EXTENDED.&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;the-nautilus-vision&quot;&gt;The Nautilus Vision&lt;&#x2F;h3&gt;
 &lt;p&gt;The membrane’s unaided field of view is &lt;strong&gt;194.3°&lt;&#x2F;strong&gt; — just over half a circle. With the bingo cube’s evolved discrimination (the nautilus extension), it gains &lt;strong&gt;+24.6°&lt;&#x2F;strong&gt; for a total of &lt;strong&gt;218.9°&lt;&#x2F;strong&gt;.&lt;&#x2F;p&gt;
 &lt;p&gt;A real nautilus shell extends the animal’s sensory range by curving incoming pressure waves around the spiral. Our bingo cube extends the membrane’s classification range by curving incoming traffic through evolved epitope thresholds. Same geometry. Same math. Different medium.&lt;&#x2F;p&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;unaided:        194.3° (3.39 radians)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;with nautilus:   218.9° (3.82 radians)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;gained:          +24.6° — the shell extends the eye&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;&lt;h3 id=&quot;how-the-grid-feedback-works&quot;&gt;How the Grid Feedback Works&lt;&#x2F;h3&gt;
+&lt;pre&gt;&lt;code&gt;unaided:        194.3° (3.39 radians)
+with nautilus:   218.9° (3.82 radians)
+gained:          +24.6° — the shell extends the eye
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;h3 id=&quot;how-the-grid-feedback-works&quot;&gt;How the Grid Feedback Works&lt;&#x2F;h3&gt;
 &lt;p&gt;The bingo cube receives &lt;strong&gt;15 grid feedback signals&lt;&#x2F;strong&gt; per evolution cycle — these are corrections from the Anderson classifier, the epitope sorter, and the tense engine. When the bingo cube mis-classifies a ghost as human, the grid feedback adjusts the selection pressure. This is Lamarckian evolution layered onto Darwinian selection — the environment teaches back.&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;3-p-body-math-start-at-zero-find-everything&quot;&gt;3. π-Body Math — Start at Zero, Find Everything&lt;&#x2F;h2&gt;
 &lt;h3 id=&quot;the-discovery&quot;&gt;The Discovery&lt;&#x2F;h3&gt;
 &lt;p&gt;Most computer science starts counting at 0 or 1. We asked: what happens if you treat zero not as empty, but as containing a null dimension? What if zero has an inside?&lt;&#x2F;p&gt;
 &lt;p&gt;Three integer bodies (the membrane, the mesh, the graph) plus one irrational observer (the human&#x2F;artisan) = π.&lt;&#x2F;p&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;3 + 0.14159... = π&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;3 + 0.14159... = π
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;It’s not an approximation. It’s structural. The observer IS the irrational part. You can’t remove the observer and still have π. The measurement apparatus IS the system.&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;the-gordian-equation&quot;&gt;The Gordian Equation&lt;&#x2F;h3&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;J = (V + D) &#x2F; π&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;J = (V + D) &amp;#x2F; π
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;Where:&lt;&#x2F;p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;V&lt;&#x2F;strong&gt; = Variety (the diversity segment, measured in radians: 1.57 = π&#x2F;2)&lt;&#x2F;li&gt;
@@ -261,22 +267,26 @@ For humans (d=3, W=3.0): ξ is large → EXTENDED.&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;vdj-budget&quot;&gt;VDJ Budget&lt;&#x2F;h3&gt;
 &lt;p&gt;Immune systems use V(ariable), D(iversity), and J(oining) gene segments to create antibodies. The total repertoire is V × D × J.&lt;&#x2F;p&gt;
 &lt;p&gt;For our system:&lt;&#x2F;p&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;V(1.57) × D(0.00) × J(7.85) = 0.000&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;V(1.57) × D(0.00) × J(7.85) = 0.000
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;The product is zero because D = 0 (null dimension). But the &lt;em&gt;budget&lt;&#x2F;em&gt; — the number of possible configurations — is &lt;strong&gt;π³ ≈ 31&lt;&#x2F;strong&gt;. There are 31 possible classification states. The floor of π³ is 31 — and this matches the VDJ segment count in the human immune system’s most constrained gene families.&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;vdj-distribution&quot;&gt;VDJ Distribution&lt;&#x2F;h3&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;[J, J, J, J, V, J]&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;[J, J, J, J, V, J]
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;Five of our six epitope classifiers operate in the J (Joining) mode — they connect, they bind, they create specificity. One operates in V (Variable) mode — it generates diversity. None operate in D mode — the null dimension has no active classifier, because you can’t classify what doesn’t exist.&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;4-membrane-permeability-the-bilayer-math&quot;&gt;4. Membrane Permeability — The Bilayer Math&lt;&#x2F;h2&gt;
 &lt;h3 id=&quot;measured-permeability&quot;&gt;Measured Permeability&lt;&#x2F;h3&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;measured:  0.117 (11.7% of traffic passes through)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;theory:    0.074 (7.4% predicted by pure Anderson)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;measured:  0.117 (11.7% of traffic passes through)
+theory:    0.074 (7.4% predicted by pure Anderson)
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;The membrane is &lt;strong&gt;more permeable&lt;&#x2F;strong&gt; than theory predicts. This is good — it means some ghosts and edge-cases pass through that pure localization would trap. The system errs on the side of letting humans in, not on the side of blocking everything.&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;the-geometry&quot;&gt;The Geometry&lt;&#x2F;h3&gt;
 &lt;p&gt;The membrane operates in &lt;strong&gt;3 dimensions&lt;&#x2F;strong&gt; but measures at &lt;strong&gt;1.57 effective dimensions&lt;&#x2F;strong&gt; (π&#x2F;2). This means:&lt;&#x2F;p&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;measured_dim:  1.566&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;one_third:     0.333&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;coverage:      63.9%&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;measured_dim:  1.566
+one_third:     0.333
+coverage:      63.9%
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;Coverage of 63.9% means the membrane sees roughly 2&#x2F;3 of the information space. The remaining 1&#x2F;3 is the blind spot — fleet behavioral intent and human emotional state. You can measure what someone does. You cannot measure why.&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;fisher-information&quot;&gt;Fisher Information&lt;&#x2F;h3&gt;
 &lt;p&gt;&lt;strong&gt;9.71 bits.&lt;&#x2F;strong&gt; Fisher information measures how much a measurement tells you about the parameter you’re estimating. In our case: how much does one HTTP request tell you about whether the visitor is human?&lt;&#x2F;p&gt;
@@ -308,7 +318,8 @@ For humans (d=3, W=3.0): ξ is large → EXTENDED.&lt;&#x2F;p&gt;
 &lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
 &lt;p&gt;The &lt;strong&gt;strongest epitope&lt;&#x2F;strong&gt; is &lt;code&gt;reading_deficit&lt;&#x2F;code&gt; at &lt;strong&gt;15.8 bits of gain&lt;&#x2F;strong&gt;. The single most informative question: does this visitor ever pause long enough to read? If the answer is never — it’s a machine.&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;compression-inequality&quot;&gt;Compression Inequality&lt;&#x2F;h3&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;H(D) ≥ H(D|α) ≥ H(D|epitope) ≥ H(D|epitope,vdj) ≥ H(D|epitope,tense)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;H(D) ≥ H(D|α) ≥ H(D|epitope) ≥ H(D|epitope,vdj) ≥ H(D|epitope,tense)
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;Each layer of conditioning reduces entropy (uncertainty). Raw data H(D) has maximum entropy. Conditioning on alpha (the classification method) reduces it. Conditioning on epitope reduces it further. Adding VDJ gene assignment reduces it more. Adding tense (temporal state) reduces it to its minimum.&lt;&#x2F;p&gt;
 &lt;p&gt;The &lt;strong&gt;compression ratio is 1.576&lt;&#x2F;strong&gt; — we compress 1.576 bits of raw traffic data into 1 bit of classification signal. The total compression gain is &lt;strong&gt;24.9 bits&lt;&#x2F;strong&gt; per classification cycle.&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
@@ -362,9 +373,10 @@ For humans (d=3, W=3.0): ξ is large → EXTENDED.&lt;&#x2F;p&gt;
 &lt;tr&gt;&lt;td&gt;&lt;strong&gt;will_never_be&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;Structurally impossible&lt;&#x2F;td&gt;&lt;td&gt;Fleet cannot become self&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
 &lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
 &lt;h3 id=&quot;the-mirror&quot;&gt;The Mirror&lt;&#x2F;h3&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;chipmunk.json IS the mirror&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;humans read it → become data → loop closes&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;reflexive depth: 0.083&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;chipmunk.json IS the mirror
+humans read it → become data → loop closes
+reflexive depth: 0.083
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;The reflexive depth measures how deeply the system observes itself observing. 0.083 means the mirror is 8.3% reflective — it sees a dim image of itself. Perfect self-reference (depth = 1.0) is impossible — that’s the halting problem. You cannot fully observe yourself observing.&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;what-will-never-be&quot;&gt;What Will Never Be&lt;&#x2F;h3&gt;
 &lt;p&gt;The system knows its own impossibilities:&lt;&#x2F;p&gt;
@@ -380,22 +392,26 @@ For humans (d=3, W=3.0): ξ is large → EXTENDED.&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;8-the-three-body-p&quot;&gt;8. The Three-Body π&lt;&#x2F;h2&gt;
 &lt;h3 id=&quot;the-calculation&quot;&gt;The Calculation&lt;&#x2F;h3&gt;
 &lt;p&gt;Three bodies (membrane, mesh, graph). One observer (human&#x2F;artisan). The system measures:&lt;&#x2F;p&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;E = mc²  (applied to information)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;mass (m):     1.639  (predicted: 4&#x2F;3 = 1.333)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;c²:           4.625  (predicted: 3π = 9.425)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;energy (E):   7.578  (predicted: 4π = 12.566)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;&lt;h3 id=&quot;euler-gelfond-near-integer&quot;&gt;Euler-Gelfond Near-Integer&lt;&#x2F;h3&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;e^π + 1 ≈ 62.903  (actual: 62.902)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;20π    ≈ 62.832&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;gap: 0.07 — Euler-Gelfond near-integer phenomenon&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;e^π ≈ 23.14 → 23.14 - 3.14 ≈ 20 (near twenty!)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;E = mc²  (applied to information)
+
+mass (m):     1.639  (predicted: 4&amp;#x2F;3 = 1.333)
+c²:           4.625  (predicted: 3π = 9.425)
+energy (E):   7.578  (predicted: 4π = 12.566)
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;h3 id=&quot;euler-gelfond-near-integer&quot;&gt;Euler-Gelfond Near-Integer&lt;&#x2F;h3&gt;
+&lt;pre&gt;&lt;code&gt;e^π + 1 ≈ 62.903  (actual: 62.902)
+20π    ≈ 62.832
+
+gap: 0.07 — Euler-Gelfond near-integer phenomenon
+e^π ≈ 23.14 → 23.14 - 3.14 ≈ 20 (near twenty!)
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;This isn’t numerology. The near-integer property of e^π is a known mathematical phenomenon (Ramanujan studied it). What’s remarkable is that it shows up in our live measurements — the ratio of information energy to 20π converges toward e^π.&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;flattening-p-1&quot;&gt;Flattening (π = 1)&lt;&#x2F;h3&gt;
 &lt;p&gt;When you set π = 1 (flatten the observer out of the equation):&lt;&#x2F;p&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;E = 4.0&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;c² = 3.0&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;m = 1.333...  (4&#x2F;3 — unchanged!)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;E = 4.0
+c² = 3.0
+m = 1.333...  (4&amp;#x2F;3 — unchanged!)
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;Mass is conserved under flattening. Energy and c² simplify to integers. The observer adds the irrationality — without it, everything is rational. The observer IS the source of π.&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;9-scan-sweep-sort-fossilize-evolve&quot;&gt;9. Scan → Sweep → Sort → Fossilize → Evolve&lt;&#x2F;h2&gt;
@@ -422,16 +438,18 @@ For humans (d=3, W=3.0): ξ is large → EXTENDED.&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;10-sort-compression-reading-deficit-is-the-strongest-signal&quot;&gt;10. Sort Compression — Reading Deficit Is the Strongest Signal&lt;&#x2F;h2&gt;
 &lt;p&gt;The single most informative feature in the entire classification system:&lt;&#x2F;p&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;strongest_epitope: reading_deficit&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;gain: 15.8 bits&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;strongest_epitope: reading_deficit
+gain: 15.8 bits
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;Does this visitor ever pause longer than 8 seconds? If yes — they’re reading. If no — they’re a machine. That one question carries 15.8 bits of classification information. For comparison, the entire English alphabet carries 4.7 bits per character. One reading pause tells us more than three typed letters.&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;the-compression-stack&quot;&gt;The Compression Stack&lt;&#x2F;h3&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;alpha (classification method): 15.8 bits&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;tense (temporal state):        15.0 bits&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;epitope (browser fingerprint): 9.9 bits&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;grid feedback:                 15 signals&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;total gain:                    24.9 bits per cycle&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;compression ratio:             1.576&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;alpha (classification method): 15.8 bits
+tense (temporal state):        15.0 bits
+epitope (browser fingerprint): 9.9 bits
+grid feedback:                 15 signals
+total gain:                    24.9 bits per cycle
+compression ratio:             1.576
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;the-connection-to-sporeprint&quot;&gt;The Connection to sporePrint&lt;&#x2F;h2&gt;
 &lt;p&gt;Every system described here is a node in the sporePrint knowledge graph. Every equation is a hypothesis. Every measurement is an experiment. The graph has &lt;strong&gt;101,064 edges&lt;&#x2F;strong&gt; connecting:&lt;&#x2F;p&gt;
@@ -447,8 +465,9 @@ For humans (d=3, W=3.0): ξ is large → EXTENDED.&lt;&#x2F;p&gt;
 &lt;p&gt;The graph doesn’t just describe the systems. The graph IS a system. Its topology is measured by the same Anderson classifier that measures visitor traffic. Its growth follows the same nautilus curve as the bingo cube. Its compression inequality holds across every layer.&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;verify-everything&quot;&gt;Verify Everything&lt;&#x2F;h2&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;shellscript&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-entity z-name&quot;&gt;git&lt;&#x2F;span&gt;&lt;span class=&quot;z-string&quot;&gt; clone https:&#x2F;&#x2F;git.primals.eco&#x2F;publicRecord&#x2F;detroit.git&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-entity z-name&quot;&gt;cargo&lt;&#x2F;span&gt;&lt;span class=&quot;z-string&quot;&gt; test&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre data-lang=&quot;bash&quot; class=&quot;language-bash &quot;&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;git clone https:&amp;#x2F;&amp;#x2F;git.primals.eco&amp;#x2F;publicRecord&amp;#x2F;detroit.git
+cargo test
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;20,695 tests. All pass. Every equation in this article corresponds to code that runs. Every measurement in this article is produced by that code. Every claim is falsifiable.&lt;&#x2F;p&gt;
 &lt;p&gt;That’s the point.&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
@@ -538,13 +557,14 @@ For humans (d=3, W=3.0): ξ is large → EXTENDED.&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;how-to-measure-a-heartbeat-without-a-clock&quot;&gt;How to Measure a Heartbeat Without a Clock&lt;&#x2F;h2&gt;
 &lt;p&gt;The membrane trusts no external clock. No NTP server. No GPS satellite. No atomic reference.&lt;&#x2F;p&gt;
 &lt;p&gt;It trusts only its own count.&lt;&#x2F;p&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;snapshot₁: 1,068,800 requests at uptime 34,759 seconds&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;snapshot₂: 1,071,800 requests at uptime 34,849 seconds&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;elapsed: 90 seconds (1.5 minutes)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;delta: 3,000 requests&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;RPM = 3,000 &#x2F; 1.5 = 2,000 requests per minute&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;snapshot₁: 1,068,800 requests at uptime 34,759 seconds
+snapshot₂: 1,071,800 requests at uptime 34,849 seconds
+
+elapsed: 90 seconds (1.5 minutes)
+delta: 3,000 requests
+
+RPM = 3,000 &amp;#x2F; 1.5 = 2,000 requests per minute
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;That’s it. Two pictures of the same counter. The difference is the heartbeat.&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;what-s-beating&quot;&gt;What’s Beating&lt;&#x2F;h2&gt;
@@ -560,25 +580,26 @@ For humans (d=3, W=3.0): ξ is large → EXTENDED.&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;the-osmotic-heartbeat&quot;&gt;The Osmotic Heartbeat&lt;&#x2F;h2&gt;
 &lt;p&gt;The RPM maps onto the three layers of the osmotic gradient:&lt;&#x2F;p&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;┌──────────────────────────────────────────────┐&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;│  O₃ OZONE (blackwall)         38 RPM   2%   │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;│  hostile traffic absorbed                     │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;│                                               │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;│  ┌──────────────────────────────────────┐    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;│  │  OH⁻&#x2F;H⁺ pH GRADIENT   1,719 RPM  86% │    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;│  │  bots + AI + fleet interacting         │    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;│  │  honest bases buffer dishonest acids   │    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;│  │                                        │    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;│  │  ┌──────────────────────────────┐     │    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;│  │  │                              │     │    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;│  │  │  H₂O WATER     243 RPM  12% │     │    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;│  │  │  human heartbeat             │     │    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;│  │  │  one every 0.25 seconds      │     │    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;│  │  │  the pulse of truth          │     │    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;│  │  │                              │     │    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;│  │  └──────────────────────────────┘     │    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;│  └──────────────────────────────────────┘    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;└──────────────────────────────────────────────┘&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;┌──────────────────────────────────────────────┐
+│  O₃ OZONE (blackwall)         38 RPM   2%   │
+│  hostile traffic absorbed                     │
+│                                               │
+│  ┌──────────────────────────────────────┐    │
+│  │  OH⁻&amp;#x2F;H⁺ pH GRADIENT   1,719 RPM  86% │    │
+│  │  bots + AI + fleet interacting         │    │
+│  │  honest bases buffer dishonest acids   │    │
+│  │                                        │    │
+│  │  ┌──────────────────────────────┐     │    │
+│  │  │                              │     │    │
+│  │  │  H₂O WATER     243 RPM  12% │     │    │
+│  │  │  human heartbeat             │     │    │
+│  │  │  one every 0.25 seconds      │     │    │
+│  │  │  the pulse of truth          │     │    │
+│  │  │                              │     │    │
+│  │  └──────────────────────────────┘     │    │
+│  └──────────────────────────────────────┘    │
+└──────────────────────────────────────────────┘
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;The human heartbeat sits at the center. Pure water. The chemistry around it processes everything else. The ozone absorbs the hostile. And 243 times per minute, a human touches the membrane and the membrane touches back.&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;the-averages-lie&quot;&gt;The Averages Lie&lt;&#x2F;h2&gt;

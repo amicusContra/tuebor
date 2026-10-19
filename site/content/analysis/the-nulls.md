@@ -110,4 +110,4 @@ The membrane can't tell the difference. That's the strategy.
 
 ---
 
-*Sourced to IRS 990 data, LARA filings, nonprofit records, investigation graph (131,329 edges). [Back to Analysis →](/analysis/) · [The Microphone →](/analysis/the-microphone/) · [The Shell Game →](/analysis/the-shell-game/)*
+*Sourced to IRS 990 data, LARA filings, nonprofit records, investigation graph (131,322 edges). [Back to Analysis →](/analysis/) · [The Microphone →](/analysis/the-microphone/) · [The Shell Game →](/analysis/the-shell-game/)*

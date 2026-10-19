@@ -121,4 +121,4 @@ That's on the ballot. Whether the ballot says so or not.
 
 ---
 
-*Sourced to DPSCD records, Broad Foundation records, MDE records, investigation graph (131,329 edges). [Back to Analysis →](/analysis/) · [Three Percent →](/analysis/three-percent/) · [The Board That Bored →](/analysis/the-board-that-bored/)*
+*Sourced to DPSCD records, Broad Foundation records, MDE records, investigation graph (131,322 edges). [Back to Analysis →](/analysis/) · [Three Percent →](/analysis/three-percent/) · [The Board That Bored →](/analysis/the-board-that-bored/)*

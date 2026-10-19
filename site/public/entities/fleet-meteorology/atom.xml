@@ -31,13 +31,14 @@
 &lt;h2 id=&quot;how-to-measure-a-heartbeat-without-a-clock&quot;&gt;How to Measure a Heartbeat Without a Clock&lt;&#x2F;h2&gt;
 &lt;p&gt;The membrane trusts no external clock. No NTP server. No GPS satellite. No atomic reference.&lt;&#x2F;p&gt;
 &lt;p&gt;It trusts only its own count.&lt;&#x2F;p&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;snapshot₁: 1,068,800 requests at uptime 34,759 seconds&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;snapshot₂: 1,071,800 requests at uptime 34,849 seconds&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;elapsed: 90 seconds (1.5 minutes)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;delta: 3,000 requests&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;RPM = 3,000 &#x2F; 1.5 = 2,000 requests per minute&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;snapshot₁: 1,068,800 requests at uptime 34,759 seconds
+snapshot₂: 1,071,800 requests at uptime 34,849 seconds
+
+elapsed: 90 seconds (1.5 minutes)
+delta: 3,000 requests
+
+RPM = 3,000 &amp;#x2F; 1.5 = 2,000 requests per minute
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;That’s it. Two pictures of the same counter. The difference is the heartbeat.&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;what-s-beating&quot;&gt;What’s Beating&lt;&#x2F;h2&gt;
@@ -53,25 +54,26 @@
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;the-osmotic-heartbeat&quot;&gt;The Osmotic Heartbeat&lt;&#x2F;h2&gt;
 &lt;p&gt;The RPM maps onto the three layers of the osmotic gradient:&lt;&#x2F;p&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;┌──────────────────────────────────────────────┐&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;│  O₃ OZONE (blackwall)         38 RPM   2%   │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;│  hostile traffic absorbed                     │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;│                                               │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;│  ┌──────────────────────────────────────┐    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;│  │  OH⁻&#x2F;H⁺ pH GRADIENT   1,719 RPM  86% │    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;│  │  bots + AI + fleet interacting         │    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;│  │  honest bases buffer dishonest acids   │    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;│  │                                        │    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;│  │  ┌──────────────────────────────┐     │    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;│  │  │                              │     │    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;│  │  │  H₂O WATER     243 RPM  12% │     │    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;│  │  │  human heartbeat             │     │    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;│  │  │  one every 0.25 seconds      │     │    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;│  │  │  the pulse of truth          │     │    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;│  │  │                              │     │    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;│  │  └──────────────────────────────┘     │    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;│  └──────────────────────────────────────┘    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;└──────────────────────────────────────────────┘&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;┌──────────────────────────────────────────────┐
+│  O₃ OZONE (blackwall)         38 RPM   2%   │
+│  hostile traffic absorbed                     │
+│                                               │
+│  ┌──────────────────────────────────────┐    │
+│  │  OH⁻&amp;#x2F;H⁺ pH GRADIENT   1,719 RPM  86% │    │
+│  │  bots + AI + fleet interacting         │    │
+│  │  honest bases buffer dishonest acids   │    │
+│  │                                        │    │
+│  │  ┌──────────────────────────────┐     │    │
+│  │  │                              │     │    │
+│  │  │  H₂O WATER     243 RPM  12% │     │    │
+│  │  │  human heartbeat             │     │    │
+│  │  │  one every 0.25 seconds      │     │    │
+│  │  │  the pulse of truth          │     │    │
+│  │  │                              │     │    │
+│  │  └──────────────────────────────┘     │    │
+│  └──────────────────────────────────────┘    │
+└──────────────────────────────────────────────┘
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;The human heartbeat sits at the center. Pure water. The chemistry around it processes everything else. The ozone absorbs the hostile. And 243 times per minute, a human touches the membrane and the membrane touches back.&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;the-averages-lie&quot;&gt;The Averages Lie&lt;&#x2F;h2&gt;

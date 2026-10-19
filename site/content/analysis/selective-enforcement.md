@@ -136,4 +136,4 @@ If the answer is "it's a conflict of interest but not technically illegal," the 
 
 ---
 
-*Sourced to AG Office public records, LARA filings, JTC records, court records, investigation graph (131,329 edges). [Back to Analysis →](/analysis/) · [Three Percent →](/analysis/three-percent/) · [They Banked on Banks →](/analysis/they-banked-on-banks/)*
+*Sourced to AG Office public records, LARA filings, JTC records, court records, investigation graph (131,322 edges). [Back to Analysis →](/analysis/) · [Three Percent →](/analysis/three-percent/) · [They Banked on Banks →](/analysis/they-banked-on-banks/)*

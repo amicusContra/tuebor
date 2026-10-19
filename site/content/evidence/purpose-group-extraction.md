@@ -144,4 +144,4 @@ Every edge is money flowing in one direction: from children to a man with 9 conv
 
 ---
 
-*Sourced to LARA filings, MDE school data, management contract records, IRS 990 data, investigation graph (131,329 edges). [Back to Evidence →](/evidence/) · [The LLC →](/analysis/the-llc/) · [Three Percent →](/analysis/three-percent/)*
+*Sourced to LARA filings, MDE school data, management contract records, IRS 990 data, investigation graph (131,322 edges). [Back to Evidence →](/evidence/) · [The LLC →](/analysis/the-llc/) · [Three Percent →](/analysis/three-percent/)*

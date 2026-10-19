@@ -127,4 +127,4 @@ And 362 children go to school tomorrow in a building where 3% of them will learn
 
 ---
 
-*Sourced to Wayne County Prosecutor records, court records, investigation graph (131,329 edges). [Back to Analysis →](/analysis/) · [Selective Enforcement →](/analysis/selective-enforcement/) · [Three Percent →](/analysis/three-percent/)*
+*Sourced to Wayne County Prosecutor records, court records, investigation graph (131,322 edges). [Back to Analysis →](/analysis/) · [Selective Enforcement →](/analysis/selective-enforcement/) · [Three Percent →](/analysis/three-percent/)*

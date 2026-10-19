@@ -146,4 +146,4 @@ The pipeline IS the system. And the system is partial, all the way down.
 
 ---
 
-*Sourced to federal court records, Michigan Legislature records, Detroit mayoral records, investigation graph (131,329 edges). [Back to Analysis →](/analysis/) · [The Mayor Who Looked Away →](/analysis/the-mayor-who-looked-away/) · [The Enabler →](/analysis/the-enabler/)*
+*Sourced to federal court records, Michigan Legislature records, Detroit mayoral records, investigation graph (131,322 edges). [Back to Analysis →](/analysis/) · [The Mayor Who Looked Away →](/analysis/the-mayor-who-looked-away/) · [The Enabler →](/analysis/the-enabler/)*

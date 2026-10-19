@@ -67,31 +67,32 @@
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;the-data-pipeline-already-works&quot;&gt;The Data Pipeline Already Works&lt;&#x2F;h2&gt;
 &lt;p&gt;This is what Step Zero proved. The full pipeline, tested under adversarial conditions:&lt;&#x2F;p&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;FIELD (mobile lab)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;  → sample, measure, photograph, record&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;  → data files (JSON, images, spectra, sequences)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;  → git commit (signed, timestamped)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;  &lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;MESH (sporeGate → WireGuard → cloud)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;  → push to golgiBody&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;  → membrane validates, classifies incoming&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;  → cardiovascular sync to all gates&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;  &lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;PUBLISH (Zola + Jelly)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;  → static article with methodology and data&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;  → live overlay from membrane (readers, engagement)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;  → deployed to GitHub Pages + detroit.primals.eco&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;  &lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;ARCHIVE (git.primals.eco)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;  → permanent record&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;  → BLAKE3 hashes&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;  → verifiable by anyone&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;FIELD (mobile lab)
+  → sample, measure, photograph, record
+  → data files (JSON, images, spectra, sequences)
+  → git commit (signed, timestamped)
+  
+MESH (sporeGate → WireGuard → cloud)
+  → push to golgiBody
+  → membrane validates, classifies incoming
+  → cardiovascular sync to all gates
+  
+PUBLISH (Zola + Jelly)
+  → static article with methodology and data
+  → live overlay from membrane (readers, engagement)
+  → deployed to GitHub Pages + detroit.primals.eco
+  
+ARCHIVE (git.primals.eco)
+  → permanent record
+  → BLAKE3 hashes
+  → verifiable by anyone
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;&lt;strong&gt;This pipeline already works.&lt;&#x2F;strong&gt; I built it for the investigation. I tested it with 50+ articles, 2.5 million requests, 6 agency boundaries, and a fleet of bots that taught me more about adversarial conditions than any textbook.&lt;&#x2F;p&gt;
 &lt;p&gt;Now I point the same pipeline at the shoreline. At the cave floor. At the water column. At the rock face. At the soil horizon. At the microbial community in a tide pool.&lt;&#x2F;p&gt;
 &lt;p&gt;The data goes through the same membrane. Gets the same protection. Gets the same publication. Gets the same verification.&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;why-this-started-with-rocks-underwater&quot;&gt;Why This Started With Rocks Underwater&lt;&#x2F;h2&gt;
-&lt;p&gt;I’m a scientist. ORCID &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;orcid.org&#x2F;0009-0004-2141-0321&quot;&gt;0009-0004-2141-0321&lt;&#x2F;a&gt;. Self-hosted scientific computing in pure Rust. That’s what ecoPrimal IS.&lt;&#x2F;p&gt;
+&lt;p&gt;I’m a scientist. ORCID &lt;a href=&quot;https:&#x2F;&#x2F;orcid.org&#x2F;0009-0004-2141-0321&quot;&gt;0009-0004-2141-0321&lt;&#x2F;a&gt;. Self-hosted scientific computing in pure Rust. That’s what ecoPrimal IS.&lt;&#x2F;p&gt;
 &lt;p&gt;The investigation happened because I moved to Michigan and discovered that convicted felons were running the charter schools in my neighborhood. I didn’t plan to build an immune system. I built one because I needed one. I didn’t plan to classify 341 AI entities. They showed up and I needed to sort them. I didn’t plan to publish 50 articles. The evidence needed a home.&lt;&#x2F;p&gt;
 &lt;p&gt;But the whole time — the WHOLE time — what I was actually thinking about was the patterned rocks.&lt;&#x2F;p&gt;
 &lt;p&gt;The striations in the limestone along the Michigan shoreline. The way water carved different minerals at different rates, leaving ridges and valleys at millimeter scale. The same process that carved the Grand Canyon and dissolved Mammoth Cave, happening at a scale you can see with an electron microscope. The same karst. The same water. The same chemistry. Different scale.&lt;&#x2F;p&gt;

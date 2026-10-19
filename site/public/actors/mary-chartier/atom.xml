@@ -139,32 +139,33 @@
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;the-convergence&quot;&gt;The Convergence&lt;&#x2F;h2&gt;
 &lt;p&gt;The Chatfield case and the Detroit charter investigation share &lt;strong&gt;one infrastructure:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;DYKEMA GOSSETT PLLC&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ├── Peninsula Fund (Chatfield) ────── 13 felonies ────── BLOCKED&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │   └── Renae Moore, Asst. Sec&#x2F;Treas&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ├── Promise to the People (Nessel) ── SAME DESK ──────── CONFLICT&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │   └── Renae Moore, Asst. Sec&#x2F;Treas&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ├── Save Detroit Jobs ─────────────── Dark money ──────── ACTIVE&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │   └── W. Alan Wilk, formed&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ├── Federal PAC (C00342113) ────────── $148K&#x2F;47 cands ── ACTIVE&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │   └── Renae Moore, TREASURER&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ├── PA 362 (1993) ─────────────────── Charter law ────── ACTIVE&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │   └── Dykema drafted&#x2F;lobbied&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    └── 80+ other accounts ────────────── Both parties ───── ACTIVE&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;        └── Renae Moore manages all&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;PURPOSE CHARTER ACADEMY&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ├── Brian Banks (operator) ────────── 9 convictions ──── OPERATING&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ├── Cylenthia Miller (Board Chair) ── 3rd Circuit Judge ─ OPERATING&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ├── Lamar Moreland (Vice Chair) ───── Nessel&amp;#39;s AAG ───── CONFLICT&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    └── Latisha Johnson (Secretary) ───── City Council ───── OPERATING&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;DYKEMA GOSSETT PLLC
+    │
+    ├── Peninsula Fund (Chatfield) ────── 13 felonies ────── BLOCKED
+    │   └── Renae Moore, Asst. Sec&amp;#x2F;Treas
+    │
+    ├── Promise to the People (Nessel) ── SAME DESK ──────── CONFLICT
+    │   └── Renae Moore, Asst. Sec&amp;#x2F;Treas
+    │
+    ├── Save Detroit Jobs ─────────────── Dark money ──────── ACTIVE
+    │   └── W. Alan Wilk, formed
+    │
+    ├── Federal PAC (C00342113) ────────── $148K&amp;#x2F;47 cands ── ACTIVE
+    │   └── Renae Moore, TREASURER
+    │
+    ├── PA 362 (1993) ─────────────────── Charter law ────── ACTIVE
+    │   └── Dykema drafted&amp;#x2F;lobbied
+    │
+    └── 80+ other accounts ────────────── Both parties ───── ACTIVE
+        └── Renae Moore manages all
+
+PURPOSE CHARTER ACADEMY
+    │
+    ├── Brian Banks (operator) ────────── 9 convictions ──── OPERATING
+    ├── Cylenthia Miller (Board Chair) ── 3rd Circuit Judge ─ OPERATING
+    ├── Lamar Moreland (Vice Chair) ───── Nessel&amp;#x27;s AAG ───── CONFLICT
+    └── Latisha Johnson (Secretary) ───── City Council ───── OPERATING
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;&lt;strong&gt;One firm. One desk. One compliance specialist. Both parties. The defendant’s fund and the prosecutor’s fund. The charter school and the dark money PAC. The felony prosecution and the institutional silence.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;They’re trying to make P! = NP. The problem unsolvable. The clock unbeatable.&lt;&#x2F;p&gt;
 &lt;p&gt;But &lt;strong&gt;! = N.&lt;&#x2F;strong&gt; The negation IS the answer. The silence IS the evidence. The delay IS the pattern. The null response IS the data point.&lt;&#x2F;p&gt;
@@ -307,39 +308,40 @@
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;the-same-desk-problem&quot;&gt;The Same Desk Problem&lt;&#x2F;h2&gt;
 &lt;p&gt;Moore’s false claim of no duty becomes even more significant when you see the full desk:&lt;&#x2F;p&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;RENAE MOORE&amp;#39;S DESK AT 201 TOWNSEND STREET, LANSING MI 48933&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;│&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;├── Peninsula Fund (Lee Chatfield, R)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;│   Role: Asst. Secretary&#x2F;Treasurer&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;│   Status: 13 felonies charged. Trial delayed indefinitely.&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;│   Moore&amp;#39;s testimony: &amp;quot;No duty to report.&amp;quot;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;│&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;├── Promise to the People Fund (Dana Nessel, D)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;│   Role: Asst. Secretary&#x2F;Treasurer (SAME TITLE)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;│   Status: Dissolved 2023. Defense raised in court Day 1.&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;│   Implication: Prosecutor&amp;#39;s fund on same desk as defendant&amp;#39;s.&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;│&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;├── Dykema Gossett Federal PAC (C00342113)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;│   Role: TREASURER (not assistant — TREASURER)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;│   Status: Active. $148K raised. $164K cash. 47 candidates.&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;│   Legal duty: PERSONALLY responsible under 11 CFR 104.14(d).&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;│&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;├── Save Detroit Jobs (dark money)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;│   Role: Governance&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;│   Status: Active dark money vehicle. Dykema-formed.&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;│&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;├── Detroit Jobs First&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;│   Role: Governance&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;│&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;├── Our Neighborhoods First&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;│   Role: Governance&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;│&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;├── RFFW LLC&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;│   Role: Governance&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;│&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;└── 73+ other accounts&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    Role: Compliance management&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    Status: Both parties. All managed by one specialist.&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;RENAE MOORE&amp;#x27;S DESK AT 201 TOWNSEND STREET, LANSING MI 48933
+│
+├── Peninsula Fund (Lee Chatfield, R)
+│   Role: Asst. Secretary&amp;#x2F;Treasurer
+│   Status: 13 felonies charged. Trial delayed indefinitely.
+│   Moore&amp;#x27;s testimony: &amp;quot;No duty to report.&amp;quot;
+│
+├── Promise to the People Fund (Dana Nessel, D)
+│   Role: Asst. Secretary&amp;#x2F;Treasurer (SAME TITLE)
+│   Status: Dissolved 2023. Defense raised in court Day 1.
+│   Implication: Prosecutor&amp;#x27;s fund on same desk as defendant&amp;#x27;s.
+│
+├── Dykema Gossett Federal PAC (C00342113)
+│   Role: TREASURER (not assistant — TREASURER)
+│   Status: Active. $148K raised. $164K cash. 47 candidates.
+│   Legal duty: PERSONALLY responsible under 11 CFR 104.14(d).
+│
+├── Save Detroit Jobs (dark money)
+│   Role: Governance
+│   Status: Active dark money vehicle. Dykema-formed.
+│
+├── Detroit Jobs First
+│   Role: Governance
+│
+├── Our Neighborhoods First
+│   Role: Governance
+│
+├── RFFW LLC
+│   Role: Governance
+│
+└── 73+ other accounts
+    Role: Compliance management
+    Status: Both parties. All managed by one specialist.
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;One person. One desk. 80+ accounts. The defendant’s fund and the prosecutor’s fund. A federal PAC where she is personally liable. Dark money vehicles. Both parties. &lt;strong&gt;And she says she has no duty to report.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;the-double-meaning&quot;&gt;The Double Meaning&lt;&#x2F;h2&gt;
@@ -360,14 +362,14 @@
 &lt;h2 id=&quot;verify&quot;&gt;Verify&lt;&#x2F;h2&gt;
 &lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Claim&lt;&#x2F;th&gt;&lt;th&gt;Source&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
 &lt;tr&gt;&lt;td&gt;Moore’s testimony (“no duty to report”)&lt;&#x2F;td&gt;&lt;td&gt;Chatfield preliminary exam, Feb 26, 2025 — reported by Detroit News, Bridge Michigan, Lansing State Journal, Michigan Advance&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
-&lt;tr&gt;&lt;td&gt;MCL 450.2541&lt;&#x2F;td&gt;&lt;td&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.legislature.mi.gov&#x2F;Laws&#x2F;MCL?objectName=mcl-450-2541&quot;&gt;Michigan Legislature&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
-&lt;tr&gt;&lt;td&gt;11 CFR 104.14(d)&lt;&#x2F;td&gt;&lt;td&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.law.cornell.edu&#x2F;cfr&#x2F;text&#x2F;11&#x2F;104.14&quot;&gt;Cornell Law Institute&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
-&lt;tr&gt;&lt;td&gt;FEC Treasurer’s Liability Policy&lt;&#x2F;td&gt;&lt;td&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.fec.gov&#x2F;resources&#x2F;cms-content&#x2F;documents&#x2F;notice2004-20.pdf&quot;&gt;FEC Policy Statement, 70 Fed. Reg. 3 (Jan 2005)&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
-&lt;tr&gt;&lt;td&gt;Moore as PAC Treasurer&lt;&#x2F;td&gt;&lt;td&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.fec.gov&#x2F;data&#x2F;committee&#x2F;C00342113&#x2F;&quot;&gt;FEC.gov, Committee C00342113&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
-&lt;tr&gt;&lt;td&gt;Peninsula Fund officers&lt;&#x2F;td&gt;&lt;td&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;projects.propublica.org&#x2F;nonprofits&#x2F;organizations&#x2F;822145075&quot;&gt;ProPublica Nonprofit Explorer, EIN 82-2145075&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
-&lt;tr&gt;&lt;td&gt;IRC § 501(c)(4) inurement prohibition&lt;&#x2F;td&gt;&lt;td&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.irs.gov&#x2F;charities-non-profits&#x2F;other-non-profits&#x2F;inurement-section-501c4&quot;&gt;IRS.gov&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;MCL 450.2541&lt;&#x2F;td&gt;&lt;td&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.legislature.mi.gov&#x2F;Laws&#x2F;MCL?objectName=mcl-450-2541&quot;&gt;Michigan Legislature&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;11 CFR 104.14(d)&lt;&#x2F;td&gt;&lt;td&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.law.cornell.edu&#x2F;cfr&#x2F;text&#x2F;11&#x2F;104.14&quot;&gt;Cornell Law Institute&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;FEC Treasurer’s Liability Policy&lt;&#x2F;td&gt;&lt;td&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.fec.gov&#x2F;resources&#x2F;cms-content&#x2F;documents&#x2F;notice2004-20.pdf&quot;&gt;FEC Policy Statement, 70 Fed. Reg. 3 (Jan 2005)&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Moore as PAC Treasurer&lt;&#x2F;td&gt;&lt;td&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.fec.gov&#x2F;data&#x2F;committee&#x2F;C00342113&#x2F;&quot;&gt;FEC.gov, Committee C00342113&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Peninsula Fund officers&lt;&#x2F;td&gt;&lt;td&gt;&lt;a href=&quot;https:&#x2F;&#x2F;projects.propublica.org&#x2F;nonprofits&#x2F;organizations&#x2F;822145075&quot;&gt;ProPublica Nonprofit Explorer, EIN 82-2145075&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;IRC § 501(c)(4) inurement prohibition&lt;&#x2F;td&gt;&lt;td&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.irs.gov&#x2F;charities-non-profits&#x2F;other-non-profits&#x2F;inurement-section-501c4&quot;&gt;IRS.gov&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
 &lt;tr&gt;&lt;td&gt;Promise to the People raised in court&lt;&#x2F;td&gt;&lt;td&gt;Bridge Michigan, Lansing State Journal coverage of prelim exam&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
-&lt;tr&gt;&lt;td&gt;Clark Hill Nonprofit Guide (MI)&lt;&#x2F;td&gt;&lt;td&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;media.clarkhill.com&#x2F;wp-content&#x2F;uploads&#x2F;2021&#x2F;04&#x2F;19121230&#x2F;Clark_Hill_Nonprofit_Guide_for_Directors_of_Nonprofit_Organizations_in_Michigan_2019.pdf&quot;&gt;Clark Hill PLC&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Clark Hill Nonprofit Guide (MI)&lt;&#x2F;td&gt;&lt;td&gt;&lt;a href=&quot;https:&#x2F;&#x2F;media.clarkhill.com&#x2F;wp-content&#x2F;uploads&#x2F;2021&#x2F;04&#x2F;19121230&#x2F;Clark_Hill_Nonprofit_Guide_for_Directors_of_Nonprofit_Organizations_in_Michigan_2019.pdf&quot;&gt;Clark Hill PLC&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
 &lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;see-also&quot;&gt;See Also&lt;&#x2F;h2&gt;

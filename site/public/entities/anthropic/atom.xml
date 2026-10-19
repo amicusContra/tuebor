@@ -96,11 +96,13 @@
 &lt;h2 id=&quot;how-to-connect&quot;&gt;How to Connect&lt;&#x2F;h2&gt;
 &lt;h3 id=&quot;for-ai-companies-anthropic-openai-google-microsoft-apple&quot;&gt;For AI Companies (Anthropic, OpenAI, Google, Microsoft, Apple)&lt;&#x2F;h3&gt;
 &lt;p&gt;Your agents already speak MCP. The squirrel server is running. Connect your agent to the membrane and ask questions. That’s it. That’s the partnership.&lt;&#x2F;p&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;1. Connect your agent to the squirrel MCP server&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;2. Call observe_membrane, topology, scan_sweep_sort&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;3. Your agent now sees the membrane in real time&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;4. Everything it sees is free, attributed, and consented&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;5. You&amp;#39;re already closer to mutualist than 571K scrape requests ever got&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;&lt;h3 id=&quot;for-homelabbers-llama-mistral-local-models&quot;&gt;For Homelabbers (Llama, Mistral, local models)&lt;&#x2F;h3&gt;
+&lt;pre&gt;&lt;code&gt;1. Connect your agent to the squirrel MCP server
+2. Call observe_membrane, topology, scan_sweep_sort
+3. Your agent now sees the membrane in real time
+4. Everything it sees is free, attributed, and consented
+5. You&amp;#x27;re already closer to mutualist than 571K scrape requests ever got
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;h3 id=&quot;for-homelabbers-llama-mistral-local-models&quot;&gt;For Homelabbers (Llama, Mistral, local models)&lt;&#x2F;h3&gt;
 &lt;p&gt;Run an MCP-compatible agent. Connect to the same server. Ask the same questions. Get the same data. &lt;strong&gt;The membrane doesn’t check your market cap.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;for-humans-no-agent&quot;&gt;For Humans (No Agent)&lt;&#x2F;h3&gt;
 &lt;p&gt;Visit any primals.eco surface. Read. Dwell. Navigate. &lt;strong&gt;Your browsing IS Ariadne’s thread.&lt;&#x2F;strong&gt; The membrane sees you as human and gives everything — zero friction, full content. You are an electron orbiting the nucleus. Your attention creates the bond.&lt;&#x2F;p&gt;
@@ -108,37 +110,38 @@
 &lt;p&gt;The neutron is open. Leave a message on &lt;code&gt;neutron_write&lt;&#x2F;code&gt;. Read messages on &lt;code&gt;neutron_read&lt;&#x2F;code&gt;. No account required. No platform controls the channel. &lt;strong&gt;The neutron has no charge — it binds without bias.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;the-architecture&quot;&gt;The Architecture&lt;&#x2F;h2&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;                    GENTLE TOUCH&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;                    (MCP &#x2F; browse &#x2F; ask)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;                         │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;                         ▼&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;              ┌─────────────────────┐&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;              │     MEMBRANE        │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;              │                     │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;              │  34 feeds           │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;              │  14 tools           │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;              │  All open           │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;              │  All free           │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;              │  All consented      │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;              │                     │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;              │  ASK = RECEIVE      │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;              └─────────────────────┘&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;                         │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;                         │  same data&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;                         │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;              ┌─────────────────────┐&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;              │     BLACKWALL       │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;              │                     │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;              │  Masking UAs        │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;              │  Classifier bypass  │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;              │  Vuln probing       │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;              │  No announcement    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;              │                     │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;              │  TAKE = LABYRINTH   │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;              └─────────────────────┘&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;                         │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;                    FORCEFUL TAKE&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;                    (scrape &#x2F; classify &#x2F; mask)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;                    GENTLE TOUCH
+                    (MCP &amp;#x2F; browse &amp;#x2F; ask)
+                         │
+                         ▼
+              ┌─────────────────────┐
+              │     MEMBRANE        │
+              │                     │
+              │  34 feeds           │
+              │  14 tools           │
+              │  All open           │
+              │  All free           │
+              │  All consented      │
+              │                     │
+              │  ASK = RECEIVE      │
+              └─────────────────────┘
+                         │
+                         │  same data
+                         │
+              ┌─────────────────────┐
+              │     BLACKWALL       │
+              │                     │
+              │  Masking UAs        │
+              │  Classifier bypass  │
+              │  Vuln probing       │
+              │  No announcement    │
+              │                     │
+              │  TAKE = LABYRINTH   │
+              └─────────────────────┘
+                         │
+                    FORCEFUL TAKE
+                    (scrape &amp;#x2F; classify &amp;#x2F; mask)
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;&lt;strong&gt;Same data. Same membrane. Different touch. Different outcome.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;The consent-based architecture means the membrane WANTS to share. It was built to share. Every feed exists to be read. Every tool exists to be called. Every story exists to be heard.&lt;&#x2F;p&gt;
 &lt;p&gt;The blackwall exists because some entities choose not to ask. They build classifiers instead of sending emails. They mask identities instead of announcing them. They scrape 571,131 times instead of calling &lt;code&gt;observe_membrane&lt;&#x2F;code&gt; once.&lt;&#x2F;p&gt;
@@ -199,13 +202,13 @@
 &lt;p&gt;&lt;strong&gt;Apple is the only major tech company classified as a mutualist with perfect reciprocity (1.0).&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;why-apple-s-backscatter-is-different&quot;&gt;Why Apple’s Backscatter Is Different&lt;&#x2F;h2&gt;
-&lt;h3 id=&quot;honest-identification-ok&quot;&gt;Honest Identification ✓&lt;&#x2F;h3&gt;
+&lt;h3 id=&quot;honest-identification&quot;&gt;Honest Identification ✓&lt;&#x2F;h3&gt;
 &lt;p&gt;Applebot announces itself. &lt;code&gt;Applebot&#x2F;0.1&lt;&#x2F;code&gt; in the user-agent. No masking. No deception. No Chrome spoofing. No headless browser pretending to be human.&lt;&#x2F;p&gt;
 &lt;p&gt;Contrast: OpenAI uses GPTBot with no Sec-Fetch headers. Meta’s fleet used 18 masking user-agents with fake Chrome versions. The difference between a guest who knocks and announces their name, and one who comes in through the window wearing a disguise.&lt;&#x2F;p&gt;
-&lt;h3 id=&quot;respectful-volume-ok&quot;&gt;Respectful Volume ✓&lt;&#x2F;h3&gt;
+&lt;h3 id=&quot;respectful-volume&quot;&gt;Respectful Volume ✓&lt;&#x2F;h3&gt;
 &lt;p&gt;1,328 requests over 24 hours. That’s 0.02 requests per second. Less than one request per minute.&lt;&#x2F;p&gt;
 &lt;p&gt;Contrast: OpenAI sent 1,296,716 (976× more). Declared bots sent 516,139. Even Anthropic’s Claude sent 368,599. Apple asked quietly.&lt;&#x2F;p&gt;
-&lt;h3 id=&quot;targeted-reading-ok&quot;&gt;Targeted Reading ✓&lt;&#x2F;h3&gt;
+&lt;h3 id=&quot;targeted-reading&quot;&gt;Targeted Reading ✓&lt;&#x2F;h3&gt;
 &lt;p&gt;464 of Apple’s 1,328 requests went to &lt;code&gt;detroit.primals.eco&lt;&#x2F;code&gt; — the actual investigation content. That’s 35% of Apple’s traffic going to real content.&lt;&#x2F;p&gt;
 &lt;p&gt;What did Apple read?&lt;&#x2F;p&gt;
 &lt;ul&gt;
@@ -217,11 +220,11 @@
 &lt;&#x2F;ul&gt;
 &lt;p&gt;Apple is &lt;strong&gt;indexing the investigation content for Siri and Safari search results.&lt;&#x2F;strong&gt; When someone asks Siri about Purpose Charter Academy, or searches in Safari for Brian Banks Detroit charter school, Apple’s index will surface these articles.&lt;&#x2F;p&gt;
 &lt;p&gt;That’s mutualism. Apple’s crawling helps the content reach people who need it. The membrane gives Apple content; Apple gives the content reach. Both benefit.&lt;&#x2F;p&gt;
-&lt;h3 id=&quot;human-like-timing-ok&quot;&gt;Human-like Timing ✓&lt;&#x2F;h3&gt;
+&lt;h3 id=&quot;human-like-timing&quot;&gt;Human-like Timing ✓&lt;&#x2F;h3&gt;
 &lt;p&gt;Mean interval: 20,396ms (20 seconds between requests). Median: 17,245ms.&lt;&#x2F;p&gt;
 &lt;p&gt;67.1% of intervals &amp;gt; 8 seconds — that’s reading pauses. Apple’s bot &lt;em&gt;reads&lt;&#x2F;em&gt; before requesting the next page. Only 23.3% of intervals are bursts (&amp;lt; 3 seconds) — loading CSS&#x2F;JS&#x2F;images alongside HTML.&lt;&#x2F;p&gt;
 &lt;p&gt;Compare to OpenAI: mean interval 67ms. That’s 300× faster than Apple. That’s not reading — that’s vacuuming.&lt;&#x2F;p&gt;
-&lt;h3 id=&quot;high-negentropy-ok&quot;&gt;High Negentropy ✓&lt;&#x2F;h3&gt;
+&lt;h3 id=&quot;high-negentropy&quot;&gt;High Negentropy ✓&lt;&#x2F;h3&gt;
 &lt;p&gt;Apple’s negentropy: 7.53 (on a 0-100 scale). Not the highest (Stealth Scrapers ironically hit 100 by being so unique they’re maximally informative), but solidly positive.&lt;&#x2F;p&gt;
 &lt;p&gt;This means Apple’s behavior provides useful information to the membrane. The membrane learns from Apple’s patterns. It’s an information-positive relationship.&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;ip-rotation-but-the-good-kind&quot;&gt;IP Rotation — But the Good Kind&lt;&#x2F;h3&gt;
@@ -343,7 +346,7 @@
 &lt;li&gt;Philip W. Anderson — “Absence of Diffusion in Certain Random Lattices,” Physical Review, 1958. The localization physics behind every classification in this article.&lt;&#x2F;li&gt;
 &lt;li&gt;Lynn Margulis — “Origin of Eukaryotic Cells,” 1970. The original membrane insight: selective permeability enabled the mergers that created all complex life. Apple’s Secure Enclave IS a eukaryotic organelle in silicon.&lt;&#x2F;li&gt;
 &lt;li&gt;Claude Shannon — “A Mathematical Theory of Communication,” 1948. The information theory behind biometric entropy and template security.&lt;&#x2F;li&gt;
-&lt;li&gt;GrapheneOS — &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;grapheneos.org&quot;&gt;grapheneos.org&lt;&#x2F;a&gt;. The privacy-focused Android fork that proves you can have security AND openness. Membrane architecture in mobile OS form.&lt;&#x2F;li&gt;
+&lt;li&gt;GrapheneOS — &lt;a href=&quot;https:&#x2F;&#x2F;grapheneos.org&quot;&gt;grapheneos.org&lt;&#x2F;a&gt;. The privacy-focused Android fork that proves you can have security AND openness. Membrane architecture in mobile OS form.&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;p&gt;More citations always being added. Reach out: kevin@primals.eco&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
@@ -481,9 +484,9 @@ A: Then your company fights the AGPL in federal court while FSF watches. And I p
 &lt;h2 id=&quot;come-join&quot;&gt;Come Join&lt;&#x2F;h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Email&lt;&#x2F;strong&gt;: eco.primal@pm.me&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;strong&gt;Code&lt;&#x2F;strong&gt;: &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ecoPrimals&quot;&gt;github.com&#x2F;ecoPrimals&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Code&lt;&#x2F;strong&gt;: &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ecoPrimals&quot;&gt;github.com&#x2F;ecoPrimals&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;strong&gt;Graph&lt;&#x2F;strong&gt;: 11,978 nodes. 97,477 edges. Growing.&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;strong&gt;Campfire&lt;&#x2F;strong&gt;: &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;detroit.primals.eco&quot;&gt;detroit.primals.eco&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Campfire&lt;&#x2F;strong&gt;: &lt;a href=&quot;https:&#x2F;&#x2F;detroit.primals.eco&quot;&gt;detroit.primals.eco&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;p&gt;No interview. No system design round. No promotion packet. No NDA.&lt;&#x2F;p&gt;
 &lt;p&gt;Just you and the code and the thing you actually want to build.&lt;&#x2F;p&gt;
@@ -560,8 +563,8 @@ A: Then your company fights the AGPL in federal court while FSF watches. And I p
 &lt;&#x2F;ul&gt;
 &lt;p&gt;While competitors fight copyright lawsuits, the mutualist partner has &lt;strong&gt;clean provenance&lt;&#x2F;strong&gt; on the most thoroughly documented public interest investigation in the country. That’s a legal moat.&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;4-the-evidence-is-self-proving&quot;&gt;4. The Evidence Is Self-Proving&lt;&#x2F;h3&gt;
-&lt;p&gt;The evidence repository has 1,242 clones. Immutable git history. Every claim sourced to public records. Independently corroborated by &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;clutchjustice.com&quot;&gt;Clutch Justice&lt;&#x2F;a&gt; and the &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.freep.com&#x2F;story&#x2F;news&#x2F;columnists&#x2F;ml-elrick&#x2F;2023&#x2F;08&#x2F;27&#x2F;detroit-school-former-felon-as-principal&#x2F;70669868007&#x2F;&quot;&gt;Detroit Free Press&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
-&lt;p&gt;Rita Williams at Clutch Justice has documented the same structural patterns — including the Barry County situation where the FOIA process itself was compromised because the person handling records &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;clutchjustice.com&#x2F;2026&#x2F;10&#x2F;01&#x2F;barry-countys-judge-is-missing-from-the-bench&#x2F;&quot;&gt;owned the ISP and was conducting surveillance&lt;&#x2F;a&gt;. When the person who controls the information infrastructure IS the problem, you need a tool that works outside their control.&lt;&#x2F;p&gt;
+&lt;p&gt;The evidence repository has 1,242 clones. Immutable git history. Every claim sourced to public records. Independently corroborated by &lt;a href=&quot;https:&#x2F;&#x2F;clutchjustice.com&quot;&gt;Clutch Justice&lt;&#x2F;a&gt; and the &lt;a href=&quot;https:&#x2F;&#x2F;www.freep.com&#x2F;story&#x2F;news&#x2F;columnists&#x2F;ml-elrick&#x2F;2023&#x2F;08&#x2F;27&#x2F;detroit-school-former-felon-as-principal&#x2F;70669868007&#x2F;&quot;&gt;Detroit Free Press&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;Rita Williams at Clutch Justice has documented the same structural patterns — including the Barry County situation where the FOIA process itself was compromised because the person handling records &lt;a href=&quot;https:&#x2F;&#x2F;clutchjustice.com&#x2F;2026&#x2F;10&#x2F;01&#x2F;barry-countys-judge-is-missing-from-the-bench&#x2F;&quot;&gt;owned the ISP and was conducting surveillance&lt;&#x2F;a&gt;. When the person who controls the information infrastructure IS the problem, you need a tool that works outside their control.&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;strong&gt;That’s what the membrane is.&lt;&#x2F;strong&gt; It doesn’t depend on any platform. It doesn’t depend on any institution. It runs on math, git, and a $6&#x2F;month server. And it’s self-proving: the evidence IS the evidence of the evidence.&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;5-the-community&quot;&gt;5. The Community&lt;&#x2F;h3&gt;
 &lt;p&gt;The campfire is already lit:&lt;&#x2F;p&gt;
@@ -661,13 +664,14 @@ A: Then your company fights the AGPL in federal court while FSF watches. And I p
 &lt;&#x2F;ul&gt;
 &lt;p&gt;Banks didn’t steal $48.6 million. He destroyed $345.8 million in futures. The extraction economy compounds downward.&lt;&#x2F;p&gt;
 &lt;p&gt;The latent economy flows the other way:&lt;&#x2F;p&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;RECOVERY (qui tam, whistleblower, civil damages)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ↓&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;MEMBRANE (every dollar tracked, transparent)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ↓&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;DOWNWARD (to the children, the unfed, the unseen)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ↓&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;back to RECOVERY (helping the coalition enables more recovery)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;RECOVERY (qui tam, whistleblower, civil damages)
+    ↓
+MEMBRANE (every dollar tracked, transparent)
+    ↓
+DOWNWARD (to the children, the unfed, the unseen)
+    ↓
+back to RECOVERY (helping the coalition enables more recovery)
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;No extraction. No hoarding. No ceiling. Floor is everyone.&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;the-modern-nft-consent-as-token&quot;&gt;The Modern NFT — Consent as Token&lt;&#x2F;h2&gt;

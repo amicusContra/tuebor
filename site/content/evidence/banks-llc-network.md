@@ -103,4 +103,4 @@ The extraction pipeline has an inheritance plan.
 
 ---
 
-*Sourced to LARA corporate filings, campaign finance records, estate records, investigation graph (131,329 edges). [Back to Evidence →](/evidence/) · [The Shell Game →](/analysis/the-shell-game/) · [The LLC →](/analysis/the-llc/)*
+*Sourced to LARA corporate filings, campaign finance records, estate records, investigation graph (131,322 edges). [Back to Evidence →](/evidence/) · [The Shell Game →](/analysis/the-shell-game/) · [The LLC →](/analysis/the-llc/)*

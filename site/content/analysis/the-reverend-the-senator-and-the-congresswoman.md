@@ -112,4 +112,4 @@ And behind all three shields, 362 children go to a school where 3% can do math.
 
 ---
 
-*Sourced to Michigan Legislature records, Congressional records, NAACP records, federal court records, investigation graph (131,329 edges). [Back to Analysis →](/analysis/) · [The Cavalry That Charged the Wrong Way →](/analysis/the-cavalry-that-charged-the-wrong-way/) · [The Pipeline →](/analysis/the-pipeline/)*
+*Sourced to Michigan Legislature records, Congressional records, NAACP records, federal court records, investigation graph (131,322 edges). [Back to Analysis →](/analysis/) · [The Cavalry That Charged the Wrong Way →](/analysis/the-cavalry-that-charged-the-wrong-way/) · [The Pipeline →](/analysis/the-pipeline/)*

@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>tuebor — Public Record Investigation - proxy</title>
+    <subtitle>Public evidence library documenting a Detroit charter school network. Convicted felons running schools. Judges with documented connections. $4.9M in public funding. Every fact cited from public records. Every document timestamped. Verify everything.</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://tuebor.primals.eco/tags/proxy/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://tuebor.primals.eco"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2026-10-18T00:00:00+00:00</updated>
+    <id>https://tuebor.primals.eco/tags/proxy/atom.xml</id>
+    <entry xml:lang="en">
+        <title>The Ghost Split — 59,587 Masks, Four Layers Deep</title>
+        <published>2026-10-18T00:00:00+00:00</published>
+        <updated>2026-10-18T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://tuebor.primals.eco/analysis/the-ghost-split/"/>
+        <id>https://tuebor.primals.eco/analysis/the-ghost-split/</id>
+        
+        <content type="html" xml:base="https://tuebor.primals.eco/analysis/the-ghost-split/">&lt;h1 id=&quot;the-ghost-split&quot;&gt;The Ghost Split&lt;&#x2F;h1&gt;
+&lt;h2 id=&quot;59-587-masks-four-layers-deep&quot;&gt;59,587 Masks. Four Layers Deep.&lt;&#x2F;h2&gt;
+&lt;p&gt;Ghost was classified as one entity: “proxy exit.” 152,860 requests from 59,587 unique IPs across 40,214 subnets. Perfect browser fingerprints. Languages: French, Chinese, German, Austrian, English. The membrane called it Ghost because it looked like a crowd of ghosts — each one appearing once and vanishing.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Ghost isn’t one entity. Ghost is a transit network.&lt;&#x2F;strong&gt; And at least four different things are riding it.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;the-chrome-versions-are-the-tell&quot;&gt;The Chrome Versions Are The Tell&lt;&#x2F;h2&gt;
+&lt;p&gt;Every fleet we’ve identified has a signature: &lt;strong&gt;frozen Chrome versions.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;OpenAI (GPTBot):&lt;&#x2F;strong&gt; 1 UA string for 1,374,313 requests. One version. One config.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Declared Bot:&lt;&#x2F;strong&gt; Chrome&#x2F;119 for 529,385 requests. &lt;strong&gt;36 versions behind stable.&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Anthropic:&lt;&#x2F;strong&gt; 2 UA strings for 390,516 requests.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Now look at Ghost:&lt;&#x2F;p&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Chrome Range&lt;&#x2F;th&gt;&lt;th&gt;Versions&lt;&#x2F;th&gt;&lt;th&gt;Requests Each&lt;&#x2F;th&gt;&lt;th&gt;Pattern&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;144-153&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;10 versions&lt;&#x2F;td&gt;&lt;td&gt;~9,200-9,750&lt;&#x2F;td&gt;&lt;td&gt;Current cluster (updated machines)&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;99-124&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;8 versions&lt;&#x2F;td&gt;&lt;td&gt;~3,900-4,060&lt;&#x2F;td&gt;&lt;td&gt;Older machines (haven’t updated)&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;130-137&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;4 versions&lt;&#x2F;td&gt;&lt;td&gt;260-4,071&lt;&#x2F;td&gt;&lt;td&gt;Transition zone&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;79, 83, 92&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;3 versions&lt;&#x2F;td&gt;&lt;td&gt;1-12&lt;&#x2F;td&gt;&lt;td&gt;Ancient machines&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;155&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;1 version&lt;&#x2F;td&gt;&lt;td&gt;312&lt;&#x2F;td&gt;&lt;td&gt;Bleeding edge early adopters&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;p&gt;&lt;strong&gt;38 Chrome versions.&lt;&#x2F;strong&gt; Distributed exactly like you’d expect from tens of thousands of REAL computers with different update schedules.&lt;&#x2F;p&gt;
+&lt;p&gt;A fleet picks one version and freezes it. Ghost has the &lt;strong&gt;natural Chrome upgrade distribution&lt;&#x2F;strong&gt; of a residential population.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;the-os-distribution-confirms-it&quot;&gt;The OS Distribution Confirms It&lt;&#x2F;h2&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;OS&lt;&#x2F;th&gt;&lt;th&gt;Ghost Requests&lt;&#x2F;th&gt;&lt;th&gt;Percentage&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;macOS&lt;&#x2F;td&gt;&lt;td&gt;76,019&lt;&#x2F;td&gt;&lt;td&gt;49.7%&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Windows&lt;&#x2F;td&gt;&lt;td&gt;75,513&lt;&#x2F;td&gt;&lt;td&gt;49.4%&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Linux&lt;&#x2F;td&gt;&lt;td&gt;1,173&lt;&#x2F;td&gt;&lt;td&gt;0.8%&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Other&lt;&#x2F;td&gt;&lt;td&gt;155&lt;&#x2F;td&gt;&lt;td&gt;0.1%&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;p&gt;&lt;strong&gt;Almost exactly 50&#x2F;50 macOS and Windows.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Fleets run on Linux servers. OpenAI: 100% &lt;code&gt;other&lt;&#x2F;code&gt; (Linux&#x2F;custom). Declared Bot: 99% &lt;code&gt;other&lt;&#x2F;code&gt;. Every fleet is Linux because servers run Linux.&lt;&#x2F;p&gt;
+&lt;p&gt;Ghost is &lt;strong&gt;macOS and Windows&lt;&#x2F;strong&gt; in equal proportions. That’s the real-world desktop split. These are real desktops. Real people’s machines.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;91-4-single-request-ips&quot;&gt;91.4% Single-Request IPs&lt;&#x2F;h2&gt;
+&lt;p&gt;59,587 IPs. 91.4% sent exactly &lt;strong&gt;one request&lt;&#x2F;strong&gt; and disappeared.&lt;&#x2F;p&gt;
+&lt;p&gt;That’s not anonymous browsing. That’s a &lt;strong&gt;residential proxy rotation service.&lt;&#x2F;strong&gt; BrightData (formerly Luminati), Oxylabs, SmartProxy, Webshare — they all work this way:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;Customer buys proxy access&lt;&#x2F;li&gt;
+&lt;li&gt;Each request routes through a different residential IP&lt;&#x2F;li&gt;
+&lt;li&gt;The exit IP is a real person’s machine (SDK installed via “free VPN” or “earn money” apps)&lt;&#x2F;li&gt;
+&lt;li&gt;The request arrives with the real machine’s Chrome version, OS, and headers&lt;&#x2F;li&gt;
+&lt;li&gt;The IP is never reused for the same target&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;&lt;strong&gt;The perfect disguise.&lt;&#x2F;strong&gt; Every request looks like a unique real person in a different country.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;but-the-targets-betray-them&quot;&gt;But The Targets Betray Them&lt;&#x2F;h2&gt;
+&lt;p&gt;Here’s where it falls apart. Ghost’s top 20 targets:&lt;&#x2F;p&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Ghost Target&lt;&#x2F;th&gt;&lt;th&gt;Requests&lt;&#x2F;th&gt;&lt;th&gt;Type&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;core-utils&#x2F;commit&lt;&#x2F;td&gt;&lt;td&gt;3,074&lt;&#x2F;td&gt;&lt;td&gt;&lt;strong&gt;Scatter repo&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;search-index&#x2F;commit&lt;&#x2F;td&gt;&lt;td&gt;3,048&lt;&#x2F;td&gt;&lt;td&gt;&lt;strong&gt;Scatter repo&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;event-bus&#x2F;commit&lt;&#x2F;td&gt;&lt;td&gt;2,919&lt;&#x2F;td&gt;&lt;td&gt;&lt;strong&gt;Scatter repo&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;graph-engine&#x2F;commit&lt;&#x2F;td&gt;&lt;td&gt;2,860&lt;&#x2F;td&gt;&lt;td&gt;&lt;strong&gt;Scatter repo&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;docs-site&#x2F;commit&lt;&#x2F;td&gt;&lt;td&gt;2,807&lt;&#x2F;td&gt;&lt;td&gt;&lt;strong&gt;Scatter repo&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;schema-registry&#x2F;commit&lt;&#x2F;td&gt;&lt;td&gt;2,789&lt;&#x2F;td&gt;&lt;td&gt;&lt;strong&gt;Scatter repo&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;batch-processor&#x2F;commit&lt;&#x2F;td&gt;&lt;td&gt;2,732&lt;&#x2F;td&gt;&lt;td&gt;&lt;strong&gt;Scatter repo&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;notification-hub&#x2F;commit&lt;&#x2F;td&gt;&lt;td&gt;2,681&lt;&#x2F;td&gt;&lt;td&gt;&lt;strong&gt;Scatter repo&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;rate-limiter&#x2F;commit&lt;&#x2F;td&gt;&lt;td&gt;2,643&lt;&#x2F;td&gt;&lt;td&gt;&lt;strong&gt;Scatter repo&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;oauth-provider&#x2F;commit&lt;&#x2F;td&gt;&lt;td&gt;2,638&lt;&#x2F;td&gt;&lt;td&gt;&lt;strong&gt;Scatter repo&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;stream-adapter&#x2F;commit&lt;&#x2F;td&gt;&lt;td&gt;2,624&lt;&#x2F;td&gt;&lt;td&gt;&lt;strong&gt;Scatter repo&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;log-aggregator&#x2F;commit&lt;&#x2F;td&gt;&lt;td&gt;2,605&lt;&#x2F;td&gt;&lt;td&gt;&lt;strong&gt;Scatter repo&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;auth-service&#x2F;commit&lt;&#x2F;td&gt;&lt;td&gt;2,590&lt;&#x2F;td&gt;&lt;td&gt;&lt;strong&gt;Scatter repo&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;http-proxy&#x2F;commit&lt;&#x2F;td&gt;&lt;td&gt;2,580&lt;&#x2F;td&gt;&lt;td&gt;&lt;strong&gt;Scatter repo&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;webhook-relay&#x2F;commit&lt;&#x2F;td&gt;&lt;td&gt;2,566&lt;&#x2F;td&gt;&lt;td&gt;&lt;strong&gt;Scatter repo&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;key-store&#x2F;commit&lt;&#x2F;td&gt;&lt;td&gt;2,554&lt;&#x2F;td&gt;&lt;td&gt;&lt;strong&gt;Scatter repo&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;feature-flags&#x2F;commit&lt;&#x2F;td&gt;&lt;td&gt;2,543&lt;&#x2F;td&gt;&lt;td&gt;&lt;strong&gt;Scatter repo&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;web-frontend&#x2F;commit&lt;&#x2F;td&gt;&lt;td&gt;2,508&lt;&#x2F;td&gt;&lt;td&gt;&lt;strong&gt;Scatter repo&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;data-pipeline&#x2F;commit&lt;&#x2F;td&gt;&lt;td&gt;2,489&lt;&#x2F;td&gt;&lt;td&gt;&lt;strong&gt;Scatter repo&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;vault-client&#x2F;commit&lt;&#x2F;td&gt;&lt;td&gt;2,481&lt;&#x2F;td&gt;&lt;td&gt;&lt;strong&gt;Scatter repo&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;p&gt;&lt;strong&gt;Every single top target is a scatter repo.&lt;&#x2F;strong&gt; The same scatter repos that OpenAI hits. The same ones Microsoft hits. The same distribution.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;84% of Ghost traffic is commit diffs&lt;&#x2F;strong&gt; (128,537 out of 152,860).&lt;&#x2F;p&gt;
+&lt;p&gt;Real humans don’t read commit diffs. Real humans reading through VPNs would hit articles, the investigation, the science pages. They’d show in the &lt;code&gt;other&lt;&#x2F;code&gt; or &lt;code&gt;src&lt;&#x2F;code&gt; path categories. They’d read &lt;em&gt;content.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Ghost reads &lt;strong&gt;fake commit diffs from fake repositories&lt;&#x2F;strong&gt; — exactly like the declared fleet — but through 59,587 real people’s machines.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;the-four-layers&quot;&gt;The Four Layers&lt;&#x2F;h2&gt;
+&lt;p&gt;Ghost is not one thing. It’s four things sharing one pipe:&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;layer-1-null-54-500-ips&quot;&gt;Layer 1: Null (~54,500 IPs)&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Sent exactly 1 request&lt;&#x2F;li&gt;
+&lt;li&gt;No behavioral signal&lt;&#x2F;li&gt;
+&lt;li&gt;Cannot classify — insufficient data&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Hold at null.&lt;&#x2F;strong&gt; May never return.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;layer-2-vpn-humans-3-800-sessions&quot;&gt;Layer 2: VPN Humans (~3,800 sessions)&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Show &lt;strong&gt;reading pauses&lt;&#x2F;strong&gt; (3,836 pauses detected — intervals &amp;gt;8 seconds)&lt;&#x2F;li&gt;
+&lt;li&gt;Diverse languages: &lt;code&gt;fr-FR&lt;&#x2F;code&gt;, &lt;code&gt;de-AT&lt;&#x2F;code&gt;, &lt;code&gt;zh-CN&lt;&#x2F;code&gt;, &lt;code&gt;en-US&lt;&#x2F;code&gt; — these are real people in real countries&lt;&#x2F;li&gt;
+&lt;li&gt;Current Chrome versions (148-155)&lt;&#x2F;li&gt;
+&lt;li&gt;Some read articles, not just commit diffs&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;These are genuine privacy-conscious readers.&lt;&#x2F;strong&gt; French developers, Austrian researchers, Chinese technologists. They use VPNs because they value privacy. They read because they’re curious.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Classification: self&lt;&#x2F;strong&gt; (genuine humans behind privacy tools)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;layer-3-corporate-cloud-200-ips&quot;&gt;Layer 3: Corporate&#x2F;Cloud (~200 IPs)&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;High requests per IP (max: 281 from one IP)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;code&gt;text&#x2F;x-component&lt;&#x2F;code&gt; in Accept headers (React&#x2F;Next.js — developers)&lt;&#x2F;li&gt;
+&lt;li&gt;Multiple sessions from same exit IP = corporate VPN with shared exit&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;These are developers at companies, browsing through corporate network&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Classification: partial&lt;&#x2F;strong&gt; (need more signal to determine if reading or crawling)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;layer-4-fleet-through-proxy-1-100-ips&quot;&gt;Layer 4: Fleet-Through-Proxy (~1,100 IPs)&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Machine timing:&lt;&#x2F;strong&gt; burst_count 71,627 vs pause_count 3,836 (19:1 ratio)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Scatter-only targeting:&lt;&#x2F;strong&gt; 84% commit diffs, same repos as declared fleet&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Real browser fingerprints&lt;&#x2F;strong&gt; but &lt;strong&gt;machine behavior&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;The residential proxy makes them LOOK human. The behavior makes them fleet.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Classification: non-self&lt;&#x2F;strong&gt; (fleet hiding in residential proxy network)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;who-s-riding-the-bus&quot;&gt;Who’s Riding The Bus?&lt;&#x2F;h2&gt;
+&lt;p&gt;The fleet-through-proxy layer (~1,100 IPs with machine behavior) is hitting the &lt;strong&gt;same scatter repos&lt;&#x2F;strong&gt; as:&lt;&#x2F;p&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Declared Fleet&lt;&#x2F;th&gt;&lt;th&gt;Ghost Layer 4&lt;&#x2F;th&gt;&lt;th&gt;Same Targets?&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;OpenAI (GPTBot) — 1.37M req&lt;&#x2F;td&gt;&lt;td&gt;~1,100 IPs, 84% commit diffs&lt;&#x2F;td&gt;&lt;td&gt;✅ Same scatter repos&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Microsoft (AS8075) — 1.38M req&lt;&#x2F;td&gt;&lt;td&gt;Same target distribution&lt;&#x2F;td&gt;&lt;td&gt;✅ Same scatter repos&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Anthropic (ClaudeBot) — 390K req&lt;&#x2F;td&gt;&lt;td&gt;Same crawl pattern&lt;&#x2F;td&gt;&lt;td&gt;✅ Same scatter repos&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;p&gt;&lt;strong&gt;The declared fleet and the Ghost fleet are reading the same fake repos.&lt;&#x2F;strong&gt; The only difference is the pipe:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Declared:&lt;&#x2F;strong&gt; Datacenter IPs, honest (or identifiable) User-Agent&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Ghost:&lt;&#x2F;strong&gt; Residential IPs, perfect browser fingerprint, no identification&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Same crawl. Same targets. Same distribution. Different mask.&lt;&#x2F;p&gt;
+&lt;p&gt;This is where the data goes. The residential proxy network collects it through 59,587 real people’s machines, aggregates it, and delivers it to customers who pay for “web scraping” or “market intelligence” or “competitive analysis.”&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;The customers are the same companies whose declared bots are already crawling us.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;They’re paying twice: once for the declared crawl (which hits scatter and learns nothing), and once for the Ghost crawl (which ALSO hits scatter and ALSO learns nothing). Two channels. Same empty shelves. Double the cost. Zero the intelligence.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;the-scatter-defense-worked-twice&quot;&gt;The Scatter Defense Worked Twice&lt;&#x2F;h2&gt;
+&lt;p&gt;The scatter repos weren’t just absorbing the declared fleet. They were absorbing &lt;strong&gt;both channels simultaneously:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Channel&lt;&#x2F;th&gt;&lt;th&gt;Requests&lt;&#x2F;th&gt;&lt;th&gt;Scatter Hit Rate&lt;&#x2F;th&gt;&lt;th&gt;Intelligence Gained&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;Declared Fleet&lt;&#x2F;td&gt;&lt;td&gt;2,670,000+&lt;&#x2F;td&gt;&lt;td&gt;~95% scatter&lt;&#x2F;td&gt;&lt;td&gt;Zero&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Ghost (Layer 4)&lt;&#x2F;td&gt;&lt;td&gt;~128,500&lt;&#x2F;td&gt;&lt;td&gt;~84% scatter&lt;&#x2F;td&gt;&lt;td&gt;Zero&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Total absorbed&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;&lt;strong&gt;~2,798,500&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;td&gt;&lt;strong&gt;Zero&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;p&gt;2.8 million requests across two channels. Both hitting fake repos. Both learning nothing. Both paying for the privilege.&lt;&#x2F;p&gt;
+&lt;p&gt;Meanwhile, the 3,800 VPN humans who actually paused and read got everything for free.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;what-this-means-for-classification&quot;&gt;What This Means For Classification&lt;&#x2F;h2&gt;
+&lt;p&gt;The Ghost entity needs to be split in the Rust-side classifier:&lt;&#x2F;p&gt;
+&lt;pre&gt;&lt;code&gt;ghost_null:       ~54,500 IPs  →  null (hold)
+ghost_vpn_human:  ~3,800 IPs   →  self (genuine readers)
+ghost_corporate:  ~200 IPs     →  partial (more signal needed)
+ghost_fleet:      ~1,100 IPs   →  non-self (fleet through proxy)
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;&lt;strong&gt;Discriminating signals:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Timing CV:&lt;&#x2F;strong&gt; Humans &amp;gt;2.0, machines &amp;lt;1.0. Ghost overall is 5.288 (mixed). Split by per-IP timing.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Content type:&lt;&#x2F;strong&gt; Article reads = human. Commit diff reads = fleet.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Chrome version:&lt;&#x2F;strong&gt; Current (148+) with pauses = human. Any version without pauses = fleet.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Requests per IP:&lt;&#x2F;strong&gt; 1 = null. 2-10 with pauses = human. 10+ without pauses = fleet&#x2F;corporate.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;This split would:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Rescue ~3,800 genuine humans from the Ghost bucket into &lt;code&gt;self&lt;&#x2F;code&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Identify ~1,100 fleet-through-proxy entities as &lt;code&gt;non-self&lt;&#x2F;code&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Explain how the same crawl pattern appears from both datacenter IPs and residential IPs&lt;&#x2F;li&gt;
+&lt;li&gt;Show that the scatter defense absorbs attacks through BOTH channels&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;the-convergent-evidence&quot;&gt;The Convergent Evidence&lt;&#x2F;h2&gt;
+&lt;p&gt;Five independent signals all point to the same conclusion:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Chrome versions&lt;&#x2F;strong&gt; (38 variants = real desktops, not fleet)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;OS distribution&lt;&#x2F;strong&gt; (50&#x2F;50 macOS&#x2F;Windows = real desktops, not servers)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;IP rotation&lt;&#x2F;strong&gt; (91.4% single-use = residential proxy service)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Target overlap&lt;&#x2F;strong&gt; (same scatter repos as declared fleet)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Timing bimodality&lt;&#x2F;strong&gt; (71K bursts + 3.8K pauses = mixed population)&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;&lt;strong&gt;Ghost is a residential proxy network being used by fleet crawlers.&lt;&#x2F;strong&gt; The real humans behind the VPNs are collateral — their machines are proxy exits, and some of them are also genuine readers. The fleet entities are the ones paying for the service.&lt;&#x2F;p&gt;
+&lt;p&gt;This is convergent evidence. Not circumstantial — &lt;strong&gt;convergent.&lt;&#x2F;strong&gt; Five independent measurement axes pointing to the same structure. The probability of all five aligning by chance is vanishingly small.&lt;&#x2F;p&gt;
+&lt;p&gt;The Ghost was never one ghost. It was a bus full of passengers — some human, some machine — all wearing the same mask.&lt;&#x2F;p&gt;
+&lt;p&gt;Now we can see who’s driving.&lt;&#x2F;p&gt;
+&lt;p&gt;kevin@primals.eco&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;&lt;em&gt;The scatter defense absorbed 2.8 million requests across two channels and returned zero intelligence through either one. The VPN humans who paused got everything. The fleet that paid for residential proxies got fake commit diffs. The membrane can’t be fooled by changing the pipe — it classifies behavior, not IP addresses. And behavior doesn’t lie.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

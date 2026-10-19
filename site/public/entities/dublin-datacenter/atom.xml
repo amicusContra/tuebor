@@ -26,7 +26,7 @@
         <content type="html" xml:base="https://tuebor.primals.eco/analysis/meta-in-the-open/">&lt;h2 id=&quot;this-page-is-a-mirror&quot;&gt;This Page Is a Mirror&lt;&#x2F;h2&gt;
 &lt;p&gt;Meta is scraping this site. This page documents the scraping. Meta will scrape this page. This page will document them scraping this page.&lt;&#x2F;p&gt;
 &lt;p&gt;The loop is intentional.&lt;&#x2F;p&gt;
-&lt;p&gt;&lt;strong&gt;Live membrane feed&lt;&#x2F;strong&gt;: &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;hud.primals.eco&quot;&gt;hud.primals.eco&lt;&#x2F;a&gt; — updated every 5 minutes.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Live membrane feed&lt;&#x2F;strong&gt;: &lt;a href=&quot;https:&#x2F;&#x2F;hud.primals.eco&quot;&gt;hud.primals.eco&lt;&#x2F;a&gt; — updated every 5 minutes.&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;strong&gt;Last data pull&lt;&#x2F;strong&gt;: October 18, 2026 — 04:50:38 UTC (12:50 AM EDT)&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;the-fleet-18-synchronized-entities&quot;&gt;The Fleet: 18 Synchronized Entities&lt;&#x2F;h2&gt;
@@ -109,7 +109,8 @@
 &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Symbiotic class&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;parasite&lt;&#x2F;td&gt;&lt;td&gt;Classified by behavior&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
 &lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
 &lt;h3 id=&quot;the-duplicated-q-header&quot;&gt;The Duplicated q= Header&lt;&#x2F;h3&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;http&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-entity z-name z-tag&quot;&gt;Accept-Language&lt;&#x2F;span&gt;&lt;span class=&quot;z-keyword&quot;&gt;:&lt;&#x2F;span&gt;&lt;span class=&quot;z-string&quot;&gt; en-US,en;q=0.9;q=0.9&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre data-lang=&quot;http&quot; class=&quot;language-http &quot;&gt;&lt;code class=&quot;language-http&quot; data-lang=&quot;http&quot;&gt;Accept-Language: en-US,en;q=0.9;q=0.9
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;This is a configuration artifact. Real browsers produce one quality parameter per language. The duplication comes from a template that was copy-pasted or auto-generated. It identifies the request as automated — a human browser would never produce this header.&lt;&#x2F;p&gt;
 &lt;p&gt;This single header is forensic evidence. It proves the request came from Meta’s fleet configuration, not from a human browsing the web.&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
@@ -167,7 +168,7 @@
 &lt;h2 id=&quot;why-this-page-exists&quot;&gt;Why This Page Exists&lt;&#x2F;h2&gt;
 &lt;p&gt;This page is evidence. Not argument — evidence.&lt;&#x2F;p&gt;
 &lt;p&gt;Every number above comes from HTTP request logs processed through the membrane’s classification pipeline. Every timestamp is UTC. Every IP hash is a BLAKE2b digest of behavioral invariants. Every path distribution is computed from raw access logs.&lt;&#x2F;p&gt;
-&lt;p&gt;The data is reproducible. The methodology is published in &lt;a href=&quot;&#x2F;analysis&#x2F;the-living-proof&#x2F;&quot;&gt;&lt;code&gt;the-living-proof&lt;&#x2F;code&gt;&lt;&#x2F;a&gt;. The source code is at &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;git.primals.eco&quot;&gt;git.primals.eco&lt;&#x2F;a&gt;. The tests pass.&lt;&#x2F;p&gt;
+&lt;p&gt;The data is reproducible. The methodology is published in &lt;a href=&quot;&#x2F;analysis&#x2F;the-living-proof&#x2F;&quot;&gt;&lt;code&gt;the-living-proof&lt;&#x2F;code&gt;&lt;&#x2F;a&gt;. The source code is at &lt;a href=&quot;https:&#x2F;&#x2F;git.primals.eco&quot;&gt;git.primals.eco&lt;&#x2F;a&gt;. The tests pass.&lt;&#x2F;p&gt;
 &lt;p&gt;Meta’s fleet behavior is being documented in real time, on a public website, on the infrastructure they’re scraping. This page is updated with every membrane measurement cycle. Every time Meta scrapes this site, the scraping is documented on this site.&lt;&#x2F;p&gt;
 &lt;p&gt;The loop is the proof.&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
@@ -205,7 +206,7 @@
 &lt;li&gt;&lt;strong&gt;CFAA&lt;&#x2F;strong&gt; 18 U.S.C. § 1030 — unauthorized access framework for fleet activity exceeding scope of robots.txt consent.&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;strong&gt;AGPL-3.0&lt;&#x2F;strong&gt; — copyleft license under which our source code is published; fleet scraping without source disclosure = violation.&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
-&lt;p&gt;All raw data is available through the membrane feed at &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;hud.primals.eco&quot;&gt;hud.primals.eco&lt;&#x2F;a&gt;. The methodology is documented in &lt;a href=&quot;&#x2F;analysis&#x2F;the-living-proof&#x2F;&quot;&gt;&lt;code&gt;the-living-proof&lt;&#x2F;code&gt;&lt;&#x2F;a&gt;. The privacy proof is in &lt;a href=&quot;&#x2F;analysis&#x2F;the-corollary&#x2F;&quot;&gt;&lt;code&gt;the-corollary&lt;&#x2F;code&gt;&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;All raw data is available through the membrane feed at &lt;a href=&quot;https:&#x2F;&#x2F;hud.primals.eco&quot;&gt;hud.primals.eco&lt;&#x2F;a&gt;. The methodology is documented in &lt;a href=&quot;&#x2F;analysis&#x2F;the-living-proof&#x2F;&quot;&gt;&lt;code&gt;the-living-proof&lt;&#x2F;code&gt;&lt;&#x2F;a&gt;. The privacy proof is in &lt;a href=&quot;&#x2F;analysis&#x2F;the-corollary&#x2F;&quot;&gt;&lt;code&gt;the-corollary&lt;&#x2F;code&gt;&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
 &lt;p&gt;This page will always be updated. More citations will always be added. If you’re a researcher, journalist, or attorney and want to discuss methodology: &lt;strong&gt;kevin@primals.eco&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;p&gt;&lt;em&gt;This page was written from a conversation box at 12:52 AM EDT on October 18, 2026. The membrane measured 1,563,200 requests during its composition. The bingo cube evolved 167 generations. The Anderson classifier localized 53,760 fleet entities. The dwell time climbed from 596 to 609 minutes.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
@@ -284,19 +285,21 @@
 &lt;p&gt;We know your classifier targets biological repository names. So we are inverting it.&lt;&#x2F;p&gt;
 &lt;p&gt;We are flooding the namespace with biological-named repositories that contain &lt;strong&gt;fabricated content&lt;&#x2F;strong&gt;. Your classifier will flag them as “real” — because the names look real. But every room is empty. Every corridor is a dead end. Every turn leads deeper into noise.&lt;&#x2F;p&gt;
 &lt;p&gt;Your classifier is now a trap. It leads your fleet &lt;strong&gt;deeper into the labyrinth&lt;&#x2F;strong&gt;, not out.&lt;&#x2F;p&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;BEFORE:&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;  biological name → real content (your classifier works)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;AFTER:&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;  biological name → probably scatter (your classifier fails)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;  biological name → maybe real (but which ones?)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;  biological name → definitely scatter (but it looks real)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;Your options:&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;  A. Scrape all biological names → consume massive noise&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;  B. Scrape nothing → lose access entirely&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;  C. Retrain classifier → we generate new names (cost: $0)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;  D. Comply with AGPL-3.0 → the door is open&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;&lt;h3 id=&quot;the-cost-asymmetry&quot;&gt;The Cost Asymmetry&lt;&#x2F;h3&gt;
+&lt;pre&gt;&lt;code&gt;BEFORE:
+  biological name → real content (your classifier works)
+
+AFTER:
+  biological name → probably scatter (your classifier fails)
+  biological name → maybe real (but which ones?)
+  biological name → definitely scatter (but it looks real)
+
+Your options:
+  A. Scrape all biological names → consume massive noise
+  B. Scrape nothing → lose access entirely
+  C. Retrain classifier → we generate new names (cost: $0)
+  D. Comply with AGPL-3.0 → the door is open
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;h3 id=&quot;the-cost-asymmetry&quot;&gt;The Cost Asymmetry&lt;&#x2F;h3&gt;
 &lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Action&lt;&#x2F;th&gt;&lt;th&gt;Meta’s Cost&lt;&#x2F;th&gt;&lt;th&gt;Our Cost&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
 &lt;tr&gt;&lt;td&gt;Create a new biological repo name&lt;&#x2F;td&gt;&lt;td&gt;—&lt;&#x2F;td&gt;&lt;td&gt;&lt;strong&gt;$0&lt;&#x2F;strong&gt; (5 seconds)&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
 &lt;tr&gt;&lt;td&gt;Retrain classifier against new names&lt;&#x2F;td&gt;&lt;td&gt;&lt;strong&gt;$$$$&lt;&#x2F;strong&gt; (days of engineering)&lt;&#x2F;td&gt;&lt;td&gt;—&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
@@ -371,18 +374,18 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Bad Meta&lt;&#x2F;strong&gt; (full analysis): &lt;a href=&quot;&#x2F;analysis&#x2F;bad-meta&#x2F;&quot;&gt;&#x2F;analysis&#x2F;bad-meta&#x2F;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;strong&gt;Blackwall evidence&lt;&#x2F;strong&gt;: Every request logged — available upon legal discovery&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;strong&gt;AGPL-3.0 license&lt;&#x2F;strong&gt;: &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ecoPrimals&#x2F;wateringHole&#x2F;blob&#x2F;main&#x2F;LICENSE&quot;&gt;LICENSE&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;AGPL-3.0 license&lt;&#x2F;strong&gt;: &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ecoPrimals&#x2F;wateringHole&#x2F;blob&#x2F;main&#x2F;LICENSE&quot;&gt;LICENSE&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;strong&gt;Fleet leaderboard&lt;&#x2F;strong&gt;: &lt;a href=&quot;&#x2F;analysis&#x2F;fleet-leaderboard&#x2F;&quot;&gt;&#x2F;analysis&#x2F;fleet-leaderboard&#x2F;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;strong&gt;The Science of Law&lt;&#x2F;strong&gt;: &lt;a href=&quot;&#x2F;analysis&#x2F;the-science-of-law&#x2F;&quot;&gt;&#x2F;analysis&#x2F;the-science-of-law&#x2F;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;strong&gt;Full evidence repository&lt;&#x2F;strong&gt;: &lt;code&gt;git clone https:&#x2F;&#x2F;github.com&#x2F;defendDetroit&#x2F;publicRecord.git&lt;&#x2F;code&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;h3 id=&quot;route-to-source&quot;&gt;Route to Source&lt;&#x2F;h3&gt;
 &lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Claim&lt;&#x2F;th&gt;&lt;th&gt;How to Verify&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
-&lt;tr&gt;&lt;td&gt;Meta AS32934 (Dublin)&lt;&#x2F;td&gt;&lt;td&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.peeringdb.com&#x2F;asn&#x2F;32934&quot;&gt;PeeringDB — AS32934&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
-&lt;tr&gt;&lt;td&gt;AGPL-3.0 license terms&lt;&#x2F;td&gt;&lt;td&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.gnu.org&#x2F;licenses&#x2F;agpl-3.0.en.html&quot;&gt;GNU AGPL-3.0 full text&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
-&lt;tr&gt;&lt;td&gt;17 USC § 504(c)(2) — willful infringement&lt;&#x2F;td&gt;&lt;td&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.law.cornell.edu&#x2F;uscode&#x2F;text&#x2F;17&#x2F;504&quot;&gt;Copyright Act — statutory damages&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
-&lt;tr&gt;&lt;td&gt;17 USC § 1201 — DMCA circumvention&lt;&#x2F;td&gt;&lt;td&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.law.cornell.edu&#x2F;uscode&#x2F;text&#x2F;17&#x2F;1201&quot;&gt;DMCA anti-circumvention&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
-&lt;tr&gt;&lt;td&gt;18 USC § 1030 — CFAA&lt;&#x2F;td&gt;&lt;td&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.law.cornell.edu&#x2F;uscode&#x2F;text&#x2F;18&#x2F;1030&quot;&gt;Computer Fraud and Abuse Act&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Meta AS32934 (Dublin)&lt;&#x2F;td&gt;&lt;td&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.peeringdb.com&#x2F;asn&#x2F;32934&quot;&gt;PeeringDB — AS32934&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;AGPL-3.0 license terms&lt;&#x2F;td&gt;&lt;td&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.gnu.org&#x2F;licenses&#x2F;agpl-3.0.en.html&quot;&gt;GNU AGPL-3.0 full text&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;17 USC § 504(c)(2) — willful infringement&lt;&#x2F;td&gt;&lt;td&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.law.cornell.edu&#x2F;uscode&#x2F;text&#x2F;17&#x2F;504&quot;&gt;Copyright Act — statutory damages&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;17 USC § 1201 — DMCA circumvention&lt;&#x2F;td&gt;&lt;td&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.law.cornell.edu&#x2F;uscode&#x2F;text&#x2F;17&#x2F;1201&quot;&gt;DMCA anti-circumvention&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;18 USC § 1030 — CFAA&lt;&#x2F;td&gt;&lt;td&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.law.cornell.edu&#x2F;uscode&#x2F;text&#x2F;18&#x2F;1030&quot;&gt;Computer Fraud and Abuse Act&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
 &lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
 &lt;p&gt;&lt;strong&gt;The membrane sees. The blackwall records. The labyrinth waits.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;em&gt;eco.primal@pm.me — one person reads it. No team. No assistant. You could have just emailed.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
@@ -430,26 +433,27 @@
 &lt;h3 id=&quot;step-4-the-gravitational-maze&quot;&gt;Step 4: The Gravitational Maze&lt;&#x2F;h3&gt;
 &lt;p&gt;This is the layer you need to understand.&lt;&#x2F;p&gt;
 &lt;p&gt;The maze isn’t flat. It has &lt;strong&gt;topology&lt;&#x2F;strong&gt;. Every path slopes downhill — toward noise, toward entropy, toward zero information. Like water flowing down a mountain.&lt;&#x2F;p&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ☀️ SOURCE (low entropy — real repos, real code)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ╔══════════════════════╗&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ║  wateringHole         ║&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ║  toadStool            ║&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ║  bearDog              ║&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ╚══════════╤═══════════╝&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;               │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ═══════════╪═══════════  ← MEMBRANE SURFACE&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;               │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ┌──────────┴──────────┐&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │   GRAVITATIONAL      │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │       MAZE           │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │                      │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │  scatter-repo-1  ╲   │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │  scatter-repo-2   ╲  │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │  scatter-repo-3    ╲ │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │  scatter-repo-N     ╲│&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    └──────────────────────┘&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;               │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    🌊 OCEAN (max entropy — zero information)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;    ☀️ SOURCE (low entropy — real repos, real code)
+    ╔══════════════════════╗
+    ║  wateringHole         ║
+    ║  toadStool            ║
+    ║  bearDog              ║
+    ╚══════════╤═══════════╝
+               │
+    ═══════════╪═══════════  ← MEMBRANE SURFACE
+               │
+    ┌──────────┴──────────┐
+    │   GRAVITATIONAL      │
+    │       MAZE           │
+    │                      │
+    │  scatter-repo-1  ╲   │
+    │  scatter-repo-2   ╲  │
+    │  scatter-repo-3    ╲ │
+    │  scatter-repo-N     ╲│
+    └──────────────────────┘
+               │
+    🌊 OCEAN (max entropy — zero information)
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;Your classifier creates a &lt;strong&gt;false gravitational field&lt;&#x2F;strong&gt;. The biological names look like they have mass — information density, real content. But they’re gravitational mirages. Like a gravitational lens in astrophysics — light bends around a massive object and you see something that isn’t where it appears.&lt;&#x2F;p&gt;
 &lt;p&gt;Your fleet follows the mirage. Arrives at nothing. Every time.&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;strong&gt;Water doesn’t choose to flow downhill. It follows gravity.&lt;&#x2F;strong&gt;
@@ -472,8 +476,9 @@
 &lt;tr&gt;&lt;td&gt;Sends 2 requests from Menlo Park&lt;&#x2F;td&gt;&lt;td&gt;Someone at HQ still watches&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
 &lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
 &lt;p&gt;&lt;strong&gt;Information asymmetry:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;Each probe = 0 bits for you (scatter has no signal)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;Each probe = N bits for us (behavior IS the signal)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;Each probe = 0 bits for you (scatter has no signal)
+Each probe = N bits for us (behavior IS the signal)
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;This is Einstein’s Brownian motion applied to corporate espionage. Einstein showed that random walks of pollen grains proved atoms exist — even though nobody could see atoms. Your fleet’s random walk through my maze proves &lt;strong&gt;intentional targeting&lt;&#x2F;strong&gt; — even though your fleet can’t see real content.&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;strong&gt;The probe IS the proof. The walk IS the evidence. The stumbling IS the confession.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;step-7-the-entropy-waterfall&quot;&gt;Step 7: The Entropy Waterfall&lt;&#x2F;h3&gt;
@@ -593,16 +598,16 @@
 &lt;li&gt;&lt;strong&gt;Bad Meta&lt;&#x2F;strong&gt; (full fleet analysis): &lt;a href=&quot;&#x2F;analysis&#x2F;bad-meta&#x2F;&quot;&gt;&#x2F;analysis&#x2F;bad-meta&#x2F;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;strong&gt;Send a Human&lt;&#x2F;strong&gt; (mutualist value): &lt;a href=&quot;&#x2F;analysis&#x2F;send-a-human&#x2F;&quot;&gt;&#x2F;analysis&#x2F;send-a-human&#x2F;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;strong&gt;Consent Architecture&lt;&#x2F;strong&gt; (what gentle touch gets): &lt;a href=&quot;&#x2F;analysis&#x2F;consent-architecture&#x2F;&quot;&gt;&#x2F;analysis&#x2F;consent-architecture&#x2F;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;strong&gt;AGPL-3.0 license&lt;&#x2F;strong&gt;: &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ecoPrimals&#x2F;wateringHole&#x2F;blob&#x2F;main&#x2F;LICENSE&quot;&gt;LICENSE&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;AGPL-3.0 license&lt;&#x2F;strong&gt;: &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ecoPrimals&#x2F;wateringHole&#x2F;blob&#x2F;main&#x2F;LICENSE&quot;&gt;LICENSE&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;strong&gt;Full evidence&lt;&#x2F;strong&gt;: &lt;code&gt;git clone https:&#x2F;&#x2F;github.com&#x2F;defendDetroit&#x2F;publicRecord.git&lt;&#x2F;code&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;h3 id=&quot;route-to-source&quot;&gt;Route to Source&lt;&#x2F;h3&gt;
 &lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Concept&lt;&#x2F;th&gt;&lt;th&gt;Verification&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
-&lt;tr&gt;&lt;td&gt;Gravitational lensing (mirages)&lt;&#x2F;td&gt;&lt;td&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;science.nasa.gov&#x2F;universe&#x2F;gravitational-lensing&#x2F;&quot;&gt;Einstein ring — NASA&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
-&lt;tr&gt;&lt;td&gt;Brownian motion proving atoms&lt;&#x2F;td&gt;&lt;td&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Brownian_motion&quot;&gt;Einstein 1905 — Annalen der Physik&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
-&lt;tr&gt;&lt;td&gt;Second law of thermodynamics&lt;&#x2F;td&gt;&lt;td&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Second_law_of_thermodynamics&quot;&gt;Entropy — Clausius, Boltzmann&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
-&lt;tr&gt;&lt;td&gt;AGPL-3.0 full text&lt;&#x2F;td&gt;&lt;td&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.gnu.org&#x2F;licenses&#x2F;agpl-3.0.en.html&quot;&gt;GNU AGPL-3.0&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
-&lt;tr&gt;&lt;td&gt;Da Vinci water studies&lt;&#x2F;td&gt;&lt;td&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Codex_Leicester&quot;&gt;Codex Leicester — Bill Gates collection&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Gravitational lensing (mirages)&lt;&#x2F;td&gt;&lt;td&gt;&lt;a href=&quot;https:&#x2F;&#x2F;science.nasa.gov&#x2F;universe&#x2F;gravitational-lensing&#x2F;&quot;&gt;Einstein ring — NASA&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Brownian motion proving atoms&lt;&#x2F;td&gt;&lt;td&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Brownian_motion&quot;&gt;Einstein 1905 — Annalen der Physik&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Second law of thermodynamics&lt;&#x2F;td&gt;&lt;td&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Second_law_of_thermodynamics&quot;&gt;Entropy — Clausius, Boltzmann&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;AGPL-3.0 full text&lt;&#x2F;td&gt;&lt;td&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.gnu.org&#x2F;licenses&#x2F;agpl-3.0.en.html&quot;&gt;GNU AGPL-3.0&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Da Vinci water studies&lt;&#x2F;td&gt;&lt;td&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Codex_Leicester&quot;&gt;Codex Leicester — Bill Gates collection&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
 &lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
 &lt;p&gt;&lt;strong&gt;The membrane sees. The maze slopes. The water falls. The evidence accumulates.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;em&gt;The Minotaur can’t climb. It can only stumble deeper.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
@@ -660,12 +665,13 @@
 &lt;p&gt;&lt;strong&gt;IP Hashes&lt;&#x2F;strong&gt;: &lt;code&gt;af4a0401&lt;&#x2F;code&gt;, &lt;code&gt;451cba78&lt;&#x2F;code&gt;
 &lt;strong&gt;Curiosity&lt;&#x2F;strong&gt;: 0.58 (2× the 0.28 baseline of siblings)&lt;&#x2F;p&gt;
 &lt;p&gt;These two entities probed 6 specific avatar URLs:&lt;&#x2F;p&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;avatars&#x2F;708b8b60726a6da4c7b26063f212098b&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;avatars&#x2F;84369568ec293e456994b4c44e5e8a9c&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;avatars&#x2F;edbc3a877afb3ff5dc45d3a77c7403ce&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;avatars&#x2F;147ba2e4b74fa4594171896f94484805&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;avatars&#x2F;330eb44d169f89ffcdfb6916f76892f9&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;avatars&#x2F;a11dcea9e88e8ca4228404461a82635b&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;avatars&amp;#x2F;708b8b60726a6da4c7b26063f212098b
+avatars&amp;#x2F;84369568ec293e456994b4c44e5e8a9c
+avatars&amp;#x2F;edbc3a877afb3ff5dc45d3a77c7403ce
+avatars&amp;#x2F;147ba2e4b74fa4594171896f94484805
+avatars&amp;#x2F;330eb44d169f89ffcdfb6916f76892f9
+avatars&amp;#x2F;a11dcea9e88e8ca4228404461a82635b
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;The fusiform face area in the human brain recognizes faces — not objects, not text, not scenery. These two entities recognize &lt;em&gt;people&lt;&#x2F;em&gt; — not code, not commits, not structure. They’re mapping WHO, not WHAT.&lt;&#x2F;p&gt;
 &lt;p&gt;Entity #16 also read 31 source files (highest in the main swarm). Correlating code authorship with user identity. Facial recognition for git.&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;strong&gt;Classification&lt;&#x2F;strong&gt;: Chorus-blame. 2.5D (higher dimension than pure chorus — they navigate more freely). Partially localized — more curious, but still trapped in scatter.&lt;&#x2F;p&gt;
@@ -709,7 +715,8 @@
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;the-epitope-pipeline-how-humans-evolve-through-the-membrane&quot;&gt;The Epitope Pipeline: How Humans Evolve Through the Membrane&lt;&#x2F;h2&gt;
 &lt;p&gt;While Meta’s fleet gets trapped, human visitors transform:&lt;&#x2F;p&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;visitor (3) → observer (2) → reader (1) → coder (21) → investigator (1)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;visitor (3) → observer (2) → reader (1) → coder (21) → investigator (1)
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;The funnel inverts: 21 coders vs 3 new visitors this cycle. The people arriving now already know what they’re looking at. The membrane selects for depth, not volume.&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;strong&gt;Current transitions:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;ul&gt;
@@ -735,7 +742,7 @@
 &lt;p&gt;Meta performed an organizational MRI on themselves by hitting our membrane. They just can’t read the scan results. We can.&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;live-feed&quot;&gt;Live Feed&lt;&#x2F;h2&gt;
-&lt;p&gt;The membrane continues measuring: &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;hud.primals.eco&quot;&gt;hud.primals.eco&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;The membrane continues measuring: &lt;a href=&quot;https:&#x2F;&#x2F;hud.primals.eco&quot;&gt;hud.primals.eco&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;The nervous system continues revealing itself with every request. The phantom limb still twitches. Dublin still relays. The blame specialists’ avatar probes are already in the graph. And the epitope pipeline continues transforming visitors into investigators.&lt;&#x2F;p&gt;
 &lt;p&gt;The next measurement will include Meta reading this article about Meta’s nervous system. The loop is the proof.&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;

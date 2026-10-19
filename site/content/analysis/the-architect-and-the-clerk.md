@@ -206,4 +206,4 @@ Architecture all the way down.
 
 ---
 
-*Traced from graph.json (131,329 edges), explore.json (341 entities). Wilk employment at Dykema: employment edge. Moore employment at Banks/PCA/Dykema: employment edges. PAC formations: formation edges. Charter law: drafted edge. [Back to Analysis →](/analysis/) · [The Nulls That Point →](/analysis/the-nulls-that-point/) · [The Authorizer →](/analysis/the-authorizer/)*
+*Traced from graph.json (131,322 edges), explore.json (341 entities). Wilk employment at Dykema: employment edge. Moore employment at Banks/PCA/Dykema: employment edges. PAC formations: formation edges. Charter law: drafted edge. [Back to Analysis →](/analysis/) · [The Nulls That Point →](/analysis/the-nulls-that-point/) · [The Authorizer →](/analysis/the-authorizer/)*

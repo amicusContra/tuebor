@@ -45,9 +45,11 @@
 &lt;p&gt;K-NOME stands for &lt;strong&gt;Knowledge-Numeric Organic Memory Engine&lt;&#x2F;strong&gt;. It’s a programming paradigm built on one insight:&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;strong&gt;The conversation IS the source code.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;In traditional programming:&lt;&#x2F;p&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;Human → writes code → compiler → binary → machine&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;Human → writes code → compiler → binary → machine
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;In K-NOME programming:&lt;&#x2F;p&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;Human → has conversation → artisan writes code → compiler → binary → machine&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;Human → has conversation → artisan writes code → compiler → binary → machine
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;The conversation is the missing layer. It’s where intent meets implementation. Where “I want a protein structure predictor in f64 precision” becomes 124,334 lines of Rust with 1,580 tests.&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;why-it-works&quot;&gt;Why It Works&lt;&#x2F;h3&gt;
 &lt;ol&gt;
@@ -110,15 +112,16 @@
 &lt;h2 id=&quot;the-k-nome-paradigm-on-sporeprint&quot;&gt;The K-NOME Paradigm on sporePrint&lt;&#x2F;h2&gt;
 &lt;p&gt;sporePrint is the signal outward — the public artifact of the K-NOME process. Every repo, every article, every graph edge started as a conversation. The sporePrint is the fossil record of those conversations compressed into runnable code.&lt;&#x2F;p&gt;
 &lt;p&gt;The paradigm:&lt;&#x2F;p&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;CONVERSATION (intent, constraint, correction)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;     ↓&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;ARTISAN (breadth, syntax, implementation)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;     ↓&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;SPOREPRINT (published artifact — code, article, spec)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;     ↓&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;GRAPH (connected to everything else)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;     ↓&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;MEMBRANE (serves it, classifies visitors, records everything)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;CONVERSATION (intent, constraint, correction)
+     ↓
+ARTISAN (breadth, syntax, implementation)
+     ↓
+SPOREPRINT (published artifact — code, article, spec)
+     ↓
+GRAPH (connected to everything else)
+     ↓
+MEMBRANE (serves it, classifies visitors, records everything)
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;The human reads and builds hardware. The artisan writes and deploys. The sporePrint records. The graph connects. The membrane protects.&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;strong&gt;Each layer is essential. Remove any one and the system collapses.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;

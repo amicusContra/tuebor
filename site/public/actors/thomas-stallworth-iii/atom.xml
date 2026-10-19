@@ -61,7 +61,7 @@ Hover any node to trace its connections. Click to navigate. Toggle nexus types t
 &lt;p&gt;&lt;strong&gt;Center of gravity:&lt;&#x2F;strong&gt; Brian Banks through The Purpose Group Michigan LLC&lt;&#x2F;p&gt;
 &lt;p&gt;Banks operates two charter schools that collectively move millions in taxpayer funds through a management company where he is the sole registered agent.&lt;&#x2F;p&gt;
 &lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;School&lt;&#x2F;th&gt;&lt;th&gt;Students&lt;&#x2F;th&gt;&lt;th&gt;Math Proficiency&lt;&#x2F;th&gt;&lt;th&gt;Reading&lt;&#x2F;th&gt;&lt;th&gt;State Rank&lt;&#x2F;th&gt;&lt;th&gt;Per-Pupil&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
-&lt;tr&gt;&lt;td&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;clutchjustice.com&#x2F;2026&#x2F;09&#x2F;13&#x2F;macdowell-preparatory-academy-academic-financial-record&#x2F;&quot;&gt;MacDowell Preparatory Academy&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;td&gt;362&lt;&#x2F;td&gt;&lt;td&gt;&lt;strong&gt;3%&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;10-14%&lt;&#x2F;td&gt;&lt;td&gt;1,443&#x2F;1,488 (bottom 3%)&lt;&#x2F;td&gt;&lt;td&gt;$15,217&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https:&#x2F;&#x2F;clutchjustice.com&#x2F;2026&#x2F;09&#x2F;13&#x2F;macdowell-preparatory-academy-academic-financial-record&#x2F;&quot;&gt;MacDowell Preparatory Academy&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;td&gt;362&lt;&#x2F;td&gt;&lt;td&gt;&lt;strong&gt;3%&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;10-14%&lt;&#x2F;td&gt;&lt;td&gt;1,443&#x2F;1,488 (bottom 3%)&lt;&#x2F;td&gt;&lt;td&gt;$15,217&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
 &lt;tr&gt;&lt;td&gt;Purpose Charter Academy&lt;&#x2F;td&gt;&lt;td&gt;225 projected&lt;&#x2F;td&gt;&lt;td&gt;&lt;em&gt;opening 2026-27&lt;&#x2F;em&gt;&lt;&#x2F;td&gt;&lt;td&gt;—&lt;&#x2F;td&gt;&lt;td&gt;—&lt;&#x2F;td&gt;&lt;td&gt;—&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
 &lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
 &lt;p&gt;Three percent math proficiency means roughly &lt;strong&gt;11 of 362 children&lt;&#x2F;strong&gt; can do grade-level math. That is not a struggling school. That is a revenue extraction operation wearing a school’s skin.&lt;&#x2F;p&gt;
@@ -207,7 +207,7 @@ Hover any node to trace its connections. Click to navigate. Toggle nexus types t
 &lt;p&gt;This page will continue expanding as the investigation develops. Each node added to the graph becomes visible to every other node already mapped.&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;p&gt;&lt;em&gt;Every name on this page appears in public records. Every fact is sourced to court documents, campaign finance filings, FOIA responses, news reporting, or government databases. Named here? Something wrong? &lt;a href=&quot;&#x2F;contact&#x2F;&quot;&gt;Contact me&lt;&#x2F;a&gt; — truth matters more than being right.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
-&lt;p&gt;&lt;em&gt;Sources: M.L. Elrick &#x2F; Detroit Free Press, Rita Williams &#x2F; &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;clutchjustice.com&quot;&gt;Clutch Justice&lt;&#x2F;a&gt;, BridgeDetroit, Chalkbeat Detroit, TransparencyUSA, CourtListener, MDOC OTIS, Michigan SOS Campaign Finance, NCES, SchoolDigger, &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;mibusinessregistry.lara.state.mi.us&#x2F;search&#x2F;business&quot;&gt;Michigan LARA Business Entity Search&lt;&#x2F;a&gt;.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;Sources: M.L. Elrick &#x2F; Detroit Free Press, Rita Williams &#x2F; &lt;a href=&quot;https:&#x2F;&#x2F;clutchjustice.com&quot;&gt;Clutch Justice&lt;&#x2F;a&gt;, BridgeDetroit, Chalkbeat Detroit, TransparencyUSA, CourtListener, MDOC OTIS, Michigan SOS Campaign Finance, NCES, SchoolDigger, &lt;a href=&quot;https:&#x2F;&#x2F;mibusinessregistry.lara.state.mi.us&#x2F;search&#x2F;business&quot;&gt;Michigan LARA Business Entity Search&lt;&#x2F;a&gt;.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
 &lt;aside class=&quot;convergence-box&quot; aria-label=&quot;Cross-references&quot;&gt;
 &lt;strong class=&quot;convergence-title&quot;&gt;Same system, other lenses:&lt;&#x2F;strong&gt;
 &lt;ul class=&quot;convergence-list&quot;&gt;
@@ -356,19 +356,20 @@ graph TB
 
 &lt;span class=&quot;confidence-badge confidence-verified&quot; title=&quot;Confirmed by multiple independent sources&quot;&gt;&lt;span aria-hidden=&quot;true&quot;&gt;✅&lt;&#x2F;span&gt; Verified&lt;&#x2F;span&gt;
 &lt;&#x2F;h3&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;JIMMY SETTLES (UAW Vice President)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    └── uncle of&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;TENISHA YANCEY&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ├── Worked at Wayne County Land Bank (Sabree&amp;#39;s domain, 2007-2013)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ├── Wayne County Exec Office (Evans)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ├── Wayne County Prosecutor (juvenile)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ├── Harper Woods Board of Ed (Banks&amp;#39; suburb)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ├── Succeeded Banks in HD-1 (Nov 2017)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ├── 36th District Judge (Nov 2022) — same court as Adam Sabree + Sean Perkins&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ├── MacDowell Board Chair&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ├── SOLE campaign activity: $383.82 to Banks&amp;#39; LLC&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ├── Paid son Jaylen $2,935 from campaign&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    └── SISTER: Dr. Chalena Yancey Beasley → PCA School Leader&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;JIMMY SETTLES (UAW Vice President)
+    └── uncle of
+TENISHA YANCEY
+    ├── Worked at Wayne County Land Bank (Sabree&amp;#x27;s domain, 2007-2013)
+    ├── Wayne County Exec Office (Evans)
+    ├── Wayne County Prosecutor (juvenile)
+    ├── Harper Woods Board of Ed (Banks&amp;#x27; suburb)
+    ├── Succeeded Banks in HD-1 (Nov 2017)
+    ├── 36th District Judge (Nov 2022) — same court as Adam Sabree + Sean Perkins
+    ├── MacDowell Board Chair
+    ├── SOLE campaign activity: $383.82 to Banks&amp;#x27; LLC
+    ├── Paid son Jaylen $2,935 from campaign
+    └── SISTER: Dr. Chalena Yancey Beasley → PCA School Leader
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;She sat in &lt;strong&gt;every institution in sequence&lt;&#x2F;strong&gt;: Sabree’s land bank → county government → prosecutor’s office → Banks’ suburban school board → Banks’ legislative seat → the bench → Banks’ school board. Each stop added a layer of institutional access. &lt;strong&gt;&lt;a href=&quot;&#x2F;network&#x2F;judges&#x2F;tenisha-yancey&#x2F;&quot;&gt;→ Full Yancey Profile&lt;&#x2F;a&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;sherry-gay-dagnogo-the-golden-parachute&quot;&gt;Sherry Gay-Dagnogo — The Golden Parachute 
 
@@ -380,22 +381,23 @@ graph TB
 
 &lt;span class=&quot;confidence-badge confidence-verified&quot; title=&quot;Confirmed by multiple independent sources&quot;&gt;&lt;span aria-hidden=&quot;true&quot;&gt;✅&lt;&#x2F;span&gt; Verified&lt;&#x2F;span&gt;
 &lt;&#x2F;h3&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;GAY-DAGNOGO&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ├── State Rep HD-8 (2015-2020) — overlapped with Banks HD-1&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │   ├── Rallied for Banks at AG charges (2016)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │   ├── Defended Banks&amp;#39; plea deal (2017)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │   └── Sought Kwame Kilpatrick clemency (2020)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ├── DPSCD Board (2021-2025)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │   ├── Authorized PCA charter&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │   ├── Named development team (Miller, Moreland) to media&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │   └── Paid Holland $2,000 from PAC (convicted drug trafficker)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    └── Detroit Ombudsman (Oct 2025 – 2035)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;        ├── 10-year term, $199,500&#x2F;year&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;        ├── Cannot easily be removed&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;        └── Handles citizen complaints about DPSCD&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;            └── The complaint system itself is captured&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;GAY-DAGNOGO
+    ├── State Rep HD-8 (2015-2020) — overlapped with Banks HD-1
+    │   ├── Rallied for Banks at AG charges (2016)
+    │   ├── Defended Banks&amp;#x27; plea deal (2017)
+    │   └── Sought Kwame Kilpatrick clemency (2020)
+    │
+    ├── DPSCD Board (2021-2025)
+    │   ├── Authorized PCA charter
+    │   ├── Named development team (Miller, Moreland) to media
+    │   └── Paid Holland $2,000 from PAC (convicted drug trafficker)
+    │
+    └── Detroit Ombudsman (Oct 2025 – 2035)
+        ├── 10-year term, $199,500&amp;#x2F;year
+        ├── Cannot easily be removed
+        └── Handles citizen complaints about DPSCD
+            └── The complaint system itself is captured
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;She defended Banks publicly, authorized his school, paid his drug trafficker associate, then took a 10-year appointment running the office that handles complaints about the system she captured. &lt;strong&gt;&lt;a href=&quot;&#x2F;network&#x2F;political&#x2F;sherry-gay-dagnogo&#x2F;&quot;&gt;→ Full Gay-Dagnogo Profile&lt;&#x2F;a&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;bishop-corletta-vaughn-the-authorization-chair&quot;&gt;Bishop Corletta Vaughn — The Authorization Chair 
 
@@ -407,13 +409,14 @@ graph TB
 
 &lt;span class=&quot;confidence-badge confidence-documented&quot; title=&quot;Sourced from public record&quot;&gt;&lt;span aria-hidden=&quot;true&quot;&gt;📄&lt;&#x2F;span&gt; Documented&lt;&#x2F;span&gt;
 &lt;&#x2F;h3&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;CORLETTA VAUGHN&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ├── DPSCD Board since 2016 (President&#x2F;VP)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ├── Authorized PCA + MacDowell charters&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ├── At Banks events (Facebook captures)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ├── Same board as Gay-Dagnogo + Misha Stallworth West&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    └── DISQUALIFIED from 2026 reelection&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;        └── $950 owed to Wayne County (Sabree&amp;#39;s domain)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;CORLETTA VAUGHN
+    ├── DPSCD Board since 2016 (President&amp;#x2F;VP)
+    ├── Authorized PCA + MacDowell charters
+    ├── At Banks events (Facebook captures)
+    ├── Same board as Gay-Dagnogo + Misha Stallworth West
+    └── DISQUALIFIED from 2026 reelection
+        └── $950 owed to Wayne County (Sabree&amp;#x27;s domain)
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;The DPSCD Board President who authorized Banks’ schools — disqualified from reelection for $950 owed to the same county whose treasurer’s children sit on the network’s courts. &lt;strong&gt;&lt;a href=&quot;&#x2F;network&#x2F;political&#x2F;vaughn-corletta&#x2F;&quot;&gt;→ Full Vaughn Profile&lt;&#x2F;a&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;the-dpscd-authorization-board-network-concentration&quot;&gt;The DPSCD Authorization Board — Network Concentration&lt;&#x2F;h3&gt;
 &lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Board Member&lt;&#x2F;th&gt;&lt;th&gt;Banks Network Connection&lt;&#x2F;th&gt;&lt;th&gt;Status&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;

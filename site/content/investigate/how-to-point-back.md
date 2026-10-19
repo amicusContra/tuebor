@@ -14,7 +14,7 @@ counties = ["Wayne"]
 
 ## How to Point Back
 
-The investigation graph has 131,329 edges across 7,554 nodes. It grows when people connect to it. Here's how.
+The investigation graph has 131,322 edges across 7,533 nodes. It grows when people connect to it. Here's how.
 
 ---
 

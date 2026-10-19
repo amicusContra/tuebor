@@ -101,4 +101,4 @@ The convictions alone would have been enough to prevent authorization. The graph
 
 ---
 
-*Sourced to Michigan Courts Case Search, ICHAT records, investigation graph (131,329 edges). [Back to Evidence →](/evidence/) · [Three Percent →](/analysis/three-percent/) · [They Banked on Banks →](/analysis/they-banked-on-banks/)*
+*Sourced to Michigan Courts Case Search, ICHAT records, investigation graph (131,322 edges). [Back to Evidence →](/evidence/) · [Three Percent →](/analysis/three-percent/) · [They Banked on Banks →](/analysis/they-banked-on-banks/)*

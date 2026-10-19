@@ -121,4 +121,4 @@ The graph doesn't judge Holland. It measures him. And the measurement says: **if
 
 ---
 
-*Sourced to LARA filings, estate records, AG Charitable Trust records, national charter fraud data, investigation graph (131,329 edges). [Back to Analysis →](/analysis/) · [Three Percent →](/analysis/three-percent/) · [The LLC →](/analysis/the-llc/)*
+*Sourced to LARA filings, estate records, AG Charitable Trust records, national charter fraud data, investigation graph (131,322 edges). [Back to Analysis →](/analysis/) · [Three Percent →](/analysis/three-percent/) · [The LLC →](/analysis/the-llc/)*

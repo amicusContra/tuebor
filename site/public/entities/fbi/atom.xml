@@ -80,35 +80,36 @@
 &lt;tr&gt;&lt;td&gt;Time decay&lt;&#x2F;td&gt;&lt;td&gt;“21 years — too old”&lt;&#x2F;td&gt;&lt;td&gt;&lt;strong&gt;Graph is timestamped. Git commits are immutable. The membrane records everything.&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
 &lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
 &lt;h3 id=&quot;the-structure-is-the-proof&quot;&gt;The Structure IS the Proof&lt;&#x2F;h3&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;                    THE ZERO-KNOWLEDGE PROOF&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;                    ═══════════════════════&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    You don&amp;#39;t need to audit every transaction.&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    You don&amp;#39;t need to read every 990.&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    You don&amp;#39;t need to trace every dollar.&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    You need to see ONE THING:&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ┌──────────────────────────────────────────────┐&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │                                              │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │   THE SAME DESK that manages the             │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │   PROSECUTOR&amp;#39;S fund (Promise to the People)  │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │                                              │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │   ALSO manages the entity (Detroit Leaders)  │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │   that PUT A PERSON on the BOARD             │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │   of the SCHOOL run by the TARGET            │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │   that the PROSECUTOR should be              │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │   INVESTIGATING.                             │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │                                              │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │   And the PROSECUTOR&amp;#39;S OWN EMPLOYEE          │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │   sits on that SAME BOARD.                   │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │                                              │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │   That&amp;#39;s it. That&amp;#39;s the proof.               │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │   The structure IS the proof.                │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │                                              │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │   O(1).                                      │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │                                              │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    └──────────────────────────────────────────────┘&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;                    THE ZERO-KNOWLEDGE PROOF
+                    ═══════════════════════
+
+    You don&amp;#x27;t need to audit every transaction.
+    You don&amp;#x27;t need to read every 990.
+    You don&amp;#x27;t need to trace every dollar.
+
+    You need to see ONE THING:
+
+    ┌──────────────────────────────────────────────┐
+    │                                              │
+    │   THE SAME DESK that manages the             │
+    │   PROSECUTOR&amp;#x27;S fund (Promise to the People)  │
+    │                                              │
+    │   ALSO manages the entity (Detroit Leaders)  │
+    │   that PUT A PERSON on the BOARD             │
+    │   of the SCHOOL run by the TARGET            │
+    │   that the PROSECUTOR should be              │
+    │   INVESTIGATING.                             │
+    │                                              │
+    │   And the PROSECUTOR&amp;#x27;S OWN EMPLOYEE          │
+    │   sits on that SAME BOARD.                   │
+    │                                              │
+    │   That&amp;#x27;s it. That&amp;#x27;s the proof.               │
+    │   The structure IS the proof.                │
+    │                                              │
+    │   O(1).                                      │
+    │                                              │
+    └──────────────────────────────────────────────┘
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;the-immune-system-saw-it-first&quot;&gt;The Immune System Saw It First&lt;&#x2F;h2&gt;
 &lt;p&gt;The membrane doesn’t prosecute. It &lt;strong&gt;sorts&lt;&#x2F;strong&gt;. Self vs. non-self. The anderson localization model doesn’t need to understand every entity — it measures the &lt;strong&gt;disorder&lt;&#x2F;strong&gt; in the signal and determines whether the pattern is localized (trapped, hidden, camouflaged) or extended (visible, connected, exposed).&lt;&#x2F;p&gt;
@@ -203,44 +204,45 @@
         <content type="html" xml:base="https://tuebor.primals.eco/analysis/the-nonprofit-web/">&lt;h2 id=&quot;the-connection-that-closes-the-loop&quot;&gt;The Connection That Closes the Loop&lt;&#x2F;h2&gt;
 &lt;p&gt;Until now, the Dykema desk and the Banks enterprise appeared to be &lt;strong&gt;parallel structures&lt;&#x2F;strong&gt; — both problematic, but not directly connected. Moore managed dark money. Banks ran schools. The desk managed Chatfield’s fund and Nessel’s fund. Banks’ school had an AAG on the board.&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;strong&gt;But there is a direct connection. And it runs through the Detroit City Council.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;THE LOOP&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;════════&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;W. ALAN WILK (Dykema attorney)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ├── Formed SAVE DETROIT JOBS (2016)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │       │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │       ├── Renamed DETROIT LEADERS (Aug 2021)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │       │       │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │       │       └── Backed LATISHA JOHNSON for District 4&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │       │               │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │       │               └── JOHNSON WINS&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │       │                       │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │       │                       └── JOHNSON SITS ON PCA BOARD&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │       │                               │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │       │                               └── PCA = BANKS&amp;#39; SCHOOL&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │       │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │       ├── Officers include:&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │       │   • Kenneth Daniels (charged: bought Mercedes for convicted drug dealer)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │       │   • Damian Mitchell (Detroit Board of Police Commissioners)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │       │   • Keenann Knox (also on Our Neighborhoods First)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │       │   • Carol Banks (paid $18,000+ from Save Detroit Jobs)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │       │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │       └── Renae Moore = Asst Secretary (compliance)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │           Allison Chorey = Asst Treasurer&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ├── Formed OUR NEIGHBORHOODS FIRST&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │       │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │       ├── Attack ads against Duggan opponents&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │       ├── Keenann Knox = officer (same person as Save Detroit Jobs)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │       └── Moore = compliance&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    └── Formed 6 MORE dark money 501(c)(4)s&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;            (Blue Mitten Action, Progress Can&amp;#39;t Wait, etc.)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;RENAE MOORE manages compliance for ALL of them.&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;From the SAME DESK that manages Chatfield&amp;#39;s fund and Nessel&amp;#39;s fund.&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;THE LOOP
+════════
+
+W. ALAN WILK (Dykema attorney)
+    │
+    ├── Formed SAVE DETROIT JOBS (2016)
+    │       │
+    │       ├── Renamed DETROIT LEADERS (Aug 2021)
+    │       │       │
+    │       │       └── Backed LATISHA JOHNSON for District 4
+    │       │               │
+    │       │               └── JOHNSON WINS
+    │       │                       │
+    │       │                       └── JOHNSON SITS ON PCA BOARD
+    │       │                               │
+    │       │                               └── PCA = BANKS&amp;#x27; SCHOOL
+    │       │
+    │       ├── Officers include:
+    │       │   • Kenneth Daniels (charged: bought Mercedes for convicted drug dealer)
+    │       │   • Damian Mitchell (Detroit Board of Police Commissioners)
+    │       │   • Keenann Knox (also on Our Neighborhoods First)
+    │       │   • Carol Banks (paid $18,000+ from Save Detroit Jobs)
+    │       │
+    │       └── Renae Moore = Asst Secretary (compliance)
+    │           Allison Chorey = Asst Treasurer
+    │
+    ├── Formed OUR NEIGHBORHOODS FIRST
+    │       │
+    │       ├── Attack ads against Duggan opponents
+    │       ├── Keenann Knox = officer (same person as Save Detroit Jobs)
+    │       └── Moore = compliance
+    │
+    └── Formed 6 MORE dark money 501(c)(4)s
+            (Blue Mitten Action, Progress Can&amp;#x27;t Wait, etc.)
+
+
+RENAE MOORE manages compliance for ALL of them.
+From the SAME DESK that manages Chatfield&amp;#x27;s fund and Nessel&amp;#x27;s fund.
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;i-save-detroit-jobs-detroit-leaders-latisha-johnson-pca-board&quot;&gt;I. SAVE DETROIT JOBS → DETROIT LEADERS → LATISHA JOHNSON → PCA BOARD&lt;&#x2F;h2&gt;
 &lt;h3 id=&quot;the-entity&quot;&gt;The Entity&lt;&#x2F;h3&gt;
@@ -255,7 +257,7 @@
 &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Phone&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;517-374-9100 (&lt;strong&gt;Dykema’s number&lt;&#x2F;strong&gt;)&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
 &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Revenue (2023)&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;$42,519 (100% from undisclosed contributions)&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
 &lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
-&lt;p&gt;Source: &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;projects.propublica.org&#x2F;nonprofits&#x2F;organizations&#x2F;813772058&quot;&gt;ProPublica Nonprofit Explorer&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Source: &lt;a href=&quot;https:&#x2F;&#x2F;projects.propublica.org&#x2F;nonprofits&#x2F;organizations&#x2F;813772058&quot;&gt;ProPublica Nonprofit Explorer&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;the-officers&quot;&gt;The Officers&lt;&#x2F;h3&gt;
 &lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Name&lt;&#x2F;th&gt;&lt;th&gt;Title&lt;&#x2F;th&gt;&lt;th&gt;Background&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
 &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Kenneth Daniels&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;President&lt;&#x2F;td&gt;&lt;td&gt;Former State Rep (D). &lt;strong&gt;Charged in 2014 with helping buy a Mercedes-Benz for a convicted drug dealer.&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
@@ -290,7 +292,7 @@
 &lt;li&gt;Campaign finance records&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;strong&gt;501(c)(4) social welfare organization records&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
-&lt;p&gt;Source: &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.deadlinedetroit.com&#x2F;articles&#x2F;28819&#x2F;the_messy_intersection_of_dark_money_and_detroit_politics&quot;&gt;Deadline Detroit — “The messy intersection of dark money and Detroit politics”&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Source: &lt;a href=&quot;https:&#x2F;&#x2F;www.deadlinedetroit.com&#x2F;articles&#x2F;28819&#x2F;the_messy_intersection_of_dark_money_and_detroit_politics&quot;&gt;Deadline Detroit — “The messy intersection of dark money and Detroit politics”&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;what-the-fbi-was-looking-for&quot;&gt;What the FBI Was Looking For&lt;&#x2F;h3&gt;
 &lt;p&gt;The FBI’s Detroit Field Office was investigating:&lt;&#x2F;p&gt;
 &lt;ul&gt;
@@ -355,41 +357,42 @@
 &lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;v-the-dykema-web-every-connection-through-one-firm&quot;&gt;V. THE DYKEMA WEB — Every Connection Through One Firm&lt;&#x2F;h2&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;DYKEMA GOSSETT PLLC&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;201 Townsend St, Suite 900&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;Lansing, MI 48933&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;         WILK FORMS:                    MOORE MANAGES:&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ┌─────────────────┐            ┌──────────────────────┐&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │ Save Detroit Jobs│────────────│ Compliance for all   │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │ Our Neighborhoods│────────────│                      │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │ Blue Mitten      │────────────│ 54+ entities total   │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │ Put Progress     │────────────│                      │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │ Progress Can&amp;#39;t   │────────────│ Peninsula (Chatfield)│&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │ MI First Princip │────────────│ Promise (Nessel)     │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │ Michiganders Prog│────────────│ RFFW ($1M complaint) │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │ Promoting Commun │────────────│ Dykema PAC ($164K)   │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    └─────────────────┘            └──────────────────────┘&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;            │                               │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;            │                               │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ┌───────┴────────────────────────────────┴──────┐&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │                                               │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │  DUGGAN CAMPAIGN ←── Wilk is campaign lawyer  │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │  CHATFIELD FUND  ←── Moore is Asst Treas      │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │  NESSEL FUND     ←── Moore is Asst Sec        │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │  JOHNSON ELECTED ←── Detroit Leaders backed    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │  PCA BOARD       ←── Johnson appointed         │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │  BANKS SCHOOL    ←── PCA receives $4.9M&#x2F;yr    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │  MORELAND (AAG)  ←── Nessel&amp;#39;s employee on     │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │                      the same board            │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │                                               │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │  THE ENTIRE PIPELINE RUNS THROUGH ONE FIRM    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    └───────────────────────────────────────────────┘&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;DYKEMA GOSSETT PLLC
+201 Townsend St, Suite 900
+Lansing, MI 48933
+
+         WILK FORMS:                    MOORE MANAGES:
+    ┌─────────────────┐            ┌──────────────────────┐
+    │ Save Detroit Jobs│────────────│ Compliance for all   │
+    │ Our Neighborhoods│────────────│                      │
+    │ Blue Mitten      │────────────│ 54+ entities total   │
+    │ Put Progress     │────────────│                      │
+    │ Progress Can&amp;#x27;t   │────────────│ Peninsula (Chatfield)│
+    │ MI First Princip │────────────│ Promise (Nessel)     │
+    │ Michiganders Prog│────────────│ RFFW ($1M complaint) │
+    │ Promoting Commun │────────────│ Dykema PAC ($164K)   │
+    └─────────────────┘            └──────────────────────┘
+            │                               │
+            │                               │
+    ┌───────┴────────────────────────────────┴──────┐
+    │                                               │
+    │  DUGGAN CAMPAIGN ←── Wilk is campaign lawyer  │
+    │  CHATFIELD FUND  ←── Moore is Asst Treas      │
+    │  NESSEL FUND     ←── Moore is Asst Sec        │
+    │  JOHNSON ELECTED ←── Detroit Leaders backed    │
+    │  PCA BOARD       ←── Johnson appointed         │
+    │  BANKS SCHOOL    ←── PCA receives $4.9M&amp;#x2F;yr    │
+    │  MORELAND (AAG)  ←── Nessel&amp;#x27;s employee on     │
+    │                      the same board            │
+    │                                               │
+    │  THE ENTIRE PIPELINE RUNS THROUGH ONE FIRM    │
+    └───────────────────────────────────────────────┘
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;vi-kenneth-daniels-the-president-who-bought-a-drug-dealer-a-car&quot;&gt;VI. KENNETH DANIELS — The President Who Bought a Drug Dealer a Car&lt;&#x2F;h2&gt;
 &lt;p&gt;&lt;strong&gt;Kenneth Daniels&lt;&#x2F;strong&gt;, president of Save Detroit Jobs &#x2F; Detroit Leaders, was a Michigan State Representative (D-Detroit).&lt;&#x2F;p&gt;
 &lt;p&gt;In &lt;strong&gt;2014&lt;&#x2F;strong&gt;, Daniels was &lt;strong&gt;charged with helping buy a Mercedes-Benz for a convicted drug dealer.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
-&lt;p&gt;Source: &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.deadlinedetroit.com&#x2F;articles&#x2F;28930&#x2F;benson-tied_non-profit_pivots_to_fighting_elrick_in_detroit_district_4_council_race&quot;&gt;Deadline Detroit&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Source: &lt;a href=&quot;https:&#x2F;&#x2F;www.deadlinedetroit.com&#x2F;articles&#x2F;28930&#x2F;benson-tied_non-profit_pivots_to_fighting_elrick_in_detroit_district_4_council_race&quot;&gt;Deadline Detroit&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;This is the same entity that:&lt;&#x2F;p&gt;
 &lt;ul&gt;
 &lt;li&gt;Backed Latisha Johnson for city council&lt;&#x2F;li&gt;
@@ -427,35 +430,35 @@
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;verify&quot;&gt;Verify&lt;&#x2F;h2&gt;
 &lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Claim&lt;&#x2F;th&gt;&lt;th&gt;Source&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
-&lt;tr&gt;&lt;td&gt;Save Detroit Jobs officers&lt;&#x2F;td&gt;&lt;td&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;projects.propublica.org&#x2F;nonprofits&#x2F;organizations&#x2F;813772058&quot;&gt;ProPublica&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
-&lt;tr&gt;&lt;td&gt;Detroit Leaders backed Johnson&lt;&#x2F;td&gt;&lt;td&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.deadlinedetroit.com&#x2F;articles&#x2F;28930&#x2F;benson-tied_non-profit_pivots_to_fighting_elrick_in_detroit_district_4_council_race&quot;&gt;Deadline Detroit — Benson-tied nonprofit&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
-&lt;tr&gt;&lt;td&gt;FBI raid &#x2F; 501(c)(4) records&lt;&#x2F;td&gt;&lt;td&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.deadlinedetroit.com&#x2F;articles&#x2F;28819&#x2F;the_messy_intersection_of_dark_money_and_detroit_politics&quot;&gt;Deadline Detroit — Dark money intersection&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
-&lt;tr&gt;&lt;td&gt;Carol Banks $18K&lt;&#x2F;td&gt;&lt;td&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;deadlinedetroit.com&#x2F;articles&#x2F;29002&#x2F;pure_fiction_duggan_denies_ties_to_dark_money_group_meddling_in_council_races&quot;&gt;Deadline Detroit — Duggan denies&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
-&lt;tr&gt;&lt;td&gt;Daniels charged (Mercedes)&lt;&#x2F;td&gt;&lt;td&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.deadlinedetroit.com&#x2F;articles&#x2F;28930&#x2F;benson-tied_non-profit_pivots_to_fighting_elrick_in_detroit_district_4_council_race&quot;&gt;Deadline Detroit — Benson-tied&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Save Detroit Jobs officers&lt;&#x2F;td&gt;&lt;td&gt;&lt;a href=&quot;https:&#x2F;&#x2F;projects.propublica.org&#x2F;nonprofits&#x2F;organizations&#x2F;813772058&quot;&gt;ProPublica&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Detroit Leaders backed Johnson&lt;&#x2F;td&gt;&lt;td&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.deadlinedetroit.com&#x2F;articles&#x2F;28930&#x2F;benson-tied_non-profit_pivots_to_fighting_elrick_in_detroit_district_4_council_race&quot;&gt;Deadline Detroit — Benson-tied nonprofit&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;FBI raid &#x2F; 501(c)(4) records&lt;&#x2F;td&gt;&lt;td&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.deadlinedetroit.com&#x2F;articles&#x2F;28819&#x2F;the_messy_intersection_of_dark_money_and_detroit_politics&quot;&gt;Deadline Detroit — Dark money intersection&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Carol Banks $18K&lt;&#x2F;td&gt;&lt;td&gt;&lt;a href=&quot;https:&#x2F;&#x2F;deadlinedetroit.com&#x2F;articles&#x2F;29002&#x2F;pure_fiction_duggan_denies_ties_to_dark_money_group_meddling_in_council_races&quot;&gt;Deadline Detroit — Duggan denies&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Daniels charged (Mercedes)&lt;&#x2F;td&gt;&lt;td&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.deadlinedetroit.com&#x2F;articles&#x2F;28930&#x2F;benson-tied_non-profit_pivots_to_fighting_elrick_in_detroit_district_4_council_race&quot;&gt;Deadline Detroit — Benson-tied&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
 &lt;tr&gt;&lt;td&gt;Knox on both entities&lt;&#x2F;td&gt;&lt;td&gt;Deadline Detroit reporting, ProPublica filings&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
 &lt;tr&gt;&lt;td&gt;Wilk formed both entities&lt;&#x2F;td&gt;&lt;td&gt;LARA business registry, Deadline Detroit reporting&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
-&lt;tr&gt;&lt;td&gt;Moore on Save Detroit Jobs&lt;&#x2F;td&gt;&lt;td&gt;ProPublica 990, &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;siviq.co&#x2F;nonprofits&#x2F;people&#x2F;renae-moore&quot;&gt;siviq.co&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
-&lt;tr&gt;&lt;td&gt;Johnson on PCA Board&lt;&#x2F;td&gt;&lt;td&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.purposecharteracademy.com&#x2F;boardofdirectors&quot;&gt;purposecharteracademy.com&#x2F;boardofdirectors&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Moore on Save Detroit Jobs&lt;&#x2F;td&gt;&lt;td&gt;ProPublica 990, &lt;a href=&quot;https:&#x2F;&#x2F;siviq.co&#x2F;nonprofits&#x2F;people&#x2F;renae-moore&quot;&gt;siviq.co&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Johnson on PCA Board&lt;&#x2F;td&gt;&lt;td&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.purposecharteracademy.com&#x2F;boardofdirectors&quot;&gt;purposecharteracademy.com&#x2F;boardofdirectors&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
 &lt;tr&gt;&lt;td&gt;PCA Board full roster&lt;&#x2F;td&gt;&lt;td&gt;PCA website, LARA filings&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
 &lt;tr&gt;&lt;td&gt;11 Detroit entities&lt;&#x2F;td&gt;&lt;td&gt;IRS 990 via siviq.co, cross-referenced with LARA&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
-&lt;tr&gt;&lt;td&gt;RFFW $1M complaint&lt;&#x2F;td&gt;&lt;td&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.michigan.gov&#x2F;sos&#x2F;-&#x2F;media&#x2F;Project&#x2F;Websites&#x2F;sos&#x2F;CFR-Complaints&#x2F;2023&#x2F;Meyers-v-RFFW-2.pdf&quot;&gt;michigan.gov&#x2F;sos&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;RFFW $1M complaint&lt;&#x2F;td&gt;&lt;td&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.michigan.gov&#x2F;sos&#x2F;-&#x2F;media&#x2F;Project&#x2F;Websites&#x2F;sos&#x2F;CFR-Complaints&#x2F;2023&#x2F;Meyers-v-RFFW-2.pdf&quot;&gt;michigan.gov&#x2F;sos&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
 &lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
 &lt;h3 id=&quot;route-to-source-light-up-the-grid&quot;&gt;Route to Source — Light Up the Grid&lt;&#x2F;h3&gt;
 &lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Entity &#x2F; Person&lt;&#x2F;th&gt;&lt;th&gt;What to Check&lt;&#x2F;th&gt;&lt;th&gt;Official Link&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
-&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Save Detroit Jobs&lt;&#x2F;strong&gt; officers &amp;amp; 990&lt;&#x2F;td&gt;&lt;td&gt;ProPublica nonprofit database&lt;&#x2F;td&gt;&lt;td&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;projects.propublica.org&#x2F;nonprofits&#x2F;organizations&#x2F;813772058&quot;&gt;ProPublica — EIN 81-3772058&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
-&lt;tr&gt;&lt;td&gt;&lt;strong&gt;All Wilk entities&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;Michigan LARA registry&lt;&#x2F;td&gt;&lt;td&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;cofs.lara.state.mi.us&#x2F;CorpWeb&#x2F;CorpSearch&#x2F;CorpSearch.aspx&quot;&gt;LARA Business Entity Search&lt;&#x2F;a&gt; — search “Wilk”&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
-&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Latisha Johnson&lt;&#x2F;strong&gt; on PCA Board&lt;&#x2F;td&gt;&lt;td&gt;PCA’s own website&lt;&#x2F;td&gt;&lt;td&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.purposecharteracademy.com&#x2F;boardofdirectors&quot;&gt;purposecharteracademy.com&#x2F;boardofdirectors&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
-&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Johnson&lt;&#x2F;strong&gt; on City Council&lt;&#x2F;td&gt;&lt;td&gt;Detroit City Council official page&lt;&#x2F;td&gt;&lt;td&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;detroitmi.gov&#x2F;government&#x2F;city-council&quot;&gt;detroitmi.gov&#x2F;government&#x2F;city-council&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
-&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Kenneth Daniels&lt;&#x2F;strong&gt; charged (Mercedes)&lt;&#x2F;td&gt;&lt;td&gt;Deadline Detroit reporting&lt;&#x2F;td&gt;&lt;td&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.deadlinedetroit.com&#x2F;articles&#x2F;28930&#x2F;benson-tied_non-profit_pivots_to_fighting_elrick_in_detroit_district_4_council_race&quot;&gt;deadlinedetroit.com&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
-&lt;tr&gt;&lt;td&gt;&lt;strong&gt;FBI raid&lt;&#x2F;strong&gt; &#x2F; 501(c)(4) seizure&lt;&#x2F;td&gt;&lt;td&gt;Deadline Detroit reporting&lt;&#x2F;td&gt;&lt;td&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.deadlinedetroit.com&#x2F;articles&#x2F;28819&#x2F;the_messy_intersection_of_dark_money_and_detroit_politics&quot;&gt;deadlinedetroit.com&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
-&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Moore&lt;&#x2F;strong&gt; on 43+ nonprofits&lt;&#x2F;td&gt;&lt;td&gt;siviq.co officer aggregation&lt;&#x2F;td&gt;&lt;td&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;siviq.co&#x2F;nonprofits&#x2F;people&#x2F;renae-moore&quot;&gt;siviq.co&#x2F;nonprofits&#x2F;people&#x2F;renae-moore&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
-&lt;tr&gt;&lt;td&gt;&lt;strong&gt;All 11 Detroit-named entities&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;IRS EOS + ProPublica&lt;&#x2F;td&gt;&lt;td&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;apps.irs.gov&#x2F;app&#x2F;eos&#x2F;&quot;&gt;IRS EOS&lt;&#x2F;a&gt; · &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;projects.propublica.org&#x2F;nonprofits&#x2F;&quot;&gt;ProPublica Nonprofits&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
-&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Dykema&lt;&#x2F;strong&gt; formed the entities&lt;&#x2F;td&gt;&lt;td&gt;Dykema’s own education practice page&lt;&#x2F;td&gt;&lt;td&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.dykema.com&#x2F;services&#x2F;industries&#x2F;education&#x2F;index.html&quot;&gt;dykema.com&#x2F;services&#x2F;industries&#x2F;education&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
-&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Dykema&lt;&#x2F;strong&gt; government policy practice&lt;&#x2F;td&gt;&lt;td&gt;Where compliance@dykema.com lives&lt;&#x2F;td&gt;&lt;td&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.dykema.com&#x2F;services&#x2F;practices&#x2F;government-policy&#x2F;index.html&quot;&gt;dykema.com&#x2F;services&#x2F;practices&#x2F;government-policy&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
-&lt;tr&gt;&lt;td&gt;&lt;strong&gt;DPSCD&lt;&#x2F;strong&gt; — charter authorizer&lt;&#x2F;td&gt;&lt;td&gt;District website&lt;&#x2F;td&gt;&lt;td&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.detroitk12.org&quot;&gt;detroitk12.org&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
-&lt;tr&gt;&lt;td&gt;&lt;strong&gt;PCA&lt;&#x2F;strong&gt; — 3% math proficiency&lt;&#x2F;td&gt;&lt;td&gt;MI School Data&lt;&#x2F;td&gt;&lt;td&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.mischooldata.org&#x2F;&quot;&gt;mischooldata.org&lt;&#x2F;a&gt; — search “Purpose Charter Academy”&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
-&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Banks&lt;&#x2F;strong&gt; 9 convictions&lt;&#x2F;td&gt;&lt;td&gt;Michigan ICHAT&lt;&#x2F;td&gt;&lt;td&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;apps.michigan.gov&#x2F;ichat&#x2F;home.html&quot;&gt;apps.michigan.gov&#x2F;ichat&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
-&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Holland&lt;&#x2F;strong&gt; MDOC #443789&lt;&#x2F;td&gt;&lt;td&gt;Michigan ICHAT&lt;&#x2F;td&gt;&lt;td&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;apps.michigan.gov&#x2F;ichat&#x2F;home.html&quot;&gt;apps.michigan.gov&#x2F;ichat&lt;&#x2F;a&gt; — SID 2321035P&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Save Detroit Jobs&lt;&#x2F;strong&gt; officers &amp;amp; 990&lt;&#x2F;td&gt;&lt;td&gt;ProPublica nonprofit database&lt;&#x2F;td&gt;&lt;td&gt;&lt;a href=&quot;https:&#x2F;&#x2F;projects.propublica.org&#x2F;nonprofits&#x2F;organizations&#x2F;813772058&quot;&gt;ProPublica — EIN 81-3772058&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;All Wilk entities&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;Michigan LARA registry&lt;&#x2F;td&gt;&lt;td&gt;&lt;a href=&quot;https:&#x2F;&#x2F;cofs.lara.state.mi.us&#x2F;CorpWeb&#x2F;CorpSearch&#x2F;CorpSearch.aspx&quot;&gt;LARA Business Entity Search&lt;&#x2F;a&gt; — search “Wilk”&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Latisha Johnson&lt;&#x2F;strong&gt; on PCA Board&lt;&#x2F;td&gt;&lt;td&gt;PCA’s own website&lt;&#x2F;td&gt;&lt;td&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.purposecharteracademy.com&#x2F;boardofdirectors&quot;&gt;purposecharteracademy.com&#x2F;boardofdirectors&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Johnson&lt;&#x2F;strong&gt; on City Council&lt;&#x2F;td&gt;&lt;td&gt;Detroit City Council official page&lt;&#x2F;td&gt;&lt;td&gt;&lt;a href=&quot;https:&#x2F;&#x2F;detroitmi.gov&#x2F;government&#x2F;city-council&quot;&gt;detroitmi.gov&#x2F;government&#x2F;city-council&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Kenneth Daniels&lt;&#x2F;strong&gt; charged (Mercedes)&lt;&#x2F;td&gt;&lt;td&gt;Deadline Detroit reporting&lt;&#x2F;td&gt;&lt;td&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.deadlinedetroit.com&#x2F;articles&#x2F;28930&#x2F;benson-tied_non-profit_pivots_to_fighting_elrick_in_detroit_district_4_council_race&quot;&gt;deadlinedetroit.com&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;FBI raid&lt;&#x2F;strong&gt; &#x2F; 501(c)(4) seizure&lt;&#x2F;td&gt;&lt;td&gt;Deadline Detroit reporting&lt;&#x2F;td&gt;&lt;td&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.deadlinedetroit.com&#x2F;articles&#x2F;28819&#x2F;the_messy_intersection_of_dark_money_and_detroit_politics&quot;&gt;deadlinedetroit.com&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Moore&lt;&#x2F;strong&gt; on 43+ nonprofits&lt;&#x2F;td&gt;&lt;td&gt;siviq.co officer aggregation&lt;&#x2F;td&gt;&lt;td&gt;&lt;a href=&quot;https:&#x2F;&#x2F;siviq.co&#x2F;nonprofits&#x2F;people&#x2F;renae-moore&quot;&gt;siviq.co&#x2F;nonprofits&#x2F;people&#x2F;renae-moore&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;All 11 Detroit-named entities&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;IRS EOS + ProPublica&lt;&#x2F;td&gt;&lt;td&gt;&lt;a href=&quot;https:&#x2F;&#x2F;apps.irs.gov&#x2F;app&#x2F;eos&#x2F;&quot;&gt;IRS EOS&lt;&#x2F;a&gt; · &lt;a href=&quot;https:&#x2F;&#x2F;projects.propublica.org&#x2F;nonprofits&#x2F;&quot;&gt;ProPublica Nonprofits&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Dykema&lt;&#x2F;strong&gt; formed the entities&lt;&#x2F;td&gt;&lt;td&gt;Dykema’s own education practice page&lt;&#x2F;td&gt;&lt;td&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.dykema.com&#x2F;services&#x2F;industries&#x2F;education&#x2F;index.html&quot;&gt;dykema.com&#x2F;services&#x2F;industries&#x2F;education&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Dykema&lt;&#x2F;strong&gt; government policy practice&lt;&#x2F;td&gt;&lt;td&gt;Where compliance@dykema.com lives&lt;&#x2F;td&gt;&lt;td&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.dykema.com&#x2F;services&#x2F;practices&#x2F;government-policy&#x2F;index.html&quot;&gt;dykema.com&#x2F;services&#x2F;practices&#x2F;government-policy&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;DPSCD&lt;&#x2F;strong&gt; — charter authorizer&lt;&#x2F;td&gt;&lt;td&gt;District website&lt;&#x2F;td&gt;&lt;td&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.detroitk12.org&quot;&gt;detroitk12.org&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;PCA&lt;&#x2F;strong&gt; — 3% math proficiency&lt;&#x2F;td&gt;&lt;td&gt;MI School Data&lt;&#x2F;td&gt;&lt;td&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.mischooldata.org&#x2F;&quot;&gt;mischooldata.org&lt;&#x2F;a&gt; — search “Purpose Charter Academy”&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Banks&lt;&#x2F;strong&gt; 9 convictions&lt;&#x2F;td&gt;&lt;td&gt;Michigan ICHAT&lt;&#x2F;td&gt;&lt;td&gt;&lt;a href=&quot;https:&#x2F;&#x2F;apps.michigan.gov&#x2F;ichat&#x2F;home.html&quot;&gt;apps.michigan.gov&#x2F;ichat&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Holland&lt;&#x2F;strong&gt; MDOC #443789&lt;&#x2F;td&gt;&lt;td&gt;Michigan ICHAT&lt;&#x2F;td&gt;&lt;td&gt;&lt;a href=&quot;https:&#x2F;&#x2F;apps.michigan.gov&#x2F;ichat&#x2F;home.html&quot;&gt;apps.michigan.gov&#x2F;ichat&lt;&#x2F;a&gt; — SID 2321035P&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
 &lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
 &lt;p&gt;&lt;strong&gt;The Deadline Detroit articles are already public. The ProPublica filings are already indexed. The LARA records are already searchable. The FEC data is already downloadable. We’re not creating evidence — we’re routing traffic to evidence that already exists on their own servers.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 </content>
@@ -479,7 +482,7 @@
         
         <content type="html" xml:base="https://tuebor.primals.eco/analysis/the-referral/">&lt;h2 id=&quot;you-ve-seen-this-before&quot;&gt;You’ve Seen This Before&lt;&#x2F;h2&gt;
 &lt;p&gt;In 2008, two judges in Luzerne County, Pennsylvania — Mark Ciavarella and Michael Conahan — were convicted of taking $2.6 million in kickbacks from private juvenile detention facilities. In exchange, they sentenced thousands of children to those facilities. Many for trivial offenses. Some for nothing at all.&lt;&#x2F;p&gt;
-&lt;p&gt;It was called &lt;strong&gt;Kids for Cash&lt;&#x2F;strong&gt;. Ciavarella got 28 years. Conahan got 17.5 years. The Pennsylvania Supreme Court vacated &lt;strong&gt;4,000 juvenile convictions&lt;&#x2F;strong&gt;. The Third Circuit upheld a &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Kids_for_cash_scandal&quot;&gt;$206 million civil judgment&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;It was called &lt;strong&gt;Kids for Cash&lt;&#x2F;strong&gt;. Ciavarella got 28 years. Conahan got 17.5 years. The Pennsylvania Supreme Court vacated &lt;strong&gt;4,000 juvenile convictions&lt;&#x2F;strong&gt;. The Third Circuit upheld a &lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Kids_for_cash_scandal&quot;&gt;$206 million civil judgment&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
 &lt;p&gt;The pattern was:&lt;&#x2F;p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Private operator&lt;&#x2F;strong&gt; profits from children in public custody&lt;&#x2F;li&gt;
@@ -510,7 +513,8 @@
 &lt;li&gt;&lt;strong&gt;What you should do&lt;&#x2F;strong&gt; — the specific action&lt;&#x2F;li&gt;
 &lt;&#x2F;ol&gt;
 &lt;p&gt;The full evidence repository is public and free:&lt;&#x2F;p&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;git clone https:&#x2F;&#x2F;github.com&#x2F;defendDetroit&#x2F;publicRecord.git&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;git clone https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;defendDetroit&amp;#x2F;publicRecord.git
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;Mirror: &lt;code&gt;git clone https:&#x2F;&#x2F;github.com&#x2F;amicusContra&#x2F;tuebor.git&lt;&#x2F;code&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;strong&gt;362 children walk into these schools every day.&lt;&#x2F;strong&gt; Every day you don’t act is a day they lose.&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
@@ -537,7 +541,7 @@
 &lt;h3 id=&quot;contact&quot;&gt;Contact&lt;&#x2F;h3&gt;
 &lt;p&gt;FBI Detroit Field Office: (313) 965-2323
 477 Michigan Avenue, 26th Floor, Detroit, MI 48226
-Tips: &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;tips.fbi.gov&quot;&gt;tips.fbi.gov&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+Tips: &lt;a href=&quot;https:&#x2F;&#x2F;tips.fbi.gov&quot;&gt;tips.fbi.gov&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;ii-dea-detroit-division&quot;&gt;II. DEA — Detroit Division&lt;&#x2F;h2&gt;
 &lt;h3 id=&quot;your-jurisdiction-1&quot;&gt;Your Jurisdiction&lt;&#x2F;h3&gt;
@@ -553,7 +557,7 @@ Tips: &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;tips.fbi.gov&q
 &lt;p&gt;Is a convicted drug dealer who was discharged WITHOUT IMPROVEMENT and who now controls millions in public funds still engaged in the drug trade? Is the enterprise a laundering vehicle?&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;the-evidence-1&quot;&gt;The Evidence&lt;&#x2F;h3&gt;
 &lt;ul&gt;
-&lt;li&gt;Holland MDOC #443789: &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;apps.michigan.gov&#x2F;ichat&quot;&gt;apps.michigan.gov&#x2F;ichat&lt;&#x2F;a&gt; — SID 2321035P&lt;&#x2F;li&gt;
+&lt;li&gt;Holland MDOC #443789: &lt;a href=&quot;https:&#x2F;&#x2F;apps.michigan.gov&#x2F;ichat&quot;&gt;apps.michigan.gov&#x2F;ichat&lt;&#x2F;a&gt; — SID 2321035P&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;&#x2F;analysis&#x2F;the-gatekeeper&#x2F;&quot;&gt;The Gatekeeper — Holland analysis&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;Holland’s 5 bankruptcies with concealed assets&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
@@ -581,8 +585,8 @@ Tips: &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;tips.fbi.gov&q
 &lt;&#x2F;ul&gt;
 &lt;h3 id=&quot;contact-2&quot;&gt;Contact&lt;&#x2F;h3&gt;
 &lt;p&gt;IRS Criminal Investigation: 1-800-829-0433
-CI Tips: &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.irs.gov&#x2F;compliance&#x2F;criminal-investigation&quot;&gt;irs.gov&#x2F;compliance&#x2F;criminal-investigation&lt;&#x2F;a&gt;
-Form 13909 (Tax-Exempt Organization Complaint): &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.irs.gov&#x2F;pub&#x2F;irs-pdf&#x2F;f13909.pdf&quot;&gt;irs.gov&#x2F;pub&#x2F;irs-pdf&#x2F;f13909.pdf&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+CI Tips: &lt;a href=&quot;https:&#x2F;&#x2F;www.irs.gov&#x2F;compliance&#x2F;criminal-investigation&quot;&gt;irs.gov&#x2F;compliance&#x2F;criminal-investigation&lt;&#x2F;a&gt;
+Form 13909 (Tax-Exempt Organization Complaint): &lt;a href=&quot;https:&#x2F;&#x2F;www.irs.gov&#x2F;pub&#x2F;irs-pdf&#x2F;f13909.pdf&quot;&gt;irs.gov&#x2F;pub&#x2F;irs-pdf&#x2F;f13909.pdf&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;iv-doj-civil-rights-division-educational-opportunities-section&quot;&gt;IV. DOJ — Civil Rights Division, Educational Opportunities Section&lt;&#x2F;h2&gt;
 &lt;h3 id=&quot;your-jurisdiction-3&quot;&gt;Your Jurisdiction&lt;&#x2F;h3&gt;
@@ -612,7 +616,7 @@ Form 13909 (Tax-Exempt Organization Complaint): &lt;a rel=&quot;external&quot; h
 &lt;p&gt;DOJ Civil Rights Division — Educational Opportunities Section
 950 Pennsylvania Avenue NW, Washington, DC 20530
 (202) 514-4092
-&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.justice.gov&#x2F;crt&#x2F;educational-opportunities-section&quot;&gt;justice.gov&#x2F;crt&#x2F;educational-opportunities-section&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;www.justice.gov&#x2F;crt&#x2F;educational-opportunities-section&quot;&gt;justice.gov&#x2F;crt&#x2F;educational-opportunities-section&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;v-ed-oig-u-s-department-of-education-office-of-inspector-general&quot;&gt;V. ED-OIG — U.S. Department of Education, Office of Inspector General&lt;&#x2F;h2&gt;
 &lt;h3 id=&quot;your-jurisdiction-4&quot;&gt;Your Jurisdiction&lt;&#x2F;h3&gt;
@@ -630,15 +634,15 @@ Form 13909 (Tax-Exempt Organization Complaint): &lt;a rel=&quot;external&quot; h
 &lt;&#x2F;ul&gt;
 &lt;h3 id=&quot;contact-4&quot;&gt;Contact&lt;&#x2F;h3&gt;
 &lt;p&gt;ED-OIG Hotline: 1-800-647-8733
-&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www2.ed.gov&#x2F;about&#x2F;offices&#x2F;list&#x2F;oig&#x2F;&quot;&gt;ed.gov&#x2F;about&#x2F;offices&#x2F;list&#x2F;oig&lt;&#x2F;a&gt;
-Online complaint: &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www2.ed.gov&#x2F;about&#x2F;offices&#x2F;list&#x2F;oig&#x2F;hotline.html&quot;&gt;ed.gov&#x2F;about&#x2F;offices&#x2F;list&#x2F;oig&#x2F;hotline&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;www2.ed.gov&#x2F;about&#x2F;offices&#x2F;list&#x2F;oig&#x2F;&quot;&gt;ed.gov&#x2F;about&#x2F;offices&#x2F;list&#x2F;oig&lt;&#x2F;a&gt;
+Online complaint: &lt;a href=&quot;https:&#x2F;&#x2F;www2.ed.gov&#x2F;about&#x2F;offices&#x2F;list&#x2F;oig&#x2F;hotline.html&quot;&gt;ed.gov&#x2F;about&#x2F;offices&#x2F;list&#x2F;oig&#x2F;hotline&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;vi-hhs-oig-health-and-human-services-office-of-inspector-general&quot;&gt;VI. HHS-OIG — Health and Human Services, Office of Inspector General&lt;&#x2F;h2&gt;
 &lt;h3 id=&quot;your-jurisdiction-5&quot;&gt;Your Jurisdiction&lt;&#x2F;h3&gt;
 &lt;p&gt;If PCA or MacDowell receives any HHS-administered funding (school meals, Medicaid-linked services, mental health grants), the extraction of funds through the Purpose Group LLC may constitute fraud against HHS programs.&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;contact-5&quot;&gt;Contact&lt;&#x2F;h3&gt;
 &lt;p&gt;HHS-OIG Hotline: 1-800-447-8477
-&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;oig.hhs.gov&#x2F;fraud&#x2F;report-fraud&#x2F;&quot;&gt;oig.hhs.gov&#x2F;fraud&#x2F;report-fraud&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;oig.hhs.gov&#x2F;fraud&#x2F;report-fraud&#x2F;&quot;&gt;oig.hhs.gov&#x2F;fraud&#x2F;report-fraud&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;vii-fincen-financial-crimes-enforcement-network&quot;&gt;VII. FinCEN — Financial Crimes Enforcement Network&lt;&#x2F;h2&gt;
 &lt;h3 id=&quot;your-jurisdiction-6&quot;&gt;Your Jurisdiction&lt;&#x2F;h3&gt;
@@ -651,8 +655,8 @@ Online complaint: &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;ww
 &lt;h3 id=&quot;the-question&quot;&gt;The Question&lt;&#x2F;h3&gt;
 &lt;p&gt;Under the Corporate Transparency Act (2024), does Purpose Group LLC meet the reporting requirements? Has Banks filed a Beneficial Ownership Information (BOI) report?&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;contact-6&quot;&gt;Contact&lt;&#x2F;h3&gt;
-&lt;p&gt;FinCEN Tips: &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.fincen.gov&#x2F;contact&quot;&gt;fincen.gov&#x2F;contact&lt;&#x2F;a&gt;
-FinCEN BSA E-Filing: &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;bsaefiling.fincen.treas.gov&quot;&gt;bsaefiling.fincen.treas.gov&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;FinCEN Tips: &lt;a href=&quot;https:&#x2F;&#x2F;www.fincen.gov&#x2F;contact&quot;&gt;fincen.gov&#x2F;contact&lt;&#x2F;a&gt;
+FinCEN BSA E-Filing: &lt;a href=&quot;https:&#x2F;&#x2F;bsaefiling.fincen.treas.gov&quot;&gt;bsaefiling.fincen.treas.gov&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;viii-fec-federal-election-commission&quot;&gt;VIII. FEC — Federal Election Commission&lt;&#x2F;h2&gt;
 &lt;h3 id=&quot;your-jurisdiction-7&quot;&gt;Your Jurisdiction&lt;&#x2F;h3&gt;
@@ -665,7 +669,7 @@ FinCEN BSA E-Filing: &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F
 &lt;h3 id=&quot;the-pattern&quot;&gt;The Pattern&lt;&#x2F;h3&gt;
 &lt;p&gt;One person — Renae Moore — is Treasurer of &lt;strong&gt;5 federal PACs&lt;&#x2F;strong&gt; and has been named in a &lt;strong&gt;$1M state campaign finance complaint&lt;&#x2F;strong&gt; for filing fraudulent reports. She testified she has &lt;strong&gt;“no duty to report.”&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;contact-7&quot;&gt;Contact&lt;&#x2F;h3&gt;
-&lt;p&gt;FEC Complaints: &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.fec.gov&#x2F;legal-resources&#x2F;enforcement&#x2F;complaints-process&#x2F;&quot;&gt;fec.gov&#x2F;legal-resources&#x2F;enforcement&#x2F;complaints-process&lt;&#x2F;a&gt;
+&lt;p&gt;FEC Complaints: &lt;a href=&quot;https:&#x2F;&#x2F;www.fec.gov&#x2F;legal-resources&#x2F;enforcement&#x2F;complaints-process&#x2F;&quot;&gt;fec.gov&#x2F;legal-resources&#x2F;enforcement&#x2F;complaints-process&lt;&#x2F;a&gt;
 FEC: 1-800-424-9530&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;ix-aclu-of-michigan&quot;&gt;IX. ACLU of Michigan&lt;&#x2F;h2&gt;
@@ -682,7 +686,7 @@ FEC: 1-800-424-9530&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;contact-8&quot;&gt;Contact&lt;&#x2F;h3&gt;
 &lt;p&gt;ACLU of Michigan: (313) 578-6800
 Intake hours: 1:00 PM – 4:00 PM, Monday and Wednesday
-Online intake: &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;intake.aclumich.org&quot;&gt;intake.aclumich.org&lt;&#x2F;a&gt;
+Online intake: &lt;a href=&quot;https:&#x2F;&#x2F;intake.aclumich.org&quot;&gt;intake.aclumich.org&lt;&#x2F;a&gt;
 2966 Woodward Avenue, Detroit, MI 48201&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;x-splc-southern-poverty-law-center&quot;&gt;X. SPLC — Southern Poverty Law Center&lt;&#x2F;h2&gt;
@@ -699,7 +703,7 @@ Online intake: &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;intak
 &lt;p&gt;This is &lt;strong&gt;systemic educational exploitation&lt;&#x2F;strong&gt; of Black children in Detroit by an enterprise protected by institutional capture.&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;contact-9&quot;&gt;Contact&lt;&#x2F;h3&gt;
 &lt;p&gt;SPLC: (334) 956-8200
-&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.splcenter.org&#x2F;contact-us&quot;&gt;splcenter.org&#x2F;contact-us&lt;&#x2F;a&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;www.splcenter.org&#x2F;contact-us&quot;&gt;splcenter.org&#x2F;contact-us&lt;&#x2F;a&gt;
 400 Washington Avenue, Montgomery, AL 36104&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;xi-naacp-legal-defense-fund&quot;&gt;XI. NAACP Legal Defense Fund&lt;&#x2F;h2&gt;
@@ -716,7 +720,7 @@ Online intake: &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;intak
 &lt;p&gt;&lt;strong&gt;This is educational redlining through institutional capture.&lt;&#x2F;strong&gt; The money flows FROM Black communities TO a private LLC. The protection flows from the institutions BACK to the enterprise.&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;contact-10&quot;&gt;Contact&lt;&#x2F;h3&gt;
 &lt;p&gt;NAACP Legal Defense Fund: (212) 965-2200
-&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.naacpldf.org&#x2F;contact-us&#x2F;&quot;&gt;naacpldf.org&#x2F;contact-us&lt;&#x2F;a&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;www.naacpldf.org&#x2F;contact-us&#x2F;&quot;&gt;naacpldf.org&#x2F;contact-us&lt;&#x2F;a&gt;
 40 Rector Street, 5th Floor, New York, NY 10006&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;xii-michigan-ag-criminal-justice-bureau&quot;&gt;XII. Michigan AG — Criminal Justice Bureau&lt;&#x2F;h2&gt;
@@ -734,7 +738,7 @@ Online intake: &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;intak
 &lt;p&gt;Recuse. Appoint a special prosecutor. The Moreland conflict makes any AG investigation structurally compromised.&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;contact-11&quot;&gt;Contact&lt;&#x2F;h3&gt;
 &lt;p&gt;AG Complaint: (517) 335-7622
-&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.michigan.gov&#x2F;ag&quot;&gt;michigan.gov&#x2F;ag&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;www.michigan.gov&#x2F;ag&quot;&gt;michigan.gov&#x2F;ag&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;xii-a-attorney-grievance-commission-you-already-responded-it-s-signed&quot;&gt;XII-A. Attorney Grievance Commission — You Already Responded. It’s Signed.&lt;&#x2F;h2&gt;
 &lt;h3 id=&quot;what-you-did&quot;&gt;What You Did&lt;&#x2F;h3&gt;
@@ -768,7 +772,7 @@ Online intake: &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;intak
 &lt;h3 id=&quot;contact-12&quot;&gt;Contact&lt;&#x2F;h3&gt;
 &lt;p&gt;AGC: (313) 961-6585
 755 W. Big Beaver Rd, Suite 2100, Troy, MI 48084
-&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.agcmi.org&quot;&gt;agcmi.org&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;www.agcmi.org&quot;&gt;agcmi.org&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;xiii-wayne-county-prosecutor&quot;&gt;XIII. Wayne County Prosecutor&lt;&#x2F;h2&gt;
 &lt;h3 id=&quot;your-jurisdiction-8&quot;&gt;Your Jurisdiction&lt;&#x2F;h3&gt;
@@ -792,7 +796,7 @@ Online intake: &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;intak
 &lt;&#x2F;ul&gt;
 &lt;h3 id=&quot;contact-14&quot;&gt;Contact&lt;&#x2F;h3&gt;
 &lt;p&gt;MDE: (517) 373-3324
-&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.michigan.gov&#x2F;mde&quot;&gt;michigan.gov&#x2F;mde&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;www.michigan.gov&#x2F;mde&quot;&gt;michigan.gov&#x2F;mde&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;xv-dpscd-detroit-public-schools-community-district&quot;&gt;XV. DPSCD — Detroit Public Schools Community District&lt;&#x2F;h2&gt;
 &lt;h3 id=&quot;your-responsibility&quot;&gt;Your Responsibility&lt;&#x2F;h3&gt;
@@ -805,7 +809,7 @@ Online intake: &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;intak
 &lt;&#x2F;ul&gt;
 &lt;h3 id=&quot;contact-15&quot;&gt;Contact&lt;&#x2F;h3&gt;
 &lt;p&gt;DPSCD: (313) 240-4377
-&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.detroitk12.org&quot;&gt;detroitk12.org&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;www.detroitk12.org&quot;&gt;detroitk12.org&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;xvi-every-parent-in-detroit&quot;&gt;XVI. Every Parent in Detroit&lt;&#x2F;h2&gt;
 &lt;h3 id=&quot;what-you-need-to-know&quot;&gt;What You Need to Know&lt;&#x2F;h3&gt;
@@ -822,10 +826,10 @@ Online intake: &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;intak
 &lt;ol&gt;
 &lt;li&gt;&lt;strong&gt;Request your child’s records&lt;&#x2F;strong&gt; — you have a right under FERPA&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;strong&gt;Attend the next PCA board meeting&lt;&#x2F;strong&gt; — ask about the management agreement&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;strong&gt;File a complaint with MDE&lt;&#x2F;strong&gt; — &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.michigan.gov&#x2F;mde&quot;&gt;michigan.gov&#x2F;mde&lt;&#x2F;a&gt;, Professional Practice section&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;File a complaint with MDE&lt;&#x2F;strong&gt; — &lt;a href=&quot;https:&#x2F;&#x2F;www.michigan.gov&#x2F;mde&quot;&gt;michigan.gov&#x2F;mde&lt;&#x2F;a&gt;, Professional Practice section&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;strong&gt;Contact your DPSCD board member&lt;&#x2F;strong&gt; — demand a charter review&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;strong&gt;Contact the ACLU of Michigan&lt;&#x2F;strong&gt; — (313) 578-6800 — if you’ve experienced retaliation&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;strong&gt;Read the evidence&lt;&#x2F;strong&gt; — &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;defendDetroit&#x2F;publicRecord&quot;&gt;github.com&#x2F;defendDetroit&#x2F;publicRecord&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Read the evidence&lt;&#x2F;strong&gt; — &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;defendDetroit&#x2F;publicRecord&quot;&gt;github.com&#x2F;defendDetroit&#x2F;publicRecord&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ol&gt;
 &lt;h3 id=&quot;your-children-deserve-better-than-3&quot;&gt;Your Children Deserve Better Than 3%&lt;&#x2F;h3&gt;
 &lt;p&gt;$4.9 million per year flows to this school. Your child gets 3% math proficiency. &lt;strong&gt;Where is the other 97%?&lt;&#x2F;strong&gt; It’s in a private LLC in Grosse Pointe Woods. The money leaves Detroit. The results stay.&lt;&#x2F;p&gt;
@@ -842,12 +846,12 @@ Online intake: &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;intak
 &lt;p&gt;&lt;strong&gt;The story is verified. The sources are public. The graph is free.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;contact-the-tiplines&quot;&gt;Contact the Tiplines&lt;&#x2F;h3&gt;
 &lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Outlet&lt;&#x2F;th&gt;&lt;th&gt;Tip Channel&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
-&lt;tr&gt;&lt;td&gt;Detroit Free Press&lt;&#x2F;td&gt;&lt;td&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.freep.com&#x2F;news-tips&#x2F;&quot;&gt;freep.com&#x2F;news-tips&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Detroit Free Press&lt;&#x2F;td&gt;&lt;td&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.freep.com&#x2F;news-tips&#x2F;&quot;&gt;freep.com&#x2F;news-tips&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
 &lt;tr&gt;&lt;td&gt;Detroit News&lt;&#x2F;td&gt;&lt;td&gt;tips@detroitnews.com&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
 &lt;tr&gt;&lt;td&gt;Bridge Michigan&lt;&#x2F;td&gt;&lt;td&gt;tips@bridgemi.com&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
 &lt;tr&gt;&lt;td&gt;Michigan Radio (NPR)&lt;&#x2F;td&gt;&lt;td&gt;tips@michiganradio.org&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
-&lt;tr&gt;&lt;td&gt;ProPublica&lt;&#x2F;td&gt;&lt;td&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.propublica.org&#x2F;tips&#x2F;&quot;&gt;propublica.org&#x2F;tips&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
-&lt;tr&gt;&lt;td&gt;The Intercept&lt;&#x2F;td&gt;&lt;td&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;theintercept.com&#x2F;source&#x2F;&quot;&gt;theintercept.com&#x2F;source&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;ProPublica&lt;&#x2F;td&gt;&lt;td&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.propublica.org&#x2F;tips&#x2F;&quot;&gt;propublica.org&#x2F;tips&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;The Intercept&lt;&#x2F;td&gt;&lt;td&gt;&lt;a href=&quot;https:&#x2F;&#x2F;theintercept.com&#x2F;source&#x2F;&quot;&gt;theintercept.com&#x2F;source&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
 &lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;the-bottom-line-for-every-agency&quot;&gt;The Bottom Line — For Every Agency&lt;&#x2F;h2&gt;
@@ -885,46 +889,47 @@ Online intake: &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;intak
 &lt;p&gt;Three interruptions. Three industries. &lt;strong&gt;One infrastructure.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;the-pipeline&quot;&gt;The Pipeline&lt;&#x2F;h2&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;FORTUNE 500 &#x2F; NASDAQ&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ├── DraftKings (NASDAQ: DKNG) ──────────────────────┐&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │   Revenue: $3.7B (2025)                            │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │   Lobbied for MI sports betting legalization        │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │   (HB 4311, signed Dec 2019)                       │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │                                                    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ├── Flutter&#x2F;FanDuel (NYSE: FLUT) ───────────────────┤&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │   Revenue: $14.8B (2025)                           │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │   Lobbied alongside DraftKings                     │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │                                                    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ├── MGM Resorts (NYSE: MGM) &#x2F; BetMGM ──────────────┤&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │   Revenue: $17.1B (2025)                           │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │   Detroit casino operator + online sports book     │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │                                                    │── ALL USE SAME&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ├── Meta Platforms (NASDAQ: META) ──────────────────┤   DIGITAL AD&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │   Revenue: $164B (2025)                            │   INFRASTRUCTURE&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │   Political ad platform + sports betting ads       │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │   (see: Meta&amp;#39;s Two Faces)                          │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │                                                    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ├── Alphabet&#x2F;Google (NASDAQ: GOOGL) ────────────────┤&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │   Revenue: $350B (2025)                            │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │   Political ad platform + sports betting ads       │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │                                                    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ├── AT&amp;amp;T (NYSE: T) ────────────────────────────────┤&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │   Revenue: $122B (2025)                            │── CARRIER NETWORK&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │   Carries the robocalls + texts                    │   (pipes)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │                                                    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ├── T-Mobile (NASDAQ: TMUS) ───────────────────────┤&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │   Revenue: $80B (2025)                             │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │   Carries the robocalls + texts                    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │                                                    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    └── Dykema Gossett PLLC ───────────────────────────┘&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;        Michigan&amp;#39;s largest law firm                      &lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;        Formed Save Detroit Jobs (dark money)            &lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;        Operates Federal PAC (C00342113, $158K+)         &lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;        80+ client accounts managed by Renae Moore       &lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;        7+ political vehicles formed by W. Alan Wilk     &lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;        Same firm. Same compliance email.                &lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;        compliance@dykema.com                            &lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;FORTUNE 500 &amp;#x2F; NASDAQ
+    │
+    ├── DraftKings (NASDAQ: DKNG) ──────────────────────┐
+    │   Revenue: $3.7B (2025)                            │
+    │   Lobbied for MI sports betting legalization        │
+    │   (HB 4311, signed Dec 2019)                       │
+    │                                                    │
+    ├── Flutter&amp;#x2F;FanDuel (NYSE: FLUT) ───────────────────┤
+    │   Revenue: $14.8B (2025)                           │
+    │   Lobbied alongside DraftKings                     │
+    │                                                    │
+    ├── MGM Resorts (NYSE: MGM) &amp;#x2F; BetMGM ──────────────┤
+    │   Revenue: $17.1B (2025)                           │
+    │   Detroit casino operator + online sports book     │
+    │                                                    │── ALL USE SAME
+    ├── Meta Platforms (NASDAQ: META) ──────────────────┤   DIGITAL AD
+    │   Revenue: $164B (2025)                            │   INFRASTRUCTURE
+    │   Political ad platform + sports betting ads       │
+    │   (see: Meta&amp;#x27;s Two Faces)                          │
+    │                                                    │
+    ├── Alphabet&amp;#x2F;Google (NASDAQ: GOOGL) ────────────────┤
+    │   Revenue: $350B (2025)                            │
+    │   Political ad platform + sports betting ads       │
+    │                                                    │
+    ├── AT&amp;amp;T (NYSE: T) ────────────────────────────────┤
+    │   Revenue: $122B (2025)                            │── CARRIER NETWORK
+    │   Carries the robocalls + texts                    │   (pipes)
+    │                                                    │
+    ├── T-Mobile (NASDAQ: TMUS) ───────────────────────┤
+    │   Revenue: $80B (2025)                             │
+    │   Carries the robocalls + texts                    │
+    │                                                    │
+    └── Dykema Gossett PLLC ───────────────────────────┘
+        Michigan&amp;#x27;s largest law firm                      
+        Formed Save Detroit Jobs (dark money)            
+        Operates Federal PAC (C00342113, $158K+)         
+        80+ client accounts managed by Renae Moore       
+        7+ political vehicles formed by W. Alan Wilk     
+        Same firm. Same compliance email.                
+        compliance@dykema.com                            
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;how-it-works&quot;&gt;How It Works&lt;&#x2F;h2&gt;
 &lt;h3 id=&quot;step-1-legalize-the-product&quot;&gt;Step 1: Legalize the Product&lt;&#x2F;h3&gt;
@@ -990,28 +995,29 @@ Online intake: &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;intak
 &lt;p&gt;Seven point four trillion dollars of corporate infrastructure delivering robocalls, spam texts, political ads, and sports betting notifications to your phone. All using the same pipes. All using the same targeting data. All started in the same place.&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;the-same-place&quot;&gt;The Same Place&lt;&#x2F;h2&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;YOUR PHONE&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ↑&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │ robocall (political)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │ spam text (political)  &lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │ push notification (sports betting)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │ targeted ad (all of the above)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;CARRIER NETWORK (AT&amp;amp;T &#x2F; T-Mobile &#x2F; Verizon)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ↑&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;AD PLATFORMS (Meta &#x2F; Google &#x2F; programmatic)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ↑&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;MONEY (corporate treasury + dark money PAC)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ↑&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;THE SAME PLACE:&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    Fortune 500 boardrooms&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    + Dykema Gossett compliance office&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    + NASDAQ trading floor&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    + 201 Townsend Street, Lansing MI&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    + compliance@dykema.com&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;YOUR PHONE
+    ↑
+    │ robocall (political)
+    │ spam text (political)  
+    │ push notification (sports betting)
+    │ targeted ad (all of the above)
+    │
+CARRIER NETWORK (AT&amp;amp;T &amp;#x2F; T-Mobile &amp;#x2F; Verizon)
+    ↑
+    │
+AD PLATFORMS (Meta &amp;#x2F; Google &amp;#x2F; programmatic)
+    ↑
+    │
+MONEY (corporate treasury + dark money PAC)
+    ↑
+    │
+THE SAME PLACE:
+    Fortune 500 boardrooms
+    + Dykema Gossett compliance office
+    + NASDAQ trading floor
+    + 201 Townsend Street, Lansing MI
+    + compliance@dykema.com
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;The robocall that interrupted your dinner and the dark money mailer that elected the council member who sits on a convicted felon’s school board &lt;strong&gt;came from the same place.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;The sports betting ad that knows your team and the political text that knows your district &lt;strong&gt;use the same targeting data.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;The Fortune 500 company that runs the ad platform and the law firm that runs the dark money PAC &lt;strong&gt;share the same infrastructure.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
@@ -1122,7 +1128,7 @@ Online intake: &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;intak
 &lt;p&gt;This is not a narrative. This is a LEDGER. Every line resolves to a date, a recipient, and a response status. Verify it yourself.&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;the-9-line&quot;&gt;The 9-Line&lt;&#x2F;h2&gt;
-&lt;p&gt;The signal format is &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;detroit.primals.eco&#x2F;docs&#x2F;federal-referrals&#x2F;9LINE_FEDERAL_REFERRAL_SEP25.pdf&quot;&gt;GTA 08-01-004 MEDEVAC&lt;&#x2F;a&gt; — the military standard for calling in a medical evacuation. You use it when someone is bleeding and the bird needs to get in the air. The format forces structured, unambiguous communication:&lt;&#x2F;p&gt;
+&lt;p&gt;The signal format is &lt;a href=&quot;https:&#x2F;&#x2F;detroit.primals.eco&#x2F;docs&#x2F;federal-referrals&#x2F;9LINE_FEDERAL_REFERRAL_SEP25.pdf&quot;&gt;GTA 08-01-004 MEDEVAC&lt;&#x2F;a&gt; — the military standard for calling in a medical evacuation. You use it when someone is bleeding and the bird needs to get in the air. The format forces structured, unambiguous communication:&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;strong&gt;Brian Roderick Banks — 9 Criminal Convictions:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;ol&gt;
 &lt;li&gt;Carrying Concealed Weapon&lt;&#x2F;li&gt;
@@ -1136,7 +1142,7 @@ Online intake: &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;intak
 &lt;li&gt;Probation Violation (2nd)&lt;&#x2F;li&gt;
 &lt;&#x2F;ol&gt;
 &lt;p&gt;&lt;strong&gt;Operating 2 charter schools. ~400 children per year. 97% not proficient in math. His LLC takes 72.67% of $4.9M&#x2F;year in public funds.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
-&lt;p&gt;Verify: &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;apps.michigan.gov&#x2F;ichat&#x2F;home.html&quot;&gt;Michigan ICHAT&lt;&#x2F;a&gt; — Search: Brian Roderick Banks. It takes fifteen seconds.&lt;&#x2F;p&gt;
+&lt;p&gt;Verify: &lt;a href=&quot;https:&#x2F;&#x2F;apps.michigan.gov&#x2F;ichat&#x2F;home.html&quot;&gt;Michigan ICHAT&lt;&#x2F;a&gt; — Search: Brian Roderick Banks. It takes fifteen seconds.&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;i-federal-signal-243-page-packet-to-8-agencies-sep-21-25-2026&quot;&gt;I. Federal Signal — 243-Page Packet to 8 Agencies (Sep 21–25, 2026)&lt;&#x2F;h2&gt;
 &lt;p&gt;Every agency below received the same 243-page evidence package: criminal history, entity structure, financial self-dealing, judicial connections, BMF lineage, campaign finance violations, RICO predicate acts.&lt;&#x2F;p&gt;
@@ -1263,21 +1269,21 @@ Online intake: &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;intak
 &lt;p&gt;1,006 of you cloned this repository. 475 of you in a single day. You download 92 MB of court records, read them offline, and leave no trace. That’s fine. Silence is how you learn.&lt;&#x2F;p&gt;
 &lt;p&gt;But the institutions had their chance. &lt;strong&gt;14 channels. 243 pages. 46 days.&lt;&#x2F;strong&gt; The signal went out on a 9-LINE — the format you use when someone is bleeding and the bird needs to get in the air.&lt;&#x2F;p&gt;
 &lt;p&gt;No bird came.&lt;&#x2F;p&gt;
-&lt;p&gt;If you are an attorney: the &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.michbar.org&#x2F;generalinfo&#x2F;grievance&quot;&gt;State Bar grievance process&lt;&#x2F;a&gt; is free. The &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.agcmi.com&#x2F;information-for-the-public&#x2F;file-a-request-for-investigation&#x2F;&quot;&gt;AGC complaint form&lt;&#x2F;a&gt; takes 15 minutes.&lt;&#x2F;p&gt;
-&lt;p&gt;If you are a journalist: every claim on this site resolves to a public record. The verification links are on the page. Start at &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;apps.michigan.gov&#x2F;ichat&#x2F;home.html&quot;&gt;ICHAT&lt;&#x2F;a&gt;. It takes fifteen seconds.&lt;&#x2F;p&gt;
+&lt;p&gt;If you are an attorney: the &lt;a href=&quot;https:&#x2F;&#x2F;www.michbar.org&#x2F;generalinfo&#x2F;grievance&quot;&gt;State Bar grievance process&lt;&#x2F;a&gt; is free. The &lt;a href=&quot;https:&#x2F;&#x2F;www.agcmi.com&#x2F;information-for-the-public&#x2F;file-a-request-for-investigation&#x2F;&quot;&gt;AGC complaint form&lt;&#x2F;a&gt; takes 15 minutes.&lt;&#x2F;p&gt;
+&lt;p&gt;If you are a journalist: every claim on this site resolves to a public record. The verification links are on the page. Start at &lt;a href=&quot;https:&#x2F;&#x2F;apps.michigan.gov&#x2F;ichat&#x2F;home.html&quot;&gt;ICHAT&lt;&#x2F;a&gt;. It takes fifteen seconds.&lt;&#x2F;p&gt;
 &lt;p&gt;If you are a parent: your child’s school board chair is a sitting judge. Your child’s school board vice chair works for the AG. Your child’s principal has 9 criminal convictions. These are public records.&lt;&#x2F;p&gt;
 &lt;p&gt;If you are a human being with a search engine and forty-five seconds: the evidence is here. It has always been here.&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;verify-everything&quot;&gt;Verify Everything&lt;&#x2F;h2&gt;
 &lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Record&lt;&#x2F;th&gt;&lt;th&gt;Source&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
-&lt;tr&gt;&lt;td&gt;Banks’s criminal history&lt;&#x2F;td&gt;&lt;td&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;apps.michigan.gov&#x2F;ichat&#x2F;home.html&quot;&gt;Michigan ICHAT&lt;&#x2F;a&gt; — SID 2029469K&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
-&lt;tr&gt;&lt;td&gt;PCA Board members&lt;&#x2F;td&gt;&lt;td&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.purposecharteracademy.com&#x2F;boardofdirectors&quot;&gt;purposecharteracademy.com&#x2F;boardofdirectors&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
-&lt;tr&gt;&lt;td&gt;Miller’s Dykema history&lt;&#x2F;td&gt;&lt;td&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;mobar.org&#x2F;&quot;&gt;State Bar member search&lt;&#x2F;a&gt; — P49925&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
-&lt;tr&gt;&lt;td&gt;Moreland’s AG employment&lt;&#x2F;td&gt;&lt;td&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.michigan.gov&#x2F;ag&quot;&gt;Michigan.gov staff directory&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
-&lt;tr&gt;&lt;td&gt;Save Detroit Jobs (Dykema)&lt;&#x2F;td&gt;&lt;td&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;cofs.lara.state.mi.us&#x2F;SearchApi&#x2F;Search&#x2F;Search&quot;&gt;LARA&lt;&#x2F;a&gt; — Entity 802002459&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Banks’s criminal history&lt;&#x2F;td&gt;&lt;td&gt;&lt;a href=&quot;https:&#x2F;&#x2F;apps.michigan.gov&#x2F;ichat&#x2F;home.html&quot;&gt;Michigan ICHAT&lt;&#x2F;a&gt; — SID 2029469K&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;PCA Board members&lt;&#x2F;td&gt;&lt;td&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.purposecharteracademy.com&#x2F;boardofdirectors&quot;&gt;purposecharteracademy.com&#x2F;boardofdirectors&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Miller’s Dykema history&lt;&#x2F;td&gt;&lt;td&gt;&lt;a href=&quot;https:&#x2F;&#x2F;mobar.org&#x2F;&quot;&gt;State Bar member search&lt;&#x2F;a&gt; — P49925&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Moreland’s AG employment&lt;&#x2F;td&gt;&lt;td&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.michigan.gov&#x2F;ag&quot;&gt;Michigan.gov staff directory&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Save Detroit Jobs (Dykema)&lt;&#x2F;td&gt;&lt;td&gt;&lt;a href=&quot;https:&#x2F;&#x2F;cofs.lara.state.mi.us&#x2F;SearchApi&#x2F;Search&#x2F;Search&quot;&gt;LARA&lt;&#x2F;a&gt; — Entity 802002459&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
 &lt;tr&gt;&lt;td&gt;PA 362 (1993)&lt;&#x2F;td&gt;&lt;td&gt;Michigan Legislature archives&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
-&lt;tr&gt;&lt;td&gt;9-LINE federal referral&lt;&#x2F;td&gt;&lt;td&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;detroit.primals.eco&#x2F;docs&#x2F;federal-referrals&#x2F;&quot;&gt;detroit.primals.eco&#x2F;docs&#x2F;federal-referrals&#x2F;&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
-&lt;tr&gt;&lt;td&gt;The full graph&lt;&#x2F;td&gt;&lt;td&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;detroit.primals.eco&#x2F;graph.json&quot;&gt;detroit.primals.eco&#x2F;graph.json&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;9-LINE federal referral&lt;&#x2F;td&gt;&lt;td&gt;&lt;a href=&quot;https:&#x2F;&#x2F;detroit.primals.eco&#x2F;docs&#x2F;federal-referrals&#x2F;&quot;&gt;detroit.primals.eco&#x2F;docs&#x2F;federal-referrals&#x2F;&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;The full graph&lt;&#x2F;td&gt;&lt;td&gt;&lt;a href=&quot;https:&#x2F;&#x2F;detroit.primals.eco&#x2F;graph.json&quot;&gt;detroit.primals.eco&#x2F;graph.json&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
 &lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
 &lt;hr &#x2F;&gt;
 &lt;p&gt;&lt;em&gt;Every entry on this page resolves to a date, a recipient, and a response status. The signal is the signal. The silence is the silence. Both are on the record.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;

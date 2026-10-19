@@ -104,4 +104,4 @@ No one has to be a wolf. They just have to be a fence.
 
 ---
 
-*Sourced to DPSCD records, Michigan Legislature records, LARA filings, investigation graph (131,329 edges). [Back to Analysis →](/analysis/) · [Three Percent →](/analysis/three-percent/) · [Selective Enforcement →](/analysis/selective-enforcement/)*
+*Sourced to DPSCD records, Michigan Legislature records, LARA filings, investigation graph (131,322 edges). [Back to Analysis →](/analysis/) · [Three Percent →](/analysis/three-percent/) · [Selective Enforcement →](/analysis/selective-enforcement/)*

@@ -237,7 +237,7 @@ Chronological record from 2013 to present. Every entry sourced.
 - **Cross-protection:** Evidence published across multiple nodes in the
   [primals.eco](https://primals.eco) network cannot be suppressed by
   silencing any single person. SLAPP one — the others amplify.
-- **115 articles.** 138,000+ words. 7,554 investigation nodes. 131,329 edges. All public record.
+- **209 articles.** 210,000+ words. 7,533 investigation nodes. 131,322 edges. All public record.
 
 ---
 

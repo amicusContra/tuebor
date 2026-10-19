@@ -178,4 +178,4 @@ Every function passes through null entities — entities the system hasn't class
 
 ---
 
-*Traced from graph.json (131,329 edges), explore.json (341 entities), classification.json (36 methods). [Back to Evidence →](/evidence/) · [The Nulls That Point →](/analysis/the-nulls-that-point/) · [Purpose Group Extraction →](/evidence/purpose-group-extraction/)*
+*Traced from graph.json (131,322 edges), explore.json (341 entities), classification.json (36 methods). [Back to Evidence →](/evidence/) · [The Nulls That Point →](/analysis/the-nulls-that-point/) · [Purpose Group Extraction →](/evidence/purpose-group-extraction/)*

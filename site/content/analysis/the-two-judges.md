@@ -119,4 +119,4 @@ The judges exist on both sides of every canon they're supposed to uphold.
 
 ---
 
-*Sourced to Michigan Courts records, campaign finance filings, JTC records, Judicial Code of Conduct, investigation graph (131,329 edges). [Back to Analysis →](/analysis/) · [Three Percent →](/analysis/three-percent/) · [Selective Enforcement →](/analysis/selective-enforcement/)*
+*Sourced to Michigan Courts records, campaign finance filings, JTC records, Judicial Code of Conduct, investigation graph (131,322 edges). [Back to Analysis →](/analysis/) · [Three Percent →](/analysis/three-percent/) · [Selective Enforcement →](/analysis/selective-enforcement/)*

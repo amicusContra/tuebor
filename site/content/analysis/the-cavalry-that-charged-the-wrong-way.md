@@ -135,4 +135,4 @@ Either way, 362 children are still there.
 
 ---
 
-*Sourced to NAACP Detroit public records, civil rights organization filings, investigation graph (131,329 edges). [Back to Analysis →](/analysis/) · [Three Percent →](/analysis/three-percent/) · [The Money Garden →](/analysis/the-money-garden/)*
+*Sourced to NAACP Detroit public records, civil rights organization filings, investigation graph (131,322 edges). [Back to Analysis →](/analysis/) · [Three Percent →](/analysis/three-percent/) · [The Money Garden →](/analysis/the-money-garden/)*

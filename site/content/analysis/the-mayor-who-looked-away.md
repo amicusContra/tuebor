@@ -133,4 +133,4 @@ Partial. The fence. The look-away.
 
 ---
 
-*Sourced to Detroit City records, City Council records, mayoral appointments, investigation graph (131,329 edges). [Back to Analysis →](/analysis/) · [The Enabler →](/analysis/the-enabler/) · [Three Percent →](/analysis/three-percent/)*
+*Sourced to Detroit City records, City Council records, mayoral appointments, investigation graph (131,322 edges). [Back to Analysis →](/analysis/) · [The Enabler →](/analysis/the-enabler/) · [Three Percent →](/analysis/three-percent/)*

@@ -24,9 +24,9 @@
         <id>https://tuebor.primals.eco/analysis/corporate-network-lara/</id>
         
         <content type="html" xml:base="https://tuebor.primals.eco/analysis/corporate-network-lara/">&lt;h2 id=&quot;how-to-read-this-page&quot;&gt;How to Read This Page&lt;&#x2F;h2&gt;
-&lt;p&gt;Every entity listed below is a public record in the &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;mibusinessregistry.lara.state.mi.us&#x2F;search&#x2F;business&quot;&gt;Michigan LARA Business Entity Search&lt;&#x2F;a&gt;. Entity IDs are provided so anyone can verify. Officer names, addresses, and filing dates come directly from LARA annual reports and formation documents — all public records under Michigan law.&lt;&#x2F;p&gt;
+&lt;p&gt;Every entity listed below is a public record in the &lt;a href=&quot;https:&#x2F;&#x2F;mibusinessregistry.lara.state.mi.us&#x2F;search&#x2F;business&quot;&gt;Michigan LARA Business Entity Search&lt;&#x2F;a&gt;. Entity IDs are provided so anyone can verify. Officer names, addresses, and filing dates come directly from LARA annual reports and formation documents — all public records under Michigan law.&lt;&#x2F;p&gt;
 &lt;p&gt;We focus on &lt;strong&gt;business addresses&lt;&#x2F;strong&gt; and &lt;strong&gt;registered agent addresses&lt;&#x2F;strong&gt; (which are legally required to be public for service of process). We do not publish residential addresses for peripheral individuals.&lt;&#x2F;p&gt;
-&lt;p&gt;&lt;strong&gt;Source notation:&lt;&#x2F;strong&gt; “LARA [Entity ID]” means the data comes from Michigan Department of Licensing and Regulatory Affairs business entity filings. You can verify any entity by searching &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;mibusinessregistry.lara.state.mi.us&#x2F;search&#x2F;business&quot;&gt;mibusinessregistry.lara.state.mi.us&lt;&#x2F;a&gt; with the Entity ID number.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Source notation:&lt;&#x2F;strong&gt; “LARA [Entity ID]” means the data comes from Michigan Department of Licensing and Regulatory Affairs business entity filings. You can verify any entity by searching &lt;a href=&quot;https:&#x2F;&#x2F;mibusinessregistry.lara.state.mi.us&#x2F;search&#x2F;business&quot;&gt;mibusinessregistry.lara.state.mi.us&lt;&#x2F;a&gt; with the Entity ID number.&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;the-purpose-empire-three-entities-one-man&quot;&gt;The Purpose Empire — Three Entities, One Man&lt;&#x2F;h2&gt;
 &lt;p&gt;Brian Banks controls &lt;strong&gt;three&lt;&#x2F;strong&gt; “Purpose”-branded entities. Together they form the corporate infrastructure for his charter school operation.&lt;&#x2F;p&gt;
@@ -188,14 +188,15 @@
 &lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
 &lt;p&gt;&lt;em&gt;Source: ProPublica Nonprofit Explorer, IRS Form 990 filings for EIN 82-2361291&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;strong&gt;The Stallworth dynasty&lt;&#x2F;strong&gt; (all public record, documented on this site):&lt;&#x2F;p&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;Keith &amp;quot;K.B.&amp;quot; Stallworth&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;  Federal money laundering conviction (2003)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;  → Brother: Thomas Stallworth III (former State Rep)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;      → Married: Nicole Wells-Stallworth&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;          MacDowell Board President — hired Banks&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;      → Daughter: Misha Stallworth West&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;          DPSCD Board — authorized Banks&amp;#39; charter&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;          CitizenDetroit Director — same board as Banks&amp;#39; attorney&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;Keith &amp;quot;K.B.&amp;quot; Stallworth
+  Federal money laundering conviction (2003)
+  → Brother: Thomas Stallworth III (former State Rep)
+      → Married: Nicole Wells-Stallworth
+          MacDowell Board President — hired Banks
+      → Daughter: Misha Stallworth West
+          DPSCD Board — authorized Banks&amp;#x27; charter
+          CitizenDetroit Director — same board as Banks&amp;#x27; attorney
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;These problems originate in dynasties, move through entities, and land on humans. The board overlap does not imply that Crump-Gibson knew about the Stallworth family’s role in installing Banks. It means the &lt;strong&gt;social graph through which Banks finds legal representation is the same social graph through which charter school authorization flows.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;Correlation does not imply causation. But causation can be masked — and hidden — by correlation.&lt;&#x2F;p&gt;
 &lt;p&gt;Within 24 hours of entering Banks’ case, Crump-Gibson voluntarily limited her scope in writing, declining law enforcement and PPO matters. That is a written record of an attorney drawing an ethical line. The &lt;a href=&quot;&#x2F;evidence&#x2F;correspondence&#x2F;&quot;&gt;correspondence timeline&lt;&#x2F;a&gt; documents the full sequence.&lt;&#x2F;p&gt;
@@ -226,7 +227,7 @@
 &lt;p&gt;The dissolve-and-reform pattern (Custom Promotions Inc dissolved February 2022 → Custom Promotions LLC filed May 2022) may be used to shed liabilities while maintaining brand continuity. The three-name dark money vehicle (Save Detroit Jobs → Impact Detroit → Detroit Leaders) allows the same entity to operate under different public identities for different audiences.&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;how-to-verify&quot;&gt;How to Verify&lt;&#x2F;h2&gt;
-&lt;p&gt;Every entity on this page can be verified at &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;mibusinessregistry.lara.state.mi.us&#x2F;search&#x2F;business&quot;&gt;Michigan LARA Business Entity Search&lt;&#x2F;a&gt;:&lt;&#x2F;p&gt;
+&lt;p&gt;Every entity on this page can be verified at &lt;a href=&quot;https:&#x2F;&#x2F;mibusinessregistry.lara.state.mi.us&#x2F;search&#x2F;business&quot;&gt;Michigan LARA Business Entity Search&lt;&#x2F;a&gt;:&lt;&#x2F;p&gt;
 &lt;ol&gt;
 &lt;li&gt;Go to the search page&lt;&#x2F;li&gt;
 &lt;li&gt;Enter the Entity ID number in the search field&lt;&#x2F;li&gt;
@@ -299,7 +300,7 @@ Hover any node to trace its connections. Click to navigate. Toggle nexus types t
 &lt;p&gt;&lt;strong&gt;Center of gravity:&lt;&#x2F;strong&gt; Brian Banks through The Purpose Group Michigan LLC&lt;&#x2F;p&gt;
 &lt;p&gt;Banks operates two charter schools that collectively move millions in taxpayer funds through a management company where he is the sole registered agent.&lt;&#x2F;p&gt;
 &lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;School&lt;&#x2F;th&gt;&lt;th&gt;Students&lt;&#x2F;th&gt;&lt;th&gt;Math Proficiency&lt;&#x2F;th&gt;&lt;th&gt;Reading&lt;&#x2F;th&gt;&lt;th&gt;State Rank&lt;&#x2F;th&gt;&lt;th&gt;Per-Pupil&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
-&lt;tr&gt;&lt;td&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;clutchjustice.com&#x2F;2026&#x2F;09&#x2F;13&#x2F;macdowell-preparatory-academy-academic-financial-record&#x2F;&quot;&gt;MacDowell Preparatory Academy&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;td&gt;362&lt;&#x2F;td&gt;&lt;td&gt;&lt;strong&gt;3%&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;10-14%&lt;&#x2F;td&gt;&lt;td&gt;1,443&#x2F;1,488 (bottom 3%)&lt;&#x2F;td&gt;&lt;td&gt;$15,217&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https:&#x2F;&#x2F;clutchjustice.com&#x2F;2026&#x2F;09&#x2F;13&#x2F;macdowell-preparatory-academy-academic-financial-record&#x2F;&quot;&gt;MacDowell Preparatory Academy&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;td&gt;362&lt;&#x2F;td&gt;&lt;td&gt;&lt;strong&gt;3%&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;10-14%&lt;&#x2F;td&gt;&lt;td&gt;1,443&#x2F;1,488 (bottom 3%)&lt;&#x2F;td&gt;&lt;td&gt;$15,217&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
 &lt;tr&gt;&lt;td&gt;Purpose Charter Academy&lt;&#x2F;td&gt;&lt;td&gt;225 projected&lt;&#x2F;td&gt;&lt;td&gt;&lt;em&gt;opening 2026-27&lt;&#x2F;em&gt;&lt;&#x2F;td&gt;&lt;td&gt;—&lt;&#x2F;td&gt;&lt;td&gt;—&lt;&#x2F;td&gt;&lt;td&gt;—&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
 &lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
 &lt;p&gt;Three percent math proficiency means roughly &lt;strong&gt;11 of 362 children&lt;&#x2F;strong&gt; can do grade-level math. That is not a struggling school. That is a revenue extraction operation wearing a school’s skin.&lt;&#x2F;p&gt;
@@ -445,7 +446,7 @@ Hover any node to trace its connections. Click to navigate. Toggle nexus types t
 &lt;p&gt;This page will continue expanding as the investigation develops. Each node added to the graph becomes visible to every other node already mapped.&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;p&gt;&lt;em&gt;Every name on this page appears in public records. Every fact is sourced to court documents, campaign finance filings, FOIA responses, news reporting, or government databases. Named here? Something wrong? &lt;a href=&quot;&#x2F;contact&#x2F;&quot;&gt;Contact me&lt;&#x2F;a&gt; — truth matters more than being right.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
-&lt;p&gt;&lt;em&gt;Sources: M.L. Elrick &#x2F; Detroit Free Press, Rita Williams &#x2F; &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;clutchjustice.com&quot;&gt;Clutch Justice&lt;&#x2F;a&gt;, BridgeDetroit, Chalkbeat Detroit, TransparencyUSA, CourtListener, MDOC OTIS, Michigan SOS Campaign Finance, NCES, SchoolDigger, &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;mibusinessregistry.lara.state.mi.us&#x2F;search&#x2F;business&quot;&gt;Michigan LARA Business Entity Search&lt;&#x2F;a&gt;.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;Sources: M.L. Elrick &#x2F; Detroit Free Press, Rita Williams &#x2F; &lt;a href=&quot;https:&#x2F;&#x2F;clutchjustice.com&quot;&gt;Clutch Justice&lt;&#x2F;a&gt;, BridgeDetroit, Chalkbeat Detroit, TransparencyUSA, CourtListener, MDOC OTIS, Michigan SOS Campaign Finance, NCES, SchoolDigger, &lt;a href=&quot;https:&#x2F;&#x2F;mibusinessregistry.lara.state.mi.us&#x2F;search&#x2F;business&quot;&gt;Michigan LARA Business Entity Search&lt;&#x2F;a&gt;.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
 &lt;aside class=&quot;convergence-box&quot; aria-label=&quot;Cross-references&quot;&gt;
 &lt;strong class=&quot;convergence-title&quot;&gt;Same system, other lenses:&lt;&#x2F;strong&gt;
 &lt;ul class=&quot;convergence-list&quot;&gt;
@@ -818,7 +819,7 @@ $4.9M&amp;#x2F;yr
 &lt;&#x2F;cite&gt;
 
 &lt;&#x2F;li&gt;
-&lt;li&gt;Campaign finance: &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;transparencyusa.org&quot;&gt;transparencyusa.org&lt;&#x2F;a&gt;, 
+&lt;li&gt;Campaign finance: &lt;a href=&quot;https:&#x2F;&#x2F;transparencyusa.org&quot;&gt;transparencyusa.org&lt;&#x2F;a&gt;, 
 
 
 
@@ -836,7 +837,7 @@ $4.9M&amp;#x2F;yr
 
 &lt;&#x2F;li&gt;
 &lt;li&gt;School authorization: DPSCD board records&lt;&#x2F;li&gt;
-&lt;li&gt;PCA Board: &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.purposecharteracademy.com&#x2F;boardofdirectors&quot;&gt;purposecharteracademy.com&#x2F;boardofdirectors&lt;&#x2F;a&gt; — Miller (Chair), AG Moreland (Vice Chair), Council Member Johnson (Secretary)&lt;&#x2F;li&gt;
+&lt;li&gt;PCA Board: &lt;a href=&quot;https:&#x2F;&#x2F;www.purposecharteracademy.com&#x2F;boardofdirectors&quot;&gt;purposecharteracademy.com&#x2F;boardofdirectors&lt;&#x2F;a&gt; — Miller (Chair), AG Moreland (Vice Chair), Council Member Johnson (Secretary)&lt;&#x2F;li&gt;
 &lt;li&gt;Judicial connections: &lt;a href=&quot;&#x2F;network&#x2F;judges&#x2F;&quot;&gt;Judicial Cover&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;Allied corroboration: &lt;a href=&quot;&#x2F;analysis&#x2F;allied-cases&#x2F;&quot;&gt;Allied Cases&lt;&#x2F;a&gt; — PACER &lt;strong&gt;2:26-cv-10917&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;

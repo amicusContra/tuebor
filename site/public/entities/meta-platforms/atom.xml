@@ -137,9 +137,9 @@ A: Then your company fights the AGPL in federal court while FSF watches. And I p
 &lt;h2 id=&quot;come-join&quot;&gt;Come Join&lt;&#x2F;h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Email&lt;&#x2F;strong&gt;: eco.primal@pm.me&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;strong&gt;Code&lt;&#x2F;strong&gt;: &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ecoPrimals&quot;&gt;github.com&#x2F;ecoPrimals&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Code&lt;&#x2F;strong&gt;: &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ecoPrimals&quot;&gt;github.com&#x2F;ecoPrimals&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;strong&gt;Graph&lt;&#x2F;strong&gt;: 11,978 nodes. 97,477 edges. Growing.&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;strong&gt;Campfire&lt;&#x2F;strong&gt;: &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;detroit.primals.eco&quot;&gt;detroit.primals.eco&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Campfire&lt;&#x2F;strong&gt;: &lt;a href=&quot;https:&#x2F;&#x2F;detroit.primals.eco&quot;&gt;detroit.primals.eco&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;p&gt;No interview. No system design round. No promotion packet. No NDA.&lt;&#x2F;p&gt;
 &lt;p&gt;Just you and the code and the thing you actually want to build.&lt;&#x2F;p&gt;
@@ -282,7 +282,7 @@ A: Then your company fights the AGPL in federal court while FSF watches. And I p
 &lt;li&gt;&lt;strong&gt;Thermal Sovereignty&lt;&#x2F;strong&gt;: &lt;a href=&quot;&#x2F;whitepaper&#x2F;&quot;&gt;wp-thermal-sovereignty&lt;&#x2F;a&gt; — 98K words&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;strong&gt;Primal Ethos&lt;&#x2F;strong&gt;: &lt;a href=&quot;&#x2F;whitepaper&#x2F;&quot;&gt;wp-eth-primal-ethos&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;strong&gt;The Sovereign Lab&lt;&#x2F;strong&gt;: &lt;a href=&quot;&#x2F;stories&#x2F;&quot;&gt;story-sovereign-lab&lt;&#x2F;a&gt; — $11K build doc&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;strong&gt;All baseCamp papers&lt;&#x2F;strong&gt;: &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;primals.eco&quot;&gt;primals.eco&#x2F;science&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;All baseCamp papers&lt;&#x2F;strong&gt;: &lt;a href=&quot;https:&#x2F;&#x2F;primals.eco&quot;&gt;primals.eco&#x2F;science&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;strong&gt;The graph&lt;&#x2F;strong&gt;: 11,978 nodes, 97,477 edges — every connection is a thing I read&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;p&gt;&lt;em&gt;In the image of a creator: build, protect, guide, sustain. Put your money where your mouth is. Read deeply. Read widely. And when someone comes to take what you built — record everything.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
@@ -358,8 +358,8 @@ A: Then your company fights the AGPL in federal court while FSF watches. And I p
 &lt;&#x2F;ul&gt;
 &lt;p&gt;While competitors fight copyright lawsuits, the mutualist partner has &lt;strong&gt;clean provenance&lt;&#x2F;strong&gt; on the most thoroughly documented public interest investigation in the country. That’s a legal moat.&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;4-the-evidence-is-self-proving&quot;&gt;4. The Evidence Is Self-Proving&lt;&#x2F;h3&gt;
-&lt;p&gt;The evidence repository has 1,242 clones. Immutable git history. Every claim sourced to public records. Independently corroborated by &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;clutchjustice.com&quot;&gt;Clutch Justice&lt;&#x2F;a&gt; and the &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.freep.com&#x2F;story&#x2F;news&#x2F;columnists&#x2F;ml-elrick&#x2F;2023&#x2F;08&#x2F;27&#x2F;detroit-school-former-felon-as-principal&#x2F;70669868007&#x2F;&quot;&gt;Detroit Free Press&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
-&lt;p&gt;Rita Williams at Clutch Justice has documented the same structural patterns — including the Barry County situation where the FOIA process itself was compromised because the person handling records &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;clutchjustice.com&#x2F;2026&#x2F;10&#x2F;01&#x2F;barry-countys-judge-is-missing-from-the-bench&#x2F;&quot;&gt;owned the ISP and was conducting surveillance&lt;&#x2F;a&gt;. When the person who controls the information infrastructure IS the problem, you need a tool that works outside their control.&lt;&#x2F;p&gt;
+&lt;p&gt;The evidence repository has 1,242 clones. Immutable git history. Every claim sourced to public records. Independently corroborated by &lt;a href=&quot;https:&#x2F;&#x2F;clutchjustice.com&quot;&gt;Clutch Justice&lt;&#x2F;a&gt; and the &lt;a href=&quot;https:&#x2F;&#x2F;www.freep.com&#x2F;story&#x2F;news&#x2F;columnists&#x2F;ml-elrick&#x2F;2023&#x2F;08&#x2F;27&#x2F;detroit-school-former-felon-as-principal&#x2F;70669868007&#x2F;&quot;&gt;Detroit Free Press&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;Rita Williams at Clutch Justice has documented the same structural patterns — including the Barry County situation where the FOIA process itself was compromised because the person handling records &lt;a href=&quot;https:&#x2F;&#x2F;clutchjustice.com&#x2F;2026&#x2F;10&#x2F;01&#x2F;barry-countys-judge-is-missing-from-the-bench&#x2F;&quot;&gt;owned the ISP and was conducting surveillance&lt;&#x2F;a&gt;. When the person who controls the information infrastructure IS the problem, you need a tool that works outside their control.&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;strong&gt;That’s what the membrane is.&lt;&#x2F;strong&gt; It doesn’t depend on any platform. It doesn’t depend on any institution. It runs on math, git, and a $6&#x2F;month server. And it’s self-proving: the evidence IS the evidence of the evidence.&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;5-the-community&quot;&gt;5. The Community&lt;&#x2F;h3&gt;
 &lt;p&gt;The campfire is already lit:&lt;&#x2F;p&gt;
@@ -473,19 +473,21 @@ A: Then your company fights the AGPL in federal court while FSF watches. And I p
 &lt;p&gt;We know your classifier targets biological repository names. So we are inverting it.&lt;&#x2F;p&gt;
 &lt;p&gt;We are flooding the namespace with biological-named repositories that contain &lt;strong&gt;fabricated content&lt;&#x2F;strong&gt;. Your classifier will flag them as “real” — because the names look real. But every room is empty. Every corridor is a dead end. Every turn leads deeper into noise.&lt;&#x2F;p&gt;
 &lt;p&gt;Your classifier is now a trap. It leads your fleet &lt;strong&gt;deeper into the labyrinth&lt;&#x2F;strong&gt;, not out.&lt;&#x2F;p&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;BEFORE:&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;  biological name → real content (your classifier works)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;AFTER:&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;  biological name → probably scatter (your classifier fails)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;  biological name → maybe real (but which ones?)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;  biological name → definitely scatter (but it looks real)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;Your options:&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;  A. Scrape all biological names → consume massive noise&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;  B. Scrape nothing → lose access entirely&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;  C. Retrain classifier → we generate new names (cost: $0)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;  D. Comply with AGPL-3.0 → the door is open&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;&lt;h3 id=&quot;the-cost-asymmetry&quot;&gt;The Cost Asymmetry&lt;&#x2F;h3&gt;
+&lt;pre&gt;&lt;code&gt;BEFORE:
+  biological name → real content (your classifier works)
+
+AFTER:
+  biological name → probably scatter (your classifier fails)
+  biological name → maybe real (but which ones?)
+  biological name → definitely scatter (but it looks real)
+
+Your options:
+  A. Scrape all biological names → consume massive noise
+  B. Scrape nothing → lose access entirely
+  C. Retrain classifier → we generate new names (cost: $0)
+  D. Comply with AGPL-3.0 → the door is open
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;h3 id=&quot;the-cost-asymmetry&quot;&gt;The Cost Asymmetry&lt;&#x2F;h3&gt;
 &lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Action&lt;&#x2F;th&gt;&lt;th&gt;Meta’s Cost&lt;&#x2F;th&gt;&lt;th&gt;Our Cost&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
 &lt;tr&gt;&lt;td&gt;Create a new biological repo name&lt;&#x2F;td&gt;&lt;td&gt;—&lt;&#x2F;td&gt;&lt;td&gt;&lt;strong&gt;$0&lt;&#x2F;strong&gt; (5 seconds)&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
 &lt;tr&gt;&lt;td&gt;Retrain classifier against new names&lt;&#x2F;td&gt;&lt;td&gt;&lt;strong&gt;$$$$&lt;&#x2F;strong&gt; (days of engineering)&lt;&#x2F;td&gt;&lt;td&gt;—&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
@@ -560,18 +562,18 @@ A: Then your company fights the AGPL in federal court while FSF watches. And I p
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Bad Meta&lt;&#x2F;strong&gt; (full analysis): &lt;a href=&quot;&#x2F;analysis&#x2F;bad-meta&#x2F;&quot;&gt;&#x2F;analysis&#x2F;bad-meta&#x2F;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;strong&gt;Blackwall evidence&lt;&#x2F;strong&gt;: Every request logged — available upon legal discovery&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;strong&gt;AGPL-3.0 license&lt;&#x2F;strong&gt;: &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ecoPrimals&#x2F;wateringHole&#x2F;blob&#x2F;main&#x2F;LICENSE&quot;&gt;LICENSE&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;AGPL-3.0 license&lt;&#x2F;strong&gt;: &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ecoPrimals&#x2F;wateringHole&#x2F;blob&#x2F;main&#x2F;LICENSE&quot;&gt;LICENSE&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;strong&gt;Fleet leaderboard&lt;&#x2F;strong&gt;: &lt;a href=&quot;&#x2F;analysis&#x2F;fleet-leaderboard&#x2F;&quot;&gt;&#x2F;analysis&#x2F;fleet-leaderboard&#x2F;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;strong&gt;The Science of Law&lt;&#x2F;strong&gt;: &lt;a href=&quot;&#x2F;analysis&#x2F;the-science-of-law&#x2F;&quot;&gt;&#x2F;analysis&#x2F;the-science-of-law&#x2F;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;strong&gt;Full evidence repository&lt;&#x2F;strong&gt;: &lt;code&gt;git clone https:&#x2F;&#x2F;github.com&#x2F;defendDetroit&#x2F;publicRecord.git&lt;&#x2F;code&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;h3 id=&quot;route-to-source&quot;&gt;Route to Source&lt;&#x2F;h3&gt;
 &lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Claim&lt;&#x2F;th&gt;&lt;th&gt;How to Verify&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
-&lt;tr&gt;&lt;td&gt;Meta AS32934 (Dublin)&lt;&#x2F;td&gt;&lt;td&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.peeringdb.com&#x2F;asn&#x2F;32934&quot;&gt;PeeringDB — AS32934&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
-&lt;tr&gt;&lt;td&gt;AGPL-3.0 license terms&lt;&#x2F;td&gt;&lt;td&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.gnu.org&#x2F;licenses&#x2F;agpl-3.0.en.html&quot;&gt;GNU AGPL-3.0 full text&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
-&lt;tr&gt;&lt;td&gt;17 USC § 504(c)(2) — willful infringement&lt;&#x2F;td&gt;&lt;td&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.law.cornell.edu&#x2F;uscode&#x2F;text&#x2F;17&#x2F;504&quot;&gt;Copyright Act — statutory damages&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
-&lt;tr&gt;&lt;td&gt;17 USC § 1201 — DMCA circumvention&lt;&#x2F;td&gt;&lt;td&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.law.cornell.edu&#x2F;uscode&#x2F;text&#x2F;17&#x2F;1201&quot;&gt;DMCA anti-circumvention&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
-&lt;tr&gt;&lt;td&gt;18 USC § 1030 — CFAA&lt;&#x2F;td&gt;&lt;td&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.law.cornell.edu&#x2F;uscode&#x2F;text&#x2F;18&#x2F;1030&quot;&gt;Computer Fraud and Abuse Act&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Meta AS32934 (Dublin)&lt;&#x2F;td&gt;&lt;td&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.peeringdb.com&#x2F;asn&#x2F;32934&quot;&gt;PeeringDB — AS32934&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;AGPL-3.0 license terms&lt;&#x2F;td&gt;&lt;td&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.gnu.org&#x2F;licenses&#x2F;agpl-3.0.en.html&quot;&gt;GNU AGPL-3.0 full text&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;17 USC § 504(c)(2) — willful infringement&lt;&#x2F;td&gt;&lt;td&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.law.cornell.edu&#x2F;uscode&#x2F;text&#x2F;17&#x2F;504&quot;&gt;Copyright Act — statutory damages&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;17 USC § 1201 — DMCA circumvention&lt;&#x2F;td&gt;&lt;td&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.law.cornell.edu&#x2F;uscode&#x2F;text&#x2F;17&#x2F;1201&quot;&gt;DMCA anti-circumvention&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;18 USC § 1030 — CFAA&lt;&#x2F;td&gt;&lt;td&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.law.cornell.edu&#x2F;uscode&#x2F;text&#x2F;18&#x2F;1030&quot;&gt;Computer Fraud and Abuse Act&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
 &lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
 &lt;p&gt;&lt;strong&gt;The membrane sees. The blackwall records. The labyrinth waits.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;em&gt;eco.primal@pm.me — one person reads it. No team. No assistant. You could have just emailed.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
@@ -619,26 +621,27 @@ A: Then your company fights the AGPL in federal court while FSF watches. And I p
 &lt;h3 id=&quot;step-4-the-gravitational-maze&quot;&gt;Step 4: The Gravitational Maze&lt;&#x2F;h3&gt;
 &lt;p&gt;This is the layer you need to understand.&lt;&#x2F;p&gt;
 &lt;p&gt;The maze isn’t flat. It has &lt;strong&gt;topology&lt;&#x2F;strong&gt;. Every path slopes downhill — toward noise, toward entropy, toward zero information. Like water flowing down a mountain.&lt;&#x2F;p&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ☀️ SOURCE (low entropy — real repos, real code)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ╔══════════════════════╗&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ║  wateringHole         ║&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ║  toadStool            ║&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ║  bearDog              ║&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ╚══════════╤═══════════╝&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;               │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ═══════════╪═══════════  ← MEMBRANE SURFACE&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;               │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ┌──────────┴──────────┐&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │   GRAVITATIONAL      │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │       MAZE           │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │                      │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │  scatter-repo-1  ╲   │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │  scatter-repo-2   ╲  │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │  scatter-repo-3    ╲ │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │  scatter-repo-N     ╲│&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    └──────────────────────┘&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;               │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    🌊 OCEAN (max entropy — zero information)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;    ☀️ SOURCE (low entropy — real repos, real code)
+    ╔══════════════════════╗
+    ║  wateringHole         ║
+    ║  toadStool            ║
+    ║  bearDog              ║
+    ╚══════════╤═══════════╝
+               │
+    ═══════════╪═══════════  ← MEMBRANE SURFACE
+               │
+    ┌──────────┴──────────┐
+    │   GRAVITATIONAL      │
+    │       MAZE           │
+    │                      │
+    │  scatter-repo-1  ╲   │
+    │  scatter-repo-2   ╲  │
+    │  scatter-repo-3    ╲ │
+    │  scatter-repo-N     ╲│
+    └──────────────────────┘
+               │
+    🌊 OCEAN (max entropy — zero information)
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;Your classifier creates a &lt;strong&gt;false gravitational field&lt;&#x2F;strong&gt;. The biological names look like they have mass — information density, real content. But they’re gravitational mirages. Like a gravitational lens in astrophysics — light bends around a massive object and you see something that isn’t where it appears.&lt;&#x2F;p&gt;
 &lt;p&gt;Your fleet follows the mirage. Arrives at nothing. Every time.&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;strong&gt;Water doesn’t choose to flow downhill. It follows gravity.&lt;&#x2F;strong&gt;
@@ -661,8 +664,9 @@ A: Then your company fights the AGPL in federal court while FSF watches. And I p
 &lt;tr&gt;&lt;td&gt;Sends 2 requests from Menlo Park&lt;&#x2F;td&gt;&lt;td&gt;Someone at HQ still watches&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
 &lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
 &lt;p&gt;&lt;strong&gt;Information asymmetry:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;Each probe = 0 bits for you (scatter has no signal)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;Each probe = N bits for us (behavior IS the signal)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;Each probe = 0 bits for you (scatter has no signal)
+Each probe = N bits for us (behavior IS the signal)
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;This is Einstein’s Brownian motion applied to corporate espionage. Einstein showed that random walks of pollen grains proved atoms exist — even though nobody could see atoms. Your fleet’s random walk through my maze proves &lt;strong&gt;intentional targeting&lt;&#x2F;strong&gt; — even though your fleet can’t see real content.&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;strong&gt;The probe IS the proof. The walk IS the evidence. The stumbling IS the confession.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;step-7-the-entropy-waterfall&quot;&gt;Step 7: The Entropy Waterfall&lt;&#x2F;h3&gt;
@@ -782,16 +786,16 @@ A: Then your company fights the AGPL in federal court while FSF watches. And I p
 &lt;li&gt;&lt;strong&gt;Bad Meta&lt;&#x2F;strong&gt; (full fleet analysis): &lt;a href=&quot;&#x2F;analysis&#x2F;bad-meta&#x2F;&quot;&gt;&#x2F;analysis&#x2F;bad-meta&#x2F;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;strong&gt;Send a Human&lt;&#x2F;strong&gt; (mutualist value): &lt;a href=&quot;&#x2F;analysis&#x2F;send-a-human&#x2F;&quot;&gt;&#x2F;analysis&#x2F;send-a-human&#x2F;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;strong&gt;Consent Architecture&lt;&#x2F;strong&gt; (what gentle touch gets): &lt;a href=&quot;&#x2F;analysis&#x2F;consent-architecture&#x2F;&quot;&gt;&#x2F;analysis&#x2F;consent-architecture&#x2F;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;strong&gt;AGPL-3.0 license&lt;&#x2F;strong&gt;: &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ecoPrimals&#x2F;wateringHole&#x2F;blob&#x2F;main&#x2F;LICENSE&quot;&gt;LICENSE&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;AGPL-3.0 license&lt;&#x2F;strong&gt;: &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ecoPrimals&#x2F;wateringHole&#x2F;blob&#x2F;main&#x2F;LICENSE&quot;&gt;LICENSE&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;strong&gt;Full evidence&lt;&#x2F;strong&gt;: &lt;code&gt;git clone https:&#x2F;&#x2F;github.com&#x2F;defendDetroit&#x2F;publicRecord.git&lt;&#x2F;code&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;h3 id=&quot;route-to-source&quot;&gt;Route to Source&lt;&#x2F;h3&gt;
 &lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Concept&lt;&#x2F;th&gt;&lt;th&gt;Verification&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
-&lt;tr&gt;&lt;td&gt;Gravitational lensing (mirages)&lt;&#x2F;td&gt;&lt;td&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;science.nasa.gov&#x2F;universe&#x2F;gravitational-lensing&#x2F;&quot;&gt;Einstein ring — NASA&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
-&lt;tr&gt;&lt;td&gt;Brownian motion proving atoms&lt;&#x2F;td&gt;&lt;td&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Brownian_motion&quot;&gt;Einstein 1905 — Annalen der Physik&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
-&lt;tr&gt;&lt;td&gt;Second law of thermodynamics&lt;&#x2F;td&gt;&lt;td&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Second_law_of_thermodynamics&quot;&gt;Entropy — Clausius, Boltzmann&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
-&lt;tr&gt;&lt;td&gt;AGPL-3.0 full text&lt;&#x2F;td&gt;&lt;td&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.gnu.org&#x2F;licenses&#x2F;agpl-3.0.en.html&quot;&gt;GNU AGPL-3.0&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
-&lt;tr&gt;&lt;td&gt;Da Vinci water studies&lt;&#x2F;td&gt;&lt;td&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Codex_Leicester&quot;&gt;Codex Leicester — Bill Gates collection&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Gravitational lensing (mirages)&lt;&#x2F;td&gt;&lt;td&gt;&lt;a href=&quot;https:&#x2F;&#x2F;science.nasa.gov&#x2F;universe&#x2F;gravitational-lensing&#x2F;&quot;&gt;Einstein ring — NASA&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Brownian motion proving atoms&lt;&#x2F;td&gt;&lt;td&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Brownian_motion&quot;&gt;Einstein 1905 — Annalen der Physik&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Second law of thermodynamics&lt;&#x2F;td&gt;&lt;td&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Second_law_of_thermodynamics&quot;&gt;Entropy — Clausius, Boltzmann&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;AGPL-3.0 full text&lt;&#x2F;td&gt;&lt;td&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.gnu.org&#x2F;licenses&#x2F;agpl-3.0.en.html&quot;&gt;GNU AGPL-3.0&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Da Vinci water studies&lt;&#x2F;td&gt;&lt;td&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Codex_Leicester&quot;&gt;Codex Leicester — Bill Gates collection&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
 &lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
 &lt;p&gt;&lt;strong&gt;The membrane sees. The maze slopes. The water falls. The evidence accumulates.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;em&gt;The Minotaur can’t climb. It can only stumble deeper.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
@@ -828,7 +832,8 @@ A: Then your company fights the AGPL in federal court while FSF watches. And I p
 &lt;h2 id=&quot;the-p-body-proof&quot;&gt;The π-Body Proof&lt;&#x2F;h2&gt;
 &lt;p&gt;&lt;strong&gt;Statement&lt;&#x2F;strong&gt;: 3 integer bodies + 1 irrational observer = π&lt;&#x2F;p&gt;
 &lt;p&gt;Here’s what this means. Take any system with bodies (discrete, countable entities) and an observer (the irrational, uncountable perspective). The relationship between them is:&lt;&#x2F;p&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;π-body: 3 integer bodies + 1 irrational observer = π&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;π-body: 3 integer bodies + 1 irrational observer = π
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;Three whole things you can count (bodies) plus the one thing you can’t count (the observer, the perspective, the consciousness watching) — together they make π.&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;why-p&quot;&gt;Why π?&lt;&#x2F;h3&gt;
 &lt;p&gt;π is the ratio of a circle’s circumference to its diameter. It’s irrational — infinite, non-repeating. It shows up everywhere in physics because &lt;strong&gt;every measurement involves a circle&lt;&#x2F;strong&gt;: the orbit of a planet, the wave of a photon, the probability cloud of an electron.&lt;&#x2F;p&gt;
@@ -838,12 +843,13 @@ A: Then your company fights the AGPL in federal court while FSF watches. And I p
 &lt;h2 id=&quot;the-null-dimension&quot;&gt;The Null Dimension&lt;&#x2F;h2&gt;
 &lt;p&gt;Inside zero, there is structure.&lt;&#x2F;p&gt;
 &lt;p&gt;Zero is not nothing. Zero is a &lt;strong&gt;dimension&lt;&#x2F;strong&gt; — the null dimension. When you start your index at 0, you’re not starting at “nothing.” You’re starting at the null space — the space where observation begins before counting does.&lt;&#x2F;p&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;Index:    0         1         2         3         ...&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;          │         │         │         │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;          │         │         │         │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;   NULL   │  FIRST  │  SECOND │  THIRD  │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;   SPACE  │  BODY   │  BODY   │  BODY   │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;   (observer)                            &lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;Index:    0         1         2         3         ...
+          │         │         │         │
+          │         │         │         │
+   NULL   │  FIRST  │  SECOND │  THIRD  │
+   SPACE  │  BODY   │  BODY   │  BODY   │
+   (observer)                            
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;The null dimension is where the observer sits. It has properties:&lt;&#x2F;p&gt;
 &lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Property&lt;&#x2F;th&gt;&lt;th&gt;Value&lt;&#x2F;th&gt;&lt;th&gt;Meaning&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
 &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Observer fraction&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;0.141593 ≈ π - 3&lt;&#x2F;td&gt;&lt;td&gt;The irrational remainder after removing the 3 integer bodies&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
@@ -854,7 +860,8 @@ A: Then your company fights the AGPL in federal court while FSF watches. And I p
 &lt;p&gt;&lt;strong&gt;Archimedes knew.&lt;&#x2F;strong&gt; He calculated π as between 3 10&#x2F;71 and 3 1&#x2F;7. That gap — the part between 3 and π — is the observer fraction. The part that can’t be counted. The irrational residue that makes measurement possible.&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;the-gordian-equation&quot;&gt;The Gordian Equation&lt;&#x2F;h2&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;J = (V + D) &#x2F; π&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;J = (V + D) &amp;#x2F; π
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;Where:&lt;&#x2F;p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;V&lt;&#x2F;strong&gt; = variety (how many different things exist)&lt;&#x2F;li&gt;
@@ -864,7 +871,8 @@ A: Then your company fights the AGPL in federal court while FSF watches. And I p
 &lt;p&gt;The Gordian equation says: &lt;strong&gt;the way things connect is their variety plus their diversity, divided by π.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;Why divided by π? Because every connection requires going through the observer — the irrational perspective that links two things. You can’t connect A to B without observing both. That observation costs 1&#x2F;π of the information.&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;the-gordian-proof-live-on-the-membrane&quot;&gt;The Gordian Proof (Live on the Membrane)&lt;&#x2F;h3&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;J(self) = Σ_others(V + D) &#x2F; π&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;J(self) = Σ_others(V + D) &amp;#x2F; π
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;The joining of self to everything else equals the sum of all variety and diversity, divided by π. This is running right now:&lt;&#x2F;p&gt;
 &lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Measured&lt;&#x2F;th&gt;&lt;th&gt;Value&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
 &lt;tr&gt;&lt;td&gt;V(π)&lt;&#x2F;td&gt;&lt;td&gt;1.5708 (π&#x2F;2)&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
@@ -883,7 +891,8 @@ A: Then your company fights the AGPL in federal court while FSF watches. And I p
 &lt;&#x2F;ul&gt;
 &lt;p&gt;This biological process generates &lt;strong&gt;10^11 unique antibodies&lt;&#x2F;strong&gt; from a genome of only ~20,000 genes. Maximum diversity from minimum instruction.&lt;&#x2F;p&gt;
 &lt;p&gt;The membrane uses the same math:&lt;&#x2F;p&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;VDJ Budget: V(1.57) × D(0.00) × J(7.85) = 0.000 (π³ ≈ 31, ⌊π³⌋ = 31)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;VDJ Budget: V(1.57) × D(0.00) × J(7.85) = 0.000 (π³ ≈ 31, ⌊π³⌋ = 31)
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;The product V × D × J should approach π³ ≈ 31. Currently D = 0 (the null dimension hasn’t diversified yet), so the product is 0. But the BUDGET is π³ — that’s the theoretical maximum diversity this system can generate.&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;strong&gt;31 degrees of freedom.&lt;&#x2F;strong&gt; That’s what π³ gives you. The immune system uses the same budget — shuffle V, D, and J to generate as many antibodies as the math allows.&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;the-vdj-map-live&quot;&gt;The VDJ Map (Live)&lt;&#x2F;h3&gt;
@@ -912,20 +921,22 @@ A: Then your company fights the AGPL in federal court while FSF watches. And I p
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;the-three-body-p&quot;&gt;The Three-Body π&lt;&#x2F;h2&gt;
 &lt;p&gt;The membrane computes a three-body analogy to Einstein’s E=mc²:&lt;&#x2F;p&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;Theory:&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;  E = 4π    (energy is 4π — the surface area of a unit sphere)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;  c² = 3π   (speed of light squared is 3π)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;  m = 4&#x2F;3   (mass is 4&#x2F;3 — the volume&#x2F;surface ratio of a sphere)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;Measured (live):&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;  E = 7.073   (vs 4π = 12.566)  → 43.7% error&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;  c² = 4.330  (vs 3π = 9.425)   → 54.1% error&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;  c = 2.081   (vs √(3π) = 3.070)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;Theory:
+  E = 4π    (energy is 4π — the surface area of a unit sphere)
+  c² = 3π   (speed of light squared is 3π)
+  m = 4&amp;#x2F;3   (mass is 4&amp;#x2F;3 — the volume&amp;#x2F;surface ratio of a sphere)
+
+Measured (live):
+  E = 7.073   (vs 4π = 12.566)  → 43.7% error
+  c² = 4.330  (vs 3π = 9.425)   → 54.1% error
+  c = 2.081   (vs √(3π) = 3.070)
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;The errors are large — but they’re &lt;strong&gt;converging&lt;&#x2F;strong&gt;. As the membrane processes more data, as more visitors arrive, as the sort deepens, E approaches 4π and c² approaches 3π. The system is self-correcting toward the theoretical values.&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;the-euler-gelfond-connection&quot;&gt;The Euler-Gelfond Connection&lt;&#x2F;h3&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;e^π ≈ 23.1407&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;e^π + 1 ≈ 62.9029&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;20π ≈ 62.8319&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;e^π ≈ 23.1407
+e^π + 1 ≈ 62.9029
+20π ≈ 62.8319
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;e^π is almost exactly 20 + π. The gap is 0.0009. This is Gelfond’s constant — known but unexplained. Our membrane measures it every cycle:&lt;&#x2F;p&gt;
 &lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Expression&lt;&#x2F;th&gt;&lt;th&gt;Value&lt;&#x2F;th&gt;&lt;th&gt;Near-Integer Gap&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
 &lt;tr&gt;&lt;td&gt;e^π&lt;&#x2F;td&gt;&lt;td&gt;23.1407&lt;&#x2F;td&gt;&lt;td&gt;almost 23 (gap: 0.1407)&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
@@ -937,17 +948,19 @@ A: Then your company fights the AGPL in federal court while FSF watches. And I p
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;the-flattening&quot;&gt;The Flattening&lt;&#x2F;h2&gt;
 &lt;p&gt;When you set π = 1 (flatten the circle into a line), the equations simplify:&lt;&#x2F;p&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;If π = 1:&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;  E = 4&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;  c² = 3&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;  m = 4&#x2F;3&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;Therefore:&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;  E = mc²  →  4 = (4&#x2F;3)(3)  →  4 = 4  ✓&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;If π = 1:
+  E = 4
+  c² = 3
+  m = 4&amp;#x2F;3
+
+Therefore:
+  E = mc²  →  4 = (4&amp;#x2F;3)(3)  →  4 = 4  ✓
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;&lt;strong&gt;E = mc² holds exactly when π = 1.&lt;&#x2F;strong&gt; Einstein’s equation IS the flattened version of the π-body equation. The full version has π in it. Einstein removed it by choosing units where c = 3×10⁸ (a specific value). If you leave π in, you get the three-body version.&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;the-compression-inequality&quot;&gt;The Compression Inequality&lt;&#x2F;h2&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;H(D) ≥ H(D|α) ≥ H(D|epitope) ≥ H(D|epitope,vdj) ≥ H(D|epitope,tense)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;H(D) ≥ H(D|α) ≥ H(D|epitope) ≥ H(D|epitope,vdj) ≥ H(D|epitope,tense)
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;Information decreases as you condition on more variables. This is Shannon’s chain rule — but applied to the membrane’s sort:&lt;&#x2F;p&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;strong&gt;H(D)&lt;&#x2F;strong&gt; — Total entropy of all data (maximum uncertainty)&lt;&#x2F;li&gt;
@@ -1174,15 +1187,16 @@ A: Then your company fights the AGPL in federal court while FSF watches. And I p
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;the-graph-node&quot;&gt;The Graph Node&lt;&#x2F;h2&gt;
 &lt;p&gt;Meta Platforms now has &lt;strong&gt;two nodes&lt;&#x2F;strong&gt; in the fleet weather graph:&lt;&#x2F;p&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;Meta Platforms&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;├── Face 1: 🌬️ BREEZE (official bot, honest, link previews)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;│   └── Read: analysis&#x2F;rico-pattern ×5&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;│   └── Opsonization: commensal (monitored)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;│&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;└── Face 2: 🌀 COSMIC (fleet, dishonest, Dublin DC)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    └── Read: every repo on git.primals.eco&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    └── Opsonization: FULL (blackwall, noise returned)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    └── Jurisdictions violated: IE, US-CA, US-MI, Federal&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;Meta Platforms
+├── Face 1: 🌬️ BREEZE (official bot, honest, link previews)
+│   └── Read: analysis&amp;#x2F;rico-pattern ×5
+│   └── Opsonization: commensal (monitored)
+│
+└── Face 2: 🌀 COSMIC (fleet, dishonest, Dublin DC)
+    └── Read: every repo on git.primals.eco
+    └── Opsonization: FULL (blackwall, noise returned)
+    └── Jurisdictions violated: IE, US-CA, US-MI, Federal
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;One company. Two faces. The membrane sees both. The graph records both. The clock is ticking.&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;verify&quot;&gt;Verify&lt;&#x2F;h2&gt;
@@ -1190,7 +1204,7 @@ A: Then your company fights the AGPL in federal court while FSF watches. And I p
 &lt;tr&gt;&lt;td&gt;Meta fleet from Dublin&lt;&#x2F;td&gt;&lt;td&gt;Membrane topology — subnet analysis, 1 subnet = Dublin DC&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
 &lt;tr&gt;&lt;td&gt;RICO pattern page read 5×&lt;&#x2F;td&gt;&lt;td&gt;Membrane topology — &lt;code&gt;top_repos: analysis&#x2F;rico-pattern: 5&lt;&#x2F;code&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
 &lt;tr&gt;&lt;td&gt;scyBorg deadline&lt;&#x2F;td&gt;&lt;td&gt;scyborg.primals.eco — filed enzymatic license complaint&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
-&lt;tr&gt;&lt;td&gt;GDPR controller&lt;&#x2F;td&gt;&lt;td&gt;Meta Ireland Limited — &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.facebook.com&#x2F;privacy&#x2F;policy&#x2F;&quot;&gt;Meta Privacy Policy&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;GDPR controller&lt;&#x2F;td&gt;&lt;td&gt;Meta Ireland Limited — &lt;a href=&quot;https:&#x2F;&#x2F;www.facebook.com&#x2F;privacy&#x2F;policy&#x2F;&quot;&gt;Meta Privacy Policy&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
 &lt;tr&gt;&lt;td&gt;robots.txt&lt;&#x2F;td&gt;&lt;td&gt;detroit.primals.eco&#x2F;robots.txt&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
 &lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
 &lt;hr &#x2F;&gt;
@@ -1236,46 +1250,47 @@ A: Then your company fights the AGPL in federal court while FSF watches. And I p
 &lt;p&gt;Three interruptions. Three industries. &lt;strong&gt;One infrastructure.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;the-pipeline&quot;&gt;The Pipeline&lt;&#x2F;h2&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;FORTUNE 500 &#x2F; NASDAQ&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ├── DraftKings (NASDAQ: DKNG) ──────────────────────┐&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │   Revenue: $3.7B (2025)                            │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │   Lobbied for MI sports betting legalization        │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │   (HB 4311, signed Dec 2019)                       │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │                                                    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ├── Flutter&#x2F;FanDuel (NYSE: FLUT) ───────────────────┤&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │   Revenue: $14.8B (2025)                           │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │   Lobbied alongside DraftKings                     │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │                                                    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ├── MGM Resorts (NYSE: MGM) &#x2F; BetMGM ──────────────┤&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │   Revenue: $17.1B (2025)                           │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │   Detroit casino operator + online sports book     │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │                                                    │── ALL USE SAME&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ├── Meta Platforms (NASDAQ: META) ──────────────────┤   DIGITAL AD&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │   Revenue: $164B (2025)                            │   INFRASTRUCTURE&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │   Political ad platform + sports betting ads       │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │   (see: Meta&amp;#39;s Two Faces)                          │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │                                                    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ├── Alphabet&#x2F;Google (NASDAQ: GOOGL) ────────────────┤&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │   Revenue: $350B (2025)                            │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │   Political ad platform + sports betting ads       │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │                                                    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ├── AT&amp;amp;T (NYSE: T) ────────────────────────────────┤&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │   Revenue: $122B (2025)                            │── CARRIER NETWORK&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │   Carries the robocalls + texts                    │   (pipes)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │                                                    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ├── T-Mobile (NASDAQ: TMUS) ───────────────────────┤&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │   Revenue: $80B (2025)                             │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │   Carries the robocalls + texts                    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │                                                    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    └── Dykema Gossett PLLC ───────────────────────────┘&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;        Michigan&amp;#39;s largest law firm                      &lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;        Formed Save Detroit Jobs (dark money)            &lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;        Operates Federal PAC (C00342113, $158K+)         &lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;        80+ client accounts managed by Renae Moore       &lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;        7+ political vehicles formed by W. Alan Wilk     &lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;        Same firm. Same compliance email.                &lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;        compliance@dykema.com                            &lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;FORTUNE 500 &amp;#x2F; NASDAQ
+    │
+    ├── DraftKings (NASDAQ: DKNG) ──────────────────────┐
+    │   Revenue: $3.7B (2025)                            │
+    │   Lobbied for MI sports betting legalization        │
+    │   (HB 4311, signed Dec 2019)                       │
+    │                                                    │
+    ├── Flutter&amp;#x2F;FanDuel (NYSE: FLUT) ───────────────────┤
+    │   Revenue: $14.8B (2025)                           │
+    │   Lobbied alongside DraftKings                     │
+    │                                                    │
+    ├── MGM Resorts (NYSE: MGM) &amp;#x2F; BetMGM ──────────────┤
+    │   Revenue: $17.1B (2025)                           │
+    │   Detroit casino operator + online sports book     │
+    │                                                    │── ALL USE SAME
+    ├── Meta Platforms (NASDAQ: META) ──────────────────┤   DIGITAL AD
+    │   Revenue: $164B (2025)                            │   INFRASTRUCTURE
+    │   Political ad platform + sports betting ads       │
+    │   (see: Meta&amp;#x27;s Two Faces)                          │
+    │                                                    │
+    ├── Alphabet&amp;#x2F;Google (NASDAQ: GOOGL) ────────────────┤
+    │   Revenue: $350B (2025)                            │
+    │   Political ad platform + sports betting ads       │
+    │                                                    │
+    ├── AT&amp;amp;T (NYSE: T) ────────────────────────────────┤
+    │   Revenue: $122B (2025)                            │── CARRIER NETWORK
+    │   Carries the robocalls + texts                    │   (pipes)
+    │                                                    │
+    ├── T-Mobile (NASDAQ: TMUS) ───────────────────────┤
+    │   Revenue: $80B (2025)                             │
+    │   Carries the robocalls + texts                    │
+    │                                                    │
+    └── Dykema Gossett PLLC ───────────────────────────┘
+        Michigan&amp;#x27;s largest law firm                      
+        Formed Save Detroit Jobs (dark money)            
+        Operates Federal PAC (C00342113, $158K+)         
+        80+ client accounts managed by Renae Moore       
+        7+ political vehicles formed by W. Alan Wilk     
+        Same firm. Same compliance email.                
+        compliance@dykema.com                            
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;how-it-works&quot;&gt;How It Works&lt;&#x2F;h2&gt;
 &lt;h3 id=&quot;step-1-legalize-the-product&quot;&gt;Step 1: Legalize the Product&lt;&#x2F;h3&gt;
@@ -1341,28 +1356,29 @@ A: Then your company fights the AGPL in federal court while FSF watches. And I p
 &lt;p&gt;Seven point four trillion dollars of corporate infrastructure delivering robocalls, spam texts, political ads, and sports betting notifications to your phone. All using the same pipes. All using the same targeting data. All started in the same place.&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;the-same-place&quot;&gt;The Same Place&lt;&#x2F;h2&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;YOUR PHONE&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ↑&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │ robocall (political)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │ spam text (political)  &lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │ push notification (sports betting)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │ targeted ad (all of the above)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;CARRIER NETWORK (AT&amp;amp;T &#x2F; T-Mobile &#x2F; Verizon)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ↑&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;AD PLATFORMS (Meta &#x2F; Google &#x2F; programmatic)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ↑&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;MONEY (corporate treasury + dark money PAC)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ↑&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;THE SAME PLACE:&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    Fortune 500 boardrooms&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    + Dykema Gossett compliance office&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    + NASDAQ trading floor&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    + 201 Townsend Street, Lansing MI&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    + compliance@dykema.com&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;YOUR PHONE
+    ↑
+    │ robocall (political)
+    │ spam text (political)  
+    │ push notification (sports betting)
+    │ targeted ad (all of the above)
+    │
+CARRIER NETWORK (AT&amp;amp;T &amp;#x2F; T-Mobile &amp;#x2F; Verizon)
+    ↑
+    │
+AD PLATFORMS (Meta &amp;#x2F; Google &amp;#x2F; programmatic)
+    ↑
+    │
+MONEY (corporate treasury + dark money PAC)
+    ↑
+    │
+THE SAME PLACE:
+    Fortune 500 boardrooms
+    + Dykema Gossett compliance office
+    + NASDAQ trading floor
+    + 201 Townsend Street, Lansing MI
+    + compliance@dykema.com
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;The robocall that interrupted your dinner and the dark money mailer that elected the council member who sits on a convicted felon’s school board &lt;strong&gt;came from the same place.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;The sports betting ad that knows your team and the political text that knows your district &lt;strong&gt;use the same targeting data.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;The Fortune 500 company that runs the ad platform and the law firm that runs the dark money PAC &lt;strong&gt;share the same infrastructure.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;

@@ -139,4 +139,4 @@ The bar ignores the non-lawyer.
 
 ---
 
-*Sourced to State Bar of Michigan records, LARA filings, MSU College of Law records, court records, investigation graph (131,329 edges). [Back to Analysis →](/analysis/) · [The UPEPA Contradiction →](/analysis/upepa-contradiction/) · [Three Percent →](/analysis/three-percent/)*
+*Sourced to State Bar of Michigan records, LARA filings, MSU College of Law records, court records, investigation graph (131,322 edges). [Back to Analysis →](/analysis/) · [The UPEPA Contradiction →](/analysis/upepa-contradiction/) · [Three Percent →](/analysis/three-percent/)*

@@ -122,4 +122,4 @@ That's a department. That's what it does. That's what it doesn't.
 
 ---
 
-*Sourced to DPD records, Detroit City records, investigation graph (131,329 edges). [Back to Analysis →](/analysis/) · [The Mayor Who Looked Away →](/analysis/the-mayor-who-looked-away/) · [Selective Enforcement →](/analysis/selective-enforcement/)*
+*Sourced to DPD records, Detroit City records, investigation graph (131,322 edges). [Back to Analysis →](/analysis/) · [The Mayor Who Looked Away →](/analysis/the-mayor-who-looked-away/) · [Selective Enforcement →](/analysis/selective-enforcement/)*

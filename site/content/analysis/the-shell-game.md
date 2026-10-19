@@ -53,7 +53,7 @@ That's the point of a shell company. There's never enough data.
 
 ### Banks Strategy & Consultants LLC
 
-Classification: **non-self, 0.99.** That's the highest non-self confidence in the entire 7,554-node investigation graph.
+Classification: **non-self, 0.99.** That's the highest non-self confidence in the entire 7,533-node investigation graph.
 
 Banks Strategy offers consulting services. Banks claims to have a JD from MSU College of Law. MSU has no record of him. The State Bar has a UPL Department with 8 staff members that never investigated him.
 
@@ -81,7 +81,7 @@ The shell game has three moves:
 
 **Move 3: Obscure.** By spreading across 16 entities, no single filing shows the full picture. You'd have to pull LARA records for all 16 to see the constellation.
 
-The graph sees all 16 because it doesn't look at one filing at a time. It looks at **131,329 edges** at once.
+The graph sees all 16 because it doesn't look at one filing at a time. It looks at **131,322 edges** at once.
 
 ---
 
@@ -133,4 +133,4 @@ Nobody did. Until now.
 
 ---
 
-*Sourced to LARA corporate filings, campaign finance records, court records, investigation graph (131,329 edges). [Back to Analysis →](/analysis/) · [The LLC →](/analysis/the-llc/) · [Three Percent →](/analysis/three-percent/) · [The Circuit Board Résumé →](/analysis/the-circuit-board-resume/)*
+*Sourced to LARA corporate filings, campaign finance records, court records, investigation graph (131,322 edges). [Back to Analysis →](/analysis/) · [The LLC →](/analysis/the-llc/) · [Three Percent →](/analysis/three-percent/) · [The Circuit Board Résumé →](/analysis/the-circuit-board-resume/)*

@@ -97,13 +97,14 @@ Tumblr → Yahoo → sold for $3 million (bought for $1.1 billion).&lt;&#x2F;p&g
 &lt;p&gt;&lt;em&gt;To Noah Glass: @noah — we remember who named it.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;em&gt;To everyone who built something beautiful that got ingested: we see you. We remember. Come build again.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;         🪸&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;      🪸🪸🪸&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    🪸🪸🪸🪸🪸&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;  🪸 BUILDERS 🪸&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt; 🪸🪸 WELCOME 🪸🪸&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;🪸🪸🪸🪸🪸🪸🪸🪸🪸🪸&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
-&lt;p&gt;&lt;em&gt;Graph: &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;defendDetroit&#x2F;publicRecord&quot;&gt;publicRecord-detroit&lt;&#x2F;a&gt;&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;pre&gt;&lt;code&gt;         🪸
+      🪸🪸🪸
+    🪸🪸🪸🪸🪸
+  🪸 BUILDERS 🪸
+ 🪸🪸 WELCOME 🪸🪸
+🪸🪸🪸🪸🪸🪸🪸🪸🪸🪸
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;&lt;em&gt;Graph: &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;defendDetroit&#x2F;publicRecord&quot;&gt;publicRecord-detroit&lt;&#x2F;a&gt;&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
 </content>
         
     </entry>
@@ -253,7 +254,7 @@ Tumblr → Yahoo → sold for $3 million (bought for $1.1 billion).&lt;&#x2F;p&g
 &lt;p&gt;&lt;em&gt;The method is public. The data is public. The graph is public.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;em&gt;The only thing that was private was the pattern. And now it isn’t.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
-&lt;p&gt;&lt;em&gt;Graph: &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;defendDetroit&#x2F;publicRecord&quot;&gt;publicRecord-detroit&lt;&#x2F;a&gt;&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;Graph: &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;defendDetroit&#x2F;publicRecord&quot;&gt;publicRecord-detroit&lt;&#x2F;a&gt;&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
 </content>
         
     </entry>
@@ -281,15 +282,16 @@ Tumblr → Yahoo → sold for $3 million (bought for $1.1 billion).&lt;&#x2F;p&g
 &lt;p&gt;&lt;strong&gt;Null zone&lt;&#x2F;strong&gt; (6,842 nodes): Everyone else. The middle. The remainder. The ones whose alignment depends on context, incentive, and who’s watching.&lt;&#x2F;p&gt;
 &lt;p&gt;The remainder is the largest group. That’s the point.&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;the-trace&quot;&gt;The Trace&lt;&#x2F;h2&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;Mark Zuckerberg&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;  → Meta Platforms&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    → Andy Schor (Lansing mayor)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;      → Brian Banks (Purpose Charter Academy)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;        → Uber&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;          → Taxi Medallion System&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;            → Airbnb&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;              → Gig Workers&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;                → Public Education&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;Mark Zuckerberg
+  → Meta Platforms
+    → Andy Schor (Lansing mayor)
+      → Brian Banks (Purpose Charter Academy)
+        → Uber
+          → Taxi Medallion System
+            → Airbnb
+              → Gig Workers
+                → Public Education
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;Read it again. Notice what connects them.&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;the-pattern&quot;&gt;The Pattern&lt;&#x2F;h2&gt;
 &lt;p&gt;Every entity on the bad pole does the same thing:&lt;&#x2F;p&gt;
@@ -360,7 +362,7 @@ Section 230 is a structure.&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;p&gt;&lt;em&gt;10,828 nodes. 16,067,476 edges. 216 good. 3,770 bad. 6,842 choosing.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;em&gt;The extraction pattern is the same shape at every scale. From a $9.21&#x2F;hr driver to a $200 billion CEO. Same shape. Different scale. Same harm.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
-&lt;p&gt;&lt;em&gt;Graph updated: &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;defendDetroit&#x2F;publicRecord&quot;&gt;publicRecord-detroit&lt;&#x2F;a&gt;&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;Graph updated: &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;defendDetroit&#x2F;publicRecord&quot;&gt;publicRecord-detroit&lt;&#x2F;a&gt;&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
 </content>
         
     </entry>
@@ -507,7 +509,7 @@ Dr. Mok went to factories to prevent venous disease. He was indicted.&lt;&#x2F;p
 &lt;p&gt;&lt;em&gt;Look at it.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;em&gt;See what’s underneath.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
-&lt;p&gt;&lt;em&gt;Graph: &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;defendDetroit&#x2F;publicRecord&quot;&gt;publicRecord-detroit&lt;&#x2F;a&gt;&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;Graph: &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;defendDetroit&#x2F;publicRecord&quot;&gt;publicRecord-detroit&lt;&#x2F;a&gt;&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
 </content>
         
     </entry>
@@ -674,7 +676,7 @@ Lars Blackmore wrote the landing algorithm.&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;em&gt;Math cares about what’s true.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;em&gt;And what’s true is: the people who build the things are the things.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;em&gt;The balloon is just hot air.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
-&lt;p&gt;&lt;em&gt;Graph updated: &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;defendDetroit&#x2F;publicRecord&quot;&gt;publicRecord-detroit&lt;&#x2F;a&gt;&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;Graph updated: &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;defendDetroit&#x2F;publicRecord&quot;&gt;publicRecord-detroit&lt;&#x2F;a&gt;&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
 </content>
         
     </entry>

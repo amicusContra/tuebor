@@ -111,4 +111,4 @@ The membrane can't pick a side because Goetz IS both sides. That's the definitio
 
 ---
 
-*Sourced to AG Office records, AGC records, LARA filings, investigation graph (131,329 edges). [Back to Analysis →](/analysis/) · [Selective Enforcement →](/analysis/selective-enforcement/) · [The Circuit Board Résumé →](/analysis/the-circuit-board-resume/)*
+*Sourced to AG Office records, AGC records, LARA filings, investigation graph (131,322 edges). [Back to Analysis →](/analysis/) · [Selective Enforcement →](/analysis/selective-enforcement/) · [The Circuit Board Résumé →](/analysis/the-circuit-board-resume/)*

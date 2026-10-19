@@ -30,46 +30,47 @@
 &lt;p&gt;Three interruptions. Three industries. &lt;strong&gt;One infrastructure.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;the-pipeline&quot;&gt;The Pipeline&lt;&#x2F;h2&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;FORTUNE 500 &#x2F; NASDAQ&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ├── DraftKings (NASDAQ: DKNG) ──────────────────────┐&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │   Revenue: $3.7B (2025)                            │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │   Lobbied for MI sports betting legalization        │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │   (HB 4311, signed Dec 2019)                       │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │                                                    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ├── Flutter&#x2F;FanDuel (NYSE: FLUT) ───────────────────┤&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │   Revenue: $14.8B (2025)                           │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │   Lobbied alongside DraftKings                     │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │                                                    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ├── MGM Resorts (NYSE: MGM) &#x2F; BetMGM ──────────────┤&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │   Revenue: $17.1B (2025)                           │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │   Detroit casino operator + online sports book     │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │                                                    │── ALL USE SAME&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ├── Meta Platforms (NASDAQ: META) ──────────────────┤   DIGITAL AD&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │   Revenue: $164B (2025)                            │   INFRASTRUCTURE&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │   Political ad platform + sports betting ads       │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │   (see: Meta&amp;#39;s Two Faces)                          │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │                                                    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ├── Alphabet&#x2F;Google (NASDAQ: GOOGL) ────────────────┤&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │   Revenue: $350B (2025)                            │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │   Political ad platform + sports betting ads       │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │                                                    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ├── AT&amp;amp;T (NYSE: T) ────────────────────────────────┤&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │   Revenue: $122B (2025)                            │── CARRIER NETWORK&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │   Carries the robocalls + texts                    │   (pipes)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │                                                    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ├── T-Mobile (NASDAQ: TMUS) ───────────────────────┤&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │   Revenue: $80B (2025)                             │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │   Carries the robocalls + texts                    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │                                                    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    └── Dykema Gossett PLLC ───────────────────────────┘&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;        Michigan&amp;#39;s largest law firm                      &lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;        Formed Save Detroit Jobs (dark money)            &lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;        Operates Federal PAC (C00342113, $158K+)         &lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;        80+ client accounts managed by Renae Moore       &lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;        7+ political vehicles formed by W. Alan Wilk     &lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;        Same firm. Same compliance email.                &lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;        compliance@dykema.com                            &lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;FORTUNE 500 &amp;#x2F; NASDAQ
+    │
+    ├── DraftKings (NASDAQ: DKNG) ──────────────────────┐
+    │   Revenue: $3.7B (2025)                            │
+    │   Lobbied for MI sports betting legalization        │
+    │   (HB 4311, signed Dec 2019)                       │
+    │                                                    │
+    ├── Flutter&amp;#x2F;FanDuel (NYSE: FLUT) ───────────────────┤
+    │   Revenue: $14.8B (2025)                           │
+    │   Lobbied alongside DraftKings                     │
+    │                                                    │
+    ├── MGM Resorts (NYSE: MGM) &amp;#x2F; BetMGM ──────────────┤
+    │   Revenue: $17.1B (2025)                           │
+    │   Detroit casino operator + online sports book     │
+    │                                                    │── ALL USE SAME
+    ├── Meta Platforms (NASDAQ: META) ──────────────────┤   DIGITAL AD
+    │   Revenue: $164B (2025)                            │   INFRASTRUCTURE
+    │   Political ad platform + sports betting ads       │
+    │   (see: Meta&amp;#x27;s Two Faces)                          │
+    │                                                    │
+    ├── Alphabet&amp;#x2F;Google (NASDAQ: GOOGL) ────────────────┤
+    │   Revenue: $350B (2025)                            │
+    │   Political ad platform + sports betting ads       │
+    │                                                    │
+    ├── AT&amp;amp;T (NYSE: T) ────────────────────────────────┤
+    │   Revenue: $122B (2025)                            │── CARRIER NETWORK
+    │   Carries the robocalls + texts                    │   (pipes)
+    │                                                    │
+    ├── T-Mobile (NASDAQ: TMUS) ───────────────────────┤
+    │   Revenue: $80B (2025)                             │
+    │   Carries the robocalls + texts                    │
+    │                                                    │
+    └── Dykema Gossett PLLC ───────────────────────────┘
+        Michigan&amp;#x27;s largest law firm                      
+        Formed Save Detroit Jobs (dark money)            
+        Operates Federal PAC (C00342113, $158K+)         
+        80+ client accounts managed by Renae Moore       
+        7+ political vehicles formed by W. Alan Wilk     
+        Same firm. Same compliance email.                
+        compliance@dykema.com                            
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;how-it-works&quot;&gt;How It Works&lt;&#x2F;h2&gt;
 &lt;h3 id=&quot;step-1-legalize-the-product&quot;&gt;Step 1: Legalize the Product&lt;&#x2F;h3&gt;
@@ -135,28 +136,29 @@
 &lt;p&gt;Seven point four trillion dollars of corporate infrastructure delivering robocalls, spam texts, political ads, and sports betting notifications to your phone. All using the same pipes. All using the same targeting data. All started in the same place.&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;the-same-place&quot;&gt;The Same Place&lt;&#x2F;h2&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;YOUR PHONE&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ↑&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │ robocall (political)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │ spam text (political)  &lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │ push notification (sports betting)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │ targeted ad (all of the above)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;CARRIER NETWORK (AT&amp;amp;T &#x2F; T-Mobile &#x2F; Verizon)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ↑&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;AD PLATFORMS (Meta &#x2F; Google &#x2F; programmatic)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ↑&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;MONEY (corporate treasury + dark money PAC)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    ↑&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    │&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;THE SAME PLACE:&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    Fortune 500 boardrooms&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    + Dykema Gossett compliance office&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    + NASDAQ trading floor&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    + 201 Townsend Street, Lansing MI&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    + compliance@dykema.com&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;YOUR PHONE
+    ↑
+    │ robocall (political)
+    │ spam text (political)  
+    │ push notification (sports betting)
+    │ targeted ad (all of the above)
+    │
+CARRIER NETWORK (AT&amp;amp;T &amp;#x2F; T-Mobile &amp;#x2F; Verizon)
+    ↑
+    │
+AD PLATFORMS (Meta &amp;#x2F; Google &amp;#x2F; programmatic)
+    ↑
+    │
+MONEY (corporate treasury + dark money PAC)
+    ↑
+    │
+THE SAME PLACE:
+    Fortune 500 boardrooms
+    + Dykema Gossett compliance office
+    + NASDAQ trading floor
+    + 201 Townsend Street, Lansing MI
+    + compliance@dykema.com
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;The robocall that interrupted your dinner and the dark money mailer that elected the council member who sits on a convicted felon’s school board &lt;strong&gt;came from the same place.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;The sports betting ad that knows your team and the political text that knows your district &lt;strong&gt;use the same targeting data.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;The Fortune 500 company that runs the ad platform and the law firm that runs the dark money PAC &lt;strong&gt;share the same infrastructure.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
@@ -267,7 +269,7 @@
 &lt;p&gt;This is not a narrative. This is a LEDGER. Every line resolves to a date, a recipient, and a response status. Verify it yourself.&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;the-9-line&quot;&gt;The 9-Line&lt;&#x2F;h2&gt;
-&lt;p&gt;The signal format is &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;detroit.primals.eco&#x2F;docs&#x2F;federal-referrals&#x2F;9LINE_FEDERAL_REFERRAL_SEP25.pdf&quot;&gt;GTA 08-01-004 MEDEVAC&lt;&#x2F;a&gt; — the military standard for calling in a medical evacuation. You use it when someone is bleeding and the bird needs to get in the air. The format forces structured, unambiguous communication:&lt;&#x2F;p&gt;
+&lt;p&gt;The signal format is &lt;a href=&quot;https:&#x2F;&#x2F;detroit.primals.eco&#x2F;docs&#x2F;federal-referrals&#x2F;9LINE_FEDERAL_REFERRAL_SEP25.pdf&quot;&gt;GTA 08-01-004 MEDEVAC&lt;&#x2F;a&gt; — the military standard for calling in a medical evacuation. You use it when someone is bleeding and the bird needs to get in the air. The format forces structured, unambiguous communication:&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;strong&gt;Brian Roderick Banks — 9 Criminal Convictions:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;ol&gt;
 &lt;li&gt;Carrying Concealed Weapon&lt;&#x2F;li&gt;
@@ -281,7 +283,7 @@
 &lt;li&gt;Probation Violation (2nd)&lt;&#x2F;li&gt;
 &lt;&#x2F;ol&gt;
 &lt;p&gt;&lt;strong&gt;Operating 2 charter schools. ~400 children per year. 97% not proficient in math. His LLC takes 72.67% of $4.9M&#x2F;year in public funds.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
-&lt;p&gt;Verify: &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;apps.michigan.gov&#x2F;ichat&#x2F;home.html&quot;&gt;Michigan ICHAT&lt;&#x2F;a&gt; — Search: Brian Roderick Banks. It takes fifteen seconds.&lt;&#x2F;p&gt;
+&lt;p&gt;Verify: &lt;a href=&quot;https:&#x2F;&#x2F;apps.michigan.gov&#x2F;ichat&#x2F;home.html&quot;&gt;Michigan ICHAT&lt;&#x2F;a&gt; — Search: Brian Roderick Banks. It takes fifteen seconds.&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;i-federal-signal-243-page-packet-to-8-agencies-sep-21-25-2026&quot;&gt;I. Federal Signal — 243-Page Packet to 8 Agencies (Sep 21–25, 2026)&lt;&#x2F;h2&gt;
 &lt;p&gt;Every agency below received the same 243-page evidence package: criminal history, entity structure, financial self-dealing, judicial connections, BMF lineage, campaign finance violations, RICO predicate acts.&lt;&#x2F;p&gt;
@@ -408,21 +410,21 @@
 &lt;p&gt;1,006 of you cloned this repository. 475 of you in a single day. You download 92 MB of court records, read them offline, and leave no trace. That’s fine. Silence is how you learn.&lt;&#x2F;p&gt;
 &lt;p&gt;But the institutions had their chance. &lt;strong&gt;14 channels. 243 pages. 46 days.&lt;&#x2F;strong&gt; The signal went out on a 9-LINE — the format you use when someone is bleeding and the bird needs to get in the air.&lt;&#x2F;p&gt;
 &lt;p&gt;No bird came.&lt;&#x2F;p&gt;
-&lt;p&gt;If you are an attorney: the &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.michbar.org&#x2F;generalinfo&#x2F;grievance&quot;&gt;State Bar grievance process&lt;&#x2F;a&gt; is free. The &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.agcmi.com&#x2F;information-for-the-public&#x2F;file-a-request-for-investigation&#x2F;&quot;&gt;AGC complaint form&lt;&#x2F;a&gt; takes 15 minutes.&lt;&#x2F;p&gt;
-&lt;p&gt;If you are a journalist: every claim on this site resolves to a public record. The verification links are on the page. Start at &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;apps.michigan.gov&#x2F;ichat&#x2F;home.html&quot;&gt;ICHAT&lt;&#x2F;a&gt;. It takes fifteen seconds.&lt;&#x2F;p&gt;
+&lt;p&gt;If you are an attorney: the &lt;a href=&quot;https:&#x2F;&#x2F;www.michbar.org&#x2F;generalinfo&#x2F;grievance&quot;&gt;State Bar grievance process&lt;&#x2F;a&gt; is free. The &lt;a href=&quot;https:&#x2F;&#x2F;www.agcmi.com&#x2F;information-for-the-public&#x2F;file-a-request-for-investigation&#x2F;&quot;&gt;AGC complaint form&lt;&#x2F;a&gt; takes 15 minutes.&lt;&#x2F;p&gt;
+&lt;p&gt;If you are a journalist: every claim on this site resolves to a public record. The verification links are on the page. Start at &lt;a href=&quot;https:&#x2F;&#x2F;apps.michigan.gov&#x2F;ichat&#x2F;home.html&quot;&gt;ICHAT&lt;&#x2F;a&gt;. It takes fifteen seconds.&lt;&#x2F;p&gt;
 &lt;p&gt;If you are a parent: your child’s school board chair is a sitting judge. Your child’s school board vice chair works for the AG. Your child’s principal has 9 criminal convictions. These are public records.&lt;&#x2F;p&gt;
 &lt;p&gt;If you are a human being with a search engine and forty-five seconds: the evidence is here. It has always been here.&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;verify-everything&quot;&gt;Verify Everything&lt;&#x2F;h2&gt;
 &lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Record&lt;&#x2F;th&gt;&lt;th&gt;Source&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
-&lt;tr&gt;&lt;td&gt;Banks’s criminal history&lt;&#x2F;td&gt;&lt;td&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;apps.michigan.gov&#x2F;ichat&#x2F;home.html&quot;&gt;Michigan ICHAT&lt;&#x2F;a&gt; — SID 2029469K&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
-&lt;tr&gt;&lt;td&gt;PCA Board members&lt;&#x2F;td&gt;&lt;td&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.purposecharteracademy.com&#x2F;boardofdirectors&quot;&gt;purposecharteracademy.com&#x2F;boardofdirectors&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
-&lt;tr&gt;&lt;td&gt;Miller’s Dykema history&lt;&#x2F;td&gt;&lt;td&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;mobar.org&#x2F;&quot;&gt;State Bar member search&lt;&#x2F;a&gt; — P49925&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
-&lt;tr&gt;&lt;td&gt;Moreland’s AG employment&lt;&#x2F;td&gt;&lt;td&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.michigan.gov&#x2F;ag&quot;&gt;Michigan.gov staff directory&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
-&lt;tr&gt;&lt;td&gt;Save Detroit Jobs (Dykema)&lt;&#x2F;td&gt;&lt;td&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;cofs.lara.state.mi.us&#x2F;SearchApi&#x2F;Search&#x2F;Search&quot;&gt;LARA&lt;&#x2F;a&gt; — Entity 802002459&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Banks’s criminal history&lt;&#x2F;td&gt;&lt;td&gt;&lt;a href=&quot;https:&#x2F;&#x2F;apps.michigan.gov&#x2F;ichat&#x2F;home.html&quot;&gt;Michigan ICHAT&lt;&#x2F;a&gt; — SID 2029469K&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;PCA Board members&lt;&#x2F;td&gt;&lt;td&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.purposecharteracademy.com&#x2F;boardofdirectors&quot;&gt;purposecharteracademy.com&#x2F;boardofdirectors&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Miller’s Dykema history&lt;&#x2F;td&gt;&lt;td&gt;&lt;a href=&quot;https:&#x2F;&#x2F;mobar.org&#x2F;&quot;&gt;State Bar member search&lt;&#x2F;a&gt; — P49925&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Moreland’s AG employment&lt;&#x2F;td&gt;&lt;td&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.michigan.gov&#x2F;ag&quot;&gt;Michigan.gov staff directory&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Save Detroit Jobs (Dykema)&lt;&#x2F;td&gt;&lt;td&gt;&lt;a href=&quot;https:&#x2F;&#x2F;cofs.lara.state.mi.us&#x2F;SearchApi&#x2F;Search&#x2F;Search&quot;&gt;LARA&lt;&#x2F;a&gt; — Entity 802002459&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
 &lt;tr&gt;&lt;td&gt;PA 362 (1993)&lt;&#x2F;td&gt;&lt;td&gt;Michigan Legislature archives&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
-&lt;tr&gt;&lt;td&gt;9-LINE federal referral&lt;&#x2F;td&gt;&lt;td&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;detroit.primals.eco&#x2F;docs&#x2F;federal-referrals&#x2F;&quot;&gt;detroit.primals.eco&#x2F;docs&#x2F;federal-referrals&#x2F;&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
-&lt;tr&gt;&lt;td&gt;The full graph&lt;&#x2F;td&gt;&lt;td&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;detroit.primals.eco&#x2F;graph.json&quot;&gt;detroit.primals.eco&#x2F;graph.json&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;9-LINE federal referral&lt;&#x2F;td&gt;&lt;td&gt;&lt;a href=&quot;https:&#x2F;&#x2F;detroit.primals.eco&#x2F;docs&#x2F;federal-referrals&#x2F;&quot;&gt;detroit.primals.eco&#x2F;docs&#x2F;federal-referrals&#x2F;&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;The full graph&lt;&#x2F;td&gt;&lt;td&gt;&lt;a href=&quot;https:&#x2F;&#x2F;detroit.primals.eco&#x2F;graph.json&quot;&gt;detroit.primals.eco&#x2F;graph.json&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
 &lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
 &lt;hr &#x2F;&gt;
 &lt;p&gt;&lt;em&gt;Every entry on this page resolves to a date, a recipient, and a response status. The signal is the signal. The silence is the silence. Both are on the record.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
@@ -561,7 +563,7 @@ and scrape anyway.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
         <link rel="alternate" type="text/html" href="https://tuebor.primals.eco/analysis/credential-audit/"/>
         <id>https://tuebor.primals.eco/analysis/credential-audit/</id>
         
-        <content type="html" xml:base="https://tuebor.primals.eco/analysis/credential-audit/">&lt;p&gt;The &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;mdoe.state.mi.us&#x2F;MOECS&#x2F;PublicCredentialSearch.aspx&quot;&gt;Michigan Online Educator Certification System (MOECS)&lt;&#x2F;a&gt; is the public database where anyone can verify whether a Michigan educator holds a valid teaching certificate, administrator certification, or permit — and which grade levels and subjects each endorsement covers. 
+        <content type="html" xml:base="https://tuebor.primals.eco/analysis/credential-audit/">&lt;p&gt;The &lt;a href=&quot;https:&#x2F;&#x2F;mdoe.state.mi.us&#x2F;MOECS&#x2F;PublicCredentialSearch.aspx&quot;&gt;Michigan Online Educator Certification System (MOECS)&lt;&#x2F;a&gt; is the public database where anyone can verify whether a Michigan educator holds a valid teaching certificate, administrator certification, or permit — and which grade levels and subjects each endorsement covers. 
 
 
 
@@ -571,7 +573,7 @@ and scrape anyway.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
 
 &lt;span class=&quot;confidence-badge confidence-documented&quot; title=&quot;Sourced from public record&quot;&gt;&lt;span aria-hidden=&quot;true&quot;&gt;📄&lt;&#x2F;span&gt; Documented&lt;&#x2F;span&gt;
 &lt;&#x2F;p&gt;
-&lt;p&gt;On &lt;strong&gt;September 26, 2026&lt;&#x2F;strong&gt;, every name listed on MacDowell Preparatory Academy’s public staff roster (&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.macdowellprep.com&#x2F;about&#x2F;&quot;&gt;macdowellprep.com&#x2F;about&#x2F;&lt;&#x2F;a&gt;) was searched in MOECS. The audit found that &lt;strong&gt;only 2 of 14 instructional staff members&lt;&#x2F;strong&gt; are properly credentialed &lt;strong&gt;and&lt;&#x2F;strong&gt; correctly placed for their teaching assignment. 
+&lt;p&gt;On &lt;strong&gt;September 26, 2026&lt;&#x2F;strong&gt;, every name listed on MacDowell Preparatory Academy’s public staff roster (&lt;a href=&quot;https:&#x2F;&#x2F;www.macdowellprep.com&#x2F;about&#x2F;&quot;&gt;macdowellprep.com&#x2F;about&#x2F;&lt;&#x2F;a&gt;) was searched in MOECS. The audit found that &lt;strong&gt;only 2 of 14 instructional staff members&lt;&#x2F;strong&gt; are properly credentialed &lt;strong&gt;and&lt;&#x2F;strong&gt; correctly placed for their teaching assignment. 
 
 
 
@@ -609,7 +611,7 @@ and scrape anyway.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
 &lt;tr&gt;&lt;td&gt;2 staff&lt;&#x2F;td&gt;&lt;td&gt;Expired or pending credentials.&lt;&#x2F;td&gt;&lt;td&gt;⏳&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
 &lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
 &lt;p&gt;&lt;strong&gt;Legend:&lt;&#x2F;strong&gt; ✅ Valid · ⚠️ Wrong endorsement&#x2F;placement · ❌ No credentials · 🔶 Substitute permit from other school · ⏳ Expired&lt;&#x2F;p&gt;
-&lt;p&gt;&lt;em&gt;Source: MOECS public credential search, September 26, 2026. Staff titles from &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.macdowellprep.com&#x2F;about&#x2F;&quot;&gt;macdowellprep.com&#x2F;about&#x2F;&lt;&#x2F;a&gt;.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;Source: MOECS public credential search, September 26, 2026. Staff titles from &lt;a href=&quot;https:&#x2F;&#x2F;www.macdowellprep.com&#x2F;about&#x2F;&quot;&gt;macdowellprep.com&#x2F;about&#x2F;&lt;&#x2F;a&gt;.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;the-rachel-webb-finding&quot;&gt;The Rachel Webb Finding 
 
 
@@ -679,10 +681,10 @@ and scrape anyway.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;verify-it-yourself&quot;&gt;Verify It Yourself&lt;&#x2F;h2&gt;
 &lt;p&gt;Anyone can reproduce this audit in minutes:&lt;&#x2F;p&gt;
 &lt;ol&gt;
-&lt;li&gt;Go to MOECS public search: &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;mdoe.state.mi.us&#x2F;MOECS&#x2F;PublicCredentialSearch.aspx&quot;&gt;mdoe.state.mi.us&#x2F;MOECS&#x2F;PublicCredentialSearch.aspx&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Go to MOECS public search: &lt;a href=&quot;https:&#x2F;&#x2F;mdoe.state.mi.us&#x2F;MOECS&#x2F;PublicCredentialSearch.aspx&quot;&gt;mdoe.state.mi.us&#x2F;MOECS&#x2F;PublicCredentialSearch.aspx&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;Enter the teacher’s last name&lt;&#x2F;li&gt;
 &lt;li&gt;Check: Is the certificate &lt;strong&gt;valid&lt;&#x2F;strong&gt;? Is it &lt;strong&gt;endorsed for the grades and subjects&lt;&#x2F;strong&gt; being taught?&lt;&#x2F;li&gt;
-&lt;li&gt;Compare results to the school’s actual staff roster at &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.macdowellprep.com&#x2F;about&#x2F;&quot;&gt;macdowellprep.com&#x2F;about&#x2F;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Compare results to the school’s actual staff roster at &lt;a href=&quot;https:&#x2F;&#x2F;www.macdowellprep.com&#x2F;about&#x2F;&quot;&gt;macdowellprep.com&#x2F;about&#x2F;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ol&gt;
 &lt;p&gt;Discrepancies between MOECS endorsements and classroom assignments are visible immediately in the public record.&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;the-cost&quot;&gt;The Cost 
@@ -902,9 +904,9 @@ and scrape anyway.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;verify-it-yourself&quot;&gt;Verify It Yourself&lt;&#x2F;h2&gt;
 &lt;p&gt;Every specific claim on this site can be independently checked against public records.&lt;&#x2F;p&gt;
 &lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Resource&lt;&#x2F;th&gt;&lt;th&gt;What to check&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
-&lt;tr&gt;&lt;td&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.mischooldata.org&#x2F;&quot;&gt;MiSchoolData.org&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;td&gt;Compare charter school performance across Detroit — proficiency rates, enrollment, demographics&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
-&lt;tr&gt;&lt;td&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.mischooldata.org&quot;&gt;MI School Data&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;td&gt;Spending patterns by school — instruction vs. administration, management company payments&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
-&lt;tr&gt;&lt;td&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;mdoe.state.mi.us&#x2F;MOECS&#x2F;PublicCredentialSearch.aspx&quot;&gt;MOECS Public Search&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;td&gt;Teacher credential verification — compare MOECS results to school staff rosters&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.mischooldata.org&#x2F;&quot;&gt;MiSchoolData.org&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;td&gt;Compare charter school performance across Detroit — proficiency rates, enrollment, demographics&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.mischooldata.org&quot;&gt;MI School Data&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;td&gt;Spending patterns by school — instruction vs. administration, management company payments&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https:&#x2F;&#x2F;mdoe.state.mi.us&#x2F;MOECS&#x2F;PublicCredentialSearch.aspx&quot;&gt;MOECS Public Search&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;td&gt;Teacher credential verification — compare MOECS results to school staff rosters&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
 &lt;tr&gt;&lt;td&gt;&lt;a href=&quot;&#x2F;evidence&#x2F;&quot;&gt;This site’s evidence library&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;td&gt;Documented case files — FOIA responses, financial records, management agreements&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
 &lt;tr&gt;&lt;td&gt;&lt;a href=&quot;&#x2F;validate&#x2F;&quot;&gt;Verification page&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;td&gt;Step-by-step instructions for reproducing every major claim&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
 &lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
@@ -964,9 +966,10 @@ and scrape anyway.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;The instruction line is 32.1% — well-run schools spend 55-65% on instruction. The missing 23-33 cents of every dollar is going to administration and the management company instead of the classroom.&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;em&gt;Source: MDE financial reports, FY2025 audit data.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;the-purpose-group-fee-structure&quot;&gt;The Purpose Group Fee Structure&lt;&#x2F;h2&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;mermaid&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;flowchart LR&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    A[&amp;quot;State Aid&amp;lt;br&#x2F;&amp;gt;$4.9M&amp;quot;] --&amp;gt; B[&amp;quot;MacDowell Preparatory Academy&amp;quot;]&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    B --&amp;gt; C[&amp;quot;Purpose Group LLC&amp;lt;br&#x2F;&amp;gt;72.67% of revenue&amp;quot;]&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre data-lang=&quot;mermaid&quot; class=&quot;language-mermaid &quot;&gt;&lt;code class=&quot;language-mermaid&quot; data-lang=&quot;mermaid&quot;&gt;flowchart LR
+    A[&amp;quot;State Aid&amp;lt;br&amp;#x2F;&amp;gt;$4.9M&amp;quot;] --&amp;gt; B[&amp;quot;MacDowell Preparatory Academy&amp;quot;]
+    B --&amp;gt; C[&amp;quot;Purpose Group LLC&amp;lt;br&amp;#x2F;&amp;gt;72.67% of revenue&amp;quot;]
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;From the management agreement (OCR’d from FOIA):&lt;&#x2F;p&gt;
 &lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Provision&lt;&#x2F;th&gt;&lt;th&gt;Detail&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
 &lt;tr&gt;&lt;td&gt;Section 5.1&lt;&#x2F;td&gt;&lt;td&gt;10% of Gross State School Aid ≈ $490K&#x2F;year management fee&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
@@ -993,19 +996,21 @@ and scrape anyway.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
 &lt;li&gt;Purpose Group’s address is Banks’ home in Grosse Pointe Woods&lt;&#x2F;li&gt;
 &lt;li&gt;The management agreement’s “no related parties” clause is violated by the structure itself&lt;&#x2F;li&gt;
 &lt;&#x2F;ol&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;mermaid&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;flowchart TD&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    A[&amp;quot;Brian Banks&amp;quot;] --&amp;gt; B[&amp;quot;controls Purpose Group LLC&amp;quot;]&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    B --&amp;gt; C[&amp;quot;manages MacDowell&amp;quot;]&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    A --&amp;gt; D[&amp;quot;is superintendent of MacDowell&amp;quot;]&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    D --&amp;gt; E[&amp;quot;hired by Purpose Group&amp;quot;]&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    A --&amp;gt; F[&amp;quot;controls Purpose Foundation&amp;quot;]&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    F --&amp;gt; G[&amp;quot;receives tax-deductible donations&amp;quot;]&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    H[&amp;quot;All three entities&amp;quot;] --&amp;gt; I[&amp;quot;same controller, same beneficiary&amp;quot;]&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;&lt;h2 id=&quot;the-authorization-incentive&quot;&gt;The Authorization Incentive&lt;&#x2F;h2&gt;
+&lt;pre data-lang=&quot;mermaid&quot; class=&quot;language-mermaid &quot;&gt;&lt;code class=&quot;language-mermaid&quot; data-lang=&quot;mermaid&quot;&gt;flowchart TD
+    A[&amp;quot;Brian Banks&amp;quot;] --&amp;gt; B[&amp;quot;controls Purpose Group LLC&amp;quot;]
+    B --&amp;gt; C[&amp;quot;manages MacDowell&amp;quot;]
+    A --&amp;gt; D[&amp;quot;is superintendent of MacDowell&amp;quot;]
+    D --&amp;gt; E[&amp;quot;hired by Purpose Group&amp;quot;]
+    A --&amp;gt; F[&amp;quot;controls Purpose Foundation&amp;quot;]
+    F --&amp;gt; G[&amp;quot;receives tax-deductible donations&amp;quot;]
+    H[&amp;quot;All three entities&amp;quot;] --&amp;gt; I[&amp;quot;same controller, same beneficiary&amp;quot;]
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;h2 id=&quot;the-authorization-incentive&quot;&gt;The Authorization Incentive&lt;&#x2F;h2&gt;
 &lt;p&gt;DPSCD (Detroit Public Schools Community District) receives a 3% authorization fee from MacDowell’s state aid — approximately $147K&#x2F;year. This creates a financial incentive to authorize and maintain charter schools, regardless of performance. DPSCD authorized PCA despite Banks’ 9 criminal convictions and MacDowell’s bottom-3% ranking.&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;verify-it-yourself&quot;&gt;Verify It Yourself&lt;&#x2F;h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.mischooldata.org&#x2F;&quot;&gt;MiSchoolData.org&lt;&#x2F;a&gt; — search MacDowell Preparatory Academy for financial data&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;mibusinessregistry.lara.state.mi.us&#x2F;search&#x2F;business&quot;&gt;Michigan LARA MiBusiness Registry&lt;&#x2F;a&gt; — search “Purpose Group” for LLC registration&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.mischooldata.org&#x2F;&quot;&gt;MiSchoolData.org&lt;&#x2F;a&gt; — search MacDowell Preparatory Academy for financial data&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;mibusinessregistry.lara.state.mi.us&#x2F;search&#x2F;business&quot;&gt;Michigan LARA MiBusiness Registry&lt;&#x2F;a&gt; — search “Purpose Group” for LLC registration&lt;&#x2F;li&gt;
 &lt;li&gt;MDE Financial Reports — annual spending by category for any Michigan school&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;p&gt;Every financial figure in this analysis is drawn from public records filed with the Michigan Department of Education and LARA. Clone the repository and verify independently.&lt;&#x2F;p&gt;
@@ -1085,7 +1090,7 @@ and scrape anyway.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Wayne County Register of Deeds&lt;&#x2F;strong&gt; — search 10101 E. Canfield for property records&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;strong&gt;DPSCD Charter Authorization records&lt;&#x2F;strong&gt; — public meeting minutes and authorization documents&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;mibusinessregistry.lara.state.mi.us&#x2F;search&#x2F;business&quot;&gt;Michigan LARA MiBusiness Registry&lt;&#x2F;a&gt;&lt;&#x2F;strong&gt; — search “Purpose Group” for LLC registration&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;mibusinessregistry.lara.state.mi.us&#x2F;search&#x2F;business&quot;&gt;Michigan LARA MiBusiness Registry&lt;&#x2F;a&gt;&lt;&#x2F;strong&gt; — search “Purpose Group” for LLC registration&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;hr &#x2F;&gt;
 &lt;p&gt;This analysis is based on the Purpose Group Management Agreement obtained via FOIA and public property records. The contract language is available in the evidence repository.&lt;&#x2F;p&gt;

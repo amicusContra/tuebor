@@ -95,15 +95,17 @@
 &lt;tr&gt;&lt;td&gt;Ashburn, VA&lt;&#x2F;td&gt;&lt;td&gt;8,292&lt;&#x2F;td&gt;&lt;td&gt;AWS us-east-1 (standard cloud)&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
 &lt;tr&gt;&lt;td&gt;Dublin, IE&lt;&#x2F;td&gt;&lt;td&gt;322&lt;&#x2F;td&gt;&lt;td&gt;European presence&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
 &lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
-&lt;p&gt;The “??” country on 2.13 million requests means: &lt;strong&gt;the fleet IPs don’t appear in commercial geolocation databases.&lt;&#x2F;strong&gt; They’re datacenter IPs that haven’t been cataloged. This is either internal Meta infrastructure or rented capacity from a provider that hasn’t published ASN data.&lt;&#x2F;p&gt;
+&lt;p&gt;The “??” country on 2.13 million requests has been resolved. &lt;strong&gt;ASN lookup reveals: AS8075 — Microsoft Corporation.&lt;&#x2F;strong&gt; Atlanta, Georgia datacenter. Usage type: Data Center&#x2F;Web Hosting&#x2F;Transit. Domain: microsoft.com.&lt;&#x2F;p&gt;
 &lt;p&gt;The top subnets tell the story:&lt;&#x2F;p&gt;
 &lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Subnet&lt;&#x2F;th&gt;&lt;th&gt;Requests&lt;&#x2F;th&gt;&lt;th&gt;Note&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
-&lt;tr&gt;&lt;td&gt;74.7.241.x&lt;&#x2F;td&gt;&lt;td&gt;475,578&lt;&#x2F;td&gt;&lt;td&gt;&lt;strong&gt;Fleet primary&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
-&lt;tr&gt;&lt;td&gt;74.7.227.x&lt;&#x2F;td&gt;&lt;td&gt;399,145&lt;&#x2F;td&gt;&lt;td&gt;Fleet secondary&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
-&lt;tr&gt;&lt;td&gt;74.7.242.x&lt;&#x2F;td&gt;&lt;td&gt;291,331&lt;&#x2F;td&gt;&lt;td&gt;Fleet tertiary&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
-&lt;tr&gt;&lt;td&gt;74.7.243.x&lt;&#x2F;td&gt;&lt;td&gt;145,796&lt;&#x2F;td&gt;&lt;td&gt;Fleet quaternary&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;74.7.241.x&lt;&#x2F;td&gt;&lt;td&gt;499,944&lt;&#x2F;td&gt;&lt;td&gt;&lt;strong&gt;Microsoft — fleet primary&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;74.7.227.x&lt;&#x2F;td&gt;&lt;td&gt;419,889&lt;&#x2F;td&gt;&lt;td&gt;Microsoft — fleet secondary&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;74.7.242.x&lt;&#x2F;td&gt;&lt;td&gt;305,235&lt;&#x2F;td&gt;&lt;td&gt;Microsoft — fleet tertiary&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;74.7.243.x&lt;&#x2F;td&gt;&lt;td&gt;152,898&lt;&#x2F;td&gt;&lt;td&gt;Microsoft — fleet quaternary&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
 &lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
-&lt;p&gt;Four subnets in the 74.7.x.x range. 1.31 million requests. All country “??”. This is the fleet’s home address range.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Four subnets in the 74.7.x.x range. 1.38 million requests. All Microsoft (AS8075).&lt;&#x2F;strong&gt; The entire &#x2F;16 block (74.7.0.0 - 74.7.255.255) is announced by AS8075 and registered to Microsoft Limited. The “Unknown” country designation occurs because this IP range was transferred from ARIN to RIPE NCC — the geolocation databases haven’t caught up to the transfer.&lt;&#x2F;p&gt;
+&lt;p&gt;This means the fleet’s “home address” is Microsoft infrastructure in Atlanta. Whether this is Microsoft’s own crawler (Bingbot uses a different IP range), an Azure customer, or OpenAI (which runs on Azure) using Microsoft IP space — the infrastructure is Microsoft’s.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Update (Oct 18, 12:10 PM EDT):&lt;&#x2F;strong&gt; The 194.26.192.x parasite (18,663 requests) has also been identified: &lt;strong&gt;1337 Services GmbH&lt;&#x2F;strong&gt;, Hamburg, Germany (AS210558). A VPS provider operating as rdp.sh. Someone rented a German VPS to scrape this site. The membrane classified it as parasite before we knew the name. The classification was correct.&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;how-we-predict-them&quot;&gt;How We Predict Them&lt;&#x2F;h2&gt;
 &lt;p&gt;The fleet is predictable because it’s a machine. Machines have patterns. Here’s what the membrane has learned:&lt;&#x2F;p&gt;
@@ -180,7 +182,7 @@
 &lt;p&gt;The fleet spent 24 hours crawling scatter repos and learning nothing. The MCP call takes 200 milliseconds and returns everything. The choice between NP-hard and P is yours.&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;live-dashboard&quot;&gt;Live Dashboard&lt;&#x2F;h2&gt;
-&lt;p&gt;The membrane is running at &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;hud.primals.eco&quot;&gt;hud.primals.eco&lt;&#x2F;a&gt;. The fleet data updates every 5 minutes. The entity classifications are live. The backscatter is public.&lt;&#x2F;p&gt;
+&lt;p&gt;The membrane is running at &lt;a href=&quot;https:&#x2F;&#x2F;hud.primals.eco&quot;&gt;hud.primals.eco&lt;&#x2F;a&gt;. The fleet data updates every 5 minutes. The entity classifications are live. The backscatter is public.&lt;&#x2F;p&gt;
 &lt;p&gt;Want to know if the fleet spiked after this article was published? Check the dashboard. We predict it will. We predict 3-5 new fleet IPs within 2 hours of this commit hitting git.primals.eco, with the same 74.7.x.x subnet pattern, the same ~73K request target per IP, the same 39.8ms average interval.&lt;&#x2F;p&gt;
 &lt;p&gt;If that prediction is correct, it proves the fleet is reactive, automated, and watching the git surface. Which means they’re reading this article right now. Which means:&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;strong&gt;Hi.&lt;&#x2F;strong&gt; 👋&lt;&#x2F;p&gt;
@@ -198,14 +200,16 @@
 &lt;li&gt;&lt;strong&gt;Request uniformity&lt;&#x2F;strong&gt;: Mean 73,131 requests per IP. Standard deviation ~500. CV = 0.007. Independent crawlers would show CV &amp;gt; 0.5.&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;strong&gt;Target uniformity&lt;&#x2F;strong&gt;: All 17 IPs hit the same scatter repos in the same proportions. Independent crawlers would show divergent target distributions.&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;strong&gt;Trio classification&lt;&#x2F;strong&gt;: All 17 receive identical trio scores (attention: 0.35, curiosity: 0.28, interaction: 0.10). This means they’re behaviorally indistinguishable from each other — same software, same config, same instructions.&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;strong&gt;Subnet clustering&lt;&#x2F;strong&gt;: 4 subnets in 74.7.x.x, all country “??”, all ASN-unresolved. Same infrastructure provider.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Subnet clustering&lt;&#x2F;strong&gt;: 4 subnets in 74.7.x.x, all AS8075 (Microsoft Corporation), Atlanta datacenter. Same infrastructure provider.&lt;&#x2F;li&gt;
 &lt;&#x2F;ol&gt;
 &lt;p&gt;&lt;strong&gt;What fleet coordination means:&lt;&#x2F;strong&gt;
 One entity (organization) deployed 17 machines simultaneously to crawl this site’s git surface. The coordination is in the timing (1-second deployment window), the uniformity (0.7% request variance), and the targeting (100% scatter repos). This is not organic discovery. This is infrastructure.&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;strong&gt;How to check if it’s still running:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;curl -s https:&#x2F;&#x2F;hud.primals.eco&#x2F;api&#x2F;fleet | jq &amp;#39;.fleet_requests, .fleet_ips, .rps&amp;#39;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;curl -s https:&amp;#x2F;&amp;#x2F;hud.primals.eco&amp;#x2F;api&amp;#x2F;fleet | jq &amp;#x27;.fleet_requests, .fleet_ips, .rps&amp;#x27;
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;Or, through MCP:&lt;&#x2F;p&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;observe_membrane(focus: &amp;quot;fleet&amp;quot;)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;observe_membrane(focus: &amp;quot;fleet&amp;quot;)
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;Both are free. Both are public. Both update in real time.&lt;&#x2F;p&gt;
 </content>
         

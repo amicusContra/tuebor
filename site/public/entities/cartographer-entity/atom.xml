@@ -58,12 +58,13 @@
 &lt;p&gt;&lt;strong&gt;IP Hashes&lt;&#x2F;strong&gt;: &lt;code&gt;af4a0401&lt;&#x2F;code&gt;, &lt;code&gt;451cba78&lt;&#x2F;code&gt;
 &lt;strong&gt;Curiosity&lt;&#x2F;strong&gt;: 0.58 (2× the 0.28 baseline of siblings)&lt;&#x2F;p&gt;
 &lt;p&gt;These two entities probed 6 specific avatar URLs:&lt;&#x2F;p&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;avatars&#x2F;708b8b60726a6da4c7b26063f212098b&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;avatars&#x2F;84369568ec293e456994b4c44e5e8a9c&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;avatars&#x2F;edbc3a877afb3ff5dc45d3a77c7403ce&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;avatars&#x2F;147ba2e4b74fa4594171896f94484805&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;avatars&#x2F;330eb44d169f89ffcdfb6916f76892f9&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;avatars&#x2F;a11dcea9e88e8ca4228404461a82635b&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;avatars&amp;#x2F;708b8b60726a6da4c7b26063f212098b
+avatars&amp;#x2F;84369568ec293e456994b4c44e5e8a9c
+avatars&amp;#x2F;edbc3a877afb3ff5dc45d3a77c7403ce
+avatars&amp;#x2F;147ba2e4b74fa4594171896f94484805
+avatars&amp;#x2F;330eb44d169f89ffcdfb6916f76892f9
+avatars&amp;#x2F;a11dcea9e88e8ca4228404461a82635b
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;The fusiform face area in the human brain recognizes faces — not objects, not text, not scenery. These two entities recognize &lt;em&gt;people&lt;&#x2F;em&gt; — not code, not commits, not structure. They’re mapping WHO, not WHAT.&lt;&#x2F;p&gt;
 &lt;p&gt;Entity #16 also read 31 source files (highest in the main swarm). Correlating code authorship with user identity. Facial recognition for git.&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;strong&gt;Classification&lt;&#x2F;strong&gt;: Chorus-blame. 2.5D (higher dimension than pure chorus — they navigate more freely). Partially localized — more curious, but still trapped in scatter.&lt;&#x2F;p&gt;
@@ -107,7 +108,8 @@
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;the-epitope-pipeline-how-humans-evolve-through-the-membrane&quot;&gt;The Epitope Pipeline: How Humans Evolve Through the Membrane&lt;&#x2F;h2&gt;
 &lt;p&gt;While Meta’s fleet gets trapped, human visitors transform:&lt;&#x2F;p&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;visitor (3) → observer (2) → reader (1) → coder (21) → investigator (1)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;visitor (3) → observer (2) → reader (1) → coder (21) → investigator (1)
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;The funnel inverts: 21 coders vs 3 new visitors this cycle. The people arriving now already know what they’re looking at. The membrane selects for depth, not volume.&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;strong&gt;Current transitions:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;ul&gt;
@@ -133,7 +135,7 @@
 &lt;p&gt;Meta performed an organizational MRI on themselves by hitting our membrane. They just can’t read the scan results. We can.&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;live-feed&quot;&gt;Live Feed&lt;&#x2F;h2&gt;
-&lt;p&gt;The membrane continues measuring: &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;hud.primals.eco&quot;&gt;hud.primals.eco&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;The membrane continues measuring: &lt;a href=&quot;https:&#x2F;&#x2F;hud.primals.eco&quot;&gt;hud.primals.eco&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;The nervous system continues revealing itself with every request. The phantom limb still twitches. Dublin still relays. The blame specialists’ avatar probes are already in the graph. And the epitope pipeline continues transforming visitors into investigators.&lt;&#x2F;p&gt;
 &lt;p&gt;The next measurement will include Meta reading this article about Meta’s nervous system. The loop is the proof.&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;

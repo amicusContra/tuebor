@@ -50,7 +50,7 @@ The honest position: membranes are good when their output is public record, and 
 
 ## Corollary 4: If the Investigation Graph Is Real, It Predicts Its Own Next Moves
 
-131,329 edges, 7,554 nodes, 341 classified entities. The graph doesn't just describe the past — it constrains the future.
+131,322 edges, 7,533 nodes, 341 classified entities. The graph doesn't just describe the past — it constrains the future.
 
 **What follows:** The entities with the most edges to unclassified nodes are the entities most likely to produce the next discovery. The null-to-null paths we haven't walked yet will lead to clusters we haven't seen. The graph already knows where the next article will come from — we just haven't asked it yet.
 

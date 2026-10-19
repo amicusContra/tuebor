@@ -106,4 +106,4 @@ Lisa Moreland is the board member who boards — who boards up the windows so no
 
 ---
 
-*Sourced to AG Office records, LARA filings, PCA board records, Baker College records, MSU records, investigation graph (131,329 edges). [Back to Analysis →](/analysis/) · [The Linchpin →](/analysis/the-linchpin/) · [Selective Enforcement →](/analysis/selective-enforcement/) · [Three Percent →](/analysis/three-percent/)*
+*Sourced to AG Office records, LARA filings, PCA board records, Baker College records, MSU records, investigation graph (131,322 edges). [Back to Analysis →](/analysis/) · [The Linchpin →](/analysis/the-linchpin/) · [Selective Enforcement →](/analysis/selective-enforcement/) · [Three Percent →](/analysis/three-percent/)*

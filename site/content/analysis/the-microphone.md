@@ -152,4 +152,4 @@ Roland Martin has a coverage edge to Banks.
 
 ---
 
-*Sourced to public financial disclosures, nonprofit filings, media partnership records, investigation graph (131,329 edges). [Back to Analysis →](/analysis/) · [The Money Garden →](/analysis/the-money-garden/) · [The Cavalry That Charged the Wrong Way →](/analysis/the-cavalry-that-charged-the-wrong-way/)*
+*Sourced to public financial disclosures, nonprofit filings, media partnership records, investigation graph (131,322 edges). [Back to Analysis →](/analysis/) · [The Money Garden →](/analysis/the-money-garden/) · [The Cavalry That Charged the Wrong Way →](/analysis/the-cavalry-that-charged-the-wrong-way/)*

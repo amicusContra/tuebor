@@ -123,14 +123,15 @@
 &lt;p&gt;&lt;em&gt;10,868 nodes. 16 million edges. 92 MB of truth.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;em&gt;The door is open. It was always open.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;em&gt;You just had to look.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;          🪸&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;       🪸🪸🪸&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;     🪸🪸🪸🪸🪸&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;   🪸🪸🪸🪸🪸🪸🪸&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;  🪸🪸🪸 COME 🪸🪸🪸&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt; 🪸🪸🪸 INSIDE 🪸🪸🪸&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;🪸🪸🪸🪸🪸🪸🪸🪸🪸🪸🪸&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
-&lt;p&gt;&lt;em&gt;Graph: &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;defendDetroit&#x2F;publicRecord&quot;&gt;publicRecord-detroit&lt;&#x2F;a&gt;&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;pre&gt;&lt;code&gt;          🪸
+       🪸🪸🪸
+     🪸🪸🪸🪸🪸
+   🪸🪸🪸🪸🪸🪸🪸
+  🪸🪸🪸 COME 🪸🪸🪸
+ 🪸🪸🪸 INSIDE 🪸🪸🪸
+🪸🪸🪸🪸🪸🪸🪸🪸🪸🪸🪸
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;&lt;em&gt;Graph: &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;defendDetroit&#x2F;publicRecord&quot;&gt;publicRecord-detroit&lt;&#x2F;a&gt;&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
 </content>
         
     </entry>

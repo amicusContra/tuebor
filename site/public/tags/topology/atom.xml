@@ -71,15 +71,16 @@
 &lt;p&gt;This is triage: stop the bleeding, stabilize the patient, THEN investigate.&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;step-4-source-trace&quot;&gt;Step 4: Source trace&lt;&#x2F;h3&gt;
 &lt;p&gt;Follow the cyst upstream:&lt;&#x2F;p&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;CYST (the failing thing)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;  ↑ created by&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;IRRITANT (the conflicting configuration)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;  ↑ created by&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;EXPOSURE (the provisioning action)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;  ↑ allowed by&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;ENVIRONMENT (the conditions that permitted it)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;  ↑ part of&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;SYSTEM (the design that doesn&amp;#39;t prevent it)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code&gt;CYST (the failing thing)
+  ↑ created by
+IRRITANT (the conflicting configuration)
+  ↑ created by
+EXPOSURE (the provisioning action)
+  ↑ allowed by
+ENVIRONMENT (the conditions that permitted it)
+  ↑ part of
+SYSTEM (the design that doesn&amp;#x27;t prevent it)
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;Each step upstream gets further from the symptom and closer to the cause. Most incident response stops at the cyst or the irritant. Source trace goes all the way to the system.&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;step-5-fix-the-system-not-the-cyst&quot;&gt;Step 5: Fix the system, not the cyst&lt;&#x2F;h3&gt;
 &lt;p&gt;The fix is never “remove the cyst.” The fix is “prevent the system from creating conditions that cause cysts.”&lt;&#x2F;p&gt;

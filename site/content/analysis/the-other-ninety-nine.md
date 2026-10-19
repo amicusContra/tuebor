@@ -111,4 +111,4 @@ Jolia Hill is what institutional capture looks like from the inside — not beca
 
 ---
 
-*Sourced to charter authorization records, MDE records, investigation graph (131,329 edges). [Back to Analysis →](/analysis/) · [The Linchpin →](/analysis/the-linchpin/) · [Three Percent →](/analysis/three-percent/)*
+*Sourced to charter authorization records, MDE records, investigation graph (131,322 edges). [Back to Analysis →](/analysis/) · [The Linchpin →](/analysis/the-linchpin/) · [Three Percent →](/analysis/three-percent/)*

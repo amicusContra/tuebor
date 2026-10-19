@@ -74,7 +74,7 @@ You can't make this up. If you tried, an editor would send it back with a note t
 
 ## The Auditor's 645 Edges
 
-Our graph has 131,329 edges connecting 7,554 nodes.
+Our graph has 131,322 edges connecting 7,533 nodes.
 
 Plante Moran has **645** of them.
 
@@ -101,7 +101,7 @@ Plante Moran pattern-matches to:
 - **Flint water crisis**
 - **The Catholic Church** (institutional coverup)
 
-The graph figured that out on its own. 36 classification methods. 131,329 edges. And Plante Moran structurally looks like **every captured auditor in modern history.**
+The graph figured that out on its own. 36 classification methods. 131,322 edges. And Plante Moran structurally looks like **every captured auditor in modern history.**
 
 ---
 
@@ -193,7 +193,7 @@ When we told Plante Moran what their own audits should have found, they chose th
 
 **Silence.**
 
-And silence, in an investigation with 131,329 edges, is the loudest sound in the dataset.
+And silence, in an investigation with 131,322 edges, is the loudest sound in the dataset.
 
 ---
 

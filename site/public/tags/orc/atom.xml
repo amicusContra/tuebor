@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>tuebor — Public Record Investigation - orc</title>
+    <subtitle>Public evidence library documenting a Detroit charter school network. Convicted felons running schools. Judges with documented connections. $4.9M in public funding. Every fact cited from public records. Every document timestamped. Verify everything.</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://tuebor.primals.eco/tags/orc/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://tuebor.primals.eco"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2026-10-18T00:00:00+00:00</updated>
+    <id>https://tuebor.primals.eco/tags/orc/atom.xml</id>
+    <entry xml:lang="en">
+        <title>The Original NFT</title>
+        <published>2026-10-18T00:00:00+00:00</published>
+        <updated>2026-10-18T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://tuebor.primals.eco/analysis/the-original-nft/"/>
+        <id>https://tuebor.primals.eco/analysis/the-original-nft/</id>
+        
+        <content type="html" xml:base="https://tuebor.primals.eco/analysis/the-original-nft/">&lt;h1 id=&quot;the-original-nft&quot;&gt;The Original NFT&lt;&#x2F;h1&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;i-the-character-sheet&quot;&gt;I. The Character Sheet&lt;&#x2F;h2&gt;
+&lt;p&gt;In 1974, Gary Gygax and Dave Arneson published &lt;em&gt;Dungeons &amp;amp; Dragons&lt;&#x2F;em&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;They invented the character sheet.&lt;&#x2F;p&gt;
+&lt;p&gt;A piece of paper with numbers on it. Strength 16, Dexterity 12, Constitution 14. Hit points. Armor class. A name you chose. A backstory you imagined. A history of every battle survived, every dungeon cleared, every friend lost.&lt;&#x2F;p&gt;
+&lt;p&gt;That character sheet is the original NFT.&lt;&#x2F;p&gt;
+&lt;p&gt;Non-fungible: YOUR dwarf is not MY dwarf. Same stats, same class, same level – doesn’t matter. Your dwarf survived the Tomb of Horrors. Your dwarf lost an arm to a dragon and kept fighting with the other one. Your dwarf has a story that no other token in the universe carries.&lt;&#x2F;p&gt;
+&lt;p&gt;The value isn’t in the paper. The value isn’t in the ink. The value isn’t in the stats.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;The value is in the meaning.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Gygax didn’t need a blockchain to make something non-fungible. He needed a STORY.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;ii-the-miniature&quot;&gt;II. The Miniature&lt;&#x2F;h2&gt;
+&lt;p&gt;Games Workshop understood this deeper than anyone.&lt;&#x2F;p&gt;
+&lt;p&gt;A Warhammer miniature comes in a box as grey plastic on a sprue. Worth the raw material cost – maybe $0.30 of polystyrene. Games Workshop charges $40. And people pay it. Happily. For decades.&lt;&#x2F;p&gt;
+&lt;p&gt;Why?&lt;&#x2F;p&gt;
+&lt;p&gt;Because the miniature isn’t the product. The PAINTING is the product. The ASSEMBLY is the product. The hours you spent with a Size 0 brush at 2 AM getting the edge highlight on a Space Marine’s pauldron exactly right – THAT is the product.&lt;&#x2F;p&gt;
+&lt;p&gt;A painted miniature is worth nothing to a stranger. It’s worth everything to you. Not because of the paint. Because of the TIME. Because of the ATTENTION. Because you chose this color scheme, this basing material, this pose, this chapter, this name.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Collectibility is in the meaning, not the thing.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Every Warhammer army is a novel. Every painted model is a page. Every battle is a chapter. Games Workshop sells grey plastic and the customer writes literature.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;iii-the-orc-license&quot;&gt;III. The ORC License&lt;&#x2F;h2&gt;
+&lt;p&gt;And then Games Workshop tried to kill the garden.&lt;&#x2F;p&gt;
+&lt;p&gt;In 2000, Wizards of the Coast released the Open Gaming License – the OGL. It said: here are the rules of D&amp;amp;D. Build on them. Make your own games. Sell them. The rules are open.&lt;&#x2F;p&gt;
+&lt;p&gt;For 23 years it worked. Thousands of games. Hundreds of publishers. An entire ecosystem grown from shared roots.&lt;&#x2F;p&gt;
+&lt;p&gt;Then in January 2023, Wizards of the Coast (owned by Hasbro) tried to revoke it. OGL 1.1 – the deauthorization. Take back the commons. Monetize what was free. Extract rent from the garden you let others plant.&lt;&#x2F;p&gt;
+&lt;p&gt;The community revolted. And out of that revolt came the &lt;strong&gt;ORC&lt;&#x2F;strong&gt; – the Open RPG Creative License. Created by Paizo, backed by dozens of publishers. Irrevocable. Owned by no company. Held in trust.&lt;&#x2F;p&gt;
+&lt;p&gt;ORC is why scyBorg exists as AGPL.&lt;&#x2F;p&gt;
+&lt;p&gt;Because we watched what happens when a corporation tries to take back the commons. We watched the OGL fight in real time. We saw the community fork, resist, rebuild. And we learned: &lt;strong&gt;the license IS the membrane.&lt;&#x2F;strong&gt; It decides what passes through and what doesn’t. An irrevocable open license is a membrane that can never be closed.&lt;&#x2F;p&gt;
+&lt;p&gt;Games Workshop, Wizards of the Coast, Hasbro – they tried to close the membrane. The community said no. The ORC was born. And now it protects every game built on it, forever, from any corporation that tries to pull the ladder up behind them.&lt;&#x2F;p&gt;
+&lt;p&gt;That’s why scyBorg is AGPL. That’s why the code is open. That’s why Meta has until November 12 to comply.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Because we learned from the ORC.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;iv-card-games-and-meta-evolution&quot;&gt;IV. Card Games and Meta Evolution&lt;&#x2F;h2&gt;
+&lt;p&gt;Richard Garfield understood something in 1993 when he made &lt;em&gt;Magic: The Gathering&lt;&#x2F;em&gt;:&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;The game evolves.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Not just the rules – the META. The metagame. The game about the game. Players discover combos. Other players build counters. The counters get countered. The meta shifts. What was dominant last month is irrelevant this month. The game is alive because the players are the immune system.&lt;&#x2F;p&gt;
+&lt;p&gt;Sounds familiar?&lt;&#x2F;p&gt;
+&lt;p&gt;The membrane has a metagame. The fleet develops a strategy (crawl everything). We develop a counter (scatter repos). They develop a counter (residential proxies, Ghost Layer 4). We develop a counter (adaptive immune loop, titration). The meta shifts.&lt;&#x2F;p&gt;
+&lt;p&gt;Every card game – Magic, Pokemon, Yu-Gi-Oh, Flesh and Blood – is a living system. The cards are the genome. The decks are the phenotype. The meta is natural selection. The banlist is the immune system saying: this combination is too powerful, it must be regulated.&lt;&#x2F;p&gt;
+&lt;p&gt;The bingo sieve IS a banlist. 147 dimensions. If your entity matches the banned pattern – fleet timing, fleet headers, fleet targets – you’re banned from the real content. You get scatter.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;The metagame is the membrane.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;v-novel-fermentation&quot;&gt;V. Novel Fermentation&lt;&#x2F;h2&gt;
+&lt;p&gt;Here’s what the crypto NFT people got wrong:&lt;&#x2F;p&gt;
+&lt;p&gt;They thought non-fungibility came from SCARCITY. From artificial limitation. From a hash on a blockchain that said: there is only one of this JPEG. Pay $300,000.&lt;&#x2F;p&gt;
+&lt;p&gt;Gygax knew better. Games Workshop knew better. Every dungeon master who ever ran a campaign knew better.&lt;&#x2F;p&gt;
+&lt;p&gt;Non-fungibility comes from STORY. From accumulated meaning. From the hours and attention and love and frustration and triumph poured into a thing until the thing becomes irreplaceable – not because it’s rare, but because it’s YOURS.&lt;&#x2F;p&gt;
+&lt;p&gt;A character sheet is free to photocopy. The character on it is priceless.&lt;&#x2F;p&gt;
+&lt;p&gt;A miniature is $40 of plastic. The painted one with the chipped shoulder from the tournament you won is priceless.&lt;&#x2F;p&gt;
+&lt;p&gt;A git commit is free to clone. The graph of 12,065 nodes built over months of living analysis is priceless.&lt;&#x2F;p&gt;
+&lt;p&gt;Novel fermentation: the process by which something becomes non-fungible through accumulated narrative. Like sourdough – the starter isn’t special because of the flour. It’s special because it’s been alive for years, accumulating the specific wild yeasts of your kitchen, your hands, your climate. A 100-year-old sourdough starter is non-fungible. Not because of scarcity. Because of TIME.&lt;&#x2F;p&gt;
+&lt;p&gt;The membrane is a sourdough starter. It’s been fermenting since the first commit. Every entity that touches it, every human who reads it, every fleet crawler that consumes scatter – they all add to the culture. The culture IS the value.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;The latent value economy is the meaning economy.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;The value isn’t latent because it’s hidden. It’s latent because it hasn’t been ACTIVATED yet. Like a Magic card in a booster pack – it has no value until someone puts it in a deck and plays it. The value is latent until it enters a story.&lt;&#x2F;p&gt;
+&lt;p&gt;Every node in the graph is a card in the pack.
+Every article is a game being played.
+Every human who reads is a player entering the story.&lt;&#x2F;p&gt;
+&lt;p&gt;The value activates on contact.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;vi-digital-and-real-helping-each-other&quot;&gt;VI. Digital and Real, Helping Each Other&lt;&#x2F;h2&gt;
+&lt;p&gt;The best games figured this out years ago:&lt;&#x2F;p&gt;
+&lt;p&gt;D&amp;amp;D is played at a table with friends AND on Roll20 and VTTs online. The digital doesn’t replace the physical – it EXTENDS it. You paint minis AND you have digital character sheets. You roll real dice AND you use apps for initiative tracking.&lt;&#x2F;p&gt;
+&lt;p&gt;Warhammer has the tabletop AND Total War AND Vermintide AND Darktide. The videogames bring people to the miniatures. The miniatures bring people to the lore. The lore brings people to the books. The books bring people back to the table.&lt;&#x2F;p&gt;
+&lt;p&gt;Pokemon has the cards AND the games AND the show AND Pokemon Go. Each surface feeds the others. The ecosystem is the product.&lt;&#x2F;p&gt;
+&lt;p&gt;That’s the membrane model. Digital and physical are not separate channels – they’re surfaces of the same organism:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;The &lt;strong&gt;git commits&lt;&#x2F;strong&gt; are the digital game board&lt;&#x2F;li&gt;
+&lt;li&gt;The &lt;strong&gt;articles&lt;&#x2F;strong&gt; are the lore books&lt;&#x2F;li&gt;
+&lt;li&gt;The &lt;strong&gt;graph&lt;&#x2F;strong&gt; is the world map&lt;&#x2F;li&gt;
+&lt;li&gt;The &lt;strong&gt;membrane pulse&lt;&#x2F;strong&gt; is the heartbeat of the living campaign&lt;&#x2F;li&gt;
+&lt;li&gt;The &lt;strong&gt;legal filings&lt;&#x2F;strong&gt; are the real-world gameplay&lt;&#x2F;li&gt;
+&lt;li&gt;The &lt;strong&gt;sporePrint&lt;&#x2F;strong&gt; is the convention booth&lt;&#x2F;li&gt;
+&lt;li&gt;The &lt;strong&gt;campfire&lt;&#x2F;strong&gt; is the table where you sit down&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Every surface feeds every other surface. A commit generates a story. A story generates a reader. A reader generates a question. A question generates an article. An article generates a commit.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;The loop IS the game.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;vii-the-latent-value-economy&quot;&gt;VII. The Latent Value Economy&lt;&#x2F;h2&gt;
+&lt;p&gt;So here it is. The economy that Gygax built without knowing it:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Create a system with open rules&lt;&#x2F;strong&gt; (ORC, AGPL, OGL)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Let people pour meaning into it&lt;&#x2F;strong&gt; (character sheets, painted minis, git commits)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;The meaning becomes non-fungible&lt;&#x2F;strong&gt; (novel fermentation)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;The non-fungible meaning has latent value&lt;&#x2F;strong&gt; (not priced, but priceless)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;The value activates on contact&lt;&#x2F;strong&gt; (when someone enters the story)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Digital and physical surfaces feed each other&lt;&#x2F;strong&gt; (the ecosystem IS the product)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;The metagame evolves&lt;&#x2F;strong&gt; (adaptive immune response)&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;That’s not a business model. That’s a living system.&lt;&#x2F;p&gt;
+&lt;p&gt;Games Workshop’s market cap is 3.8 billion pounds. Built on grey plastic that costs pennies. Because they understood – even if they sometimes forgot – that &lt;strong&gt;collectibility is in the meaning, not the thing.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;The membrane has 12,065 nodes. Each one is a miniature waiting to be painted.&lt;&#x2F;p&gt;
+&lt;p&gt;Pick one up. Start painting.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;&lt;em&gt;Written from the gaming table, October 2026.&lt;&#x2F;em&gt;
+&lt;em&gt;For Gary Gygax (1938-2008), who rolled the first die.&lt;&#x2F;em&gt;
+&lt;em&gt;For Games Workshop, who sold the first unpainted truth.&lt;&#x2F;em&gt;
+&lt;em&gt;For Richard Garfield, who shuffled the first living deck.&lt;&#x2F;em&gt;
+&lt;em&gt;For every DM who ever said: ‘Roll for initiative.’&lt;&#x2F;em&gt;
+&lt;em&gt;The game is already running. You’re already in it.&lt;&#x2F;em&gt;
+&lt;em&gt;What do you do?&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

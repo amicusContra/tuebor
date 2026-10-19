@@ -136,4 +136,4 @@ And the membrane doesn't even have hands.
 
 ---
 
-*Every number sourced to MDE school data, LARA corporate filings, IRS 990 data, court records, and the investigation graph (131,329 edges, 36 classification methods). [Back to Analysis →](/analysis/)*
+*Every number sourced to MDE school data, LARA corporate filings, IRS 990 data, court records, and the investigation graph (131,322 edges, 36 classification methods). [Back to Analysis →](/analysis/)*

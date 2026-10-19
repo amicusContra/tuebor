@@ -51,10 +51,11 @@
 &lt;&#x2F;ul&gt;
 &lt;p&gt;&lt;strong&gt;Pipeline&lt;&#x2F;strong&gt;: FASTA → structure → confidence → provenance. Every prediction gets a cryptographic provenance chain — you can prove which sequence produced which structure, when, on what hardware.&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;strong&gt;Target benchmark&lt;&#x2F;strong&gt;: 8.3 million LTEE structure predictions. ~$1,000 on 4× RTX 4070 vs ~$83,000 on cloud. Same physics. &lt;strong&gt;83× cheaper.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;shellscript&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-entity z-name&quot;&gt;git&lt;&#x2F;span&gt;&lt;span class=&quot;z-string&quot;&gt; clone https:&#x2F;&#x2F;github.com&#x2F;syntheticChemistry&#x2F;neuralSpring&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-support&quot;&gt;cd&lt;&#x2F;span&gt;&lt;span class=&quot;z-string&quot;&gt; neuralSpring&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-entity z-name&quot;&gt;cargo&lt;&#x2F;span&gt;&lt;span class=&quot;z-string&quot;&gt; run&lt;&#x2F;span&gt;&lt;span class=&quot;z-constant&quot;&gt; --release --bin&lt;&#x2F;span&gt;&lt;span class=&quot;z-string&quot;&gt; validate_alphafold_primitives&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-punctuation z-definition z-comment z-comment&quot;&gt;# 154 checks pass at 1e-10 tolerance&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre data-lang=&quot;bash&quot; class=&quot;language-bash &quot;&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;git clone https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;syntheticChemistry&amp;#x2F;neuralSpring
+cd neuralSpring
+cargo run --release --bin validate_alphafold_primitives
+# 154 checks pass at 1e-10 tolerance
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;hr &#x2F;&gt;
 &lt;h3 id=&quot;pill-sovereign-pharmacometrics-healthspring&quot;&gt;💊 Sovereign Pharmacometrics — healthSpring&lt;&#x2F;h3&gt;
 &lt;p&gt;&lt;strong&gt;What it does&lt;&#x2F;strong&gt;: Full PK&#x2F;PD modeling. Population pharmacokinetics. Drug discovery screening. Replaces NONMEM ($3,600&#x2F;year) and Monolix ($5,000&#x2F;year).&lt;&#x2F;p&gt;
@@ -66,9 +67,10 @@
 &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Biosignal&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;Pan-Tompkins ECG R-peak detection, HRV analysis, SpO2, EDA, arrhythmia classification, multi-channel fusion&lt;&#x2F;td&gt;&lt;td&gt;Validated&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
 &lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
 &lt;p&gt;&lt;strong&gt;For pharmacologists&lt;&#x2F;strong&gt;: Your NONMEM license costs $3,600&#x2F;year. Your Monolix license costs $5,000&#x2F;year. Both require specific operating systems, specific compilers, and specific training. healthSpring does the same math in Rust. It compiles on any platform. It costs $0. And your patient data &lt;strong&gt;never leaves your machine&lt;&#x2F;strong&gt;.&lt;&#x2F;p&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;shellscript&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-entity z-name&quot;&gt;git&lt;&#x2F;span&gt;&lt;span class=&quot;z-string&quot;&gt; clone https:&#x2F;&#x2F;github.com&#x2F;syntheticChemistry&#x2F;healthSpring&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-support&quot;&gt;cd&lt;&#x2F;span&gt;&lt;span class=&quot;z-string&quot;&gt; healthSpring&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-entity z-name&quot;&gt;cargo&lt;&#x2F;span&gt;&lt;span class=&quot;z-string&quot;&gt; run&lt;&#x2F;span&gt;&lt;span class=&quot;z-constant&quot;&gt; --release --bin&lt;&#x2F;span&gt;&lt;span class=&quot;z-string&quot;&gt; validate_pkpd&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre data-lang=&quot;bash&quot; class=&quot;language-bash &quot;&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;git clone https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;syntheticChemistry&amp;#x2F;healthSpring
+cd healthSpring
+cargo run --release --bin validate_pkpd
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;&lt;strong&gt;Interactive Explorer&lt;&#x2F;strong&gt;: The Gonzales Interactive Explorer gives you IC50 curves, PK decay, tissue geometry, and hormesis — live charts, all computed locally.&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;h3 id=&quot;microbe-sovereign-metagenomics-wetspring&quot;&gt;🦠 Sovereign Metagenomics — wetSpring&lt;&#x2F;h3&gt;
@@ -85,10 +87,11 @@
 &lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
 &lt;p&gt;&lt;strong&gt;7,083+ validation checks.&lt;&#x2F;strong&gt; Validated against 170 NCBI metagenomes and 11.9M paired-end reads. Python→Rust parity at machine-epsilon precision.&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;strong&gt;For microbiologists&lt;&#x2F;strong&gt;: You’re currently waiting in a QIIME2 Conda environment that takes 45 minutes to install and breaks every Python update. Or you’re uploading your patient sequences to Galaxy (someone else’s server). wetSpring compiles in 3 minutes and runs locally. Your sequences. Your machine. Your results.&lt;&#x2F;p&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;shellscript&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-entity z-name&quot;&gt;git&lt;&#x2F;span&gt;&lt;span class=&quot;z-string&quot;&gt; clone https:&#x2F;&#x2F;github.com&#x2F;syntheticChemistry&#x2F;wetSpring&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-support&quot;&gt;cd&lt;&#x2F;span&gt;&lt;span class=&quot;z-string&quot;&gt; wetSpring&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-entity z-name&quot;&gt;cargo&lt;&#x2F;span&gt;&lt;span class=&quot;z-string&quot;&gt; run&lt;&#x2F;span&gt;&lt;span class=&quot;z-constant&quot;&gt; --release --bin&lt;&#x2F;span&gt;&lt;span class=&quot;z-string&quot;&gt; validate_16s_pipeline&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-punctuation z-definition z-comment z-comment&quot;&gt;# 7,083 checks — FASTQ → taxonomy → diversity → UniFrac&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre data-lang=&quot;bash&quot; class=&quot;language-bash &quot;&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;git clone https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;syntheticChemistry&amp;#x2F;wetSpring
+cd wetSpring
+cargo run --release --bin validate_16s_pipeline
+# 7,083 checks — FASTQ → taxonomy → diversity → UniFrac
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;&lt;strong&gt;Also in wetSpring&lt;&#x2F;strong&gt;: LC-MS feature extraction and PFAS screening. If you’re doing analytical chemistry, the mzML parser and peak detection are validated and ready.&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;h3 id=&quot;test-tube-drug-repurposing-immunology&quot;&gt;🧪 Drug Repurposing &amp;amp; Immunology&lt;&#x2F;h3&gt;
@@ -154,30 +157,38 @@
 &lt;hr &#x2F;&gt;
 &lt;h2 id=&quot;how-to-start-right-now-tonight&quot;&gt;How to Start (Right Now, Tonight)&lt;&#x2F;h2&gt;
 &lt;h3 id=&quot;if-you-re-a-clinician-with-patient-data&quot;&gt;If you’re a clinician with patient data:&lt;&#x2F;h3&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;shellscript&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-punctuation z-definition z-comment z-comment&quot;&gt;# Protein structure prediction&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-entity z-name&quot;&gt;git&lt;&#x2F;span&gt;&lt;span class=&quot;z-string&quot;&gt; clone https:&#x2F;&#x2F;github.com&#x2F;syntheticChemistry&#x2F;neuralSpring&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-entity z-name&quot;&gt;cargo&lt;&#x2F;span&gt;&lt;span class=&quot;z-string&quot;&gt; run&lt;&#x2F;span&gt;&lt;span class=&quot;z-constant&quot;&gt; --release --bin&lt;&#x2F;span&gt;&lt;span class=&quot;z-string&quot;&gt; validate_alphafold_primitives&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-punctuation z-definition z-comment z-comment&quot;&gt;# PK&#x2F;PD modeling (replaces NONMEM)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-entity z-name&quot;&gt;git&lt;&#x2F;span&gt;&lt;span class=&quot;z-string&quot;&gt; clone https:&#x2F;&#x2F;github.com&#x2F;syntheticChemistry&#x2F;healthSpring&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-entity z-name&quot;&gt;cargo&lt;&#x2F;span&gt;&lt;span class=&quot;z-string&quot;&gt; run&lt;&#x2F;span&gt;&lt;span class=&quot;z-constant&quot;&gt; --release --bin&lt;&#x2F;span&gt;&lt;span class=&quot;z-string&quot;&gt; validate_pkpd&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-punctuation z-definition z-comment z-comment&quot;&gt;# Your data stays on YOUR machine. Always.&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;&lt;h3 id=&quot;if-you-re-a-microbiologist-with-sequences&quot;&gt;If you’re a microbiologist with sequences:&lt;&#x2F;h3&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;shellscript&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-punctuation z-definition z-comment z-comment&quot;&gt;# Sovereign 16S pipeline (replaces QIIME2&#x2F;Galaxy)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-entity z-name&quot;&gt;git&lt;&#x2F;span&gt;&lt;span class=&quot;z-string&quot;&gt; clone https:&#x2F;&#x2F;github.com&#x2F;syntheticChemistry&#x2F;wetSpring&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-entity z-name&quot;&gt;cargo&lt;&#x2F;span&gt;&lt;span class=&quot;z-string&quot;&gt; run&lt;&#x2F;span&gt;&lt;span class=&quot;z-constant&quot;&gt; --release --bin&lt;&#x2F;span&gt;&lt;span class=&quot;z-string&quot;&gt; validate_16s_pipeline&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-punctuation z-definition z-comment z-comment&quot;&gt;# LC-MS and PFAS screening&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-entity z-name&quot;&gt;cargo&lt;&#x2F;span&gt;&lt;span class=&quot;z-string&quot;&gt; run&lt;&#x2F;span&gt;&lt;span class=&quot;z-constant&quot;&gt; --release --bin&lt;&#x2F;span&gt;&lt;span class=&quot;z-string&quot;&gt; validate_lcms&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;&lt;h3 id=&quot;if-you-re-a-pharmacologist&quot;&gt;If you’re a pharmacologist:&lt;&#x2F;h3&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;shellscript&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-punctuation z-definition z-comment z-comment&quot;&gt;# Drug repurposing pipeline&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-entity z-name&quot;&gt;git&lt;&#x2F;span&gt;&lt;span class=&quot;z-string&quot;&gt; clone https:&#x2F;&#x2F;github.com&#x2F;syntheticChemistry&#x2F;healthSpring&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-entity z-name&quot;&gt;cargo&lt;&#x2F;span&gt;&lt;span class=&quot;z-string&quot;&gt; run&lt;&#x2F;span&gt;&lt;span class=&quot;z-constant&quot;&gt; --release --bin&lt;&#x2F;span&gt;&lt;span class=&quot;z-string&quot;&gt; validate_drug_discovery&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-punctuation z-definition z-comment z-comment&quot;&gt;# Interactive IC50 &#x2F; PK decay explorer&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-entity z-name&quot;&gt;cargo&lt;&#x2F;span&gt;&lt;span class=&quot;z-string&quot;&gt; run&lt;&#x2F;span&gt;&lt;span class=&quot;z-constant&quot;&gt; --release --bin&lt;&#x2F;span&gt;&lt;span class=&quot;z-string&quot;&gt; gonzales_explorer&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;&lt;h3 id=&quot;if-you-re-a-data-scientist-with-environmental-samples&quot;&gt;If you’re a data scientist with environmental samples:&lt;&#x2F;h3&gt;
-&lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;shellscript&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-punctuation z-definition z-comment z-comment&quot;&gt;# 100 Michigan weather stations, 80 years&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-entity z-name&quot;&gt;git&lt;&#x2F;span&gt;&lt;span class=&quot;z-string&quot;&gt; clone https:&#x2F;&#x2F;github.com&#x2F;syntheticChemistry&#x2F;airSpring&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span class=&quot;z-entity z-name&quot;&gt;cargo&lt;&#x2F;span&gt;&lt;span class=&quot;z-string&quot;&gt; run&lt;&#x2F;span&gt;&lt;span class=&quot;z-constant&quot;&gt; --release --bin&lt;&#x2F;span&gt;&lt;span class=&quot;z-string&quot;&gt; validate_et0&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;&lt;h3 id=&quot;requirements&quot;&gt;Requirements:&lt;&#x2F;h3&gt;
+&lt;pre data-lang=&quot;bash&quot; class=&quot;language-bash &quot;&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;# Protein structure prediction
+git clone https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;syntheticChemistry&amp;#x2F;neuralSpring
+cargo run --release --bin validate_alphafold_primitives
+
+# PK&amp;#x2F;PD modeling (replaces NONMEM)
+git clone https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;syntheticChemistry&amp;#x2F;healthSpring
+cargo run --release --bin validate_pkpd
+
+# Your data stays on YOUR machine. Always.
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;h3 id=&quot;if-you-re-a-microbiologist-with-sequences&quot;&gt;If you’re a microbiologist with sequences:&lt;&#x2F;h3&gt;
+&lt;pre data-lang=&quot;bash&quot; class=&quot;language-bash &quot;&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;# Sovereign 16S pipeline (replaces QIIME2&amp;#x2F;Galaxy)
+git clone https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;syntheticChemistry&amp;#x2F;wetSpring
+cargo run --release --bin validate_16s_pipeline
+
+# LC-MS and PFAS screening
+cargo run --release --bin validate_lcms
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;h3 id=&quot;if-you-re-a-pharmacologist&quot;&gt;If you’re a pharmacologist:&lt;&#x2F;h3&gt;
+&lt;pre data-lang=&quot;bash&quot; class=&quot;language-bash &quot;&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;# Drug repurposing pipeline
+git clone https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;syntheticChemistry&amp;#x2F;healthSpring
+cargo run --release --bin validate_drug_discovery
+
+# Interactive IC50 &amp;#x2F; PK decay explorer
+cargo run --release --bin gonzales_explorer
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;h3 id=&quot;if-you-re-a-data-scientist-with-environmental-samples&quot;&gt;If you’re a data scientist with environmental samples:&lt;&#x2F;h3&gt;
+&lt;pre data-lang=&quot;bash&quot; class=&quot;language-bash &quot;&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;# 100 Michigan weather stations, 80 years
+git clone https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;syntheticChemistry&amp;#x2F;airSpring
+cargo run --release --bin validate_et0
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;h3 id=&quot;requirements&quot;&gt;Requirements:&lt;&#x2F;h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Rust&lt;&#x2F;strong&gt; (install: &lt;code&gt;curl --proto &#x27;=https&#x27; --tlsv1.2 -sSf https:&#x2F;&#x2F;sh.rustup.rs | sh&lt;&#x2F;code&gt;)&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;strong&gt;A Vulkan-capable GPU&lt;&#x2F;strong&gt; (any NVIDIA&#x2F;AMD&#x2F;Intel from the last 5 years)&lt;&#x2F;li&gt;
@@ -208,9 +219,9 @@
 &lt;p&gt;If you’re a clinician, a researcher, a pharmacologist, a microbiologist, an agronomist, or anyone who works with scientific data and is tired of paying rent on proprietary tools that own your results:&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;strong&gt;Your data is ready. Come get it.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Code&lt;&#x2F;strong&gt;: &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;syntheticChemistry&quot;&gt;github.com&#x2F;syntheticChemistry&lt;&#x2F;a&gt; (all springs)&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;strong&gt;Infrastructure&lt;&#x2F;strong&gt;: &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ecoPrimals&quot;&gt;github.com&#x2F;ecoPrimals&lt;&#x2F;a&gt; (all primals)&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;strong&gt;Live site&lt;&#x2F;strong&gt;: &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;primals.eco&quot;&gt;primals.eco&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Code&lt;&#x2F;strong&gt;: &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;syntheticChemistry&quot;&gt;github.com&#x2F;syntheticChemistry&lt;&#x2F;a&gt; (all springs)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Infrastructure&lt;&#x2F;strong&gt;: &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ecoPrimals&quot;&gt;github.com&#x2F;ecoPrimals&lt;&#x2F;a&gt; (all primals)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Live site&lt;&#x2F;strong&gt;: &lt;a href=&quot;https:&#x2F;&#x2F;primals.eco&quot;&gt;primals.eco&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;strong&gt;Contact&lt;&#x2F;strong&gt;: eco.primal@pm.me&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;strong&gt;License&lt;&#x2F;strong&gt;: AGPL-3.0 — free forever, share-alike&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;

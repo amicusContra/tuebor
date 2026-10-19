@@ -2,7 +2,7 @@
 title = "The Desk in the Mountains — How a Phone on Satellite Sees Inside the Membrane"
 description = "You're in the mountains. No cell tower. Just a satellite uplink and a phone. The membrane relay is 600 miles away on a 2GB VPS. RustDesk signal + relay, WireGuard mesh, and a JSON heartbeat — this is how a phone on Starlink adds data to a living system. And how you ask for a desk."
 date = 2026-10-18
-updated = 2026-10-18
+updated = 2026-10-19
 weight = 3
 
 [taxonomies]
@@ -25,10 +25,11 @@ You're in the mountains. No cell towers. Your phone has a satellite uplink — S
 
 600 miles away, a 2GB VPS runs the membrane relay. It has:
 
-- **5 services** running on 1GB of RAM
-- **WireGuard mesh** with 3 peers alive
+- **31 services** running on 1GB of RAM
+- **WireGuard mesh** with 4 peers alive
 - **RustDesk signal + relay** on 4 ports
-- A **JSON heartbeat** that updates every 5 minutes
+- A **JSON heartbeat** that updates every 2 minutes
+- **100% sensation** — 10 defensive capabilities, all active
 
 Your phone connects through the satellite to the relay. The relay connects you to the membrane. You see inside it. You add data. You leave.
 
@@ -44,9 +45,13 @@ Your phone connects through the satellite to the relay. The relay connects you t
 |---------|------|-------------|
 | **hbbs** (signal) | 21115, 21116, 21118 | NAT traversal, peer discovery, ID registration |
 | **hbbr** (relay) | 21117 | Encrypted relay when direct connection fails |
-| **caddy** | 443 | TLS termination, JSON feeds, site serving |
-| **skunky-ingest** | — | Access log immune system, bloom filter, dashboard |
+| **caddy** | 443 | TLS termination, 68+ subdomains, 64 JSON feeds |
+| **skunky-ingest** | — | Access log immune system, bloom filter, fleet classifier |
 | **opsonize** | — | Entity classification, self/non-self boundary |
+| **beardog** | socket | Genetic cryptography, KROGAN grade defense |
+| **songbird** | 7700, 7780, 8091 | Network orchestration, drawbridge, federation |
+| **biomeos** | socket | Neural API, capability mesh |
+| **squirrel** | socket | Chipmunk MCP, human interaction relay |
 
 RustDesk is [AGPL-3.0 licensed](https://github.com/rustdesk/rustdesk). We run it. We credit it. We don't fork it. We don't hide it.
 
@@ -54,12 +59,12 @@ RustDesk is [AGPL-3.0 licensed](https://github.com/rustdesk/rustdesk). We run it
 
 | Peer | IP | Direction | Transfer | Role |
 |------|-----|-----------|----------|------|
-| **eastGate** | 10.13.37.5 | ↓ in: 16.2 GiB, ↑ out: 712 MiB | Publisher, development |
-| **sporeGate** | 10.13.37.2 | ↓ in: 21 KiB, ↑ out: 19 KiB | LAN observer, 27 GB RAM |
-| **golgiLayer** | 10.13.37.14 | ↓ in: 2.4 MiB, ↑ out: 10.6 MiB | Cloud layer, census |
-| **nucleus** | 10.13.37.16 | ↓ in: 31.5 MiB, ↑ out: 2.9 GiB | Compute, replication |
+| **eastGate** | 10.13.37.5 | ↓ in: 19.9 GiB, ↑ out: 890 MiB | Publisher, development |
+| **sporeGate** | 10.13.37.2 | ↓ in: 4.6 MiB, ↑ out: 3.3 MiB | LAN observer, 27 GB RAM, 12 cores |
+| **golgiLayer** | 10.13.37.14 | ↓ in: 2.6 MiB, ↑ out: 10.9 MiB | Cloud layer, census |
+| **nucleus** | 10.13.37.16 | ↓ in: 32.3 MiB, ↑ out: 2.9 GiB | Compute, replication |
 
-Every 5 minutes, each node writes a **membrane pulse** — a JSON heartbeat showing:
+Every 2 minutes, each node writes a **membrane pulse** — a JSON heartbeat showing:
 
 - Which peers are alive
 - How much data flowed in each direction
@@ -70,7 +75,7 @@ The pulse is served at `hud.primals.eco/membrane-pulse.json`. Anyone can read it
 
 ### The Address Book
 
-8 gates are registered in the desk:
+8 gates are registered in the desk (plus 17 QR codes at `hud.primals.eco/qr/`):
 
 | Gate | What It Is |
 |------|-----------|
@@ -161,7 +166,7 @@ Now: you open RustDesk. It connects through the satellite to the relay. The rela
 
 ### The Commensal Model
 
-In biology, a **commensal** is an organism that benefits from another without harming it. The membrane has 23 commensals right now — organisms that live on the surface, consume resources, and contribute to the ecosystem.
+In biology, a **commensal** is an organism that benefits from another without harming it. The membrane has 3,632 commensals right now — organisms that live on the surface, consume resources, and contribute to the ecosystem.
 
 When your phone connects through the relay, you become a commensal. You use bandwidth. You add data. The membrane gets richer. You get access. Neither of you is harmed.
 
@@ -177,17 +182,18 @@ The desk in the membrane IS RustDesk. The membrane just gives it a purpose: **so
 
 ## The Pulse
 
-Every 5 minutes, the membrane writes its heartbeat:
+Every 2 minutes, the membrane writes its heartbeat:
 
 ```json
 {
   "host": "membrane-relay",
-  "services_up": 5,
+  "services_up": 31,
   "rustdesk": true,
   "peers": [
-    {"name": "eastGate", "in": "16.2 GiB", "out": "712 MiB", "alive": true},
-    {"name": "golgiLayer", "in": "2.4 MiB", "out": "10.6 MiB", "alive": true},
-    {"name": "nucleus", "in": "31.5 MiB", "out": "2.9 GiB", "alive": true}
+    {"name": "eastGate", "in": "19.9 GiB", "out": "890 MiB", "alive": true},
+    {"name": "sporeGate", "in": "4.6 MiB", "out": "3.3 MiB", "alive": true},
+    {"name": "golgiLayer", "in": "2.6 MiB", "out": "10.9 MiB", "alive": true},
+    {"name": "nucleus", "in": "32.3 MiB", "out": "2.9 GiB", "alive": true}
   ],
   "desk_count": 4,
   "credit": {

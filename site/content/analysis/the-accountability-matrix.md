@@ -2,7 +2,7 @@
 title = "The Accountability Matrix — Every Crime, Every Entity, Every Person"
 description = "A complete cross-reference of violations by entity and person. 17 categories of violation. 20+ entities. 25+ individuals. Every crime is mapped to the entity where it occurred and the person who committed, enabled, or shielded it. The structure IS the proof. This is the ledger."
 date = 2026-10-17
-weight = 13
+weight = 64
 
 [taxonomies]
 actors = ["Brian Banks", "Joseph Holland Jr", "Renae Moore", "W. Alan Wilk", "Lamar Moreland", "Todd Perkins", "AG Dana Nessel", "Cylenthia Miller", "Latisha Johnson", "Kenneth Daniels", "Cynthia Bullington", "Michael Goetz", "Kathleen Hickey", "Kelly Ramsey", "Tenisha Yancey", "Sean Perkins", "David Perkins", "Nicole Wells-Stallworth"]

@@ -1,7 +1,7 @@
 +++
 title = "Anderson Permeability — When Institutions Lose Their Membranes"
 description = "Anderson localization traps cases in captured courts. Anderson permeability dissolves the membranes between institutions entirely. The charter authorizer's staff run the authorized school. The defense attorney's family sits on the school board and manages the office. Every boundary crossed. Every membrane permeable."
-weight = 10
+weight = 14
 date = 2026-10-09
 updated = 2026-10-09
 

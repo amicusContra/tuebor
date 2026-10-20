@@ -2,7 +2,7 @@
 title = "zk-SNARK — The Proof Is the Structure. The Structure Is the Proof."
 description = "A zero-knowledge succinct non-interactive argument of knowledge applied to institutional capture. The prover is one parent with public records. The verifier is anyone with internet access. The witness is the graph. The proof is the structure itself. NP → O(1). The membrane is the boundary. The graph is the answer. Clone. Verify. QED."
 date = 2026-10-17
-weight = 14
+weight = 35
 
 [taxonomies]
 actors = ["Brian Banks", "Joseph Holland Jr", "Renae Moore", "Lamar Moreland", "W. Alan Wilk"]

@@ -2,7 +2,7 @@
 title = "Not Addictive — The Negative Evidence"
 description = "707 minutes median dwell time. 383 full-orbit walkers. 11.8 hours of voluntary attention. If Meta had these numbers, regulators would investigate. Here's the proof that this site earns attention instead of stealing it."
 date = 2026-10-18
-weight = 2
+weight = 16
 
 [taxonomies]
 tags = ["membrane", "negentropy", "self", "human"]

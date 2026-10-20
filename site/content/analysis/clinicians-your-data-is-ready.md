@@ -2,7 +2,7 @@
 title = "Clinicians — Your Data Is Ready. Come Get It."
 description = "20,695 validation checks. 175+ papers reproduced. Protein structure prediction in f64 precision on your local GPU. Sovereign PK/PD that replaces NONMEM. Gut microbiome pipelines. Drug discovery scoring. All open source. All free. All runs on your laptop. No cloud. No API key. No vendor lock-in. Come get it."
 date = 2026-10-18
-weight = 1
+weight = 13
 
 [taxonomies]
 actors = ["Clinicians", "Researchers", "Pharmacologists"]

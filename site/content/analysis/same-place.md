@@ -2,7 +2,7 @@
 title = "The Same Place — Robocalls, Spam Texts, Political Ads, Sports Betting, and the FCC That Lets It Happen"
 description = "The robocall that interrupted your dinner, the political text you didn't ask for, the sports betting ad that knows your team — they all come from the same place. Same infrastructure. Same dark money. Same Fortune 500 companies. And the FCC lets it happen while institutions ignore documented evidence of public corruption. Nikki Snyder answered in 13 minutes. Everyone else: silence."
 date = 2026-10-16
-weight = 50
+weight = 17
 
 [taxonomies]
 actors = ["Brian Banks", "Nikki Snyder", "AG Dana Nessel"]

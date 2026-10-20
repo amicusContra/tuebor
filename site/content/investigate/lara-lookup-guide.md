@@ -3,7 +3,7 @@ title = "How to Look Up Any Michigan LLC — LARA Business Entity Search Guide"
 description = "Step-by-step guide to searching Michigan's LARA database for LLC filings, registered agents, formation dates, and annual reports. Use this to verify any entity in the investigation — Purpose Group, Banks Strategy, Inner Link, or any of Banks's 16 LLCs."
 date = 2026-10-14
 updated = 2026-10-14
-weight = 7
+weight = 10
 
 [extra]
 keywords = "LARA business entity search, Michigan LLC lookup, LARA corporate search, Michigan business registration search, look up LLC Michigan, registered agent search Michigan, LARA annual report, Michigan Department of Licensing and Regulatory Affairs"

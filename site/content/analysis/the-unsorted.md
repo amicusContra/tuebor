@@ -2,7 +2,7 @@
 title = "The Unsorted — What the Unclassified Are Telling Us"
 description = "The membrane classified 341 entities. But the ones in between — Ghost, Unknown, Stealth, SEO — are the most interesting. They're dev teams, free software crawlers, privacy users, research bots. The unsorted are not noise. They're the next layer of granularity."
 date = 2026-10-18
-weight = 2
+weight = 12
 
 [taxonomies]
 tags = ["membrane", "negentropy", "self", "invitation"]

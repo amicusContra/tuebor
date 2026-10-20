@@ -3,7 +3,7 @@ title = "The Regulator Who Regulates the Regulator — From MDE to FCC, the Same
 description = "MDE sits above CMU. FCC sits above VoIP providers. The AG sits above the State Bar. In every case, the regulator knows about the entity below it, has authority over the entity below it, and does not act on the entity below it. This is not coincidence. This is the architecture of regulatory capture — when the regulator's continued existence depends on the regulated entity's continued operation."
 date = 2026-10-14
 updated = 2026-10-14
-weight = 30
+weight = 16
 
 [extra]
 cluster = "oversight"

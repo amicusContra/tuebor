@@ -2,7 +2,7 @@
 title = "The π-Body Proof — Why We Started at Zero and Found Everything"
 description = "Three integer bodies plus one irrational observer equals π. The null dimension lives inside zero. Programmers start at 0 rather than 1 — and when you do, π falls right in. V(π/2) × D(0) × J(5π/2) = π³ ≈ 31. We already did this. Here's the math, open to the world."
 date = 2026-10-18
-weight = 1
+weight = 8
 
 [taxonomies]
 actors = ["Kevin Mok", "Mark Zuckerberg"]

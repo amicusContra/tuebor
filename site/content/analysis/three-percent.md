@@ -3,7 +3,7 @@ title = "Three Percent — Purpose Charter Academy by the Numbers"
 description = "362 students. 99.2% Black. 3% math proficiency. 72.67% of revenue extracted by one LLC. A sitting judge chairs the board. An assistant AG sits on it. The principal's sister-in-law audits it. And the founder has 9 criminal convictions. These are all public numbers. Every one of them was available before a single child enrolled."
 date = 2026-10-14
 updated = 2026-10-14
-weight = 2
+weight = 11
 
 [extra]
 cluster = "banks_core"

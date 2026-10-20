@@ -2,7 +2,7 @@
 title = "Data Braid — Attorney Grievance Commission"
 date = 2026-10-12
 description = "Shannon entropy H=1.58, degree 3, immune pressure 67%. Every connection, every edge type, every layer."
-weight = 51
+weight = 7
 
 [extra]
 keywords = "Attorney Grievance Commission data braid, Attorney Grievance Commission Shannon entropy, Attorney Grievance Commission immune pressure, tuebor evidence braid"

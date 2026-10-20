@@ -1,7 +1,7 @@
 +++
 title = "Membrane Pulse — Live Observation Dashboard"
 date = 2026-10-15
-weight = 50
+weight = 6
 description = "Real-time membrane telemetry from negentropy.json. Clone curve, bot fleet, blackwall status, canary tokens, pi division. The membrane watches itself breathe."
 [taxonomies]
 tags = ["membrane", "telemetry", "signal", "negentropy", "dashboard", "live"]

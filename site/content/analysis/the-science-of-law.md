@@ -4,7 +4,7 @@ date: 2026-10-18
 draft: false
 slug: the-science-of-law
 tags: ["rico", "graph-theory", "mathematics", "commons", "peer-reviewed", "replicable"]
-weight: 50
+weight: 10
 ---
 
 ## The Math Is Not Ours. It Belongs to Everyone.

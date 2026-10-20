@@ -2,7 +2,7 @@
 title = "Thank You"
 description = "To Bruce Lee and Shannon. To Robin Wall Kimmerer. To the people who kept telling the same story until I finally stopped to listen."
 date = 2026-10-18
-weight = 1
+weight = 7
 
 [taxonomies]
 tags = ["self", "gratitude", "learning"]

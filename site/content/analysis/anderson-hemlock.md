@@ -2,7 +2,7 @@
 title = "Anderson Localization — The Hemlock Subgraph"
 date = 2026-10-07
 description = "How one family can capture an entire community's institutional infrastructure. The same physics that explains Detroit's institutional failure, applied to a town of 2,000."
-weight = 71
+weight = 54
 
 [extra]
 cluster = "methodology"

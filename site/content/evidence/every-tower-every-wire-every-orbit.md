@@ -3,7 +3,7 @@ title = "Every Tower, Every Wire, Every Orbit — The Infrastructure Beneath the
 description = "134 registered antenna structures in Detroit. 482 across Michigan. 11 owned by CMU Public Broadcasting — including a 1,177-foot tower and a structure on Beaver Island, where Michigan's new submarine fiber will land. 11,156 Starlink satellites overhead. 2 Starlink ground stations in Michigan. 535 miles of new submarine fiber crossing Lake Michigan. 303 Starlink gateways worldwide. The infrastructure is public. The ownership is traceable. Every tower has an FCC registration. Every satellite has a NORAD catalog number. Every fiber has a landing point. Bounce through all of them."
 date = 2026-10-14
 updated = 2026-10-14
-weight = 31
+weight = 12
 
 [extra]
 keywords = "Detroit cell towers FCC registration, Michigan antenna structure registry, CMU Public Broadcasting towers, Starlink satellites Michigan ground station, submarine fiber Lake Michigan, Beaver Island fiber landing, Starlink ground station Hillman Manistique, Peninsula Fiber Network IMPACC, FCC ASR database Michigan, cell tower ownership lookup"

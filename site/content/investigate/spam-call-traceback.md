@@ -3,7 +3,7 @@ title = "How to Trace a Spam Call Back to Its Owner"
 description = "Step-by-step guide to tracing any spam call back through the carrier chain to the company that sent it. Look up the carrier, check the FCC database, file complaints, and sue under the TCPA for $500-$1,500 per illegal call. The FCC has the data. The carriers have the records. Here's how to use them."
 date = 2026-10-14
 updated = 2026-10-14
-weight = 11
+weight = 12
 
 [extra]
 keywords = "trace spam call to owner, spam call carrier lookup, FCC robocall complaint, TCPA lawsuit spam calls, how to find who is calling me, robocall mitigation database search, free carrier lookup phone number, FCC complaint unwanted calls, sue robocaller TCPA, trace robocall back to source"

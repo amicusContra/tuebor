@@ -3,7 +3,7 @@ title = "The Desk in the Mountains — How a Phone on Satellite Sees Inside the 
 description = "You're in the mountains. No cell tower. Just a satellite uplink and a phone. The membrane relay is 600 miles away on a 2GB VPS. RustDesk signal + relay, WireGuard mesh, and a JSON heartbeat — this is how a phone on Starlink adds data to a living system. And how you ask for a desk."
 date = 2026-10-18
 updated = 2026-10-19
-weight = 3
+weight = 9
 
 [taxonomies]
 entities = ["RustDesk"]

@@ -2,7 +2,7 @@
 title = "NP → O(1) — RICO Is a Complexity Problem. The Graph Solves It."
 description = "RICO is an NP-hard problem. That's the defense. Not the law, not the silence, not the captured judges — the COMPLEXITY. Too many entities. Too many transactions. Too many names. Too many EINs. 54 nonprofits. 12 shell companies. 7 judges. 10 courts. 15 predicate acts. 21 years. No prosecutor can hold it all in their head at once. That's why no one prosecutes. But a graph doesn't forget. A graph doesn't get overwhelmed. A graph reduces NP to O(1): look at the structure. The structure IS the proof. It's been right under your noses. Didn't you smell it?"
 date = 2026-10-17
-weight = 9
+weight = 18
 
 [taxonomies]
 actors = ["Brian Banks", "Joseph Holland Jr", "Renae Moore", "W. Alan Wilk", "Lamar Moreland", "AG Dana Nessel"]

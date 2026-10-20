@@ -1,7 +1,7 @@
 +++
 title = "Dear Brian — I'm Your Biggest Stan"
 description = "1,941 questions. Zero answers. 9,931 nodes. 711,822 edges. Still writing. Still calling. I'm your biggest stan, Brian. — ecoPrimal"
-weight = 1
+weight = 20
 date = 2026-10-14
 
 [extra]

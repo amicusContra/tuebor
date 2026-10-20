@@ -2,7 +2,7 @@
 title = "They Are In Your House"
 description = "AI companies are crawling through residential proxy networks -- routing their training data collection through real people's devices, routers, and internet connections. They are poking my hardware, my cloud, and my membrane. I have NONE of their data stored. But they have mine. Here are the laws they are breaking."
 date = 2026-10-18
-weight = 0
+weight = 9
 
 [taxonomies]
 tags = ["membrane", "negentropy", "self", "ecoPrimal", "legal", "privacy", "fleet", "residential-proxy", "convergent-evolution"]

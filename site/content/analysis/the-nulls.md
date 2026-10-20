@@ -3,7 +3,7 @@ title = "The Nulls — Anchor Rock, CitizenDetroit, SCBC, and the Organizations 
 description = "Some entities in the investigation graph are classified as null — the membrane can't tell what they are. Anchor Rock Foundation (6 edges), CitizenDetroit Action Group (6 edges), School Choice Is The Black Choice Tour (11 edges), NuVision Foundation (2 edges). All null. All connected to Banks. All doing something the membrane can't name. Null isn't innocent. Null is unexamined."
 date = 2026-10-14
 updated = 2026-10-14
-weight = 16
+weight = 7
 
 [extra]
 cluster = "dark_money"

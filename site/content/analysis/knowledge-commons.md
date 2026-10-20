@@ -1,7 +1,7 @@
 +++
 title = "The Knowledge Commons"
 description = "Life is zero-knowledge. All knowledge is inside. 30 tools nobody owns, 67,800 years of shared infrastructure, and the membrane between what the universe knows and what humans prove."
-weight = 2
+weight = 19
 date = 2026-10-11
 
 [taxonomies]

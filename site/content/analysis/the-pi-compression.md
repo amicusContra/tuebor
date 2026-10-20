@@ -3,7 +3,7 @@ title = "The π Compression — Every System Breathes in Units of π"
 description = "31 stuck surfaces = π³. The null fraction × π = unity. Wake level / π = 1/π exactly. The system is bipolar: 16 of 17 key metrics sit at the poles (0 or 1). Only the null space — the thing we cannot classify — sits at 1/π in the middle. The bridge between hard and soft IS the prime sequence of time."
 date = 2026-10-19
 updated = 2026-10-19
-weight = 1
+weight = 8
 
 [taxonomies]
 connections = ["pi-body proof", "architecture", "membrane", "topology", "null dimension", "rendering", "geometry", "paradox", "falsification"]

@@ -1,7 +1,7 @@
 +++
 title = "Institutional Response Tracker"
 description = "The same evidence was submitted to multiple Michigan institutions. Their responses reveal which checkpoints function and which have failed. Anderson Localization applied beyond courts."
-weight = 10
+weight = 14
 date = 2026-10-06
 updated = 2026-10-06
 

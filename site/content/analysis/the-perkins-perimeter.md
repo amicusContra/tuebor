@@ -3,7 +3,7 @@ title = "The Perkins Perimeter — One Family Name, Every Door"
 description = "Judge Sean Perkins (7 edges, partial). David Perkins (3 edges, partial). Ms. Perkins at PCA's front desk (gatekeeper, access_control). Todd Perkins at Perkins Law Group (Banks's attorneys). The Perkins name appears at every access point in the investigation: the court, the law firm, the front desk. Whether they're all related is a question. That they all serve the same function — blocking access — is a fact."
 date = 2026-10-14
 updated = 2026-10-14
-weight = 52
+weight = 6
 
 [extra]
 cluster = "governance"

@@ -2,7 +2,7 @@
 title = "Data Braid — Great Lakes Conservatives Fund"
 date = 2026-10-12
 description = "Shannon entropy H=0.81, degree 4, immune pressure 0%. Every connection, every edge type, every layer."
-weight = 75
+weight = 6
 
 [extra]
 keywords = "Great Lakes Conservatives Fund data braid, Great Lakes Conservatives Fund Shannon entropy, Great Lakes Conservatives Fund immune pressure, tuebor evidence braid"

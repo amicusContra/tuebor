@@ -3,7 +3,7 @@ title = "How to Read a Nonprofit's 990 — Follow the Money"
 description = "Step-by-step guide to finding and reading IRS Form 990 filings for any nonprofit or 501(c)(3). Use this to trace money flows through Purpose Foundation, NuVision Foundation, Anchor Rock Foundation, or any charter school nonprofit."
 date = 2026-10-14
 updated = 2026-10-14
-weight = 9
+weight = 7
 
 [extra]
 keywords = "IRS Form 990 lookup, nonprofit 990 search, ProPublica nonprofit explorer, how to read 990, 990 compensation disclosure, 990 related parties, charter school nonprofit 990, Purpose Foundation 990, follow nonprofit money"

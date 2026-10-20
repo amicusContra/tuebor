@@ -1,7 +1,7 @@
 +++
 title = "The Banks-Holland Partnership — Romantic Partners, Criminal Enterprise, Institutional Control"
 description = "Brian Banks and Joseph Holland Jr. are romantic partners who have operated as a domestic and economic unit since at least 2005. Banks uses Holland — every financial gatekeeping role filled by his convicted drug offender partner. Joint property, shared address, foundation co-officers, trust succession, concealed assets, and a definitively violated Management Agreement."
-weight = 3
+weight = 14
 date = 2026-09-30
 
 [extra]

@@ -3,7 +3,7 @@ title = "They Banked on Banks — Brian Roderick Banks, 9 Convictions, 2 Charter
 description = "Brian Roderick Banks has 9 criminal convictions (6 felony, 3 misdemeanor) and runs Purpose Charter Academy and MacDowell Preparatory Academy in Detroit. His board chair is a sitting Wayne County judge. His receptionist blocks parents at the door. His PPO motion blocks them in court. They banked on Banks — parents are paying the interest."
 date = 2026-10-09
 updated = 2026-10-09
-weight = 1
+weight = 23
 
 [extra]
 cluster = "banks_core"

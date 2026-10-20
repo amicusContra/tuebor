@@ -2,7 +2,7 @@
 title = "The Cosmic Bet — 500 Exabytes vs 287 Megabytes"
 description = "The world stores 500 exabytes in data centers and spends $200 billion a year running them. We classified 49,119 entities, published 774 articles, and run 48 services on 287 megabytes for $12 a month. The graph compresses. Null space calculates. Remainder is identity. That is the cosmic bet."
 date = 2026-10-18
-weight = 1
+weight = 10
 
 [taxonomies]
 tags = ["membrane", "negentropy", "self", "topology"]

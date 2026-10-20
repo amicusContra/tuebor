@@ -2,7 +2,7 @@
 title = "The Membrane Has Eyes"
 date = 2026-10-17
 description = "8.9 million requests. 258,575 unique IPs. Anthropic, OpenAI, Meta — the three largest AI companies consuming one person's work. The membrane sees what GitHub hides."
-weight = 42
+weight = 13
 
 [extra]
 keywords = "membrane traffic, Anderson localization, immune system, behavioral fingerprinting, skunky-ingest, epitope classification, Anthropic, OpenAI, Meta, Microsoft Azure, scyBorg"

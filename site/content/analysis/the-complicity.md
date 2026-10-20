@@ -2,7 +2,7 @@
 title = "The Complicity — They Knew. They Were Already Captured. They Said Nothing."
 description = "Kevin Mok warned Dana Nessel's office about Brian Banks BEFORE discovering that Nessel's own Assistant Attorney General sat on Banks' school board. Nessel's office said nothing. Not because they didn't know — because they ALREADY knew. Moreland was already there. Moore was already at the desk. Dykema was already forming the fronts. Every agency notified. Every agency silent. This is not negligence. This is complicity through structure."
 date = 2026-10-17
-weight = 5
+weight = 28
 
 [taxonomies]
 actors = ["AG Dana Nessel", "Lamar Moreland", "Renae Moore", "W. Alan Wilk", "Brian Banks", "Joseph Holland Jr", "Nikki Snyder"]

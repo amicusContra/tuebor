@@ -3,7 +3,7 @@ title = "The Banks LLC Network — 16 Shell Entities Mapped"
 description = "A complete map of all 16 LLCs and entities connected to Brian Roderick Banks, including LARA entity names, classifications, edge counts, and known money flows. Two are classified non-self. Fourteen are null. All are registered in Michigan. All lead to one man."
 date = 2026-10-14
 updated = 2026-10-14
-weight = 3
+weight = 11
 
 [extra]
 keywords = "Brian Banks LLC network, Banks shell companies Michigan, Purpose Group LLC, Banks Strategy Consultants LLC, Inner Link LLC, Brian Banks LARA filings, Banks 16 LLCs, charter school shell companies, Banks Living Trust, B Rodericks LLC"

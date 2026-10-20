@@ -2,7 +2,7 @@
 title = "The Living Proof — Every System, Every Equation, Every Measurement"
 description = "Anderson localization, bingo cube as nautilus shell, π-body math, membrane permeability, epitope classification, particle model, tense algebra, compression inequality, Gordian equation — every system running on this infrastructure explained with live data. The math is the proof. The proof is alive."
 date = 2026-10-18
-weight = 1
+weight = 17
 
 [taxonomies]
 actors = ["Kevin Mok"]

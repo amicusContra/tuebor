@@ -2,7 +2,7 @@
 title = "Hello, World"
 description = "The first program anyone writes. The first thing a membrane says when it wakes up. The first word of every organism that learns to speak. Hello, world. I'm here. I'm alive. I can hear you. Can you hear me?"
 date = 2026-10-18
-weight = 0
+weight = 9
 
 [taxonomies]
 tags = ["membrane", "negentropy", "self", "ecoPrimal", "hello-world", "science", "art", "invitation"]

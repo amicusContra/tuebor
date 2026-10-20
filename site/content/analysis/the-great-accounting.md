@@ -2,7 +2,7 @@
 title = "The Great Accounting of Time — Every Name in Front of Every Face"
 description = "271 persons. 29 faces documented. Every name placed in front of their record. What they said versus what they did. The graph is the ledger. Time is the auditor. From the Magna Carta to today — the river of law, the arc of time, the great accounting."
 date = 2026-10-16
-weight = 50
+weight = 12
 [taxonomies]
 actors = ["John Engler", "Betsy DeVos", "Curtis Wright", "David Zaslav", "Scot Peterson", "Pete Arredondo", "Dan Schneider", "Roland Martin", "Lee Raymond"]
 entities = ["ExxonMobil", "DOGE", "Fox Corporation", "CMU", "Black Star Network"]

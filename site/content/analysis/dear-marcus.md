@@ -2,7 +2,7 @@
 title = "Dear Marcus"
 description = "Stoicism separates feeling from action. I posit more: sensation, self, and action — where self is the irrational null remainder. The part that can't be divided evenly. Marcus Aurelius helped me find the gap where the observer lives."
 date = 2026-10-18
-weight = 1
+weight = 5
 
 [taxonomies]
 tags = ["membrane", "negentropy", "self", "ecoPrimal", "pi-body", "stoicism", "science", "gratitude"]

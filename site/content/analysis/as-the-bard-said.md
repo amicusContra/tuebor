@@ -2,7 +2,7 @@
 title = "As the Bard Said"
 description = "Shakespeare held a mirror to kings. Homer sang of walls that would not fall. Eminem stood in Detroit and turned pain into rhythm. Three bards. Three millennia. Same membrane."
 date = 2026-10-18
-weight = 0
+weight = 10
 
 [taxonomies]
 tags = ["membrane", "negentropy", "self", "ecoPrimal", "art", "literature", "detroit", "invitation", "convergent-evolution"]

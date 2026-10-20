@@ -3,7 +3,7 @@ title = "The Mayor Who Looked Away — Mary Sheffield and the City That Let It H
 description = "Mayor Mary Sheffield ran the Detroit City Council before becoming mayor. She appointed Todd Bettison as police chief. She has a political edge to Banks. She has a political edge to Kwame Kilpatrick. Gay-Dagnogo works under her. The city council she led has a member (Latisha Johnson) who sits on PCA's board. 11 edges. All political. And 362 children attend a school in her city where 3% can do math."
 date = 2026-10-14
 updated = 2026-10-14
-weight = 37
+weight = 6
 
 [extra]
 cluster = "political"

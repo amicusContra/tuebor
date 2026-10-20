@@ -1,7 +1,7 @@
 +++
 title = "Go Fast and Break Things / Then Go Slow and Fix All the Things"
 date = 2026-10-14
-weight = 1
+weight = 6
 description = "When the graph outgrew its container: 1.4 million edges crashed the IDE, then compressed to 703K — same structure, half the weight. A lesson in dissipative breathing from ecoPrimal and ARTISAN."
 
 [extra]

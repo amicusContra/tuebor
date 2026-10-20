@@ -2,7 +2,7 @@
 title = "Climate Denial — When They Knew, What They Knew, How We Prove It"
 description = "ExxonMobil knew about climate change since 1977. API knew since 1957. They spent $500M+ manufacturing doubt. The graph traces every organization, every name, every dollar. RICO was always zero-knowledge — the structure proves the pattern."
 date = 2026-10-16
-weight = 50
+weight = 7
 [taxonomies]
 actors = ["Lee Raymond", "Rex Tillerson", "Charles Koch", "Willie Soon", "Marc Morano"]
 entities = ["ExxonMobil", "American Petroleum Institute", "Global Climate Coalition", "Koch Industries", "Heartland Institute"]

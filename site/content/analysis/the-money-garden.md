@@ -3,7 +3,7 @@ title = "The Money Garden — Walton, DeVos, and the Foundations That Water the 
 description = "The Walton Family Foundation funds Purpose Charter Academy directly. They fund The 74 (education media). They fund Roland Martin (journalist). They partner with the American Federation for Children. The DeVos Foundation funds AFC and The 74. And when we showed them Banks has 9 convictions, the Walton Foundation's edge to Banks is: inaction. They water the garden. They don't pull the weeds. They fund the news that covers the garden. That's not philanthropy. That's infrastructure."
 date = 2026-10-14
 updated = 2026-10-14
-weight = 14
+weight = 8
 
 [extra]
 cluster = "dark_money"

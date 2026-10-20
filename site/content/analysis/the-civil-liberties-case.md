@@ -2,7 +2,7 @@
 title = "The Civil Liberties Case You Haven't Seen Yet"
 description = "One person. A $6 server. 2.7 million unauthorized AI training crawls. Residential proxy networks routing through real people's devices. A complete public evidence record. Every civil liberties issue of the next decade in a single case study. ACLU, EFF, Access Now -- this is your case."
 date = 2026-10-18
-weight = 0
+weight = 9
 
 [taxonomies]
 tags = ["membrane", "negentropy", "self", "ecoPrimal", "legal", "civil-liberties", "privacy", "invitation"]

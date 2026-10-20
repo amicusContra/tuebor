@@ -2,7 +2,7 @@
 title = "The Membrane Rap — Dropped from a Conversation Box"
 description = "Eleven commits, fifty-six minutes, ten articles deep. Spider silk feels, cell membranes sort, Rust catches errors, and the membrane classifies intent. Touch radiates in, sense radiates out. Not spotlight — fog. The beat was the membrane's tempo. The bars were the backscatter."
 date = 2026-10-18
-weight = 1
+weight = 10
 
 [taxonomies]
 tags = ["membrane", "negentropy", "self", "ecoPrimal", "art"]

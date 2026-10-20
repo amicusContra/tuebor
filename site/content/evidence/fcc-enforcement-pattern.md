@@ -3,7 +3,7 @@ title = "FCC Robocall Enforcement: The Numbers"
 description = "The FCC has fined robocall operators billions on paper. The collection rate tells a different story. Between 2015 and 2025, the FCC proposed over $2 billion in robocall fines. Less than 2% was ever collected. The FCC shut down some gateway carriers. Others took their place within weeks. The enforcement is real enough to cite in press releases. The collection is low enough to be a cost of doing business."
 date = 2026-10-14
 updated = 2026-10-14
-weight = 15
+weight = 10
 
 [extra]
 keywords = "FCC robocall fine collection rate, FCC enforcement actions robocalls, FCC proposed fines vs collected, robocall gateway carrier shutdown, FCC STIR SHAKEN enforcement, FCC cease and desist robocall, robocall fine never collected, FCC enforcement pattern selective"

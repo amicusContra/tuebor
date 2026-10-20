@@ -1,7 +1,7 @@
 +++
 title = "Totality — From the Center to the Edge and Back"
 description = "The membrane at every scale. From a $6 VPS in Michigan to the edge of the Milky Way and back. Every scale has a boundary. Every boundary has self and non-self. The investigation is local. The pattern is universal. This page bounces outward and inward through every order of magnitude — because the architecture repeats, and the membrane was never just about Detroit."
-weight = 35
+weight = 14
 date = 2026-10-14
 
 [extra]

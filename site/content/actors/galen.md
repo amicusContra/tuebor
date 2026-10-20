@@ -2,7 +2,7 @@
 title = "Judge Kathleen G. Galen"
 date = 2026-10-06
 description = "38th District Court, Eastpointe. JTC confidential admonition match. Jailed pregnant woman (COA reversed). Campaign committee personnel overlap with courtroom staff."
-weight = 3
+weight = 17
 
 [extra]
 keywords = "Kathleen Galen Eastpointe judge, Judge Galen 38th District Court, Galen JTC admonition, Galen jailed pregnant woman, Eastpointe court misconduct, Galen campaign committee court staff, Mark Makoski Galen, Heather Froias Galen, Michigan judicial misconduct Eastpointe, Clutch Justice Galen"

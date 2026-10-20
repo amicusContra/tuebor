@@ -2,7 +2,7 @@
 title = "The False Face — 45 Nonprofits, One Desk, Zero Employees, Millions in Dark Money"
 description = "Every nonprofit on the Moore desk has the same structure: Moore as Asst Secretary, Chorey as Asst Treasurer, 100% revenue from contributions, $0 officer compensation, $0 employees, returns prepared by Dykema Gossett PLLC, same PO Box, same phone number. They spike in election years, go dormant between. They're not nonprofits. They're pass-through vehicles for dark money. The IRS has removed several from its tax-exempt list. Here are the receipts."
 date = 2026-10-17
-weight = 12
+weight = 13
 
 [taxonomies]
 actors = ["Renae Moore", "W. Alan Wilk", "Allison Chorey", "Samuel Buzz Thomas", "Kenneth Daniels", "Mike Duggan", "Rebecca Vykydal"]

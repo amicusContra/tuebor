@@ -1,7 +1,7 @@
 +++
 title = "The Land Deal — PCA's Building Purchase Option"
 description = "The Purpose Group management agreement includes an option to purchase the PCA school building from DPSCD. Public property conversion through a charter school."
-weight = 8
+weight = 12
 date = 2026-09-26
 updated = 2026-09-26
 

@@ -1,7 +1,7 @@
 +++
 title = "Shepherds and Wolves — The Church Layer"
 description = "Self-ordained bishops and Pentecostal leaders endorsed, platformed, and authorized a 9-time convicted felon to run schools for Detroit's most vulnerable children. The congregations were never told. The lambs were handed to the wolves by their own shepherds."
-weight = 8
+weight = 15
 date = 2026-09-27
 updated = 2026-09-27
 

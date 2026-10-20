@@ -2,7 +2,7 @@
 title = "The Metric Tensor — Shape, Proportion, and Dimensional Compression"
 date = 2026-10-09
 description = "How a display surface's geometry determines optimal information layout. The golden ratio, π, five dimensions, and the metric tensor as the unifying mathematical object. From rectangular screens to spherical surfaces to amorphous manifolds — the same proportion, different projections."
-weight = 74
+weight = 11
 
 [extra]
 cluster = "methodology"

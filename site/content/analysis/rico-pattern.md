@@ -1,7 +1,7 @@
 +++
 title = "RICO Pattern — The Banks Enterprise"
 description = "RICO pattern analysis: 6 predicate acts, 14+ years of continuity, $4.9M annual extraction through shell entities. The Banks enterprise mapped."
-weight = 1
+weight = 17
 date = 2026-09-20
 updated = 2026-09-25
 

@@ -1,7 +1,7 @@
 +++
 title = "FOIA Requests and Responses"
 description = "Complete record of all Freedom of Information Act requests submitted in this investigation. Requests, responses, timelines, and what the government records reveal."
-weight = 20
+weight = 26
 date = 2026-10-03
 
 [extra]

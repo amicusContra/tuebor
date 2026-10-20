@@ -2,7 +2,7 @@
 title = "The Nonprofit Web — How Dark Money Connects the Desk to the Board to the Enterprise"
 description = "Save Detroit Jobs backed Latisha Johnson for Detroit City Council. Latisha Johnson sits on the PCA Board. The FBI raided the council offices looking for 501(c)(4) records. W. Alan Wilk formed the nonprofits. Renae Moore managed the compliance. Kenneth Daniels — the nonprofit's president — was charged with buying a Mercedes for a convicted drug dealer. The desk doesn't just manage accounts. The desk builds the board."
 date = 2026-10-17
-weight = 8
+weight = 35
 
 [taxonomies]
 actors = ["Renae Moore", "W. Alan Wilk", "Latisha Johnson", "Kenneth Daniels", "Keenann Knox", "Scott Benson", "Carol Banks", "Mike Duggan", "Brian Banks", "Damian Mitchell"]

@@ -3,7 +3,7 @@ title = "Purpose Group LLC — Revenue Extraction Data"
 description = "Purpose Group LLC extracts 72.67% of Purpose Charter Academy's revenue as a 'management fee.' Purpose Group is a single-member LLC. The single member is Brian Roderick Banks, who has 9 criminal convictions. This page documents the extraction mechanism, the LARA filings, and the money flow from federal/state sources through PCA to Purpose Group to Banks."
 date = 2026-10-14
 updated = 2026-10-14
-weight = 2
+weight = 12
 
 [extra]
 keywords = "Purpose Group LLC revenue extraction, 72.67 percent management fee, Purpose Group single member LLC Brian Banks, PCA revenue to Purpose Group, charter school management fee Michigan, Purpose Group LARA filing, Title I funds Purpose Group, per pupil funding extraction"

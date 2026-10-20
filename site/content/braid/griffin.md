@@ -2,7 +2,7 @@
 title = "Data Braid — Kenneth Griffin"
 date = 2026-10-12
 description = "Shannon entropy H=0.00, degree 2, immune pressure 0%. Every connection, every edge type, every layer."
-weight = 100
+weight = 6
 
 [extra]
 keywords = "Kenneth Griffin data braid, Kenneth Griffin Shannon entropy, Kenneth Griffin immune pressure, tuebor evidence braid"

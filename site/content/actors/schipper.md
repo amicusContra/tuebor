@@ -2,7 +2,7 @@
 title = "Judge Michael Schipper"
 date = 2026-10-06
 description = "Barry County Circuit Court. Active JTC investigation. Two Michigan Supreme Court remands in 3 months. Extreme sentencing. Competency exam after ADA assertion."
-weight = 4
+weight = 14
 
 [extra]
 keywords = "Michael Schipper Barry County judge, Judge Schipper JTC investigation, Barry County Circuit Court, Schipper extreme sentencing, Schipper Michigan Supreme Court remand, Schipper competency exam, Barry County court problems, Michigan judicial investigation Barry County, Clutch Justice Schipper, Schipper ADA retaliation"

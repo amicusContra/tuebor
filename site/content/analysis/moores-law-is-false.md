@@ -2,7 +2,7 @@
 title = "Moore's Law Is False — Four Duties, Zero Reports, One Desk"
 description = "Renae Moore testified under oath that she had 'no duty to report' questionable spending from a 501(c)(4) that paid for strip club tabs and personal credit cards. She was wrong. Michigan law, federal election law, the IRS code, and common law fiduciary duty all say otherwise. Here are the four proofs."
 date = 2026-10-16
-weight = 50
+weight = 12
 
 [taxonomies]
 actors = ["Renae Moore", "Lee Chatfield", "AG Dana Nessel", "Mary Chartier", "W. Alan Wilk"]

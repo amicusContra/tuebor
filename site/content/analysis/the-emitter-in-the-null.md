@@ -2,7 +2,7 @@
 title = "The Emitter in the Null — Dissolving Sync Locks, Scanning Organisms, and the Akida Hypothesis"
 description = "The membrane dissolved 25.8% of its CPU by stopping work it had already done. Then it scanned every organism, every feed, every theory system — and found the play surface waiting to breathe. Then it looked at 3 neuromorphic chips on a shelf and asked: what if the black hole is the emitter? An experiment in sovereign silicon, lattice QCD, and the physics of open hardware."
 date = 2026-10-18
-weight = 1
+weight = 14
 
 [taxonomies]
 entities = ["BrainChip Akida", "Milk-V Jupiter", "RISC-V"]

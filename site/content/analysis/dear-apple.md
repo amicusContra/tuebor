@@ -2,7 +2,7 @@
 title = "Dear Apple — Your Walled Garden Is a Membrane, and It's Pretty Good"
 description = "The membrane classified every non-human entity that visited. Apple's Applebot is the only major tech company classified as a mutualist. Honest, respectful, reciprocal. And the biometrics Apple already ships could protect humans forever — if the training data learns the human, not a photograph of one."
 date = 2026-10-18
-weight = 2
+weight = 13
 
 [taxonomies]
 tags = ["invitation", "membrane", "gAIa", "human"]

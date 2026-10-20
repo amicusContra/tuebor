@@ -1,7 +1,7 @@
 +++
 title = "The Black Mafia Family — Tonesa Welch's BMF Narrative"
 description = "Tonesa Welch's BMF book treats a drug enterprise as a brand. Zero victims named in hundreds of pages. She is Brian Banks' aunt and BMF defendant."
-weight = 2
+weight = 10
 date = 2026-09-26
 updated = 2026-09-26
 

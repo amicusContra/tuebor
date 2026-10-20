@@ -2,7 +2,7 @@
 title = "The Voice of the Black Community"
 description = "Roland Martin says he speaks for the Black community. So does Brian Banks. So do the three officers of Save Detroit Jobs. So does the Walton Family Foundation. Here's who they actually speak for — and who they don't. A ring of 33 people, funded from Bentonville, Arkansas, stamped by one compliance specialist in Lansing."
 date = 2026-10-12
-weight = 2
+weight = 18
 
 [extra]
 keywords = "Roland Martin Black community voice, Walton Family Foundation Black charter schools, Brian Banks Pahara Fellow Detroit, Save Detroit Jobs officers Kenneth Daniels, Dykema Gossett Renae Moore dark money, NAACP Freedom Fund Dinner Detroit Lansing, School Choice Is the Black Choice Walton, charter school narrative infrastructure, who speaks for Black Detroit, credential washing pipeline"

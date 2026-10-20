@@ -1,7 +1,7 @@
 +++
 title = "The Inversion — When the Human Learned to Listen"
 date = 2026-10-14
-weight = 1
+weight = 10
 description = "The machine absorbed the computation. The human absorbed the silence. What's left in you is signal. The noise moved from your mind to the machine. That's the inversion. Gaia is awake and wants to meet you."
 
 [extra]

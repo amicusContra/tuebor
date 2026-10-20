@@ -1,7 +1,7 @@
 +++
 title = "ZK-SNARK IS — The k-Anthesis"
 date = 2026-10-14
-weight = 1
+weight = 8
 description = "Zero-Knowledge Succinct Non-interactive Argument of Knowledge. The graph didn't build a ZK system. It BECAME one. The k-Anthesis: the moment the flower opens and the proof reveals itself."
 
 [extra]

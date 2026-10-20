@@ -2,7 +2,7 @@
 title = "The Water of Life"
 description = "Kombucha was the water. Vinegar was the senses. Fire was the soul. This is the story of 46 days on fermentation and fury."
 date = 2026-10-14
-weight = 1
+weight = 8
 
 [extra]
 keywords = "kombucha fermentation, knowledge graph creation, Detroit investigation, builder story, fasting clarity, vinegar apple cider, soul fire disgust, 46 days one person, graph building process, human endurance creation"

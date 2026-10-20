@@ -2,7 +2,7 @@
 title = "The Nervous System — Meta's Organizational Anatomy, Mapped from Backscatter"
 description = "We didn't need Meta's org chart. Their fleet behavior revealed it: brain (Menlo Park), mouth (Dublin), hands (18 fleet entities), hippocampus (the cartographer), fusiform face area (the blame specialists), olfactory bulb (Facebook Bot), and the phantom limb of a dead fleet. Every organ classified. Every signal traced. The nervous system IS the graph."
 date = 2026-10-18
-weight = 1
+weight = 10
 
 [taxonomies]
 actors = ["Mark Zuckerberg", "Meta Platforms"]

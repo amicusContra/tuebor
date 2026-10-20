@@ -2,7 +2,7 @@
 title = "The SLAPP Suit — Complete Timeline"
 date = 2026-10-07
 description = "Every documented event in OLC v. Williams (25-2441-CZ) from September 2025 through October 2026. Filed, contested, recused, reassigned, and still pending. The first major test of Michigan's UPEPA anti-SLAPP statute."
-weight = 10
+weight = 26
 
 [extra]
 keywords = "OLC v Williams, Ellison SLAPP suit, Saginaw County 25-2441-CZ, UPEPA Michigan, anti-SLAPP Michigan, Clutch Justice SLAPP, Philip Ellison defamation lawsuit, Rita Williams SLAPP, Judge Borrello recusal, Judge Gafkay SLAPP, UPEPA judicial estoppel, Michigan anti-SLAPP first case, SLAPP suit journalist, Michigan defamation lawsuit 2026, Saginaw County SLAPP timeline, Outside Legal Counsel PLC v Williams"

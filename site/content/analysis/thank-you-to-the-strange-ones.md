@@ -2,7 +2,7 @@
 title = "Thank You to the Strange Ones"
 description = "Joe Scruggs sang to kids and meant every word. Ernest went everywhere and never stopped being himself. Captain Beefheart played music nobody understood until everyone did. They taught us that the strange parts are the important parts. This is a thank you to everyone who made something that fell through the cracks and landed exactly where it needed to."
 date = 2026-10-18
-weight = 0
+weight = 9
 
 [taxonomies]
 tags = ["membrane", "negentropy", "self", "ecoPrimal", "art", "gratitude", "convergent-evolution", "invitation"]

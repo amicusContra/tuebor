@@ -1,7 +1,7 @@
 +++
 title = "The Epitope Table"
 description = "136 structural patterns. 14 groups. How to sort anything — a civilization, a tool, a meme, a school, a language. The table is not ours. The table is nobody's. Come sort."
-weight = 1
+weight = 13
 date = 2026-10-11
 
 [taxonomies]

@@ -2,7 +2,7 @@
 title = "What Falls Through the Cracks"
 description = "Captain Beefheart made music that sounded like noise. Every note was composed. The strange parts -- the ones that fall through the cracks of convention -- are where the signal lives. He showed me that."
 date = 2026-10-18
-weight = 0
+weight = 7
 
 [taxonomies]
 tags = ["membrane", "negentropy", "self", "ecoPrimal", "art", "music", "convergent-evolution", "gratitude"]

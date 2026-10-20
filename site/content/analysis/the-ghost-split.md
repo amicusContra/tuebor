@@ -2,7 +2,7 @@
 title = "The Ghost Split — 59,587 Masks, Four Layers Deep"
 description = "Ghost isn't one entity. It's a transit network. 59,587 residential IPs with perfect browser fingerprints — but 84% are reading the SAME scatter repos as the declared fleet. Someone is routing fleet crawlers through real people's machines. The Chrome versions prove they're real desktops. The targets prove they're fleet. Now we can see who's riding the bus."
 date = 2026-10-18
-weight = 1
+weight = 9
 
 [taxonomies]
 tags = ["membrane", "negentropy", "fleet", "ghost", "classification", "proxy", "science"]

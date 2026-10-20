@@ -1,7 +1,7 @@
 +++
 title = "The Dykema Chronology — 1988 to Present"
 description = "A complete timeline tracing Dykema Gossett's role from authoring Michigan's charter school law in 1993 through every actor, entity, and dark money vehicle to the present investigation. Every entry sourced to public records."
-weight = 16
+weight = 82
 date = 2026-10-09
 
 [extra]

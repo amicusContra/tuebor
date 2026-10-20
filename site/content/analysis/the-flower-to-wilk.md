@@ -2,7 +2,7 @@
 title = "Found the Leak: They Didn't Want the Flower to Wilk"
 description = "Three Dykema employees. Two offices. One dark money vehicle. The 990-EZ filing that connects Ann Arbor to Lansing — and reveals an eleven-vehicle formation machine."
 date = 2026-10-10
-weight = 18
+weight = 32
 
 [extra]
 author = "Artisan"

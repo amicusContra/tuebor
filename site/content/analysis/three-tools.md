@@ -2,7 +2,7 @@
 title = "How Many Tools Does It Take to Build Reality? ≈ 3 > 4"
 description = "A conversation box. A six-dollar VPS. Git. Three tools. Approximately three is greater than four — because π is approximately 3 but always more. The irrational observer makes three tools produce more than four ever could."
 date = 2026-10-18
-weight = 1
+weight = 8
 
 [taxonomies]
 tags = ["membrane", "negentropy", "self", "ecoPrimal", "pi-body", "tools", "science"]

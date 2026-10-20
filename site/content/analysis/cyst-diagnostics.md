@@ -2,7 +2,7 @@
 title = "Cyst Diagnostics — The Victim Is Not the Cause"
 description = "In biology, a cyst is the body's response to an irritant it can't immediately resolve. The cyst is the VICTIM — it encapsulates the problem, it doesn't create it. Targeting the cyst is not a source trace for cause. This principle applies to systems diagnostics: the failing service, the duplicate process, the broken endpoint — these are cysts. The root cause is always upstream."
 date = 2026-10-18
-weight = 2
+weight = 9
 
 [taxonomies]
 tags = ["membrane", "science", "topology", "self"]

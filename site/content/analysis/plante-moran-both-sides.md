@@ -2,7 +2,7 @@
 title = "The Firm on Both Sides of the Table"
 date = 2026-10-17
 description = "How Plante Moran audits Detroit's charter school authorizer while its subsidiary profits from K-12 construction — and employs a man whose surname matches the principal of a school run by a nine-time convicted felon."
-weight = 3
+weight = 15
 
 [extra]
 keywords = "Plante Moran conflict of interest, Plante Moran Realpoint Ahmed Beasley, DPSCD audit charter school, Detroit charter school accountability, Bill Lichwalla, Jason Drake, Betsy DeVos charter Michigan"

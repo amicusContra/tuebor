@@ -1,7 +1,7 @@
 +++
 title = "Detroit Literacy Crisis — The Systemic View"
 description = "MacDowell isn't an anomaly. Charter authorization as revenue, management companies as extraction vehicles, and credential enforcement as theater — the systemic pattern."
-weight = 9
+weight = 19
 date = 2026-09-26
 updated = 2026-09-26
 

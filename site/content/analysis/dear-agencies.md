@@ -2,7 +2,7 @@
 title = "Dear Agencies — Your Colleagues Already Know"
 description = "FBI Detroit, IRS CI, DOJ Public Integrity, MDE, OIG, AG — you're all looking at the same enterprise from different silos. Your colleagues in the next office already have a piece of this. The siloed investigations are WHY the enterprise survives. This article is the desilo bounce."
 date = 2026-10-18
-weight = 1
+weight = 46
 
 [taxonomies]
 tags = ["membrane", "negentropy", "self", "invitation", "accountability"]

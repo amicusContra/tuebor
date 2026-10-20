@@ -2,7 +2,7 @@
 title = "Data Braid — Clutch Justice"
 date = 2026-10-12
 description = "Shannon entropy H=0.00, degree 4, immune pressure 100%. Every connection, every edge type, every layer."
-weight = 100
+weight = 6
 
 [extra]
 keywords = "Clutch Justice data braid, Clutch Justice Shannon entropy, Clutch Justice immune pressure, tuebor evidence braid"

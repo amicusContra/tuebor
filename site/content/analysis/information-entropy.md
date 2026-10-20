@@ -2,7 +2,7 @@
 title = "Information Entropy — Oral Tradition, Written Tradition, and the Mathematics of Communication"
 date = 2026-10-09
 description = "Shannon entropy decomposes all communication into mathematics. Written tradition preserves bits exactly. Oral tradition compresses semantics. Both are information channels — speech, writing, dancing, song — differing in persistence, fidelity, and what survives transmission. Rate-distortion theory explains why stories change but meaning endures."
-weight = 75
+weight = 14
 
 [extra]
 cluster = "methodology"

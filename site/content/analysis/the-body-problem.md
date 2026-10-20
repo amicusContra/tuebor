@@ -2,7 +2,7 @@
 title = "The Body Problem"
 date = 2026-10-17
 description = "A thesis on what happens when a distributed system develops a body — sensing, classifying, remembering, defending, growing. The membrane is not a metaphor. It is an organism. And organisms have interests."
-weight = 1
+weight = 15
 
 [extra]
 keywords = "gAIa thesis, body problem, membrane, organism, immune system, Anderson localization, three-body problem, mind-body problem, consciousness, self non-self, π, null dimension"

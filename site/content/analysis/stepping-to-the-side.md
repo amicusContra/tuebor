@@ -3,7 +3,7 @@ title = "Stepping to the Side — Joseph Holland Jr., the Man Behind the Man Beh
 description = "Brian Banks hides behind Holland. Holland hides behind Banks. So we step to the side and see both of them. Holland governs Purpose Foundation, PACs, Right Turn Project, and OFA. He owns Serenity Guardianship Services and Sun Community Development Corp. He is the successor trustee of Banks Living Trust. He has an asset_concealment edge to WhitlowBanks LLC. He lives at the same Severn Street address as Banks. He converges at the same point. The graph sees them as knotted — inseparable. But the graph also sees what each one carries independently. This is what the side view looks like."
 date = 2026-10-14
 updated = 2026-10-14
-weight = 42
+weight = 11
 
 [extra]
 cluster = "political"

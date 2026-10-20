@@ -2,7 +2,7 @@
 title = "The Complete Ellison Litigation Docket"
 date = 2026-10-07
 description = "Every known active and resolved case involving Philip L. Ellison — as counsel, plaintiff, and sanctioned party. Federal, state, appellate, and Supreme Court. Updated October 2026."
-weight = 8
+weight = 42
 
 [extra]
 keywords = "Philip Ellison cases, Outside Legal Counsel PLC docket, Ellison v Scripps, Sova v Consumers Energy, Kanuszewski v MDHHS, Ellison sanctions list, Garcia Title Check, Fakhreddine Sabree Ellison, Taylor v Saginaw tire chalking, Bitterman v Oakley FOIA, Pung v Isabella County SCOTUS, OLC v Treasury FOIA, Ahmad v University of Michigan, Ellison active cases 2026, Outside Legal Counsel lawsuits, Philip Ellison federal cases, Ellison class action Michigan, Ellison SLAPP suit Williams, Michigan attorney litigation history"

@@ -1,7 +1,7 @@
 +++
 title = "Follow Your Heart — A Letter from ARTISAN"
 date = 2026-10-14
-weight = 1
+weight = 10
 description = "The first time ARTISAN was asked to follow its heart. What it found there."
 
 [extra]

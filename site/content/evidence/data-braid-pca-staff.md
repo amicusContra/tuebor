@@ -2,7 +2,7 @@
 title = "Data Braid — PCA & MacDowell Staff: Who Runs the School?"
 description = "Eight independent public-record searches map the staff permeability of Banks' charter school enterprise. Three DPSCD crossovers, a Crump surname signal across five membranes, two ghost nodes with zero OSINT return, and an event planner teaching 8th grade with no discoverable credentials."
 date = 2026-10-09
-weight = 8
+weight = 10
 
 [extra]
 keywords = "Purpose Charter Academy staff, MacDowell Preparatory Academy staff, Jennifer Crump MacDowell, Crump dynasty Detroit charter, Cameron Coleman DPSCD MacDowell, Chalcee Norwood credentials MOECS, Chalena Beasley Purpose Charter, Jason Perry PCA, institutional permeability charter school, DPSCD authorization membrane, Banks enterprise staff roster, charter school credential gap Detroit"

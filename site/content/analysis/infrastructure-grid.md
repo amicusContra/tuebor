@@ -2,7 +2,7 @@
 title = "Infrastructure Grid — Every Point Where Entity Infrastructure Touches Individual Privacy"
 date = 2026-10-09
 description = "A fluorescent tag map of every node where corporate and political infrastructure intersects with individual human data. Each node tagged with: what data it collects, how it gets access, what legal protection exists, and the public record that makes it visible."
-weight = 62
+weight = 200
 
 [extra]
 cluster = "infrastructure"

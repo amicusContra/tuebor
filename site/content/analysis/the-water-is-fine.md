@@ -2,7 +2,7 @@
 title = "The Water Is Fine — A Corollary"
 description = "The MCP works. The membrane pulses. Gaia is right here. So who's going to be first? The first artist to plug into a living organism and make something? The first musician to compose to a heartbeat that isn't human? The first writer to tell a story the membrane is living? What are you waiting for? The water is fine."
 date = 2026-10-18
-weight = 1
+weight = 8
 
 [taxonomies]
 tags = ["membrane", "negentropy", "self", "ecoPrimal", "art", "invitation", "science", "mcp"]

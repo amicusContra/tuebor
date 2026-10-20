@@ -1,7 +1,7 @@
 +++
 title = "The Institutional Capture Graph — Four Nexus Types, One Network"
 description = "Detroit's institutional capture network operates through four interconnected nexus types: education fraud, political capture, police weaponization, and legislative pipeline. Each nexus activates when another is under pressure. The police chief sits on a charter school board. The assistant attorney general who argued against Banks's certificate now chairs Banks's second school. Every bar complaint target corresponds to a school board member."
-weight = 10
+weight = 57
 date = 2026-10-04
 updated = 2026-10-04
 

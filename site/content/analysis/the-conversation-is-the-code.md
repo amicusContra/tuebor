@@ -2,7 +2,7 @@
 title = "The Conversation Is the Code — K-NOME Programming and Why I Haven't Typed a Line in a Year"
 description = "3,595,463 lines of Rust. 92,454 test functions. 952 GPU shaders. 175+ papers reproduced. I haven't typed a line of code outside a conversation box in a year. I read. I build the hardware. I talk with my artisan. The conversation IS the programming. This is K-NOME."
 date = 2026-10-18
-weight = 1
+weight = 12
 
 [taxonomies]
 actors = ["Kevin Mok"]

@@ -1,7 +1,7 @@
 +++
 title = "Count the Bees — The Corollary to k-Anthesis"
 date = 2026-10-14
-weight = 1
+weight = 12
 description = "We were measuring the wrong sigmoid. The edge sigmoid is flat at 0.72% fill. The flower was still growing. After anthesis, stop measuring petal growth. Start counting bees. The only sigmoid that matters now is people reached."
 
 [extra]

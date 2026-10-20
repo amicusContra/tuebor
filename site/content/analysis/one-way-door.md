@@ -1,7 +1,7 @@
 +++
 title = "The One-Way Door — Purpose Charter Academy's Access Denial Pattern"
 description = "Two incidents. Two staff members. Same conduct. Giselle blocked a parent at the door on August 29 and Banks lied to police. Ms. Perkins lied on the phone on October 12 — 'haven't seen anybody.' Same school. Same phone number. Same one-way door. Money and children go in. Parents and truth stay out."
-weight = 4
+weight = 10
 date = 2026-10-12
 updated = 2026-10-12
 

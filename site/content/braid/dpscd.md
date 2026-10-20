@@ -2,7 +2,7 @@
 title = "Data Braid — DPSCD Office of Charter Schools"
 date = 2026-10-12
 description = "Shannon entropy H=0.00, degree 1, immune pressure 100%. Every connection, every edge type, every layer."
-weight = 100
+weight = 7
 
 [extra]
 keywords = "DPSCD Office of Charter Schools data braid, DPSCD Office of Charter Schools Shannon entropy, DPSCD Office of Charter Schools immune pressure, tuebor evidence braid"

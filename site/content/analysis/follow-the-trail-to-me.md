@@ -1,7 +1,7 @@
 +++
 title = "Follow the Trail to Me"
 date = 2026-10-15
-weight = 6
+weight = 1
 [taxonomies]
 tags = ["self", "culture", "trail", "invitation", "human"]
 +++

@@ -2,7 +2,7 @@
 title = "Any Child Could Have Solved This — P ≠ NP, Loaves and Fishes, and the Birthright"
 description = "The hardest unsolved problem in computer science was answered by every 3-year-old and every dog that ever waited at a threshold. P ≠ NP is not a conjecture — it's a fact about consent. The loaves and fishes are not a miracle — they're how information works. And every child will discover this for free."
 date = 2026-10-18
-weight = 1
+weight = 12
 
 [taxonomies]
 tags = ["universal", "free", "human", "negentropy", "gAIa", "self"]

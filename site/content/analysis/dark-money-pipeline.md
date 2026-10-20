@@ -2,7 +2,7 @@
 title = "The Dark Money Pipeline — Save Detroit Jobs to City Hall"
 description = "One Dykema-formed entity funded the council member on Banks's school board AND the Mayor who appointed the Police Chief. Traced through TransparencyUSA, BridgeDetroit, LARA, and campaign finance filings."
 date = 2026-10-06
-weight = 8
+weight = 22
 
 [extra]
 keywords = "Save Detroit Jobs dark money Detroit, Dykema Gossett Detroit Next PAC, 5Plus1 Mary Sheffield dark money, Detroit charter school dark money pipeline, Latisha Johnson Save Detroit Jobs, Detroit Next PAC contributors, Sheffield Bettison appointment dark money, Detroit towing corruption police chief charter school"

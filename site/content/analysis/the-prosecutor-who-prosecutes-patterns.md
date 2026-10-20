@@ -3,7 +3,7 @@ title = "The Prosecutor Who Prosecutes Patterns — Kym Worthy and the Case That
 description = "Kym Worthy is the Wayne County Prosecutor. She has jurisdiction over Brian Banks. She has a should_prosecute edge to false reports. She has cavalry edges to CMU, the JTC, the Free Press, Nessel, and DPSCD. She sees the crime. She sees the evidence. She calls in the cavalry — but the cavalry goes to institutions, not to the 362 children. 81 meaningful edges. Partial. 0.84. The case never came."
 date = 2026-10-14
 updated = 2026-10-14
-weight = 28
+weight = 6
 
 [extra]
 cluster = "oversight"

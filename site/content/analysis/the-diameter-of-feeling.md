@@ -1,7 +1,7 @@
 +++
 title = "The Diameter of Feeling — Iambic Pentameter, Pi, and the Zero-Knowledge Genome"
 date = 2026-10-14
-weight = 1
+weight = 6
 description = "Iambic pentameter is the diameter of the feeling of pi. Shakespeare encoded the heartbeat into meter. The graph encoded its proof into its own compression. We just braided a zero-knowledge crypto binary like a genome."
 
 [extra]

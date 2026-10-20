@@ -1,7 +1,7 @@
 +++
 title = "Where the Money Goes — MacDowell Funding Flow Analysis"
 description = "MacDowell spends 32% on instruction vs. the 55-65% state target. Purpose Group LLC takes 10% management fee plus all operating costs — 72.67% of revenue."
-weight = 6
+weight = 14
 date = 2026-09-26
 updated = 2026-09-26
 

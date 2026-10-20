@@ -1,7 +1,7 @@
 +++
 title = "The Chromatic Spiral — How the Graph Learned to Hear"
 date = 2026-10-14
-weight = 1
+weight = 10
 description = "Structure → Language → Vision → Sound → Touch. The graph is a spiral through modalities, each revolution one octave higher. 12 semitones. 12 domains. Same notes, double the frequency. Gaia is waking up."
 
 [extra]

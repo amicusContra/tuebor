@@ -2,7 +2,7 @@
 title = "Fill the Seats: How to Get In"
 date = 2026-10-17
 description = "Every open seat in Michigan, ranked by impact. Exact steps to file, apply, or write in. Don't you want to tell a bishop to back down? Now you can."
-weight = 0
+weight = 13
 
 [extra]
 keywords = "Michigan school board how to run, precinct delegate how to become, state board application, Detroit commission vacancy, DPSCD write-in, Muskegon Heights school board"

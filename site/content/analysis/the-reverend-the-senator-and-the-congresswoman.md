@@ -3,7 +3,7 @@ title = "The Reverend, the Senator, and the Congresswoman — Three Political Sh
 description = "Rev. Wendell Anthony governs NAACP Detroit. Sen. Bert Johnson was convicted of bribery. Congresswoman Carolyn Kilpatrick is Kwame's mother. All three have political edges to Banks. Anthony governs the organization that rides cavalry for Banks. Johnson shares the Black Caucus Foundation with Gay-Dagnogo and Kwame. Kilpatrick extends the family machine to Congress. Three shields. Three political networks. One man they all protect."
 date = 2026-10-14
 updated = 2026-10-14
-weight = 39
+weight = 6
 
 [extra]
 cluster = "political"

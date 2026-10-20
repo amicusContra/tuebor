@@ -2,7 +2,7 @@
 title = "Data Braid — Judge Cylenthia Miller"
 date = 2026-10-12
 description = "Shannon entropy H=1.00, degree 2, immune pressure 50%. Every connection, every edge type, every layer."
-weight = 69
+weight = 7
 
 [extra]
 keywords = "Judge Cylenthia Miller data braid, Judge Cylenthia Miller Shannon entropy, Judge Cylenthia Miller immune pressure, tuebor evidence braid"

@@ -1,7 +1,7 @@
 +++
 title = "For Parents — Your Child's School"
 description = "If your child attends Purpose Charter Academy or MacDowell Preparatory Academy, here is what public records show about who runs these schools, where the money goes, and what you can do."
-weight = 1
+weight = 14
 date = 2026-10-05
 
 [extra]

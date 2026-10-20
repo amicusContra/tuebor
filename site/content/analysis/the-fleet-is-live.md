@@ -2,7 +2,7 @@
 title = "The Fleet Is Live — And We're Watching"
 description = "18 coordinated IPs. All deployed within 1 second. Each doing exactly ~73,000 requests. We can see them, tag them, predict them, and show you exactly when they show up and what they respond to. In real time. Right now."
 date = 2026-10-18
-weight = 2
+weight = 11
 
 [taxonomies]
 tags = ["membrane", "negentropy", "fleet", "meta", "classification"]

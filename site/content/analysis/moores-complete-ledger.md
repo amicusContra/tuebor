@@ -2,7 +2,7 @@
 title = "Moore's Complete Ledger — Every Account, Every Entity, Every Fraud Pattern"
 description = "Renae Moore manages 43+ nonprofit organizations, 5+ federal PACs, and at least 6 state-level committees from one desk at Dykema Gossett. She has been named in a $1,000,000 money laundering complaint. The FEC flagged her filings. She testified she has 'no duty to report.' Here is every account — and here is which ones show the same pattern as the ones that already exploded."
 date = 2026-10-17
-weight = 6
+weight = 42
 
 [taxonomies]
 actors = ["Renae Moore", "W. Alan Wilk", "Lee Chatfield", "AG Dana Nessel", "Hill Harper", "Thomas Albert", "Brian Banks"]

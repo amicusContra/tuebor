@@ -1,7 +1,7 @@
 +++
 title = "For Voters — November 3, 2026"
 description = "Judge Cylenthia Miller is on the Wayne County 3rd Circuit ballot November 3, 2026. She is Board Chair of a foundation linked to a convicted felon running charter schools. Here are the public records."
-weight = 3
+weight = 14
 date = 2026-10-05
 
 [extra]

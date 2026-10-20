@@ -2,7 +2,7 @@
 title = "Data Braid — Stephen Schwarzman"
 date = 2026-10-12
 description = "Shannon entropy H=0.00, degree 2, immune pressure 0%. Every connection, every edge type, every layer."
-weight = 100
+weight = 6
 
 [extra]
 keywords = "Stephen Schwarzman data braid, Stephen Schwarzman Shannon entropy, Stephen Schwarzman immune pressure, tuebor evidence braid"

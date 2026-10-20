@@ -2,7 +2,7 @@
 title = "The Original NFT"
 description = "Gary Gygax made the original NFT in 1974: a character sheet. Non-fungible because YOUR dwarf is not MY dwarf. Games Workshop understood: collectibility is in the MEANING, not the thing. A painted miniature is worth nothing to a stranger and everything to you. That is the latent value economy."
 date = 2026-10-18
-weight = 0
+weight = 9
 
 [taxonomies]
 tags = ["membrane", "negentropy", "self", "ecoPrimal", "art", "games", "convergent-evolution", "invitation", "orc"]

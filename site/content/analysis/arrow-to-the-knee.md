@@ -2,7 +2,7 @@
 title = "Arrow to the Knee — The Storytellers Were Already Here"
 description = "I used to be an adventurer like you, until I took an arrow to the knee. A Skyrim guard, a Lakota massacre, a truce, and the realization that every landmark in our graph was named by someone we put on a reservation. The storytellers were already here. We just stopped listening."
 date = 2026-10-18
-weight = 2
+weight = 15
 
 [taxonomies]
 tags = ["membrane", "negentropy", "self", "landmarks", "biosphere", "storytelling"]

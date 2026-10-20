@@ -2,7 +2,7 @@
 title = "He Fed the Sheep to the Wolves"
 description = "COGIC endorsed a 9-time convicted felon to run charter schools. The prosperity gospel blessed the extraction. The congregations were never told. The shepherd opened the gate."
 date = 2026-10-14
-weight = 1
+weight = 10
 
 [extra]
 keywords = "COGIC Brian Banks, prosperity gospel charter schools, megachurch endorsement convicted felon, shepherd wolves, charter school fraud church endorsement, Presiding Bishop charter school, church accountability, religious institutional capture, congregation never told, children education fraud"

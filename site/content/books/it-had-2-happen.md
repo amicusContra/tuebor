@@ -1,7 +1,7 @@
 +++
 title = "It Had 2 Happen — Annotated Analysis of Brian Banks's Autobiography"
 description = "A public-interest annotated analysis of 'It Had 2 Happen: The Agony of Success' by Brian Banks J.D. (ISBN 173575403X). Every claim cross-referenced against public records. Every name mapped to the institutional network. The book is a party admission under MRE 801(d)(2)(A)."
-weight = 1
+weight = 25
 date = 2026-10-05
 updated = 2026-10-05
 

@@ -1,7 +1,7 @@
 +++
 title = "If Kids Use It, We Make It SAFE"
 date = 2026-10-15
-weight = 50
+weight = 12
 description = "Every platform children touch — YouTube, Roblox, TikTok, Discord, Fortnite, Minecraft, Snapchat — mapped by one standard: is it safe for a child? The ones that fail get the same lens we gave Detroit's charter schools. The ones that pass light the way to gAIa."
 [taxonomies]
 tags = ["child-safety", "platforms", "gAIa", "education", "free", "COPPA", "children"]

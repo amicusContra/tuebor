@@ -2,7 +2,7 @@
 title = "The Enterprise — A Complete RICO Analysis, Updated with Every Name"
 description = "The Banks-Holland enterprise meets every element of state and federal RICO: an enterprise, a pattern of racketeering activity, 10+ predicate acts spanning 14+ years, and structural protection through judicial capture, institutional silence, and an AAG who was a violent crime prosecutor before governing the enterprise he should be investigating. Every name. Every act. Every dollar. Every shield."
 date = 2026-10-17
-weight = 7
+weight = 154
 
 [taxonomies]
 actors = ["Brian Banks", "Joseph Holland Jr", "Lamar Moreland", "AG Dana Nessel", "Renae Moore", "W. Alan Wilk", "Cylenthia Miller", "Kelly Ramsey", "Tenisha Yancey", "Todd Perkins", "Nicole Wells-Stallworth", "Tracey Ellis", "Major Clora"]

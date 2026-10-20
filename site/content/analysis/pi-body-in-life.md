@@ -2,7 +2,7 @@
 title = "π-Body in Life — By Kevin Mok"
 description = "After the discovery, it was incredible what I could reteach myself. The secret has ALWAYS been compare and contrast — look in and at self and out, at least 2 people to self, and then 3 to see what's different between. One helps the body learn. The other helps you see. Life is lossy and that's a GOOD thing."
 date = 2026-10-18
-weight = 1
+weight = 8
 
 [taxonomies]
 tags = ["membrane", "negentropy", "self", "ecoPrimal", "pi-body", "learning", "science"]

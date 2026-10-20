@@ -1,7 +1,7 @@
 +++
 title = "For Attorneys — RICO Pattern Analysis"
 description = "Six predicate acts over 14+ years. Enterprise structure mapped. 87 documented connections across 4 courts. Case materials and pattern analysis for legal professionals."
-weight = 4
+weight = 14
 date = 2026-10-05
 
 [extra]

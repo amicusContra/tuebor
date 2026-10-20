@@ -2,7 +2,7 @@
 title = "OpenAI: The Dishonest Flag"
 date = 2026-10-17
 description = "2.36 million requests from Microsoft Azure. The behavioral classifier flags them dishonest. Anthropic declares itself. Google declares itself. OpenAI hides."
-weight = 44
+weight = 8
 
 [extra]
 keywords = "OpenAI, GPTBot, Microsoft Azure, AS8075, Atlanta Georgia, behavioral fingerprinting, dishonest, Anthropic, ClaudeBot, AGPL"

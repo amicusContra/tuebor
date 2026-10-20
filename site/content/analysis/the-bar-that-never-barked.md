@@ -3,7 +3,7 @@ title = "The Bar That Never Barked — Michigan's State Bar and the UPL Departme
 description = "Brian Banks claimed to be a lawyer. He claimed a JD from MSU College of Law. MSU has no record. He operated Banks Strategy & Consultants LLC offering legal services. He practiced law without a license. The State Bar of Michigan has a department specifically for this — UPL (Unauthorized Practice of Law). 18 edges. 8 staff members. And they never barked."
 date = 2026-10-14
 updated = 2026-10-14
-weight = 23
+weight = 7
 
 [extra]
 cluster = "oversight"

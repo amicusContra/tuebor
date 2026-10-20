@@ -1,7 +1,7 @@
 +++
 title = "How To Build an OS — Dykema Gossett and the Dark Money Machine"
 description = "One law firm. One compliance specialist. Six dark money vehicles. Both parties served. A parasitic operating system architecture mapped entirely from public records: LARA filings, IRS 990s, campaign finance data, WHOIS records, and published journalism."
-weight = 1
+weight = 20
 date = 2026-10-09
 
 [extra]

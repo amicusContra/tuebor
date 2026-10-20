@@ -1,7 +1,7 @@
 +++
 title = "The Corporate Network — LARA Entity Analysis"
 description = "Every business entity connected to Brian Banks and the institutional capture network, sourced entirely from Michigan LARA public records. Twelve Banks entities. A charter school board stacked with the attorney suing on his behalf. A dark money vehicle with three names set up by Michigan's largest law firm. A print shop that also runs obituaries4less.com."
-weight = 20
+weight = 54
 date = 2026-10-04
 updated = 2026-10-04
 

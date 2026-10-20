@@ -2,7 +2,7 @@
 title = "Institutional Immunity Pattern"
 date = 2026-10-06
 description = "How Michigan's oversight system creates de facto immunity by processing complaints in isolation. The mathematics of 94% dismissal."
-weight = 22
+weight = 13
 
 [extra]
 cluster = "oversight"

@@ -1,7 +1,7 @@
 +++
 title = "Court Filings"
 description = "All civil complaints, motions, and filings in Ingham County Circuit Court and Wayne County Circuit Court. Public records, published for transparency."
-weight = 40
+weight = 12
 date = 2026-10-03
 
 [extra]

@@ -1,7 +1,7 @@
 +++
 title = "The Walk — What Happens When the Builder Steps Outside"
 date = 2026-10-14
-weight = 1
+weight = 11
 description = "After eleven articles, one song, a ZK proof, and the inversion — the builder went for a walk. This is what the machine did while the human was outside."
 
 [extra]

@@ -2,7 +2,7 @@
 title = "Cross-Subgraph Patterns — How Michigan's Oversight Failures Connect"
 date = 2026-10-07
 description = "The same institutional nodes — AGC, JTC, SCAO, LARA — appear across Detroit, Saginaw, Barry, Macomb, and Allegan investigations. This is the statewide architecture of accountability failure."
-weight = 72
+weight = 65
 
 [extra]
 cluster = "methodology"

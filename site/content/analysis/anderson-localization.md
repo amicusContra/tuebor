@@ -1,7 +1,7 @@
 +++
 title = "Anderson Localization — When Courts Trap Cases"
 description = "Nine captured judges across four Wayne County courts create disorder in the judicial lattice. Like electrons in a disordered crystal, cases that enter the system cannot propagate to a fair hearing. Guardianship and probate cases are the most localized — trapped within 3-5 judicial assignments of a captured bench."
-weight = 11
+weight = 10
 date = 2026-10-04
 updated = 2026-10-04
 

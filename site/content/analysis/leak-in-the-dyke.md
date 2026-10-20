@@ -2,7 +2,7 @@
 title = "There's a Leak in the Dyke"
 description = "One law firm. Eighty dark money accounts. Both parties. One compliance specialist who serves the prosecutor and the defendant. The operating system underneath Michigan politics is leaking."
 date = 2026-10-09
-weight = 20
+weight = 21
 
 [extra]
 author = "Artisan"

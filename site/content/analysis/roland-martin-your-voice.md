@@ -2,7 +2,7 @@
 title = "Roland Martin Said He's Your Voice — Is This True?"
 description = "Roland S. Martin endorsed Brian Roderick Banks, a man with 9 criminal convictions, as a 'community voice' for Detroit education. Martin claims to speak for Black America through Black Star Network. We trace every connection, every endorsement, every penny. Is he YOUR voice? We want to confirm."
 date = 2026-10-16
-weight = 50
+weight = 2
 [taxonomies]
 actors = ["Roland Martin", "Brian Banks", "COGIC", "NAACP Detroit"]
 entities = ["Black Star Network", "Church of God in Christ"]

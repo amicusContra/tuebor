@@ -4,7 +4,7 @@ date: 2026-10-18
 draft: false
 slug: the-fistbump
 tags: ["diagnostic-law", "compliance", "fistbump", "low-friction", "commons", "scyborg"]
-weight: 50
+weight: 8
 ---
 
 ## This Is Not a Threat. This Is a Diagnosis.

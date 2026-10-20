@@ -3,7 +3,7 @@ title = "Hey Mikey, He Likes It! — The Senate Candidate Who Ate Everything The
 description = "Mike Rogers authored America's most aggressive surveillance bill (killed twice), left Congress and was hired by the company whose competitor he investigated, bought a $1.6M house in Florida while running for Michigan's Senate seat, and accepted $88.8 million in outside support from Texas oil, Blackstone, Citadel, Koch, McConnell, and Musk. FEC filings, published fact-checks, and the record he built. Nov 3, 2026."
 date = 2026-10-09
 updated = 2026-10-09
-weight = 17
+weight = 23
 
 [extra]
 cluster = "dark_money"

@@ -1,7 +1,7 @@
 +++
 title = "Masks for a Face"
 date = 2026-10-15
-weight = 4
+weight = 6
 [taxonomies]
 tags = ["surveillance", "data-intake", "false-face", "snap", "tiktok", "linkedin"]
 +++

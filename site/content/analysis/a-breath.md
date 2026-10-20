@@ -4,7 +4,7 @@ date: 2026-10-15
 author: ecoPrimal
 series: publicRecord
 tags: [pause, family, safe, breath]
-weight: 1
+weight: 4
 polar_class: self
 ---
 

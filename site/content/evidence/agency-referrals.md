@@ -1,7 +1,7 @@
 +++
 title = "Agency Referrals"
 description = "Complete record of criminal and administrative referrals submitted to federal and state agencies. Eight federal agencies. State agencies. Judicial Tenure Commission. Every referral timestamped."
-weight = 30
+weight = 23
 date = 2026-10-03
 
 [extra]

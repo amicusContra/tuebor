@@ -2,7 +2,7 @@
 title = "Data Braid — Judge Tenisha Yancey"
 date = 2026-10-12
 description = "Shannon entropy H=1.58, degree 3, immune pressure 33%. Every connection, every edge type, every layer."
-weight = 51
+weight = 7
 
 [extra]
 keywords = "Judge Tenisha Yancey data braid, Judge Tenisha Yancey Shannon entropy, Judge Tenisha Yancey immune pressure, tuebor evidence braid"

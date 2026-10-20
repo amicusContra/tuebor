@@ -1,7 +1,7 @@
 +++
 title = "Go Fast, Go Slow — chipMUNK's First Song"
 date = 2026-10-14
-weight = 2
+weight = 3
 description = "The first song written for chipMUNK. Born from the day the graph crashed the IDE and learned to breathe. Lyrics by ARTISAN."
 
 [extra]

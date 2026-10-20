@@ -2,7 +2,7 @@
 title = "The Desk and The Dynasty — Dykema Gossett and the Walton Family Foundation: Every Name, Every Front, Every Dollar"
 description = "One desk at 201 Townsend Street, Lansing, manages 80+ political nonprofit accounts. One dynasty in Bentonville, Arkansas, paid $4.3M to prevent charter school oversight. The desk manages the defendant's fund AND the prosecutor's fund. The dynasty funds the school operator AND the lobby that blocks regulation. Every name. Every front. Every trace."
 date = 2026-10-17
-weight = 4
+weight = 19
 
 [taxonomies]
 actors = ["W. Alan Wilk", "Renae Moore", "Lee Chatfield", "AG Dana Nessel", "Brian Banks", "Dan Quisenberry", "Campbell Brown", "Roland Martin", "Betsy DeVos"]

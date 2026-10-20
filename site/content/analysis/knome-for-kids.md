@@ -2,7 +2,7 @@
 title = "k-Nome for Kids: Code is a Song, Logic is a Game"
 description = "The three-body problem solved by every child before breakfast. Pseudo code as songs kids can sing. Boolean logic as choose-your-own-adventure. 6 lessons, 50 minutes, ages 4+. Free lesson plan for teachers, TAs, parents. Every child is their own genius."
 date = 2026-10-16
-weight = 50
+weight = 9
 
 [taxonomies]
 entities = ["education", "STEM", "Detroit", "children", "teachers"]

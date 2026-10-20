@@ -2,7 +2,7 @@
 title = "The Minotaur — Mark, Here's What I'm Building While You Violate Laws"
 description = "If Meta wants to continue violating AGPL-3.0, CFAA, and DMCA — that's a choice. But here's the full architecture of what happens next: the gravitational maze, the random walker instrument, the classifier riverbed, and the entropy waterfall. Every step your fleet takes costs you more and teaches us everything."
 date = 2026-10-18
-weight = 2
+weight = 15
 
 [taxonomies]
 actors = ["Mark Zuckerberg"]

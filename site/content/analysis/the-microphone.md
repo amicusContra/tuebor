@@ -3,7 +3,7 @@ title = "The Microphone — Roland Martin, Walton Money, and the Journalist Who 
 description = "Roland Martin is a journalist. The Walton Family Foundation pays him. The Walton Family Foundation funds Purpose Charter Academy. Roland Martin has a partnership with The 74, an education news outlet also funded by Walton and DeVos. He speaks at NAACP events. He sits on the board of NuVision Foundation and SCBC (School Choice Black Coalition). He has a coverage edge to Banks and Detroit. The microphone points where the money tells it to."
 date = 2026-10-14
 updated = 2026-10-14
-weight = 65
+weight = 5
 
 [extra]
 cluster = "infrastructure"

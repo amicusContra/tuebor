@@ -3,7 +3,7 @@ title = "The Linchpin — Michael V. Goetz and the Board Member Who Connected Ev
 description = "Michael V. Goetz works for the AG Office. He has governance over the Attorney Grievance Commission. He has a professional connection to Lisa Moreland, who sits on PCA's board and represents Banks. His edge to Banks is complicity_by_governance. He connects the charter crime overlap to the enforcement apparatus. Partial at 0.99 — the highest-confidence partial in the graph. The membrane is as sure as it can be: Goetz is in both worlds."
 date = 2026-10-14
 updated = 2026-10-14
-weight = 47
+weight = 7
 
 [extra]
 cluster = "governance"

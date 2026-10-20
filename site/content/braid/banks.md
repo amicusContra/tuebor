@@ -2,7 +2,7 @@
 title = "Data Braid — Brian Roderick Banks"
 date = 2026-10-12
 description = "Shannon entropy H=3.28, degree 11, immune pressure 45%. Every connection, every edge type, every layer."
-weight = 0
+weight = 8
 
 [extra]
 keywords = "Brian Roderick Banks data braid, Brian Roderick Banks Shannon entropy, Brian Roderick Banks immune pressure, tuebor evidence braid"

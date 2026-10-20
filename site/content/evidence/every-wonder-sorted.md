@@ -1,7 +1,7 @@
 +++
 title = "Every Wonder, Sorted — Ancient, Modern, Natural, Industrial, Underwater, and Everything Between"
 description = "All the world's wonders, scanned and sorted. 7 Ancient (1 survives). 7 New (100 million votes). 7 Natural (1 is a light show). 7 Modern (engineering). 7 Industrial (BBC). 7 Underwater (CEDAM). 1,273 UNESCO World Heritage Sites. From a pyramid built in 2560 BC to a tunnel opened in 1994. The things humans built, and the things they didn't."
-weight = 5
+weight = 12
 date = 2026-10-14
 
 [extra]

@@ -2,7 +2,7 @@
 title = "Damages Calculator — Raytracing Public Funds"
 description = "Every dollar traced through every membrane back to the emitter. $46.1M in public funds, 7 raytraces, 20 public officials. To the penny."
 date = 2026-10-10
-weight = 2
+weight = 22
 
 [taxonomies]
 actors = ["banks", "holland", "wilk", "moore", "miller", "yancey", "sheffield", "bettison", "moreland", "johnson-l", "vaughn", "gay-dagnogo", "wells-stallworth", "coleman"]

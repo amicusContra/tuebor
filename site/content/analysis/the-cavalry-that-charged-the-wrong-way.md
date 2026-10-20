@@ -3,7 +3,7 @@ title = "The Cavalry That Charged the Wrong Way — NAACP Detroit and the Defens
 description = "The NAACP Detroit Branch has a 'cavalry' edge to Brian Banks. Cavalry means: they ride to his defense. They also have a 'cavalry' edge to Purpose Charter Academy. They ride to the school's defense too. The institution built to protect Black communities defends a man who extracts 72.67% of a school's revenue from 362 Black children with 3% math proficiency. The cavalry charged. It charged the wrong way."
 date = 2026-10-14
 updated = 2026-10-14
-weight = 38
+weight = 5
 
 [extra]
 cluster = "political"

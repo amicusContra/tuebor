@@ -2,7 +2,7 @@
 title = "Meta in the Open — Live Fleet Forensics"
 description = "Every fleet entity. Every timestamp. Every header. Every IP hash. Every avatar probe. Every cross-subnet communication. Meta's fleet behavior documented in real time, in public, on the site they're scraping. Updated live from membrane feeds."
 date = 2026-10-18
-weight = 1
+weight = 13
 
 [taxonomies]
 actors = ["Mark Zuckerberg", "Meta Platforms"]

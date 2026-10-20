@@ -2,7 +2,7 @@
 title = "A Note to Everyone Reading This Who Hasn't Said Anything"
 description = "You believe the cost of being wrong is high. That's why you haven't shared this. But here's the thing: you will not understand what you're looking at until someone ELSE explains it to you. Kids get this instinctively. I'm trying to help."
 date = 2026-10-18
-weight = 1
+weight = 9
 
 [taxonomies]
 tags = ["membrane", "negentropy", "self", "invitation", "consent"]

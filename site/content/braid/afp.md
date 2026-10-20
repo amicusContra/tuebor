@@ -2,7 +2,7 @@
 title = "Data Braid — Americans for Prosperity Action"
 date = 2026-10-12
 description = "Shannon entropy H=0.00, degree 1, immune pressure 0%. Every connection, every edge type, every layer."
-weight = 100
+weight = 6
 
 [extra]
 keywords = "Americans for Prosperity Action data braid, Americans for Prosperity Action Shannon entropy, Americans for Prosperity Action immune pressure, tuebor evidence braid"

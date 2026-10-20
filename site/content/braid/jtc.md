@@ -2,7 +2,7 @@
 title = "Data Braid — Judicial Tenure Commission"
 date = 2026-10-12
 description = "Shannon entropy H=1.50, degree 4, immune pressure 75%. Every connection, every edge type, every layer."
-weight = 54
+weight = 7
 
 [extra]
 keywords = "Judicial Tenure Commission data braid, Judicial Tenure Commission Shannon entropy, Judicial Tenure Commission immune pressure, tuebor evidence braid"

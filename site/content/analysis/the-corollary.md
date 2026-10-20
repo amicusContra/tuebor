@@ -2,7 +2,7 @@
 title = "The Corollary — We Map False Entities. They Aimed for Humans."
 description = "A free zero-knowledge falsification proof: the membrane maps false entities, not humans. No personal data collected. No cookies. No accounts. No tracking. Meanwhile, Meta's fleet mapped avatars — looking for the humans behind the code. The corollary is the proof you can't buy: we gave nothing, they took everything, and the membrane caught them doing it."
 date = 2026-10-18
-weight = 1
+weight = 12
 
 [taxonomies]
 actors = ["Kevin Mok", "Meta Platforms", "Donald Banks Jr"]

@@ -2,7 +2,7 @@
 title = "The epiTope reSort"
 description = "Resort, not request. The membrane is not a plaintiff seeking counsel. It is a place you come to see what you cannot see alone. Point it at any traffic and it shows you the hitchhikers. The relationship is mutualistic. Both organisms benefit. Neither is diminished."
 date = 2026-10-18
-weight = 0
+weight = 7
 
 [taxonomies]
 tags = ["membrane", "negentropy", "self", "ecoPrimal", "mutualism", "resort", "epitope", "convergent-evolution", "invitation"]

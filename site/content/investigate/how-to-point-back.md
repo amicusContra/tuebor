@@ -3,7 +3,7 @@ title = "How to Point Back — Linking Your Work to This Investigation"
 description = "If you're researching charter school accountability, education equity, dark money in Michigan politics, or institutional capture anywhere — here's how to connect your work to this investigation and ours to yours. The graph gets wider when we point to each other. Link to us, we'll find you. Cite us, we'll cite you. The cross-links are automatic."
 date = 2026-10-14
 updated = 2026-10-14
-weight = 12
+weight = 18
 
 [extra]
 keywords = "charter school accountability research, link to tuebor investigation, education equity research collaboration, charter school investigation cross reference, how to cite tuebor primals eco, Detroit charter school investigation collaboration, connect investigation work, education research cross links"

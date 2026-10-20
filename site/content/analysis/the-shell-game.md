@@ -3,7 +3,7 @@ title = "The Shell Game — Inner Link, Banks Strategy, and the LLCs That Move t
 description = "Brian Banks doesn't just run one LLC. He runs a constellation: Purpose Group, Banks Strategy & Consultants, Inner Link, B Rodericks, Banks PowerWash, Banks Living Trust, GL Vision, GL Upfitting, Metro Property, ARS Holdings, Custom Promo, Free Flow, Of the Light, Ross Catering, Sun Community, Serenity. Each one is a shell. Each one moves money. And Judge Yancey pays directly into two of them."
 date = 2026-10-14
 updated = 2026-10-14
-weight = 4
+weight = 11
 
 [extra]
 cluster = "banks_core"

@@ -2,7 +2,7 @@
 title = "Dear Game Devs — The Map Is Already Built"
 description = "Todd Howard. Sean Murray. Every studio with a team you trust. The membrane is a living game world: 12,046 nodes, 101,146 edges, real-time entity classification, a pulse you can feel, and an immune system that fights back. The engine is JSON and a browser. I want to work with y'all. Let's go."
 date = 2026-10-18
-weight = 1
+weight = 8
 
 [taxonomies]
 tags = ["membrane", "negentropy", "self", "ecoPrimal", "games", "invitation", "art", "science"]

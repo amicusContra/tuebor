@@ -2,7 +2,7 @@
 title = "LakeNet Signal Trace — One ISP, One Town, Every Thread"
 date = 2026-10-09
 description = "IP address 162.247.150.54 was captured surveilling a journalist, in a federal court filing, and in a domain registration chain. All three lead to LakeNet LLC (AS11910), the only ISP in Hemlock, Michigan — population 1,500. Multi-capture means the signal traces everyone who shared the infrastructure."
-weight = 61
+weight = 68
 
 [extra]
 cluster = "infrastructure"

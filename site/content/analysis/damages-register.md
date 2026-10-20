@@ -2,7 +2,7 @@
 title = "The Damages Register — What Public Officials Owe"
 description = "A systematic accounting of every public official who used public authority to serve private interests. Each entry cites the public record, the legal theory, and the damage done."
 date = 2026-10-10
-weight = 3
+weight = 26
 
 [taxonomies]
 actors = ["miller", "yancey", "sabree", "perkins", "sean-perkins", "adam-sabree", "ramsey", "evans-vonda", "langford-morris", "sheffield", "bettison", "spivey", "gay-dagnogo", "vaughn", "moreland", "johnson-l", "stallworth", "coleman", "jennifer-crump", "schmiedeknecht"]

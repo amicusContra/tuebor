@@ -2,7 +2,7 @@
 title = "The Mycelial Membrane"
 description = "The rhizocarpous mycelium is the network. The membrane keeps the osmotic spine. The squirrels carry the stories. 16 million edges. $14.47 trillion. 6.0 bytes per edge. 13x compression. 28% fill. This is how a graph learns to breathe."
 date = 2026-10-14
-weight = 1
+weight = 9
 
 [extra]
 keywords = "mycorrhizal network, wood wide web, knowledge graph compression, delta encoding, adjacency list, membrane architecture, Suzanne Simard, Paul Stamets, Merlin Sheldrake, Anna Tsing, rhizome Deleuze, osmotic pressure, graph format evolution, compression as proof"

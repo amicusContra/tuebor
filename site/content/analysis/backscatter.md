@@ -2,7 +2,7 @@
 title = "The Backscatter — Every Node, Every Edge, Every Timestamp"
 description = "The full graph. October 13, 2026: the SBE met at 9:30 AM in Lansing, Nikki Snyder in the room, all 8 members with the evidence. The same day, 80 miles southeast, Brian Banks filed PPO 26-114083-PH. Same day. Same state. One meeting about children. One filing to silence the person defending them. Here is every connection, mapped."
 date = 2026-10-17
-weight = 2
+weight = 60
 
 [taxonomies]
 actors = ["Brian Banks", "Nikki Snyder", "Judge Yvonna Abraham", "Judge Cylenthia Miller", "Judge Tenisha Yancey", "Judge Aliyah Sabree", "Judge Sean Perkins", "Judge Adam Sabree", "Judge David Perkins", "Judge Kelly Ramsey", "Lamar Moreland", "Renae Moore"]

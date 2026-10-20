@@ -1,7 +1,7 @@
 +++
 title = "Four Dynasties — The Machine Behind the School"
 description = "Four interlocking Detroit political dynasties converge on Brian Banks' charter school enterprise: Stallworth (BCF/drug money laundering), Sabree (judicial capture/tax foreclosures), Kilpatrick (RICO/dark money/PR), and Banks/Flenory (BMF/drug trafficking). Each dynasty contributed a different structural component to the machine."
-weight = 2
+weight = 14
 date = 2026-09-27
 updated = 2026-09-27
 

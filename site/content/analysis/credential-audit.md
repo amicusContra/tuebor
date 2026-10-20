@@ -1,7 +1,7 @@
 +++
 title = "The Credential Gap — MacDowell Staff Qualification Audit"
 description = "MOECS public search reveals 2 of 14 instructional staff properly credentialed at MacDowell Preparatory Academy. $603K in admin salaries, one convicted felon."
-weight = 5
+weight = 17
 date = 2026-09-26
 updated = 2026-09-26
 

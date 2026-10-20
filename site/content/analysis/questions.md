@@ -2,7 +2,7 @@
 title = "41 Questions You Can Answer Yourself"
 description = "We're not asking you to believe us. We're asking you to look. The first 31 questions can be answered with public records — court records, PACER, FEC filings, Amazon. The last 10 can be answered by looking at your own child. You are inside a membrane. These questions punch holes in it."
 date = 2026-10-12
-weight = 1
+weight = 65
 
 [extra]
 keywords = "Detroit charter school investigation questions, Walton Family Foundation charter school, Brian Banks MacDowell Prep criminal history, Roland Martin School Choice Black Choice, Dykema Gossett dark money Michigan, MAPSA charter lobby Walton funding, Pahara Institute credential washing, purpose charter academy board of directors, public records verification, MOECS teacher credentials"

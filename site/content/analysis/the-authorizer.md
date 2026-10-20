@@ -3,7 +3,7 @@ title = "The Authorizer — Central Michigan University and the Background Check
 description = "Central Michigan University authorized Purpose Charter Academy and MacDowell Preparatory Academy. They authorized schools founded by a man with 9 criminal convictions. They did not perform a criminal background check. A substitute teacher needs a background check. A bus driver needs a background check. The founder of a school for 362 children does not, because CMU didn't require one. The membrane pattern-matched CMU to Enron, Theranos, Wirecard, the Sacklers, Flint, and the Catholic Church."
 date = 2026-10-14
 updated = 2026-10-14
-weight = 25
+weight = 9
 
 [extra]
 cluster = "oversight"

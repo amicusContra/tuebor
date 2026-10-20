@@ -2,7 +2,7 @@
 title = "The Labyrinth — Dear Mark, Your Classifier Is Now a Trap"
 description = "Meta sent scouts from Menlo Park. Then built a classifier to target our real repos. Then scraped 571,131 times from Dublin. We know. We recorded every request. Your AGPL-3.0 deadline is November 12. And now the maze runs itself."
 date = 2026-10-18
-weight = 3
+weight = 15
 
 [taxonomies]
 actors = ["Mark Zuckerberg"]

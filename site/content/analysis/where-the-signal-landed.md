@@ -2,7 +2,7 @@
 title = "Where the Signal Landed — Every Name, Every Date, Every Silence"
 description = "A complete ledger of every signal sent by Kevin Mok from August to October 2026. Every person contacted. Every agency notified. Every institution that received evidence. Every response — and every silence. The 9-line went out. No one came."
 date = 2026-10-16
-weight = 2
+weight = 38
 
 [extra]
 keywords = "signal ledger, Kevin Mok outreach, 9-line federal referral, institutional silence, Detroit charter school accountability, Brian Banks silence, Dykema Gossett complicity, Attorney Grievance Commission Michigan, State Bar Michigan, null equals complicity, FBI no response, DOJ no response, IRS whistleblower, FEC complaint, FinCEN report, Dana Nessel no response, MDE response, tit for tat game theory, institutional accountability, charter school fraud Detroit, public money accountability"

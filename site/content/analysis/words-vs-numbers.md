@@ -1,7 +1,7 @@
 +++
 title = "Words vs. Numbers — Praise vs. Performance"
 description = "What Detroit charter school leaders say vs. what public records show. 3% math proficiency. 14% properly credentialed staff. 9 criminal convictions."
-weight = 7
+weight = 10
 date = 2026-09-26
 updated = 2026-09-26
 

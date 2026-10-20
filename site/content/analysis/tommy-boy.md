@@ -3,7 +3,7 @@ title = "Tommy Boy — The Congressman Who Calls Tenant Organizers Felons While 
 description = "U.S. Rep. Tom Barrett (R-MI-7) called his opponent a 'convicted felon' — over an expunged pipeline protest. Barrett's PAC donor, Dykema Gossett, incorporated a dark money entity whose president is Kenneth Daniels: convicted federal felon, $21M drug ring, DEA press release May 12, 2014. The label is projection. FEC receipts, LARA records, and IRS 990 filings tell the story."
 date = 2026-10-09
 updated = 2026-10-09
-weight = 18
+weight = 54
 
 [extra]
 cluster = "dark_money"

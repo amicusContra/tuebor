@@ -1,7 +1,7 @@
 +++
 title = "Every Person Named in Banks's Book — Network Map from His Own Words"
 description = "Complete extraction of every individual named in 'It Had 2 Happen' by Brian Banks J.D. (ISBN 173575403X). Who they are, how they connect, and what Banks confesses they did. All party admissions under MRE 801(d)(2)(A)."
-weight = 2
+weight = 20
 date = 2026-10-05
 updated = 2026-10-05
 

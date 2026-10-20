@@ -3,7 +3,7 @@ title = "Signal Permeability — Live Anderson Study of Institutional Response"
 description = "A live experiment: send documented evidence of Brian Roderick Banks operating two charter schools with 9 convictions to every oversight body. Then measure who opens it, who forwards it, who ignores it. The propagation pattern IS the data. Anderson localization in real time."
 date = 2026-10-09
 updated = 2026-10-12
-weight = 82
+weight = 18
 
 [extra]
 cluster = "allies"

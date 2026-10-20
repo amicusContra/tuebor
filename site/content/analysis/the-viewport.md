@@ -1,7 +1,7 @@
 +++
 title = "The Viewport — Turn Every Screen into a Window to the Universe"
 date = 2026-10-14
-weight = 1
+weight = 10
 description = "The children of Detroit stare at screens all day. What if those screens showed them the universe? The graph has 10,204 facts about everything from Planck length to the observable cosmos. The NPU translates. The screen becomes a viewport. Every child gets the same window."
 
 [extra]

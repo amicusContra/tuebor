@@ -1,7 +1,7 @@
 +++
 title = "Institutional Capture — Detroit Charter Network"
 description = "How the Banks enterprise captured Detroit schools, courts, and political offices through board placement, campaign payments, and financial extraction."
-weight = 2
+weight = 23
 date = 2026-09-20
 updated = 2026-09-25
 

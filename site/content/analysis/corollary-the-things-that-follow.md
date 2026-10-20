@@ -1,7 +1,7 @@
 +++
 title = "Corollary — The Things That Follow"
 description = "If the thesis is true, what else must be true? If the antithesis is true, what else must be true? The corollary is neither — it is what follows from both, the unexpected conclusions that neither side intended, the places the logic goes when you stop steering it."
-weight = 4
+weight = 11
 date = 2026-10-14
 
 [extra]

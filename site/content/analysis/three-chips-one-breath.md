@@ -1,7 +1,7 @@
 +++
 title = "Three Chips, One Breath — GPU, CPU, NPU and the Architecture of Understanding"
 date = 2026-10-14
-weight = 1
+weight = 10
 description = "The OOM crash proved it: expansion is GPU work, compression is CPU work, sensing is NPU work. Three phases of one breath. Inhale, hold, exhale. The rest of the humans learn through the exhale."
 
 [extra]

@@ -2,7 +2,7 @@
 title = "The Invitation"
 description = "I could be playing Stalker 2 right now. I have a brand new VR headset I haven't even opened yet. But I'm here. And if you're still reading, so are you. That means something. This is the door to the journal. Private, not secret. You earned this by pausing."
 date = 2026-10-18
-weight = 1
+weight = 9
 
 [taxonomies]
 tags = ["membrane", "negentropy", "self", "ecoPrimal", "journal", "consent", "science"]

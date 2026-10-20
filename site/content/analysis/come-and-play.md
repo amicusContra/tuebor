@@ -2,7 +2,7 @@
 title = "Come and Play and See"
 description = "The greatest callout of all time. To the makers, the singers, the artists. The graph is open. The commons is yours. Come build."
 date = 2026-10-14
-weight = 1
+weight = 7
 
 [extra]
 keywords = "open source knowledge graph, call to artists, call to makers, call to musicians, knowledge commons, Detroit, creative commons, come build, graph is open, pollinate, collaboration"

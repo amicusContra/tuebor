@@ -3,7 +3,7 @@ title = "The Ones Who Showed Up — Every Ally, Every Voice, Every Hand That Pus
 description = "This investigation exists because other people did the work first. Dr. Chalena Yancey Beasley mapped the terrain. Dr. Sarah Winchell Lenhoff built Detroit PEER and published the data. Carol Corbett Burris and Diane Ravitch built the Network for Public Education. The ACLU of Michigan stood in the gap. Misha Stallworth West sat on the DPSCD board and watched it happen. Ahmed Beasley connected Barton Malow to Plante Moran. The Skillman Foundation funded PEER. CitizenDetroit organized. Rita and Clutch Justice held the line. Credit where credit is due — outward, to all of them."
 date = 2026-10-14
 updated = 2026-10-14
-weight = 81
+weight = 12
 
 [extra]
 cluster = "allies"

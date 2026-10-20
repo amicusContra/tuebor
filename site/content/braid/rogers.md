@@ -2,7 +2,7 @@
 title = "Data Braid — Mike Rogers"
 date = 2026-10-12
 description = "Shannon entropy H=1.66, degree 7, immune pressure 0%. Every connection, every edge type, every layer."
-weight = 49
+weight = 7
 
 [extra]
 keywords = "Mike Rogers data braid, Mike Rogers Shannon entropy, Mike Rogers immune pressure, tuebor evidence braid"

@@ -3,7 +3,7 @@ title = "The Two Judges — Miller and Yancey, the Bench That Bends Toward Banks
 description = "Judge Cylenthia Miller chairs PCA's board and has campaign donation edges to Banks. Judge Tenisha Yancey has family connections to Beasley and pays Banks's LLCs through campaign accounts. Two sitting judges. Both in Wayne County's 3rd Circuit. Both entangled with a man who has 9 criminal convictions. The bench doesn't just look away. It leans in."
 date = 2026-10-14
 updated = 2026-10-14
-weight = 53
+weight = 6
 
 [extra]
 cluster = "governance"

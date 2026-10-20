@@ -2,7 +2,7 @@
 title = "ritafelinewilliams.com — The Impersonation Domain"
 date = 2026-10-07
 description = "An active website using a journalist's full legal name. Created September 9, 2025. Renewed September 10, 2026. Collecting names and emails through a contact form. Privacy-protected registration. Part of a documented 3-domain registration campaign."
-weight = 9
+weight = 11
 
 [extra]
 keywords = "ritafelinewilliams.com, Rita Williams domain, impersonation domain, Kevin Lindke domains, domain harassment, GoDaddy impersonation, journalist domain squatting, Philip Ellison client domains, Through My Eyes harassment, Michigan domain impersonation, Clutch Justice targeting, minor child domain registration, cyberstalking domains, NCMEC CyberTipline, FOIAworks domain"

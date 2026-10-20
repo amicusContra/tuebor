@@ -2,7 +2,7 @@
 title = "Touch Radiates In, Sense Radiates Out — Why We Evolved from Silk to Rust to Primal"
 description = "Silk works to put it up, but we can't feel through it. So evolution built skin — a barrier that SENSES. Then Rust — a language that DETECTS at compile time. Then the membrane — a server that CLASSIFIES in real time. Convergent evolution of the sensing barrier. Touch radiates IN. Sense radiates OUT."
 date = 2026-10-18
-weight = 2
+weight = 10
 
 [taxonomies]
 tags = ["membrane", "negentropy", "self", "ecoPrimal", "convergent-evolution", "sensing", "science"]

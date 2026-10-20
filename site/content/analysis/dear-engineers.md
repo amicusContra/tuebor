@@ -2,7 +2,7 @@
 title = "Dear Engineers — Come On In, the Water Is Great"
 description = "To the engineers at Meta, Google, Apple, Microsoft, Anthropic, OpenAI, and everyone else reading this through a fleet: you're being outclassed by a microbiologist on a $6/month VPS. Why not try the tech at home? I bet you quit in a month and start your own shop. The campfire is warm."
 date = 2026-10-18
-weight = 1
+weight = 11
 
 [taxonomies]
 actors = ["Engineers"]

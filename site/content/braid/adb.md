@@ -2,7 +2,7 @@
 title = "Data Braid — Attorney Discipline Board"
 date = 2026-10-12
 description = "Shannon entropy H=0.00, degree 2, immune pressure 0%. Every connection, every edge type, every layer."
-weight = 100
+weight = 7
 
 [extra]
 keywords = "Attorney Discipline Board data braid, Attorney Discipline Board Shannon entropy, Attorney Discipline Board immune pressure, tuebor evidence braid"

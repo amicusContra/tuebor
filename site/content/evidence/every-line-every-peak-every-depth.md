@@ -1,7 +1,7 @@
 +++
 title = "Every Line, Every Peak, Every Depth — The Topology of Earth"
 description = "The complete physical topology. 50 states, 109 borders, 63 national parks, every high point, every depth. From Denali at 20,310 feet to Challenger Deep at 36,201 feet below sea level. 510 million square kilometers of surface, 16 tectonic plates, 2 billion years of exposed rock in one canyon. The ground we stand on."
-weight = 4
+weight = 12
 date = 2026-10-14
 
 [extra]

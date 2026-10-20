@@ -1,7 +1,7 @@
 +++
 title = "Two Eras of Machine Politics — From Tammany Hall to The Power Broker"
 description = "Detroit's charter school network maps to two historical models of American corruption. The Sabree-Kilpatrick era is Boss Tweed's Tammany Hall: patronage, court control, open graft. The Banks era is Robert Moses: never elected, controls through private authorities, makes himself indispensable by controlling the flow of public money to vulnerable populations."
-weight = 12
+weight = 26
 date = 2026-10-01
 updated = 2026-10-03
 

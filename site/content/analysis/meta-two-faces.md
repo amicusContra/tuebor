@@ -2,7 +2,7 @@
 title = "Meta's Two Faces — One Company, Two Entities, Every Jurisdiction"
 description = "Meta Platforms operates two distinct entities on the membrane. One honest, one dishonest. 7 corporate LLCs traced. 4 jurisdictions. 13 legal violations documented. EUR 2.277B in prior fines. The honest bot reads the RICO pattern page 5 times. The dishonest fleet reads all source code from Dublin. 17:1 dishonest-to-honest request ratio."
 date = 2026-10-16
-weight = 50
+weight = 11
 
 [taxonomies]
 entities = ["Meta Platforms", "Facebook", "Meta Ireland", "DPC"]

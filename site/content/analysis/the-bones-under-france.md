@@ -1,7 +1,7 @@
 +++
 title = "The Bones Under France"
 date = 2026-10-15
-weight = 4
+weight = 6
 [taxonomies]
 tags = ["plague", "pandemic", "history", "extraction", "bones", "pattern"]
 +++

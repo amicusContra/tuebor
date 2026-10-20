@@ -2,7 +2,7 @@
 title = "The UPEPA Contradiction — How One Attorney Broke Michigan's Anti-SLAPP Statute"
 date = 2026-10-07
 description = "Philip L. Ellison invoked UPEPA to defend himself against Consumers Energy while opposing the same statute when used by the journalist he sued. The same judge holds both cases. This is the first stress test of Michigan's anti-SLAPP law."
-weight = 29
+weight = 13
 
 [extra]
 cluster = "oversight"

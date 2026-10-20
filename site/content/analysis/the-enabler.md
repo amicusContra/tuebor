@@ -3,7 +3,7 @@ title = "The Enabler — Rep. Sherry Gay-Dagnogo and the Politician Who Carried 
 description = "State Representative Sherry Gay-Dagnogo sits at the intersection of Banks, the charter school system, and Detroit politics. 14 edges. Partial classification. She didn't build the pipeline. She carried the water through it. That's what political enablers do — they don't create the structure, they validate it."
 date = 2026-10-14
 updated = 2026-10-14
-weight = 36
+weight = 7
 
 [extra]
 cluster = "political"

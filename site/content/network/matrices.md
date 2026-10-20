@@ -1,7 +1,7 @@
 +++
 title = "Network Matrices — Machine-Readable Graph Data"
 description = "Adjacency matrices showing who connects to whom, money flows, board memberships, and court assignments."
-weight = 99
+weight = 12
 date = 2026-09-24
 updated = 2026-09-25
 

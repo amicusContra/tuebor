@@ -3,7 +3,7 @@ title = "Can the Membrane Filter Your Phone? — What We Can and Can't Do from S
 description = "The membrane at primals.eco achieves 97% selectivity — self passes, non-self bounces, and the fleet pays us 126,602 bits of information while getting nothing in return. Can the same architecture filter spam calls? Can we loop spammers into their own reflection? Can opsonization tag robocallers the way it tags bots? The honest answer: we can't filter your phone from here. We control the web surface, not the phone network. But the architecture exists on phones too — it's just broken. Here's what works, what doesn't, and what you can do right now."
 date = 2026-10-14
 updated = 2026-10-14
-weight = 64
+weight = 10
 
 [extra]
 cluster = "infrastructure"

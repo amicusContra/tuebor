@@ -1,7 +1,7 @@
 +++
 title = "For Journalists — The Evidence Package"
 description = "Everything is sourced from public records. Clone the git repository. No FOIA required. Full citation support (CFF 1.2.0). Structured data available as JSON, CSV, and TOML."
-weight = 2
+weight = 16
 date = 2026-10-05
 
 [extra]

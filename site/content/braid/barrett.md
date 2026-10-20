@@ -2,7 +2,7 @@
 title = "Data Braid — Tom Barrett"
 date = 2026-10-12
 description = "Shannon entropy H=1.92, degree 5, immune pressure 0%. Every connection, every edge type, every layer."
-weight = 41
+weight = 7
 
 [extra]
 keywords = "Tom Barrett data braid, Tom Barrett Shannon entropy, Tom Barrett immune pressure, tuebor evidence braid"

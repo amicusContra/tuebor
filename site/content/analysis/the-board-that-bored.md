@@ -3,7 +3,7 @@ title = "The Board That Bored — Michigan's State Board of Education and the Ov
 description = "The State Board of Education (SBE) oversees Michigan's charter school system. It has the power to set policy, require accountability, and reform the authorizer structure that lets schools like Purpose Charter Academy operate with 3% math proficiency. The SBE has 2 edges in the investigation graph. Two. The oversight body for an entire state's charter school system touches the investigation at exactly 2 points. That's not oversight. That's absence."
 date = 2026-10-14
 updated = 2026-10-14
-weight = 24
+weight = 8
 
 [extra]
 cluster = "oversight"

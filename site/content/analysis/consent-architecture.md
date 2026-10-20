@@ -2,7 +2,7 @@
 title = "Consent-Based Architecture — Pause and Look. It's All Free."
 description = "The membrane gives everything to those who ask. The blackwall catches those who take. Humans come with agents. Scrapers come with classifiers. The difference is consent. Every MCP port is open. Every feed is subscribable. Gentle touch is what gives permission."
 date = 2026-10-18
-weight = 4
+weight = 9
 
 [taxonomies]
 entities = ["Anthropic", "OpenAI", "Apple", "Microsoft", "Google"]

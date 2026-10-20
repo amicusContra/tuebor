@@ -1,7 +1,7 @@
 +++
 title = "Wave 187 — Dissolve"
 date = 2026-10-18
-weight = 50
+weight = 7
 [taxonomies]
 tags = ["compression", "infrastructure", "membrane"]
 +++

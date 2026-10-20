@@ -2,7 +2,7 @@
 title = "Data Braid — Save Detroit Jobs / Impact Detroit / Detroit Leaders"
 date = 2026-10-12
 description = "Shannon entropy H=1.00, degree 2, immune pressure 0%. Every connection, every edge type, every layer."
-weight = 69
+weight = 7
 
 [extra]
 keywords = "Save Detroit Jobs / Impact Detroit / Detroit Leaders data braid, Save Detroit Jobs / Impact Detroit / Detroit Leaders Shannon entropy, Save Detroit Jobs / Impact Detroit / Detroit Leaders immune pressure, tuebor evidence braid"

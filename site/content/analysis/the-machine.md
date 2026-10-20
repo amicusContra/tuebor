@@ -1,7 +1,7 @@
 +++
 title = "The Machine — How Every Level Was Captured"
 description = "A structural analysis of how entities, county lines, plea bargains, church networks, financial institutions, and regulatory silos are weaponized to create a captive population from which to harvest. From the ecoPrimals philosophical framework — this is detroit.primals.eco's application of the Return to Omelas."
-weight = 9
+weight = 34
 date = 2026-09-27
 updated = 2026-09-27
 draft = true

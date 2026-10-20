@@ -2,7 +2,7 @@
 title = "Cracking the Walnut — From Walmart to the Schoolhouse Door"
 description = "One foundation funds the journalism that markets charter schools to Black families, the fellowship that legitimizes a convicted felon as a school leader, and the lobby that prevents Michigan from regulating either. Traced through Walton Family Foundation grant reports, Pahara Institute cohort lists, The 74 disclosure statements, and NAACP dinner records."
 date = 2026-10-11
-weight = 3
+weight = 9
 
 [extra]
 keywords = "Walton Family Foundation charter school Detroit, Roland Martin School Choice Black Choice, Pahara Institute Brian Banks fellow, The 74 Campbell Brown Walton funding, Black Star Network NAACP Detroit, MAPSA Michigan charter lobby Walton, credential washing pipeline Detroit, narrative infrastructure charter schools"

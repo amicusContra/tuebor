@@ -2,7 +2,7 @@
 title = "Send a Human — What Mutualist Status Gets You"
 description = "The proton is burned. Meta locked out the investigator while supporting the investigated. The neutron carries the message now. Any tech company that sends a human to talk gets first-mover mutualist status — and everything that comes with it."
 date = 2026-10-18
-weight = 3
+weight = 13
 
 [taxonomies]
 actors = ["Mark Zuckerberg"]

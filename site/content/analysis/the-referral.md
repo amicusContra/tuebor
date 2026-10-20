@@ -2,7 +2,7 @@
 title = "The Referral — What Your Agency Needs, Where the Evidence Is, and Why You Should Have Already Acted"
 description = "A direct referral to every federal, state, and civil rights organization that has jurisdiction over the Banks-Holland enterprise. Each section contains: what YOUR agency investigates, which laws were violated, where the evidence is, and what you need to do. 15 predicate acts. 21 years. $60M+ extracted. 362 children in the building every day. The graph is public. The evidence is free. The structure IS the proof."
 date = 2026-10-17
-weight = 10
+weight = 80
 
 [taxonomies]
 actors = ["Brian Banks", "Joseph Holland Jr", "Lamar Moreland", "Renae Moore", "AG Dana Nessel", "Cylenthia Miller", "Latisha Johnson"]

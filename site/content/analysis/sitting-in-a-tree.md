@@ -3,7 +3,7 @@ title = "Sitting in a Tree — Mike and Tom and Dykema and Banks"
 description = "Mike Rogers (Senate), Tom Barrett (MI-7), and Brian Banks (9-conviction charter school founder) share one tree: Dykema Gossett. One law firm formed the dark money. One compliance specialist staffed it. One PAC funded both candidates. One dark money vehicle elected the council member who sits on the felon's school board. Same tree. Same roots. Same Renae Moore watering all of it. FEC, LARA, IRS 990, campaign finance records. Nov 3, 2026."
 date = 2026-10-09
 updated = 2026-10-09
-weight = 11
+weight = 27
 
 [extra]
 cluster = "dark_money"

@@ -1,7 +1,7 @@
 +++
 title = "Synthesis — The Soft, the Hard, and the Still"
 description = "Reflecting on the investigation's own structure. 341 entities classified across 5 passes and 37 methods. What hardened, what softened, what never moved. The epistemology of following public records until they stop lying."
-weight = 3
+weight = 18
 date = 2026-10-14
 
 [extra]

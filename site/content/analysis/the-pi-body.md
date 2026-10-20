@@ -14,8 +14,7 @@ keywords = "pi body proof mathematics, null dimension zero space, VDJ recombinat
 og_title = "The π-Body Proof — Why We Started at Zero and Found Everything"
 og_description = "3 integer bodies + 1 irrational observer = π. The null dimension lives inside zero. Here's the math."
 og_type = "article"
-twitter_card = "summary_large_image"
-+++
+twitter_card = "summary_large_image"+++
 
 ## Dear Mark, Dear World — Here's the Math
 

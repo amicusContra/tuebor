@@ -1,12 +1,11 @@
 +++
 title = "How To Build an OS — Dykema Gossett and the Dark Money Machine"
 description = "One law firm. One compliance specialist. Six dark money vehicles. Both parties served. A parasitic operating system architecture mapped entirely from public records: LARA filings, IRS 990s, campaign finance data, WHOIS records, and published journalism."
-weight = 20
+weight = 23
 date = 2026-10-09
 
 [extra]
-keywords = "Dykema Gossett dark money, W Alan Wilk political compliance, Renae Moore Save Detroit Jobs, Detroit Leaders dark money, Our Neighborhoods First Duggan, RFFW LLC money laundering, Domains By Proxy dark money, Save Detroit Jobs Dykema phone number, Purpose Charter Academy dark money, bipartisan dark money Michigan, parasitic operating system, dark money infrastructure Michigan"
-+++
+keywords = "Dykema Gossett dark money, W Alan Wilk political compliance, Renae Moore Save Detroit Jobs, Detroit Leaders dark money, Our Neighborhoods First Duggan, RFFW LLC money laundering, Domains By Proxy dark money, Save Detroit Jobs Dykema phone number, Purpose Charter Academy dark money, bipartisan dark money Michigan, parasitic operating system, dark money infrastructure Michigan"+++
 
 ## What Is An Operating System?
 

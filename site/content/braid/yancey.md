@@ -5,8 +5,7 @@ description = "Shannon entropy H=1.58, degree 3, immune pressure 33%. Every conn
 weight = 7
 
 [extra]
-keywords = "Judge Tenisha Yancey data braid, Judge Tenisha Yancey Shannon entropy, Judge Tenisha Yancey immune pressure, tuebor evidence braid"
-+++
+keywords = "Judge Tenisha Yancey data braid, Judge Tenisha Yancey Shannon entropy, Judge Tenisha Yancey immune pressure, tuebor evidence braid"+++
 
 ## Braid Metrics
 

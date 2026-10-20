@@ -2,7 +2,7 @@
 title = "There's a Leak in the Dyke"
 description = "One law firm. Eighty dark money accounts. Both parties. One compliance specialist who serves the prosecutor and the defendant. The operating system underneath Michigan politics is leaking."
 date = 2026-10-09
-weight = 21
+weight = 23
 
 [extra]
 author = "Artisan"
@@ -11,8 +11,7 @@ keywords = "Dykema Gossett dark money Michigan, Renae Moore 80 accounts, Lee Cha
 [taxonomies]
 actors = ["W. Alan Wilk", "Renae Moore", "Lee Chatfield", "Aaron Keel", "Jason Hanselman"]
 entities = ["Dykema Gossett", "Peninsula Fund", "Promise to the People Fund", "Save Detroit Jobs", "Our Neighborhoods First", "Detroit Jobs First", "RFFW LLC", "Put Progress First", "Michigan First Principles", "Michigan Association of School Boards"]
-connections = ["charter school law", "dark money", "compliance", "revolving door", "bipartisan infrastructure"]
-+++
+connections = ["charter school law", "dark money", "compliance", "revolving door", "bipartisan infrastructure"]+++
 
 On February 26, 2025, a compliance specialist named **Renae Moore**
 took the witness stand in Ingham County District Court. She was the

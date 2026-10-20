@@ -5,8 +5,7 @@ description = "Shannon entropy H=0.00, degree 1, immune pressure 0%. Every conne
 weight = 6
 
 [extra]
-keywords = "Americans for Prosperity Action data braid, Americans for Prosperity Action Shannon entropy, Americans for Prosperity Action immune pressure, tuebor evidence braid"
-+++
+keywords = "Americans for Prosperity Action data braid, Americans for Prosperity Action Shannon entropy, Americans for Prosperity Action immune pressure, tuebor evidence braid"+++
 
 ## Braid Metrics
 

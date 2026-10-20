@@ -5,8 +5,7 @@ description = "How to file complaints with Michigan's judicial, attorney, and la
 weight = 18
 
 [extra]
-keywords = "Michigan AGC complaint how to file, Attorney Grievance Commission complaint form, JTC complaint Michigan judge, Judicial Tenure Commission grievance, SCAO complaint Michigan, MCOLES complaint police officer, IC3 complaint filing, Michigan attorney misconduct report, how to file judicial complaint Michigan, Michigan oversight body contact"
-+++
+keywords = "Michigan AGC complaint how to file, Attorney Grievance Commission complaint form, JTC complaint Michigan judge, Judicial Tenure Commission grievance, SCAO complaint Michigan, MCOLES complaint police officer, IC3 complaint filing, Michigan attorney misconduct report, how to file judicial complaint Michigan, Michigan oversight body contact"+++
 
 ## The Reality
 

@@ -8,8 +8,7 @@ weight = 11
 keywords = "ritafelinewilliams.com, Rita Williams domain, impersonation domain, Kevin Lindke domains, domain harassment, GoDaddy impersonation, journalist domain squatting, Philip Ellison client domains, Through My Eyes harassment, Michigan domain impersonation, Clutch Justice targeting, minor child domain registration, cyberstalking domains, NCMEC CyberTipline, FOIAworks domain"
 
 [taxonomies]
-counties = ["Saginaw"]
-+++
+counties = ["Saginaw"]+++
 
 ## The Domain
 

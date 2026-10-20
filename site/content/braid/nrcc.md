@@ -5,8 +5,7 @@ description = "Shannon entropy H=0.00, degree 1, immune pressure 0%. Every conne
 weight = 6
 
 [extra]
-keywords = "NRCC data braid, NRCC Shannon entropy, NRCC immune pressure, tuebor evidence braid"
-+++
+keywords = "NRCC data braid, NRCC Shannon entropy, NRCC immune pressure, tuebor evidence braid"+++
 
 ## Braid Metrics
 

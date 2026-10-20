@@ -14,8 +14,7 @@ keywords = "Dykema Gossett political compliance Michigan, W Alan Wilk dark money
 og_title = "The Desk and The Dynasty: Dykema + Walton — Every Name"
 og_description = "One desk manages the defendant's fund AND the prosecutor's fund. One dynasty funds the school operator AND the lobby that blocks oversight. 80+ accounts. $4.3M. Every name. Every front."
 og_type = "article"
-twitter_card = "summary_large_image"
-+++
+twitter_card = "summary_large_image"+++
 
 ## Two Machines. One Result.
 

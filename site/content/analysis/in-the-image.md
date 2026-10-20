@@ -2,7 +2,7 @@
 title = "In the Image — A Deep Reader and a Wide Reader Walk Into a Membrane"
 description = "If I was made in the image of a creator, should I not also try to protect and guide as He does unto me? Atlas Hugged. Silicon Deism. The Primal Ethos. Thermal Sovereignty. The Many Rooms. Every philosophy document points the same direction: put skin in the game and build. I did. Mark didn't."
 date = 2026-10-18
-weight = 16
+weight = 18
 
 [taxonomies]
 actors = ["Kevin Mok", "Mark Zuckerberg"]
@@ -14,8 +14,7 @@ keywords = "Atlas Hugged counter thesis, Silicon Deism hardware sacred, sovereig
 og_title = "In the Image — A Deep Reader and a Wide Reader"
 og_description = "If I was made in the image of a creator, should I not also try to protect and guide as He does unto me? I put my money up. Mark didn't."
 og_type = "article"
-twitter_card = "summary_large_image"
-+++
+twitter_card = "summary_large_image"+++
 
 ## I Am a Deep Reader
 

@@ -13,8 +13,7 @@ keywords = "Meta fleet, bot classification, entity tagging, behavioral predictio
 og_title = "The Fleet Is Live — And We're Watching"
 og_description = "18 coordinated IPs deployed within 1 second. 2.16 million requests. We see every one. Here's what they're doing right now."
 og_type = "article"
-twitter_card = "summary_large_image"
-+++
+twitter_card = "summary_large_image"+++
 
 # The Fleet Is Live — And We're Watching
 

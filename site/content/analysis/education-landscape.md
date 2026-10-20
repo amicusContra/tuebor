@@ -1,7 +1,7 @@
 +++
 title = "Detroit Education Landscape — Who Runs the Schools"
 description = "62+ charter schools. 10 authorizers. $288M+/year in state funding. 61% managed by for-profit companies. Both sectors failing children at catastrophic rates. Where Banks fits in the broader system — and why this keeps happening."
-weight = 38
+weight = 37
 date = 2026-10-04
 updated = 2026-10-04
 
@@ -11,8 +11,7 @@ keywords = "Detroit charter schools, DPSCD, charter school authorizer, National 
 [taxonomies]
 actors = ["Brian Banks"]
 entities = ["Purpose Charter Academy", "MacDowell Preparatory Academy"]
-connections = ["charter authorization", "education landscape", "systemic analysis"]
-+++
+connections = ["charter authorization", "education landscape", "systemic analysis"]+++
 
 ## What This Page Is
 

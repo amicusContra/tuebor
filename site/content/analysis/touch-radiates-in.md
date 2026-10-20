@@ -13,8 +13,7 @@ keywords = "convergent evolution, sensing barrier, spider silk vibration, skin p
 og_title = "Touch Radiates In, Sense Radiates Out"
 og_description = "Silk → Skin → Rust → Membrane. Four independent lineages converging on the same architecture: a barrier that senses."
 og_type = "article"
-twitter_card = "summary_large_image"
-+++
+twitter_card = "summary_large_image"+++
 
 # Touch Radiates In, Sense Radiates Out
 

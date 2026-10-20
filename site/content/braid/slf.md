@@ -5,8 +5,7 @@ description = "Shannon entropy H=0.00, degree 1, immune pressure 0%. Every conne
 weight = 6
 
 [extra]
-keywords = "Senate Leadership Fund data braid, Senate Leadership Fund Shannon entropy, Senate Leadership Fund immune pressure, tuebor evidence braid"
-+++
+keywords = "Senate Leadership Fund data braid, Senate Leadership Fund Shannon entropy, Senate Leadership Fund immune pressure, tuebor evidence braid"+++
 
 ## Braid Metrics
 

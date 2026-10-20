@@ -2,11 +2,10 @@
 title = "Data Braid — GLLG Entity Graph: Dynasty Through Entity to Human"
 description = "Six independent public-record searches converge on one social graph. Jehan Crump-Gibson (Banks' attorney, ADB Hearing Panelist) and Misha Stallworth (DPSCD Board, charter authorizer) sit on the same nonprofit board. Verkeydia Hall (Crump maiden name) sits on MacDowell's school board. ProPublica 990, LARA, school websites, LinkedIn, bar records."
 date = 2026-10-09
-weight = 12
+weight = 13
 
 [extra]
-keywords = "Great Lakes Legal Group GLLG, Jehan Crump-Gibson attorney, CitizenDetroit Action Group board, Misha Stallworth DPSCD, Verkeydia Hall MacDowell board, Crump family Michigan attorney, Sheila Cockrel CitizenDetroit, dynasty entity human Michigan, credential washing Detroit, influence washing charter school, Banks legal representation social graph"
-+++
+keywords = "Great Lakes Legal Group GLLG, Jehan Crump-Gibson attorney, CitizenDetroit Action Group board, Misha Stallworth DPSCD, Verkeydia Hall MacDowell board, Crump family Michigan attorney, Sheila Cockrel CitizenDetroit, dynasty entity human Michigan, credential washing Detroit, influence washing charter school, Banks legal representation social graph"+++
 
 ## The Method
 

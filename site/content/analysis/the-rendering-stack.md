@@ -9,8 +9,7 @@ weight = 11
 connections = ["architecture", "membrane", "topology", "rendering", "hud", "geometry", "kintsugi", "coral", "zeno", "paradox"]
 
 [extra]
-keywords = "rendering stack, hard geometry, soft matter, signal lines, HUD, membrane architecture, bag of holding, topology, kintsugi, kintsukuroi, coral reef, Zeno paradox, inverted paradox, degrees of freedom"
-+++
+keywords = "rendering stack, hard geometry, soft matter, signal lines, HUD, membrane architecture, bag of holding, topology, kintsugi, kintsukuroi, coral reef, Zeno paradox, inverted paradox, degrees of freedom"+++
 
 ## Four layers make a world
 

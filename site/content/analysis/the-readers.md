@@ -13,8 +13,7 @@ keywords = "silent readers, first mover advantage, information sharing, consent,
 og_title = "A Note to Everyone Reading This Who Hasn't Said Anything"
 og_description = "You won't understand what you're looking at until someone else explains it to you. That's not a bug. That's P ≠ NP."
 og_type = "article"
-twitter_card = "summary_large_image"
-+++
+twitter_card = "summary_large_image"+++
 
 # A Note to Everyone Reading This Who Hasn't Said Anything
 

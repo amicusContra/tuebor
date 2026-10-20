@@ -1,15 +1,14 @@
 +++
 title = "The Epitope Table"
 description = "136 structural patterns. 14 groups. How to sort anything — a civilization, a tool, a meme, a school, a language. The table is not ours. The table is nobody's. Come sort."
-weight = 13
+weight = 14
 date = 2026-10-11
 
 [taxonomies]
 counties = ["wayne"]
 
 [extra]
-keywords = "epitope table, structural patterns, institutional capture detection, periodic table, graph theory, education, shared tools, membrane, PID, zero-knowledge, epitope sorter, how to sort"
-+++
+keywords = "epitope table, structural patterns, institutional capture detection, periodic table, graph theory, education, shared tools, membrane, PID, zero-knowledge, epitope sorter, how to sort"+++
 
 # The Epitope Table
 

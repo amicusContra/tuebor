@@ -1,7 +1,7 @@
 +++
 title = "Institutional Capture — Detroit Charter Network"
 description = "How the Banks enterprise captured Detroit schools, courts, and political offices through board placement, campaign payments, and financial extraction."
-weight = 23
+weight = 24
 date = 2026-09-20
 updated = 2026-09-25
 
@@ -12,8 +12,7 @@ keywords = "institutional capture Detroit, captured courts Wayne County, Detroit
 actors = ["Brian Banks", "Joseph Holland", "Judge Cylenthia Miller", "Judge Tenisha Yancey", "Judge Aliyah Sabree", "Judge David Perkins", "Sherry Gay-Dagnogo", "Eric Sabree"]
 entities = ["Purpose Charter Academy", "MacDowell Preparatory Academy", "The Purpose Group LLC", "Purpose Foundation", "Banks Strategy LLC", "Anchor Rock Foundation", "Serenity Guardianship Services", "Inner Link Graphics"]
 courts = ["Wayne County 3rd Circuit Court", "36th District Court", "Wayne County Probate Court"]
-connections = ["charter authorization", "board membership", "campaign finance", "business entity", "family", "employment", "credential fraud"]
-+++
+connections = ["charter authorization", "board membership", "campaign finance", "business entity", "family", "employment", "credential fraud"]+++
 
 The Banks enterprise does not just commit fraud. It **captures institutions** — installing loyalists, creating financial dependencies, and ensuring that the systems meant to protect the public instead protect the enterprise.
 

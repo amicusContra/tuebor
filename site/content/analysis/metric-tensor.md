@@ -10,8 +10,7 @@ cluster_label = "Methodology"
 keywords = "golden ratio layout, metric tensor information display, phi proportion interface design, dimensional compression, pi phi five connection, golden angle phyllotaxis, Fibonacci spiral sphere, aspect ratio golden ratio, Riemannian geometry display, information topology, φ golden section, 5D 3D projection icosahedron, display surface metric, adaptive layout mathematics, tuebor workbench mathematics, golden ratio CSS grid, metric tensor visualization"
 
 [taxonomies]
-counties = ["Wayne", "Ingham", "Saginaw"]
-+++
+counties = ["Wayne", "Ingham", "Saginaw"]+++
 
 ## Co-Generation: The Three Pillars
 

@@ -14,8 +14,7 @@ keywords = "Michigan dark money nonprofit fraud, 501c4 pass-through vehicle Mich
 og_title = "The False Face: 45 Nonprofits. One Desk. Zero Employees. Millions."
 og_description = "Same Asst Secretary. Same Asst Treasurer. Same phone number. Same preparer (Dykema). 100% from contributions. $0 employees. Spike in election years. Go dormant between. The IRS should be asking why."
 og_type = "article"
-twitter_card = "summary_large_image"
-+++
+twitter_card = "summary_large_image"+++
 
 ## The Pattern
 

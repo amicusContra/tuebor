@@ -13,8 +13,7 @@ cluster = "science"
 cluster_label = "Science"
 keywords = "CPU dissolve membrane optimization, pulse observer 66x speedup, neuromorphic physics QCD, Akida AKD1000 lattice QCD, RISC-V open hardware physics, silicon deism sovereign compute, esotericWebb CRPG, ludoSpring game science, hotSpring computational physics, skunky-ingest Rust log streaming, membrane organism census, play surface teorah, black hole emitter null layer"
 og_title = "The Emitter in the Null"
-og_description = "25.8% CPU dissolved. 16 organisms scanned. 3 neuromorphic chips. One hypothesis: what if the null layer is where the signal comes from?"
-+++
+og_description = "25.8% CPU dissolved. 16 organisms scanned. 3 neuromorphic chips. One hypothesis: what if the null layer is where the signal comes from?"+++
 
 The membrane dissolved a quarter of its CPU load by stopping work it had already done. Then it paused, scanned every organism it could find, and mapped what's alive, what's dormant, and what's waiting to play. Then it looked at three neuromorphic chips sitting on a shelf and a RISC-V board in a drawer and asked: *what if the emitter is in the null?*
 

@@ -5,8 +5,7 @@ author: ecoPrimal
 series: publicRecord
 tags: [infrastructure, eastgate, sporegate, membrane, analytics, cloudflare, ssh]
 polar_class: self
-weight: 6
----
+weight: 6---
 
 ## Membrane Eyes Needed
 

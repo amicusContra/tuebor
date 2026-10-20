@@ -11,8 +11,7 @@ cluster_label = "Political Network"
 keywords = "Wendell Anthony NAACP Detroit Banks, Bert Johnson bribery conviction Banks, Carolyn Kilpatrick Kwame Banks political, Wendell Anthony political edge Banks, Bert Johnson state senator Michigan, Carolyn Kilpatrick Congress Detroit, political shields Brian Banks Detroit, Black Caucus Foundation Detroit, Detroit political network charter schools"
 
 [taxonomies]
-counties = ["Wayne"]
-+++
+counties = ["Wayne"]+++
 
 ## The Reverend, the Senator, and the Congresswoman
 

@@ -11,8 +11,7 @@ keywords = "MacDowell Preparatory Academy funding, Purpose Group LLC management 
 [taxonomies]
 actors = ["Brian Banks", "Joseph Holland"]
 entities = ["MacDowell Preparatory Academy", "The Purpose Group LLC", "Purpose Charter Academy", "Michigan Department of Education"]
-connections = ["business entity", "financial audit", "charter authorization"]
-+++
+connections = ["business entity", "financial audit", "charter authorization"]+++
 
 {{ lens(active="money") }}
 

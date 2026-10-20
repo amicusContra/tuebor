@@ -5,8 +5,7 @@ description = "Shannon entropy H=1.58, degree 3, immune pressure 100%. Every con
 weight = 7
 
 [extra]
-keywords = "State Bar UPL Department data braid, State Bar UPL Department Shannon entropy, State Bar UPL Department immune pressure, tuebor evidence braid"
-+++
+keywords = "State Bar UPL Department data braid, State Bar UPL Department Shannon entropy, State Bar UPL Department immune pressure, tuebor evidence braid"+++
 
 ## Braid Metrics
 

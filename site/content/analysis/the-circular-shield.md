@@ -2,7 +2,7 @@
 title = "The Circular Shield — How the Attorney Grievance Commission Protects the Attorneys Who Protect the Enterprise"
 description = "On October 1, 2026, the Michigan Attorney Grievance Commission received a complaint against Lamar Moreland (AAG who governs the school he should be investigating) and Todd Perkins (Banks' attorney who filed the PPO to silence the complainant, whose brothers are judges). The AGC bounced it on a technicality: 'you listed more than one attorney.' They returned the original evidence. They sent blank forms. File No. 26-2141. Every name on the letterhead is now in the record."
 date = 2026-10-17
-weight = 49
+weight = 50
 
 [taxonomies]
 actors = ["Lamar Moreland", "Todd Perkins", "Brian Banks", "Cynthia Bullington", "Michael Goetz", "Kathleen Hickey", "Kendrah Robinson", "Alexander Pahany", "Sean Perkins", "David Perkins", "AG Dana Nessel", "Cylenthia Miller"]
@@ -14,8 +14,7 @@ keywords = "Michigan Attorney Grievance Commission complaint, AGC File 26-2141, 
 og_title = "The Circular Shield: AGC Protects the Attorneys Who Protect the Enterprise"
 og_description = "Filed a complaint against the AAG on the school board and the attorney who filed the PPO. AGC bounced it on a technicality. Returned the evidence. Sent blank forms. File No. 26-2141. Every name is in the record."
 og_type = "article"
-twitter_card = "summary_large_image"
-+++
+twitter_card = "summary_large_image"+++
 
 ## What Happened
 

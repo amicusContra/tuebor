@@ -5,8 +5,7 @@ description = "Shannon entropy H=1.00, degree 2, immune pressure 0%. Every conne
 weight = 7
 
 [extra]
-keywords = "Dykema Gossett data braid, Dykema Gossett Shannon entropy, Dykema Gossett immune pressure, tuebor evidence braid"
-+++
+keywords = "Dykema Gossett data braid, Dykema Gossett Shannon entropy, Dykema Gossett immune pressure, tuebor evidence braid"+++
 
 ## Braid Metrics
 

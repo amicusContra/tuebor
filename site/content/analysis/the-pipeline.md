@@ -11,8 +11,7 @@ cluster_label = "Political Network"
 keywords = "Kwame Kilpatrick Brian Banks Detroit, Dennis Archer Dykema partner, Kwame Kilpatrick racketeering conviction, Detroit political pipeline charter schools, Archer Michigan Supreme Court State Bar, Kwame Sheffield political network, Bert Johnson conviction, Carolyn Kilpatrick Congress, Detroit mayor charter school pipeline, Kilpatrick machine"
 
 [taxonomies]
-counties = ["Wayne"]
-+++
+counties = ["Wayne"]+++
 
 ## The Pipeline
 

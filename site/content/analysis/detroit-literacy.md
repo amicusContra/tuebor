@@ -1,7 +1,7 @@
 +++
 title = "Detroit Literacy Crisis — The Systemic View"
 description = "MacDowell isn't an anomaly. Charter authorization as revenue, management companies as extraction vehicles, and credential enforcement as theater — the systemic pattern."
-weight = 19
+weight = 34
 date = 2026-09-26
 updated = 2026-09-26
 
@@ -11,8 +11,7 @@ keywords = "Detroit literacy crisis, charter school accountability, Detroit char
 [taxonomies]
 actors = ["Brian Banks", "Katie Schmiedeknecht"]
 entities = ["MacDowell Preparatory Academy", "Purpose Charter Academy", "The Purpose Group LLC", "Michigan Department of Education"]
-connections = ["charter authorization", "institutional oversight", "institutional capture", "credential fraud"]
-+++
+connections = ["charter authorization", "institutional oversight", "institutional capture", "credential fraud"]+++
 
 MacDowell Preparatory Academy is not an anomaly — it is an extreme example of structural vulnerabilities in Michigan's charter school oversight. This page connects the documented facts from this investigation to the broader patterns that enable them.
 

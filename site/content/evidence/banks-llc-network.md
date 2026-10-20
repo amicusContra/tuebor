@@ -9,8 +9,7 @@ weight = 11
 keywords = "Brian Banks LLC network, Banks shell companies Michigan, Purpose Group LLC, Banks Strategy Consultants LLC, Inner Link LLC, Brian Banks LARA filings, Banks 16 LLCs, charter school shell companies, Banks Living Trust, B Rodericks LLC"
 
 [taxonomies]
-counties = ["Wayne"]
-+++
+counties = ["Wayne"]+++
 
 ## The Network
 

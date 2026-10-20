@@ -8,8 +8,7 @@ tags: [brian-banks, convictions, detroit, charter-school, purpose-charter-academ
 extra:
   keywords: "Brian Banks Detroit, Brian Banks convictions, Brian Banks charter school, Purpose Charter Academy Detroit, MacDowell Preparatory Academy Detroit, Detroit charter school fraud, Brian Banks criminal record, Delta College charter authorization, Brian Banks 9 convictions, Brian Roderick Banks Wayne County, charter school oversight Michigan, LARA Michigan charter school, MDE charter school authorization"
 polar_class: self
-weight: 16
----
+weight: 16---
 
 ## Brian Roderick Banks: 9 Criminal Convictions, 2 Schools, Hundreds of Children
 

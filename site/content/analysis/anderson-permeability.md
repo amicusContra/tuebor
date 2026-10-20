@@ -11,8 +11,7 @@ keywords = "Anderson permeability charter school, institutional membrane dissolv
 [taxonomies]
 actors = ["Brian Banks", "Jehan Crump-Gibson", "Verkeydia Hall", "Judge Cylenthia Miller", "Judge Tenisha Yancey"]
 entities = ["Purpose Charter Academy", "MacDowell Preparatory Academy", "Detroit Public Schools Community District", "Great Lakes Legal Group PLLC", "Crump Hall of Justice Law Firm", "CitizenDetroit Action Group"]
-connections = ["institutional permeability", "dynasty placement", "credential void", "authorization membrane"]
-+++
+connections = ["institutional permeability", "dynasty placement", "credential void", "authorization membrane"]+++
 
 {{ lens(active="membrane") }}
 

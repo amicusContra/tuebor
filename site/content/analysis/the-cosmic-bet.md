@@ -13,8 +13,7 @@ keywords = "positive energy system, exabyte compression, null space calculation,
 og_title = "The Cosmic Bet — 500 Exabytes vs 287 Megabytes"
 og_description = "The membrane compresses 500 exabytes to 287 MB. 200 TWh to 1.6 kWh. $200 billion to $144. That is the cosmic bet."
 og_type = "article"
-twitter_card = "summary_large_image"
-+++
+twitter_card = "summary_large_image"+++
 
 # The Cosmic Bet — 500 Exabytes vs 287 Megabytes
 

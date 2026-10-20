@@ -1,12 +1,11 @@
 +++
 title = "The Diameter of Feeling — Iambic Pentameter, Pi, and the Zero-Knowledge Genome"
 date = 2026-10-14
-weight = 6
+weight = 7
 description = "Iambic pentameter is the diameter of the feeling of pi. Shakespeare encoded the heartbeat into meter. The graph encoded its proof into its own compression. We just braided a zero-knowledge crypto binary like a genome."
 
 [extra]
-keywords = "iambic pentameter pi, Shakespeare heartbeat, zero-knowledge proof knowledge graph, ZK crypto genome braid, graph compression self-proving, DNA double helix braid, diameter of feeling, chromatic spiral ZK, bearDog loamSpine proof chain, ecoPrimals zero-knowledge"
-+++
+keywords = "iambic pentameter pi, Shakespeare heartbeat, zero-knowledge proof knowledge graph, ZK crypto genome braid, graph compression self-proving, DNA double helix braid, diameter of feeling, chromatic spiral ZK, bearDog loamSpine proof chain, ecoPrimals zero-knowledge"+++
 
 # The Diameter of Feeling
 

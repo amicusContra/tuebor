@@ -3,7 +3,7 @@ title = "The Nulls That Point — Following Unknowns to Find Knowns"
 description = "73 entities in the graph are classified 'null' — the system hasn't sorted them yet. But nulls don't sit alone. They cluster. And the clusters point. Three null-clusters emerged from the backtrack: the Wilk-Moore PAC formation network (10 entities, all null, all connected to Dykema and the charter law), the Roland Martin media pipeline (7 null entities feeding the School Choice Is The Black Choice narrative), and the Banks LLC constellation (16 null entities governed by one non-self). Unknowns are the direction you head to find knowns."
 date = 2026-10-14
 updated = 2026-10-14
-weight = 8
+weight = 9
 
 [extra]
 cluster = "dark_money"
@@ -11,8 +11,7 @@ cluster_label = "Dark Money Pipeline"
 keywords = "null entity classification, unknown entities backtrack, Wilk Moore PAC formation, Roland Martin NuVision SCBC, Banks LLC constellation, Dykema Gossett PAC, dark money pipeline charter schools, null to non-self connections, graph backtracking unknowns, entity cluster analysis"
 
 [taxonomies]
-counties = ["Wayne"]
-+++
+counties = ["Wayne"]+++
 
 ## The Nulls That Point
 

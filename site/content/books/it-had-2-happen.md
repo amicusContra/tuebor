@@ -1,7 +1,7 @@
 +++
 title = "It Had 2 Happen — Annotated Analysis of Brian Banks's Autobiography"
 description = "A public-interest annotated analysis of 'It Had 2 Happen: The Agony of Success' by Brian Banks J.D. (ISBN 173575403X). Every claim cross-referenced against public records. Every name mapped to the institutional network. The book is a party admission under MRE 801(d)(2)(A)."
-weight = 25
+weight = 27
 date = 2026-10-05
 updated = 2026-10-05
 
@@ -11,8 +11,7 @@ keywords = "It Had 2 Happen Brian Banks, Brian Banks autobiography, Brian Banks 
 [taxonomies]
 actors = ["Brian Banks", "Joseph Holland", "Judge Denise Langford Morris", "Judge Vonda Evans", "Judge Cylenthia Miller", "Sherry Gay-Dagnogo", "Tenisha Yancey", "Latisha Johnson", "Thomas Stallworth IV", "Devin Hutchings", "Todd Perkins", "Gregory Meihn", "Lamar Moreland", "Tonesa Welch"]
 entities = ["Purpose Charter Academy", "MacDowell Preparatory Academy", "The Purpose Group LLC", "True Vine Publishing Co.", "Black Mafia Family", "Michigan House of Representatives", "Baker College", "MSU College of Law"]
-connections = ["credential fraud", "criminal record", "party admission", "judicial misconduct", "network mapping"]
-+++
+connections = ["credential fraud", "criminal record", "party admission", "judicial misconduct", "network mapping"]+++
 
 ## Fair Use Notice
 

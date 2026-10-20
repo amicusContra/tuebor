@@ -2,7 +2,7 @@
 title = "Moore's Law Is False — Four Duties, Zero Reports, One Desk"
 description = "Renae Moore testified under oath that she had 'no duty to report' questionable spending from a 501(c)(4) that paid for strip club tabs and personal credit cards. She was wrong. Michigan law, federal election law, the IRS code, and common law fiduciary duty all say otherwise. Here are the four proofs."
 date = 2026-10-16
-weight = 12
+weight = 13
 
 [taxonomies]
 actors = ["Renae Moore", "Lee Chatfield", "AG Dana Nessel", "Mary Chartier", "W. Alan Wilk"]
@@ -14,8 +14,7 @@ keywords = "Renae Moore Dykema testimony duty to report, MCL 450.2541 nonprofit 
 og_title = "Moore's Law Is False: Four Duties She Said She Didn't Have"
 og_description = "Renae Moore testified 'I have no duty to report' questionable spending. Michigan statute MCL 450.2541, FEC regulation 11 CFR 104.14(d), IRC § 501(c)(4), and common law fiduciary duty all say she's wrong. Four proofs. One desk. 80+ accounts."
 og_type = "article"
-twitter_card = "summary_large_image"
-+++
+twitter_card = "summary_large_image"+++
 
 ## The Testimony
 

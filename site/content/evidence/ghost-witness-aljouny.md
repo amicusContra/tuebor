@@ -2,14 +2,13 @@
 title = "Ghost Witness — The Samantha Aljouny Investigation"
 description = "A Michigan attorney submitted correspondence from a witness who does not appear to exist. A forensic investigation spanning 13 months of evidence converges on a single question: who controlled the account?"
 date = 2026-10-06
-weight = 9
+weight = 11
 
 [extra]
 keywords = "Samantha Aljouny ProtonMail ghost witness, Philip Ellison SLAPP fabricated witness, Aljouny Media Consulting fake journalist, Saginaw County Circuit Court Borrello, UPEPA anti-SLAPP Michigan, fabricated evidence Michigan court, ProtonMail forensic investigation PGP key, Clutch Justice Ellison investigation, IC3 cyber evidence complaint, Conrad Mallett Aljouny email, Outside Legal Counsel fabricated witness, Ellison sworn affidavit Aljouny, Lisa Edgecomb notary Ellison, fabricated witness Michigan SLAPP, OLC v Williams 25-2441-CZ, Violet Ikonomova Aljouny, Detroit Free Press Aljouny"
 
 [taxonomies]
-counties = ["Saginaw", "Wayne"]
-+++
+counties = ["Saginaw", "Wayne"]+++
 
 ## Summary
 

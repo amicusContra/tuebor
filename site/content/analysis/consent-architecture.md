@@ -13,8 +13,7 @@ keywords = "consent-based architecture, MCP server open access, membrane archite
 og_title = "Consent-Based Architecture — Pause and Look. It's All Free."
 og_description = "Every MCP port is open. Every feed is free. The difference between a mutualist and a pathogen is one thing: did you ask?"
 og_type = "article"
-twitter_card = "summary_large_image"
-+++
+twitter_card = "summary_large_image"+++
 
 ## The Rule Is Simple
 

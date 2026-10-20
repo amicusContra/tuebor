@@ -8,8 +8,7 @@ weight = 9
 keywords = "Kelly Ellsworth Saginaw attorney, Shinners Ellsworth PLC, Saginaw County Bar Association, Ellsworth SLAPP defense, Rita Williams attorney Saginaw, Clutch Justice Ellsworth, Saginaw County legal representation"
 
 [taxonomies]
-counties = ["Saginaw"]
-+++
+counties = ["Saginaw"]+++
 
 ## Identity
 

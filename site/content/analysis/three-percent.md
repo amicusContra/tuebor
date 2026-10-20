@@ -11,8 +11,7 @@ cluster_label = "Banks Investigation"
 keywords = "Purpose Charter Academy Detroit, PCA 3 percent math proficiency, Purpose Charter Academy Brian Banks, Purpose Group LLC 72 percent extraction, Judge Cylenthia Miller PCA board, Dawn Ison PCA board, Purpose Charter Academy DPSCD authorization, Purpose Charter Academy CMU authorizer, Purpose Charter Academy Title I funding, 362 students 99 percent Black, purpose charter academy audit"
 
 [taxonomies]
-counties = ["Wayne"]
-+++
+counties = ["Wayne"]+++
 
 ## Three Percent
 

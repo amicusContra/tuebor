@@ -11,8 +11,7 @@ cluster_label = "Political Network"
 keywords = "Joseph Holland Jr Brian Banks, Holland Purpose Foundation governance, Holland Serenity Guardianship Services, Holland Sun Community Development Corp, Holland WhitlowBanks LLC asset concealment, Holland Banks Living Trust successor trustee, Holland Right Turn Project, Severn Street address Banks Holland, Holland PACs governance, Holland Banks knotted inseparable, holland convergence point banks"
 
 [taxonomies]
-counties = ["Wayne"]
-+++
+counties = ["Wayne"]+++
 
 ## Stepping to the Side
 

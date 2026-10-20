@@ -1,7 +1,7 @@
 +++
 title = "The Dykema Chronology — 1988 to Present"
 description = "A complete timeline tracing Dykema Gossett's role from authoring Michigan's charter school law in 1993 through every actor, entity, and dark money vehicle to the present investigation. Every entry sourced to public records."
-weight = 82
+weight = 81
 date = 2026-10-09
 
 [extra]
@@ -10,8 +10,7 @@ keywords = "Dykema Gossett timeline, Michigan charter school law history, Richar
 [taxonomies]
 actors = ["Richard McLellan", "Leonard Wolfe", "W. Alan Wilk", "Renae Moore", "Kenneth Daniels", "Keenann Knox", "Brian Banks", "Cylenthia Miller", "Latisha Johnson", "Carol Banks", "Steve Elrick", "Mike Duggan", "John Engler", "Rick Snyder", "Nicole Wells Stallworth", "Devin Hutchings"]
 entities = ["Dykema Gossett", "Save Detroit Jobs", "Detroit Leaders", "Impact Detroit", "Detroit Jobs First", "Our Neighborhoods First", "Put Progress First", "NERD Fund", "Mackinac Center", "Purpose Charter Academy", "MacDowell Preparatory Academy", "The Purpose Group LLC"]
-connections = ["charter school law", "dark money", "entity formation", "campaign finance", "governance board", "journalist suppression"]
-+++
+connections = ["charter school law", "dark money", "entity formation", "campaign finance", "governance board", "journalist suppression"]+++
 
 ## How to Read This
 

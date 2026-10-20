@@ -2,7 +2,7 @@
 title = "Dear Agencies — Your Colleagues Already Know"
 description = "FBI Detroit, IRS CI, DOJ Public Integrity, MDE, OIG, AG — you're all looking at the same enterprise from different silos. Your colleagues in the next office already have a piece of this. The siloed investigations are WHY the enterprise survives. This article is the desilo bounce."
 date = 2026-10-18
-weight = 46
+weight = 47
 
 [taxonomies]
 tags = ["membrane", "negentropy", "self", "invitation", "accountability"]
@@ -15,8 +15,7 @@ keywords = "FBI Detroit Operation Northern Hook, IRS CI charter school fraud, DO
 og_title = "Dear Agencies — Your Colleagues Already Know"
 og_description = "FBI, IRS, DOJ, MDE, OIG, AG — you're all looking at the same enterprise. Your colleagues already have a piece. The silos ARE the shield."
 og_type = "article"
-twitter_card = "summary_large_image"
-+++
+twitter_card = "summary_large_image"+++
 
 # Dear Agencies — Your Colleagues Already Know
 

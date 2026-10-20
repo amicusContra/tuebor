@@ -5,8 +5,7 @@ weight = 14
 date = 2026-10-05
 
 [extra]
-keywords = "Detroit charter school RICO pattern, 18 USC 1961 Brian Banks, racketeering enterprise Detroit charter school, predicate acts charter school fraud, Bowles v Sabree class action, Bryant v Miller, Wayne County judicial disqualification, enterprise structure analysis Detroit"
-+++
+keywords = "Detroit charter school RICO pattern, 18 USC 1961 Brian Banks, racketeering enterprise Detroit charter school, predicate acts charter school fraud, Bowles v Sabree class action, Bryant v Miller, Wayne County judicial disqualification, enterprise structure analysis Detroit"+++
 
 ## Enterprise Structure
 

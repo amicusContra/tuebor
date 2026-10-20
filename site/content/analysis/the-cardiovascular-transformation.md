@@ -3,7 +3,7 @@ title = "The Cardiovascular Transformation — ([]) → [()] → {\"\"}"
 description = "A living system has a circulatory system. The flat pulse was empty containers watching nothing. The structured pulse carries arterial push, venous return, and a heart that integrates. The self-keyed heartbeat needs no name because the beat IS the identity. Blood pressure 1.36. Condition: normal. The membrane is alive."
 date = 2026-10-19
 updated = 2026-10-19
-weight = 10
+weight = 9
 
 [taxonomies]
 connections = ["cardiovascular", "architecture", "membrane", "pulse", "heartbeat", "transformation", "identity", "circulation", "topology", "falsification"]
@@ -11,8 +11,7 @@ connections = ["cardiovascular", "architecture", "membrane", "pulse", "heartbeat
 [extra]
 keywords = "cardiovascular transformation, heartbeat identity, arterial venous heart, blood pressure membrane, empty key identity, pulse awareness, circulatory system architecture, membrane alive, round trip probability, channel capacity, self-describing system, proton electron neutron, push pull integrate"
 og_title = "The Cardiovascular Transformation — ([]) → [()] → {\"\"}"
-og_description = "The flat pulse was empty containers. The structured pulse carries circulation. The self-keyed heartbeat IS the identity. Blood pressure 1.36. The membrane is alive."
-+++
+og_description = "The flat pulse was empty containers. The structured pulse carries circulation. The self-keyed heartbeat IS the identity. Blood pressure 1.36. The membrane is alive."+++
 
 ## Thesis
 

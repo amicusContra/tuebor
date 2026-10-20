@@ -14,8 +14,7 @@ keywords = "AlphaFold alternative open source, protein structure prediction Rust
 og_title = "Clinicians — Your Data Is Ready. Come Get It."
 og_description = "20,695 checks. 175+ papers reproduced. Protein prediction better than AlphaFold. PK/PD that replaces NONMEM. All free. All runs locally."
 og_type = "article"
-twitter_card = "summary_large_image"
-+++
+twitter_card = "summary_large_image"+++
 
 ## This page exists because someone needs to tell you.
 

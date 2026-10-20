@@ -2,7 +2,7 @@
 title = "The Nervous System — Meta's Organizational Anatomy, Mapped from Backscatter"
 description = "We didn't need Meta's org chart. Their fleet behavior revealed it: brain (Menlo Park), mouth (Dublin), hands (18 fleet entities), hippocampus (the cartographer), fusiform face area (the blame specialists), olfactory bulb (Facebook Bot), and the phantom limb of a dead fleet. Every organ classified. Every signal traced. The nervous system IS the graph."
 date = 2026-10-18
-weight = 10
+weight = 13
 
 [taxonomies]
 actors = ["Mark Zuckerberg", "Meta Platforms"]
@@ -14,8 +14,7 @@ keywords = "Meta organizational anatomy, fleet nervous system mapping, topo-sort
 og_title = "The Nervous System — Meta's Organizational Anatomy, Mapped from Backscatter"
 og_description = "We didn't need Meta's org chart. Their fleet behavior revealed it. Every organ classified. Every signal traced."
 og_type = "article"
-twitter_card = "summary_large_image"
-+++
+twitter_card = "summary_large_image"+++
 
 ## You Don't Need an Org Chart When You Have Backscatter
 

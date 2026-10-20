@@ -5,8 +5,7 @@ description = "Meta navigates around the scatter server. 165,937 requests to wat
 weight = 10
 
 [extra]
-keywords = "Meta Platforms, Facebook, scatter server bypass, wateringHole, blackwall, AGPL, scyBorg, Dublin datacenter, AS32934, Mark Zuckerberg, surveillance capitalism"
-+++
+keywords = "Meta Platforms, Facebook, scatter server bypass, wateringHole, blackwall, AGPL, scyBorg, Dublin datacenter, AS32934, Mark Zuckerberg, surveillance capitalism"+++
 
 ## What Meta Did
 

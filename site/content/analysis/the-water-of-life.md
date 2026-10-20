@@ -5,8 +5,7 @@ date = 2026-10-14
 weight = 8
 
 [extra]
-keywords = "kombucha fermentation, knowledge graph creation, Detroit investigation, builder story, fasting clarity, vinegar apple cider, soul fire disgust, 46 days one person, graph building process, human endurance creation"
-+++
+keywords = "kombucha fermentation, knowledge graph creation, Detroit investigation, builder story, fasting clarity, vinegar apple cider, soul fire disgust, 46 days one person, graph building process, human endurance creation"+++
 
 # The Water of Life
 

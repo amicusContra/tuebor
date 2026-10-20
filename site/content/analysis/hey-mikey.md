@@ -3,7 +3,7 @@ title = "Hey Mikey, He Likes It! — The Senate Candidate Who Ate Everything The
 description = "Mike Rogers authored America's most aggressive surveillance bill (killed twice), left Congress and was hired by the company whose competitor he investigated, bought a $1.6M house in Florida while running for Michigan's Senate seat, and accepted $88.8 million in outside support from Texas oil, Blackstone, Citadel, Koch, McConnell, and Musk. FEC filings, published fact-checks, and the record he built. Nov 3, 2026."
 date = 2026-10-09
 updated = 2026-10-09
-weight = 23
+weight = 22
 
 [extra]
 cluster = "dark_money"
@@ -12,8 +12,7 @@ keywords = "Mike Rogers Michigan Senate 2026, Mike Rogers CISPA surveillance bil
 claim_review = '{"@context":"https://schema.org","@type":"ClaimReview","claimReviewed":"Mike Rogers is a Michigan candidate who represents Michigan interests in the U.S. Senate race","reviewRating":{"@type":"Rating","ratingValue":2,"bestRating":5,"worstRating":1,"alternateName":"Misleading"},"itemReviewed":{"@type":"Claim","author":{"@type":"Person","name":"Mike Rogers","jobTitle":"U.S. Senate candidate, Michigan 2026"},"datePublished":"2026-04-14","appearance":{"@type":"OpinionNewsArticle","url":"https://www.bridgemi.com/michigan-government/mike-rogers-takes-second-shot-michigan-us-senate-seat"}},"author":{"@type":"Organization","name":"Tuebor — Michigan Public Record","url":"https://barry.primals.eco"},"url":"https://barry.primals.eco/analysis/hey-mikey/","datePublished":"2026-10-09","reviewBody":"Rogers declared his Florida home as permanent residence in 2023, was still registered to vote in Florida in April 2024, authored CISPA (killed twice by the Senate he now wants to join), was hired by AT&T after chairing the committee that investigated AT&T competitor Huawei, and has accepted $88.8M in outside support largely from out-of-state billionaires. FEC filings, Bridge Michigan, PolitiFact, Metro Times, and ACLU documentation."}'
 
 [taxonomies]
-counties = ["Ingham", "Wayne"]
-+++
+counties = ["Ingham", "Wayne"]+++
 
 ## Hey Mikey
 

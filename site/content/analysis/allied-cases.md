@@ -1,7 +1,7 @@
 +++
 title = "Allied Cases — Independent Corroboration"
 description = "Allied cases: Bryant v. Miller (2:26-cv-10917) — independent litigant corroborates Judge Cylenthia Miller misconduct pattern. Triangulation evidence."
-weight = 15
+weight = 14
 date = 2026-09-20
 updated = 2026-09-25
 
@@ -12,8 +12,7 @@ keywords = "Bryant v Miller, Bryant v Miller Wayne County, Cylenthia Miller laws
 actors = ["Judge Cylenthia Miller", "Brian Banks", "Todd Perkins", "Judge Tenisha Yancey", "Judge Adam Sabree", "Judge Sean Perkins"]
 entities = ["Anchor Rock Foundation", "Purpose Charter Academy"]
 courts = ["Eastern District of Michigan", "36th District Court", "Wayne County 3rd Circuit Court"]
-connections = ["board membership", "legal representation", "employment", "RICO predicate"]
-+++
+connections = ["board membership", "legal representation", "employment", "RICO predicate"]+++
 
 Independent litigants are identifying the same judicial misconduct patterns documented in the Banks enterprise investigation. Allied cases create **triangulation** — no single complaint can be dismissed as one "disgruntled litigant."
 

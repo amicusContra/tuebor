@@ -13,8 +13,7 @@ keywords = "epitope resort, mutualism, commensalism, parasitism, symbiosis, memb
 og_title = "The epiTope reSort"
 og_description = "Resort, not request. The membrane is a place you come to see what you cannot see alone. Mutualism, not charity."
 og_type = "article"
-twitter_card = "summary_large_image"
-+++
+twitter_card = "summary_large_image"+++
 
 # The epiTope reSort
 

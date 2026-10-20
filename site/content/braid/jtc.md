@@ -5,8 +5,7 @@ description = "Shannon entropy H=1.50, degree 4, immune pressure 75%. Every conn
 weight = 7
 
 [extra]
-keywords = "Judicial Tenure Commission data braid, Judicial Tenure Commission Shannon entropy, Judicial Tenure Commission immune pressure, tuebor evidence braid"
-+++
+keywords = "Judicial Tenure Commission data braid, Judicial Tenure Commission Shannon entropy, Judicial Tenure Commission immune pressure, tuebor evidence braid"+++
 
 ## Braid Metrics
 

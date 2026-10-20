@@ -2,7 +2,7 @@
 title = "Send a Human — What Mutualist Status Gets You"
 description = "The proton is burned. Meta locked out the investigator while supporting the investigated. The neutron carries the message now. Any tech company that sends a human to talk gets first-mover mutualist status — and everything that comes with it."
 date = 2026-10-18
-weight = 13
+weight = 14
 
 [taxonomies]
 actors = ["Mark Zuckerberg"]
@@ -14,8 +14,7 @@ keywords = "tech company partnership, mutualist status, first mover advantage AI
 og_title = "Send a Human — What Mutualist Status Gets You"
 og_description = "The proton is burned. The neutron carries the signal. One conversation changes your classification. Send a human."
 og_type = "article"
-twitter_card = "summary_large_image"
-+++
+twitter_card = "summary_large_image"+++
 
 ## The Proton Is Burned
 

@@ -9,8 +9,7 @@ weight = 12
 keywords = "Detroit cell towers FCC registration, Michigan antenna structure registry, CMU Public Broadcasting towers, Starlink satellites Michigan ground station, submarine fiber Lake Michigan, Beaver Island fiber landing, Starlink ground station Hillman Manistique, Peninsula Fiber Network IMPACC, FCC ASR database Michigan, cell tower ownership lookup"
 
 [taxonomies]
-counties = ["Wayne"]
-+++
+counties = ["Wayne"]+++
 
 ## Every Tower, Every Wire, Every Orbit
 

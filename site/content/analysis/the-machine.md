@@ -12,8 +12,7 @@ keywords = "Detroit institutional corruption analysis, plea bargain two-tier jus
 [taxonomies]
 actors = ["Brian Banks"]
 entities = ["Purpose Charter Academy", "MacDowell Preparatory Academy"]
-connections = ["systemic analysis", "institutional capture", "philosophy"]
-+++
+connections = ["systemic analysis", "institutional capture", "philosophy"]+++
 
 <!-- CONCEPT DOC — DRAFT for expansion -->
 <!-- Sources: ecoPrimals ethics (whitePaper/ethics/), atlasHugged (gen3), guerillaGorilla, sporePrint -->

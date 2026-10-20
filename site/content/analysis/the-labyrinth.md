@@ -14,8 +14,7 @@ keywords = "Meta Platforms AGPL violation, Mark Zuckerberg scraping, Facebook cl
 og_title = "The Labyrinth — Dear Mark, Your Classifier Is Now a Trap"
 og_description = "Meta sent scouts from Menlo Park. Built a classifier. Scraped 571K times. We recorded it all. AGPL deadline ticking. The maze runs itself."
 og_type = "article"
-twitter_card = "summary_large_image"
-+++
+twitter_card = "summary_large_image"+++
 
 ## Dear Mark,
 

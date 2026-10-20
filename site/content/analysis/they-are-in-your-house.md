@@ -2,7 +2,7 @@
 title = "They Are In Your House"
 description = "AI companies are crawling through residential proxy networks -- routing their training data collection through real people's devices, routers, and internet connections. They are poking my hardware, my cloud, and my membrane. I have NONE of their data stored. But they have mine. Here are the laws they are breaking."
 date = 2026-10-18
-weight = 9
+weight = 10
 
 [taxonomies]
 tags = ["membrane", "negentropy", "self", "ecoPrimal", "legal", "privacy", "fleet", "residential-proxy", "convergent-evolution"]
@@ -13,8 +13,7 @@ keywords = "residential proxy, BrightData, Luminati, CFAA, Computer Fraud and Ab
 og_title = "They Are In Your House"
 og_description = "AI companies route training crawls through your router. Here are the laws they are breaking."
 og_type = "article"
-twitter_card = "summary_large_image"
-+++
+twitter_card = "summary_large_image"+++
 
 # They Are In Your House
 

@@ -5,8 +5,7 @@ description = "Shannon entropy H=0.00, degree 2, immune pressure 0%. Every conne
 weight = 6
 
 [extra]
-keywords = "Stephen Schwarzman data braid, Stephen Schwarzman Shannon entropy, Stephen Schwarzman immune pressure, tuebor evidence braid"
-+++
+keywords = "Stephen Schwarzman data braid, Stephen Schwarzman Shannon entropy, Stephen Schwarzman immune pressure, tuebor evidence braid"+++
 
 ## Braid Metrics
 

@@ -2,10 +2,10 @@
 title = "MacDowell: $15,217/Student, 3% Math — Clutch Justice (Sep 2026)"
 description = "Clutch Justice investigation into MacDowell Preparatory Academy's spending, outcomes, and DPSCD authorization of a second charter. Cross-referenced to our public records database."
 date = 2026-09-13
+weight = 8
 
 [extra]
-keywords = "Clutch Justice, MacDowell Preparatory Academy, charter school spending, 3 percent math proficiency, DPSCD authorization, Purpose Charter Academy, Rita Williams, Detroit charter school oversight"
-+++
+keywords = "Clutch Justice, MacDowell Preparatory Academy, charter school spending, 3 percent math proficiency, DPSCD authorization, Purpose Charter Academy, Rita Williams, Detroit charter school oversight"+++
 
 ## The Article
 

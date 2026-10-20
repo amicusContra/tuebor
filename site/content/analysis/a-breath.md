@@ -5,8 +5,7 @@ author: ecoPrimal
 series: publicRecord
 tags: [pause, family, safe, breath]
 weight: 4
-polar_class: self
----
+polar_class: self---
 
 ## A Breath
 

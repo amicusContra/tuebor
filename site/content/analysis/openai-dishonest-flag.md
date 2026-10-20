@@ -5,8 +5,7 @@ description = "2.36 million requests from Microsoft Azure. The behavioral classi
 weight = 8
 
 [extra]
-keywords = "OpenAI, GPTBot, Microsoft Azure, AS8075, Atlanta Georgia, behavioral fingerprinting, dishonest, Anthropic, ClaudeBot, AGPL"
-+++
+keywords = "OpenAI, GPTBot, Microsoft Azure, AS8075, Atlanta Georgia, behavioral fingerprinting, dishonest, Anthropic, ClaudeBot, AGPL"+++
 
 ## The Discovery
 

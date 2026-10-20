@@ -9,8 +9,7 @@ weight = 12
 keywords = "Purpose Group LLC revenue extraction, 72.67 percent management fee, Purpose Group single member LLC Brian Banks, PCA revenue to Purpose Group, charter school management fee Michigan, Purpose Group LARA filing, Title I funds Purpose Group, per pupil funding extraction"
 
 [taxonomies]
-counties = ["Wayne"]
-+++
+counties = ["Wayne"]+++
 
 ## The Extraction
 

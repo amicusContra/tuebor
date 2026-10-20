@@ -2,11 +2,10 @@
 title = "FOIAworks as an Early Warning System — The Attorney Who Sees Every Investigation Before It Starts"
 date = 2026-10-07
 description = "Philip Ellison has sued FOIA coordinators across Michigan for over a decade. He knows their staff, their systems, their weaknesses. Now he operates a platform that shows him who is filing FOIA requests, what records they want, and which agencies they're targeting — before the agencies even process the request."
-weight = 153
+weight = 158
 
 [extra]
-keywords = "FOIAworks early warning system, FOIAworks surveillance, Philip Ellison FOIA platform, Quagmire Solutions FOIA intelligence, FOIAworks Roscommon Michigan, FOIAworks Higgins Lake, FOIAworks Saginaw County, Philip Ellison FOIA attorney, FOIAworks investigation tracking, FOIA platform no privacy policy, FOIAworks Michigan counties, Clutch Justice FOIAworks, FOIAworks guided drafting intelligence, FOIAworks Statewide plan 83 counties, Michigan FOIA surveillance, attorney FOIA platform conflict, Ellison FOIA network, FOIAworks early warning, FOIAworks spying"
-+++
+keywords = "FOIAworks early warning system, FOIAworks surveillance, Philip Ellison FOIA platform, Quagmire Solutions FOIA intelligence, FOIAworks Roscommon Michigan, FOIAworks Higgins Lake, FOIAworks Saginaw County, Philip Ellison FOIA attorney, FOIAworks investigation tracking, FOIA platform no privacy policy, FOIAworks Michigan counties, Clutch Justice FOIAworks, FOIAworks guided drafting intelligence, FOIAworks Statewide plan 83 counties, Michigan FOIA surveillance, attorney FOIA platform conflict, Ellison FOIA network, FOIAworks early warning, FOIAworks spying"+++
 
 ## The Two-Sided Position
 

@@ -1,7 +1,7 @@
 +++
 title = "The Banks-Holland Partnership — Romantic Partners, Criminal Enterprise, Institutional Control"
 description = "Brian Banks and Joseph Holland Jr. are romantic partners who have operated as a domestic and economic unit since at least 2005. Banks uses Holland — every financial gatekeeping role filled by his convicted drug offender partner. Joint property, shared address, foundation co-officers, trust succession, concealed assets, and a definitively violated Management Agreement."
-weight = 14
+weight = 15
 date = 2026-09-30
 
 [extra]
@@ -11,8 +11,7 @@ keywords = "Brian Banks Joseph Holland romantic partners, Banks Holland partners
 actors = ["Brian Banks", "Joseph Holland"]
 entities = ["Purpose Foundation", "The Purpose Group LLC", "Banks Strategy LLC", "Brian Banks Living Trust"]
 courts = ["Eastern District of Michigan", "Wayne County 3rd Circuit Court"]
-connections = ["business entity", "criminal record", "campaign finance", "RICO predicate"]
-+++
+connections = ["business entity", "criminal record", "campaign finance", "RICO predicate"]+++
 
 ## Summary
 

@@ -3,7 +3,7 @@ title = "The Superintendent Who Authorized — Nikolai Vitti, Broad Fellowship, 
 description = "Dr. Nikolai Vitti is the DPSCD superintendent. He authorized Purpose Charter Academy. He has a professional connection to Banks and to Beasley. He's a Broad Foundation fellow — part of a national pipeline that places education executives in urban districts. He reports to the State Board of Education, which has 2 edges in the investigation graph. The person who authorized PCA was placed by a national fellowship and reports to a board that barely exists in the data."
 date = 2026-10-14
 updated = 2026-10-14
-weight = 6
+weight = 7
 
 [extra]
 cluster = "political"
@@ -11,8 +11,7 @@ cluster_label = "Political Network"
 keywords = "Nikolai Vitti DPSCD superintendent PCA authorization, Vitti Broad Foundation fellowship, Vitti Banks professional connection, DPSCD PCA authorization, Vitti Beasley professional connection, Broad Foundation urban superintendent pipeline, Vitti SBE reports to, DPSCD charter school authorization Detroit"
 
 [taxonomies]
-counties = ["Wayne"]
-+++
+counties = ["Wayne"]+++
 
 ## The Superintendent Who Authorized
 

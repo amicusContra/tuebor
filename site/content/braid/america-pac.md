@@ -5,8 +5,7 @@ description = "Shannon entropy H=0.00, degree 1, immune pressure 0%. Every conne
 weight = 6
 
 [extra]
-keywords = "America PAC data braid, America PAC Shannon entropy, America PAC immune pressure, tuebor evidence braid"
-+++
+keywords = "America PAC data braid, America PAC Shannon entropy, America PAC immune pressure, tuebor evidence braid"+++
 
 ## Braid Metrics
 

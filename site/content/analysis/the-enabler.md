@@ -11,8 +11,7 @@ cluster_label = "Political Network"
 keywords = "Sherry Gay-Dagnogo Brian Banks, Gay-Dagnogo Detroit charter schools, Gay-Dagnogo Michigan legislature, political enabler charter school network Detroit, Gay-Dagnogo DPSCD, Gay-Dagnogo Banks connection, Gay-Dagnogo Purpose Charter Academy, Michigan legislature charter school oversight"
 
 [taxonomies]
-counties = ["Wayne"]
-+++
+counties = ["Wayne"]+++
 
 ## The Enabler
 

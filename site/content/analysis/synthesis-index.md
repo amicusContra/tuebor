@@ -2,12 +2,11 @@
 title = "Synthesis"
 date = 2026-10-14
 description = "The dialectic engine. Thesis says the evidence is real. Antithesis asks what if we're wrong. Synthesis measures what we actually know. Corollary follows the logic wherever it goes. The investigation's epistemology — the sharpest tools pointed inward."
-weight = 4
+weight = 5
 sort_by = "weight"
 
 [extra]
-keywords = "investigation synthesis antithesis corollary, dialectic investigation methodology, epistemology of investigation, entity classification methodology, confidence distribution, hard evidence soft evidence, null entity analysis, investigation self-critique, what if we are wrong, investigation bias pareidolia, thesis antithesis synthesis cycle, Michigan investigation dialectic, investigation methodology review, counterargument strongest version"
-+++
+keywords = "investigation synthesis antithesis corollary, dialectic investigation methodology, epistemology of investigation, entity classification methodology, confidence distribution, hard evidence soft evidence, null entity analysis, investigation self-critique, what if we are wrong, investigation bias pareidolia, thesis antithesis synthesis cycle, Michigan investigation dialectic, investigation methodology review, counterargument strongest version"+++
 
 ## The Dialectic — Thesis, Antithesis, Synthesis
 

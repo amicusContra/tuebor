@@ -1,12 +1,11 @@
 +++
 title = "Synthesis — The Soft, the Hard, and the Still"
 description = "Reflecting on the investigation's own structure. 341 entities classified across 5 passes and 37 methods. What hardened, what softened, what never moved. The epistemology of following public records until they stop lying."
-weight = 18
+weight = 17
 date = 2026-10-14
 
 [extra]
-keywords = "investigation synthesis epistemology, entity classification methodology, confidence distribution investigation, hard evidence soft evidence, null entity classification, investigation methodology public records, Michigan charter school investigation structure, data synthesis classification system, partial entity boundary analysis, cascade classification evidence"
-+++
+keywords = "investigation synthesis epistemology, entity classification methodology, confidence distribution investigation, hard evidence soft evidence, null entity classification, investigation methodology public records, Michigan charter school investigation structure, data synthesis classification system, partial entity boundary analysis, cascade classification evidence"+++
 
 ## This Is Not Hypothesis. This Is Synthesis.
 

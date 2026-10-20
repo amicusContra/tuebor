@@ -14,8 +14,7 @@ keywords = "Meta Platforms AGPL violation, gravitational maze defense, random wa
 og_title = "The Minotaur — Mark, Here's What I'm Building While You Violate Laws"
 og_description = "Meta sent scouts. Built a classifier. Scraped 571K times. Now the classifier is a trap. Here's the full engineering breakdown."
 og_type = "article"
-twitter_card = "summary_large_image"
-+++
+twitter_card = "summary_large_image"+++
 
 ## Mark,
 

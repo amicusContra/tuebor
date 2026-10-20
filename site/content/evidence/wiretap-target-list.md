@@ -5,8 +5,7 @@ date = 2026-10-06
 weight = 22
 
 [extra]
-keywords = "FBI wiretap Detroit corruption, Beeckman affidavit target subjects, Gasper Fiore wiretap, Brian Banks wiretap target, Area Towing FBI investigation, Detroit towing corruption wiretap, Operation Northern Hook wiretap, Wayne County corruption federal investigation"
-+++
+keywords = "FBI wiretap Detroit corruption, Beeckman affidavit target subjects, Gasper Fiore wiretap, Brian Banks wiretap target, Area Towing FBI investigation, Detroit towing corruption wiretap, Operation Northern Hook wiretap, Wayne County corruption federal investigation"+++
 
 ## Source
 

@@ -11,8 +11,7 @@ cluster_label = "Dark Money Pipeline"
 keywords = "W Alan Wilk Dykema Gossett, Wilk drafted charter school law PA 362, Renae Moore PAC formation, Dykema Gossett Federal PAC, Detroit Jobs First Save Detroit Jobs, Peninsula Fund Lee Chatfield, dark money charter school law protection, PAC formation network Michigan, Wilk Moore Banks connection, charter law architect PAC network"
 
 [taxonomies]
-counties = ["Wayne"]
-+++
+counties = ["Wayne"]+++
 
 ## The Architect and the Clerk
 

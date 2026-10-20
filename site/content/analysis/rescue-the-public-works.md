@@ -6,8 +6,7 @@ description = "Billions in taxpayer-funded educational content dying on forgotte
 [taxonomies]
 tags = ["public-domain", "education", "rescue", "archive", "gAIa", "membrane", "OER"]
 [extra]
-polar_class = "GOOD"
-+++
+polar_class = "GOOD"+++
 
 ## The Graveyard of Public Works
 

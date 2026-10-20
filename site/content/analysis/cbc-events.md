@@ -1,7 +1,7 @@
 +++
 title = "CBC Week Events — Political Networking"
 description = "CBC Week events: Brian Banks hosted 4 years of Congressional Black Caucus parties in Washington DC. 2025 honoree: Sherry Gay-Dagnogo (DPSCD Board)."
-weight = 7
+weight = 8
 date = 2026-09-20
 updated = 2026-09-25
 
@@ -12,8 +12,7 @@ keywords = "Brian Banks CBC, Brian Banks Congressional Black Caucus, CBC Week De
 actors = ["Brian Banks", "Sherry Gay-Dagnogo", "Judge Cylenthia Miller", "Joseph Holland"]
 entities = ["Purpose Charter Academy", "Purpose Foundation", "City Hill Church"]
 courts = ["Wayne County 3rd Circuit Court"]
-connections = ["charter authorization", "campaign finance", "business entity"]
-+++
+connections = ["charter authorization", "campaign finance", "business entity"]+++
 
 {{ actor(key="banks") }} has hosted annual parties during Congressional Black Caucus (CBC) Week in Washington, D.C. for at least **4 consecutive years** (2023–2026). A 9-time convicted felon with a fake J.D. networks with federal legislators while running schools funded by federal Title I money.
 

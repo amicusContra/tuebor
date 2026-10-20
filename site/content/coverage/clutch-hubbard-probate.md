@@ -2,10 +2,10 @@
 title = "Wayne County Probate: Susan Hubbard Petition Fight — Clutch Justice (Sep 2026)"
 description = "Clutch Justice coverage of the Wayne County Probate Court election process. Context for the judicial connections documented in this evidence library."
 date = 2026-09-30
+weight = 4
 
 [extra]
-keywords = "Wayne County Probate Court, Susan Hubbard, judicial election Michigan, Clutch Justice, probate court accountability"
-+++
+keywords = "Wayne County Probate Court, Susan Hubbard, judicial election Michigan, Clutch Justice, probate court accountability"+++
 
 ## The Article
 

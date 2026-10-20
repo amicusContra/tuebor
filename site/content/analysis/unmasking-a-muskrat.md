@@ -1,10 +1,9 @@
 +++
 title = "Unmasking a MuskRAT"
 date = 2026-10-15
-weight = 10
+weight = 12
 [taxonomies]
-tags = ["false-face", "extraction", "musk", "credit-theft", "structural-analysis"]
-+++
+tags = ["false-face", "extraction", "musk", "credit-theft", "structural-analysis"]+++
 
 # Unmasking a MuskRAT
 

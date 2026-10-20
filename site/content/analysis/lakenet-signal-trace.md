@@ -2,7 +2,7 @@
 title = "LakeNet Signal Trace — One ISP, One Town, Every Thread"
 date = 2026-10-09
 description = "IP address 162.247.150.54 was captured surveilling a journalist, in a federal court filing, and in a domain registration chain. All three lead to LakeNet LLC (AS11910), the only ISP in Hemlock, Michigan — population 1,500. Multi-capture means the signal traces everyone who shared the infrastructure."
-weight = 68
+weight = 65
 
 [extra]
 cluster = "infrastructure"
@@ -10,8 +10,7 @@ cluster_label = "Infrastructure"
 keywords = "LakeNet LLC Hemlock Michigan, AS11910 IP trace, 162.247.150.54 LakeNet, Philip Ellison ISP, Quagmire Solutions ISP clients, LakeNet Hemlock fiber, Ellison LakeNet surveillance, Outside Legal Counsel IP address, Hemlock Michigan ISP trace, LakeNet AS11910 ARIN, domain registration IP trace, Rita Williams surveillance IP, Clutch Justice IP forensics, LakeNet 123NET peering, LakeNet Daystarr upstream, LakeNet Peninsula Fiber Network, Hemlock network forensics"
 
 [taxonomies]
-counties = ["Saginaw"]
-+++
+counties = ["Saginaw"]+++
 
 ## The Signal
 

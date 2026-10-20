@@ -11,8 +11,7 @@ cluster_label = "Governance Web"
 keywords = "Chalena Beasley Purpose Charter Academy, Beasley DPSCD Plante Moran Wayne RESA, Beasley Banks circuit board resume, dual employment charter school oversight Michigan, Beasley Barton Malow, conflict of interest charter school principal, PCA principal works for auditor, DPSCD authorization conflict of interest"
 
 [taxonomies]
-counties = ["Wayne"]
-+++
+counties = ["Wayne"]+++
 
 ## The Circuit Board Résumé
 

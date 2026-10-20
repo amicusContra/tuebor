@@ -2,7 +2,7 @@
 title = "Who Signed, Who Served, Who Benefits — The PPO's Journey from Wayne County to Lansing"
 description = "Judge Yvonna C. Abraham signed Brian Banks' ex parte PPO on October 13, 2026 — the same day the SBE met. Then Banks arranged for an officer to drive 80 miles to serve it on a Friday evening. The PPO was filed in the one court system where Banks has 7 judges. But the real questions are: What did Banks tell you, Judge Abraham? Did you verify any of it? And why is a man who denied a parent access to their child now using the court to deny that parent access to everything?"
 date = 2026-10-17
-weight = 28
+weight = 34
 
 [taxonomies]
 actors = ["Brian Banks", "Judge Yvonna Abraham"]
@@ -14,8 +14,7 @@ keywords = "Judge Yvonna Abraham PPO, Wayne County Third Circuit PPO docket, Bri
 og_title = "Who Signed, Who Served, Who Benefits"
 og_description = "The PPO was filed in the one court system where Banks has 7 judges. The judge signed it without a hearing. Now the investigator is in LEIN. These are the questions that need answers."
 og_type = "article"
-twitter_card = "summary_large_image"
-+++
+twitter_card = "summary_large_image"+++
 
 ## Questions for Judge Abraham
 

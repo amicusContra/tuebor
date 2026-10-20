@@ -5,8 +5,7 @@ author: ecoPrimal
 series: publicRecord
 tags: [proton, privacy, censorship, whistleblower, pattern]
 polar_class: bad
-weight: 13
----
+weight: 13---
 
 ## The Proton, Violated
 

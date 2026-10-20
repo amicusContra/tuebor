@@ -3,14 +3,13 @@ title = "Brian Roderick Banks — The 9 Criminal Convictions"
 description = "A complete record of Brian Roderick Banks's 9 criminal convictions as identified in Michigan court records. Each conviction is listed with case number, charge, disposition, and relevance to his current operation of Purpose Charter Academy and MacDowell Preparatory Academy."
 date = 2026-10-14
 updated = 2026-10-14
-weight = 9
+weight = 10
 
 [extra]
 keywords = "Brian Banks 9 criminal convictions, Brian Roderick Banks criminal record, Banks convictions Michigan court records, Brian Banks felony misdemeanor, Purpose Charter Academy founder criminal record, charter school founder convictions, Brian Banks criminal history Detroit"
 
 [taxonomies]
-counties = ["Wayne"]
-+++
+counties = ["Wayne"]+++
 
 ## The 9 Convictions
 

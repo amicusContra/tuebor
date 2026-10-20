@@ -2,11 +2,10 @@
 title = "Clutch Justice — Rita Williams"
 description = "Clutch Justice is an independent investigative project covering Michigan courts, crime, and judicial accountability. Their reporting overlaps with and strengthens this evidence library."
 date = 2026-10-03
-weight = 1
+weight = 14
 
 [extra]
-keywords = "Clutch Justice, Rita Williams, Michigan judicial accountability, independent investigative journalism, courts crime crochet, charter school investigation Detroit, judicial oversight Michigan"
-+++
+keywords = "Clutch Justice, Rita Williams, Michigan judicial accountability, independent investigative journalism, courts crime crochet, charter school investigation Detroit, judicial oversight Michigan"+++
 
 ## The Project
 

@@ -2,10 +2,10 @@
 title = "Trial by Mechanism — Clutch Justice (Sep–Oct 2026)"
 description = "Rita Williams' multi-part investigation into Michigan's prosecutorial mechanisms and the one-person grand jury collapse. Context for why accountability gaps exist."
 date = 2026-09-04
+weight = 6
 
 [extra]
-keywords = "Trial by Mechanism, one-person grand jury Michigan, People v Peeler, Flint water prosecution, Michigan judicial process, Clutch Justice"
-+++
+keywords = "Trial by Mechanism, one-person grand jury Michigan, People v Peeler, Flint water prosecution, Michigan judicial process, Clutch Justice"+++
 
 ## The Series
 

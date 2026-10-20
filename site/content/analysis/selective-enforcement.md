@@ -11,8 +11,7 @@ cluster_label = "Oversight Failures"
 keywords = "Dana Nessel Brian Banks investigation, Dawn Ison Purpose Charter Academy board, Michigan Attorney General charter school enforcement, AG charitable trust Michigan, Nessel selective enforcement charter schools, enforcement ecosystem Michigan, Dawn Ison assistant attorney general Banks, AG office PCA investigation, Michigan charter school oversight failure"
 
 [taxonomies]
-counties = ["Wayne"]
-+++
+counties = ["Wayne"]+++
 
 ## Selective Enforcement
 

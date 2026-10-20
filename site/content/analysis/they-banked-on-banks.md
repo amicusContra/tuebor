@@ -18,8 +18,7 @@ person_url = "https://detroit.primals.eco/network/actors/brian-banks/"
 person_same_as = ["https://detroit.primals.eco/network/actors/brian-banks/", "https://tuebor.primals.eco/analysis/they-banked-on-banks/"]
 
 [taxonomies]
-counties = ["Wayne"]
-+++
+counties = ["Wayne"]+++
 
 ## They Banked on Banks
 

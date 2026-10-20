@@ -5,8 +5,7 @@ description = "Shannon entropy H=1.66, degree 7, immune pressure 0%. Every conne
 weight = 7
 
 [extra]
-keywords = "Mike Rogers data braid, Mike Rogers Shannon entropy, Mike Rogers immune pressure, tuebor evidence braid"
-+++
+keywords = "Mike Rogers data braid, Mike Rogers Shannon entropy, Mike Rogers immune pressure, tuebor evidence braid"+++
 
 ## Braid Metrics
 

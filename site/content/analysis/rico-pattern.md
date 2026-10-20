@@ -1,7 +1,7 @@
 +++
 title = "RICO Pattern — The Banks Enterprise"
 description = "RICO pattern analysis: 6 predicate acts, 14+ years of continuity, $4.9M annual extraction through shell entities. The Banks enterprise mapped."
-weight = 17
+weight = 18
 date = 2026-09-20
 updated = 2026-09-25
 
@@ -12,8 +12,7 @@ keywords = "Detroit RICO pattern, Brian Banks RICO, charter school racketeering,
 actors = ["Brian Banks", "Joseph Holland", "OD Banks", "Judge Cylenthia Miller", "Judge Aliyah Sabree", "Judge Tenisha Yancey", "Judge David Perkins"]
 entities = ["Purpose Charter Academy", "MacDowell Preparatory Academy", "The Purpose Group LLC", "Purpose Foundation", "Banks Strategy LLC", "Anchor Rock Foundation", "Serenity Guardianship Services"]
 courts = ["Wayne County 3rd Circuit Court", "36th District Court", "Wayne County Probate Court", "Eastern District of Michigan"]
-connections = ["RICO predicate", "credential fraud", "campaign finance", "business entity", "board membership", "criminal record", "charter authorization", "family"]
-+++
+connections = ["RICO predicate", "credential fraud", "campaign finance", "business entity", "board membership", "criminal record", "charter authorization", "family"]+++
 
 {{ lens(active="legal") }}
 

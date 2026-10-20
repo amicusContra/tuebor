@@ -2,7 +2,7 @@
 title = "Dear Game Devs — The Map Is Already Built"
 description = "Todd Howard. Sean Murray. Every studio with a team you trust. The membrane is a living game world: 12,046 nodes, 101,146 edges, real-time entity classification, a pulse you can feel, and an immune system that fights back. The engine is JSON and a browser. I want to work with y'all. Let's go."
 date = 2026-10-18
-weight = 8
+weight = 9
 
 [taxonomies]
 tags = ["membrane", "negentropy", "self", "ecoPrimal", "games", "invitation", "art", "science"]
@@ -13,8 +13,7 @@ keywords = "game development, Todd Howard, Hello Games, No Man's Sky, Bethesda, 
 og_title = "Dear Game Devs — The Map Is Already Built"
 og_description = "12,046 nodes. 101,146 edges. Real-time entity classification. The game world is already running. Come play."
 og_type = "article"
-twitter_card = "summary_large_image"
-+++
+twitter_card = "summary_large_image"+++
 
 # Dear Game Devs
 

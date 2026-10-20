@@ -5,8 +5,7 @@ description = "Shannon entropy H=0.00, degree 1, immune pressure 100%. Every con
 weight = 6
 
 [extra]
-keywords = "Michigan Department of Education data braid, Michigan Department of Education Shannon entropy, Michigan Department of Education immune pressure, tuebor evidence braid"
-+++
+keywords = "Michigan Department of Education data braid, Michigan Department of Education Shannon entropy, Michigan Department of Education immune pressure, tuebor evidence braid"+++
 
 ## Braid Metrics
 

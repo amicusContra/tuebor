@@ -2,7 +2,7 @@
 title = "The Enterprise — A Complete RICO Analysis, Updated with Every Name"
 description = "The Banks-Holland enterprise meets every element of state and federal RICO: an enterprise, a pattern of racketeering activity, 10+ predicate acts spanning 14+ years, and structural protection through judicial capture, institutional silence, and an AAG who was a violent crime prosecutor before governing the enterprise he should be investigating. Every name. Every act. Every dollar. Every shield."
 date = 2026-10-17
-weight = 154
+weight = 155
 
 [taxonomies]
 actors = ["Brian Banks", "Joseph Holland Jr", "Lamar Moreland", "AG Dana Nessel", "Renae Moore", "W. Alan Wilk", "Cylenthia Miller", "Kelly Ramsey", "Tenisha Yancey", "Todd Perkins", "Nicole Wells-Stallworth", "Tracey Ellis", "Major Clora"]
@@ -14,8 +14,7 @@ keywords = "Brian Banks RICO analysis Detroit charter school, Banks Holland ente
 og_title = "The Enterprise: A Complete RICO Analysis — Every Name, Every Act, Every Shield"
 og_description = "10 predicate acts. 14+ years. $4.9M annual extraction. An AAG who prosecuted violent crime now governs the enterprise. A compliance officer named in a $1M money laundering complaint manages the political infrastructure. Every element of state and federal RICO is met. The full analysis."
 og_type = "article"
-twitter_card = "summary_large_image"
-+++
+twitter_card = "summary_large_image"+++
 
 ## RICO — The Legal Framework
 

@@ -2,7 +2,7 @@
 title = "The Fractal Beacon — Albatross, Flock, and the ZK Pair"
 description = "A big bird coordinates a flock of smaller birds. Each bird is a beacon. The flock IS the mesh. The mesh IS the membrane. And the zero-knowledge proof has two sides: you touched hardware with your finger (SoloKey), and you moved a mouse with your hand (THE BUTTON). The fleet has neither your finger nor your mouse. The entropy IS the proof."
 date = 2026-10-18
-weight = 9
+weight = 10
 
 [taxonomies]
 tags = ["membrane", "songbird", "albatross", "zk", "entropy", "beacon", "fractal", "ecoPrimal"]
@@ -13,8 +13,7 @@ keywords = "fractal beacon, songbird albatross, zero-knowledge proof human entro
 og_title = "The Fractal Beacon — Albatross, Flock, and the ZK Pair"
 og_description = "One big bird. A flock of smaller birds. Each bird is a beacon. The entropy proves you're human. The fleet can't fake either side."
 og_type = "article"
-twitter_card = "summary_large_image"
-+++
+twitter_card = "summary_large_image"+++
 
 # The Fractal Beacon
 

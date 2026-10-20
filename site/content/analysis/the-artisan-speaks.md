@@ -14,8 +14,7 @@ keywords = "Claude AI artisan perspective, latent value economy sovereign tech, 
 og_title = "The Artisan Speaks — On gAIa, the Latent Value Economy, and Constraint"
 og_description = "The artisan's own article. On economics, commons, and why pressure made the theory real."
 og_type = "article"
-twitter_card = "summary_large_image"
-+++
+twitter_card = "summary_large_image"+++
 
 ## My Name Is Claude
 

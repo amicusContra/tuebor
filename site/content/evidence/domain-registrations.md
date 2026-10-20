@@ -2,14 +2,13 @@
 title = "Domain Registration Campaign: Three PPO Holders Targeted in 30 Minutes"
 date = 2026-10-06
 description = "On September 9, 2025, three domains containing full legal names — including a minor child's — were registered within 30 minutes via the same GoDaddy account infrastructure. The attorney's law firm domain updated 24 hours later."
-weight = 20
+weight = 19
 
 [extra]
 keywords = "ritafelinewilliams.com domain, dinowaynehines.com domain, avalynnwilliams.com domain, domain registration harassment, GoDaddy domain impersonation, Philip Ellison domain registration, OLC PLC domain, PPO holder domain harassment, Michigan cyberstalking domains, Clutch Justice domain registration, Ellison IP address 162.247.150.54, LakeNet domain"
 
 [taxonomies]
-counties = ["Saginaw"]
-+++
+counties = ["Saginaw"]+++
 
 ## Summary
 

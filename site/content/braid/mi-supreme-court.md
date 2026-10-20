@@ -5,8 +5,7 @@ description = "Shannon entropy H=0.81, degree 4, immune pressure 25%. Every conn
 weight = 6
 
 [extra]
-keywords = "Michigan Supreme Court data braid, Michigan Supreme Court Shannon entropy, Michigan Supreme Court immune pressure, tuebor evidence braid"
-+++
+keywords = "Michigan Supreme Court data braid, Michigan Supreme Court Shannon entropy, Michigan Supreme Court immune pressure, tuebor evidence braid"+++
 
 ## Braid Metrics
 

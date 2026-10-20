@@ -2,7 +2,7 @@
 title = "Where the Signal Landed — Every Name, Every Date, Every Silence"
 description = "A complete ledger of every signal sent by Kevin Mok from August to October 2026. Every person contacted. Every agency notified. Every institution that received evidence. Every response — and every silence. The 9-line went out. No one came."
 date = 2026-10-16
-weight = 38
+weight = 42
 
 [extra]
 keywords = "signal ledger, Kevin Mok outreach, 9-line federal referral, institutional silence, Detroit charter school accountability, Brian Banks silence, Dykema Gossett complicity, Attorney Grievance Commission Michigan, State Bar Michigan, null equals complicity, FBI no response, DOJ no response, IRS whistleblower, FEC complaint, FinCEN report, Dana Nessel no response, MDE response, tit for tat game theory, institutional accountability, charter school fraud Detroit, public money accountability"
@@ -14,8 +14,7 @@ twitter_card = "summary_large_image"
 [taxonomies]
 actors = ["Brian Banks", "AG Dana Nessel", "Nicole Wells Stallworth", "Cylenthia Miller", "Lamar Moreland", "Latisha Johnson", "Jehan Crump-Gibson", "W. Alan Wilk", "Richard McLellan", "Leonard Wolfe", "Renae Moore"]
 entities = ["Dykema Gossett", "Michigan Department of Education", "State Board of Education", "Attorney Grievance Commission", "Judicial Tenure Commission", "State Bar of Michigan", "FBI", "DOJ", "IRS", "Purpose Charter Academy", "MacDowell Preparatory Academy", "Great Lakes Legal Group"]
-connections = ["null equals complicity", "signal ledger", "institutional silence", "9-line", "tit for tat"]
-+++
+connections = ["null equals complicity", "signal ledger", "institutional silence", "9-line", "tit for tat"]+++
 
 ## The Signal Ledger
 

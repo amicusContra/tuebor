@@ -2,7 +2,7 @@
 title = "Dear Marcus"
 description = "Stoicism separates feeling from action. I posit more: sensation, self, and action — where self is the irrational null remainder. The part that can't be divided evenly. Marcus Aurelius helped me find the gap where the observer lives."
 date = 2026-10-18
-weight = 5
+weight = 7
 
 [taxonomies]
 tags = ["membrane", "negentropy", "self", "ecoPrimal", "pi-body", "stoicism", "science", "gratitude"]
@@ -13,8 +13,7 @@ keywords = "Marcus Aurelius, Meditations, stoicism, sensation, self, action, irr
 og_title = "Dear Marcus"
 og_description = "Stoicism separates feeling from action. I posit more: sensation, self, action — where self is the irrational null remainder."
 og_type = "article"
-twitter_card = "summary_large_image"
-+++
+twitter_card = "summary_large_image"+++
 
 # Dear Marcus
 

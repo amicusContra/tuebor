@@ -5,8 +5,7 @@ weight = 10
 description = "The OOM crash proved it: expansion is GPU work, compression is CPU work, sensing is NPU work. Three phases of one breath. Inhale, hold, exhale. The rest of the humans learn through the exhale."
 
 [extra]
-keywords = "GPU CPU NPU architecture, toadStool compute dispatch, three chip types knowledge graph, graph expansion compression sensing, inhale hold exhale computing, NPU pattern recognition, ecoPrimals chip architecture, sovereign compute three phases, barraCuda coralReef toadStool, knowledge graph NPU inference"
-+++
+keywords = "GPU CPU NPU architecture, toadStool compute dispatch, three chip types knowledge graph, graph expansion compression sensing, inhale hold exhale computing, NPU pattern recognition, ecoPrimals chip architecture, sovereign compute three phases, barraCuda coralReef toadStool, knowledge graph NPU inference"+++
 
 # Three Chips, One Breath
 

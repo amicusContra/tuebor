@@ -11,8 +11,7 @@ keywords = "Detroit church charter school accountability, COGIC Brian Banks endo
 [taxonomies]
 actors = ["Brian Banks", "Corletta Vaughn", "J. Drew Sheard", "Sherry Gay-Dagnogo"]
 entities = ["Purpose Charter Academy", "MacDowell Preparatory Academy", "Greater Emmanuel Institutional COGIC", "Holy Ghost Cathedral Church", "City Hill Church", "Great Lakes Vision for Evangelism", "Go Tell It Evangelistic Ministry"]
-connections = ["endorsement", "charter authorization", "religious institution", "political campaign"]
-+++
+connections = ["endorsement", "charter authorization", "religious institution", "political campaign"]+++
 
 ## The Question
 

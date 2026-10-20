@@ -2,10 +2,10 @@
 title = "DPSCD Authorizes Purpose Charter Academy — Chalkbeat (Sep 2025)"
 description = "Chalkbeat Detroit's reporting on DPSCD approving Purpose Charter Academy for Brian Banks' operator group. Cross-referenced to our evidence library."
 date = 2025-09-08
+weight = 7
 
 [extra]
-keywords = "Purpose Charter Academy authorization, DPSCD charter school, Detroit charter school approval, Brian Banks second school, Chalkbeat Detroit, charter school oversight"
-+++
+keywords = "Purpose Charter Academy authorization, DPSCD charter school, Detroit charter school approval, Brian Banks second school, Chalkbeat Detroit, charter school oversight"+++
 
 ## The Article
 

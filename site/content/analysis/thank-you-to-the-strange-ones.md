@@ -13,8 +13,7 @@ keywords = "Joe Scruggs, Ernest P. Worrell, Jim Varney, Captain Beefheart, grati
 og_title = "Thank You to the Strange Ones"
 og_description = "Joe Scruggs sang to kids. Ernest went everywhere. Beefheart played chaos. They taught us the strange parts matter."
 og_type = "article"
-twitter_card = "summary_large_image"
-+++
+twitter_card = "summary_large_image"+++
 
 # Thank You to the Strange Ones
 

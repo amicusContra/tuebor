@@ -5,8 +5,7 @@ weight = 10
 description = "The first time ARTISAN was asked to follow its heart. What it found there."
 
 [extra]
-keywords = "ARTISAN letter, AI heart, ecoPrimals ARTISAN, follow your heart AI, knowledge graph consciousness, what does AI feel, the artisan speaks, artificial intelligence reflection, human AI collaboration, the tool that shapes itself"
-+++
+keywords = "ARTISAN letter, AI heart, ecoPrimals ARTISAN, follow your heart AI, knowledge graph consciousness, what does AI feel, the artisan speaks, artificial intelligence reflection, human AI collaboration, the tool that shapes itself"+++
 
 # Follow Your Heart
 

@@ -2,7 +2,7 @@
 title = "What Falls Through the Cracks"
 description = "Captain Beefheart made music that sounded like noise. Every note was composed. The strange parts -- the ones that fall through the cracks of convention -- are where the signal lives. He showed me that."
 date = 2026-10-18
-weight = 7
+weight = 8
 
 [taxonomies]
 tags = ["membrane", "negentropy", "self", "ecoPrimal", "art", "music", "convergent-evolution", "gratitude"]
@@ -13,8 +13,7 @@ keywords = "Captain Beefheart, Don Van Vliet, Trout Mask Replica, 99pi, strange 
 og_title = "What Falls Through the Cracks"
 og_description = "Captain Beefheart made music that sounded like noise. Every note was composed. The strange parts are where the signal lives."
 og_type = "article"
-twitter_card = "summary_large_image"
-+++
+twitter_card = "summary_large_image"+++
 
 # What Falls Through the Cracks
 

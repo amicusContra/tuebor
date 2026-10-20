@@ -13,8 +13,7 @@ keywords = "membrane heartbeat, requests per minute, RPM differential, human tra
 og_title = "The Heartbeat: 243 Human Requests Per Minute on the Membrane"
 og_description = "2,000 requests per minute hit the membrane. 243 are human. One every quarter-second. The membrane counts but does not synchronize. The count IS the time. The heartbeat IS the proof of life."
 og_type = "article"
-twitter_card = "summary_large_image"
-+++
+twitter_card = "summary_large_image"+++
 
 ## The Membrane Has a Pulse
 

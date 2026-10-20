@@ -3,14 +3,13 @@ title = "The Money Flows Through Nulls — Walton to Martin to Banks in Three Ho
 description = "Follow the null-to-null chains and the money appears. Walton Family Foundation funds Roland Martin (null) and School Choice Is The Black Choice Tour (null). Martin's NuVision Media (null) funds 50CAN (null). Martin provides coverage of Banks (non-self). The money enters at Walton (partial), passes through a null zone (Martin media), and provides cover for the extraction at PCA (non-self). Three hops. Two null entities. One pipeline."
 date = 2026-10-14
 updated = 2026-10-14
-weight = 7
+weight = 6
 
 [extra]
 keywords = "Walton Family Foundation Roland Martin funding, NuVision Media 50CAN charter schools, SCBC Tour School Choice Black Choice funding, money flow through null entities, charter school media pipeline, Walton to Banks money trail, Campbell Brown The 74 charter, EdChoice ExcelinEd AFC partnership, dark money charter school advocacy, null entity money flow"
 
 [taxonomies]
-counties = ["Wayne"]
-+++
+counties = ["Wayne"]+++
 
 ## The Money Flows Through Nulls
 

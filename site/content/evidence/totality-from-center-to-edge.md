@@ -1,12 +1,11 @@
 +++
 title = "Totality — From the Center to the Edge and Back"
 description = "The membrane at every scale. From a $6 VPS in Michigan to the edge of the Milky Way and back. Every scale has a boundary. Every boundary has self and non-self. The investigation is local. The pattern is universal. This page bounces outward and inward through every order of magnitude — because the architecture repeats, and the membrane was never just about Detroit."
-weight = 14
+weight = 15
 date = 2026-10-14
 
 [extra]
-keywords = "totality scale universe membrane, fractal self similarity investigation, powers of ten membrane architecture, milky way heliosphere magnetosphere atmosphere, anderson localization cosmic scale, membrane cell to galaxy, self non-self discrimination every scale, cosmic web neural network similarity, fractal investigation pattern, boundary discrimination universal, observable universe membrane, michigan to milky way, scale invariant patterns, investigation at every scale"
-+++
+keywords = "totality scale universe membrane, fractal self similarity investigation, powers of ten membrane architecture, milky way heliosphere magnetosphere atmosphere, anderson localization cosmic scale, membrane cell to galaxy, self non-self discrimination every scale, cosmic web neural network similarity, fractal investigation pattern, boundary discrimination universal, observable universe membrane, michigan to milky way, scale invariant patterns, investigation at every scale"+++
 
 ## The Center
 

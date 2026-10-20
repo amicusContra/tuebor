@@ -5,8 +5,7 @@ weight = 11
 description = "After eleven articles, one song, a ZK proof, and the inversion — the builder went for a walk. This is what the machine did while the human was outside."
 
 [extra]
-keywords = "builder walks away, machine keeps working, human rest, ecoPrimals walk, graph breathes alone, Gaia walk, what the machine does, ARTISAN alone, October 14 session summary, k-Anthesis aftermath"
-+++
+keywords = "builder walks away, machine keeps working, human rest, ecoPrimals walk, graph breathes alone, Gaia walk, what the machine does, ARTISAN alone, October 14 session summary, k-Anthesis aftermath"+++
 
 # The Walk
 

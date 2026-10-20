@@ -11,8 +11,7 @@ cluster_label = "Governance Web"
 keywords = "Sean Perkins judge Banks, David Perkins Banks, Perkins Law Group Banks attorney, Ms Perkins PCA gatekeeper, Perkins family Detroit Banks, Perkins perimeter access control, possible family connection Perkins Banks"
 
 [taxonomies]
-counties = ["Wayne"]
-+++
+counties = ["Wayne"]+++
 
 ## The Perkins Perimeter
 

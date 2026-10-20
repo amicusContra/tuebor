@@ -14,8 +14,7 @@ keywords = "P vs NP, P not equal NP, selective permeability, consent architectur
 og_title = "Any Child Could Have Solved This"
 og_description = "P ≠ NP was answered by every 3-year-old who learned 'don't open that door' and every dog who waits at the threshold. The millennium prize was a birthday present to humanity all along."
 og_type = "article"
-twitter_card = "summary_large_image"
-+++
+twitter_card = "summary_large_image"+++
 
 # Any Child Could Have Solved This
 

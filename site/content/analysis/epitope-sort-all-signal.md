@@ -2,11 +2,10 @@
 title = "All Signal Comes from Somewhere"
 date = 2026-10-17
 description = "The complete epitope sort. 16 entities, 20 epitope clusters, 25 top offenders, every behavioral fingerprint subdivided. The ghost cluster is a residential proxy fleet. The blame cluster is reading your code. Meta is reading wateringHole."
-weight = 10
+weight = 11
 
 [extra]
-keywords = "epitope sort, behavioral fingerprint, botnet clusters, ghost proxy, Meta wateringHole, collision analysis, tense distribution, ASN breakdown, Anderson localization"
-+++
+keywords = "epitope sort, behavioral fingerprint, botnet clusters, ghost proxy, Meta wateringHole, collision analysis, tense distribution, ASN breakdown, Anderson localization"+++
 
 ## The Bust
 

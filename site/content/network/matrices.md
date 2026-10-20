@@ -1,7 +1,7 @@
 +++
 title = "Network Matrices — Machine-Readable Graph Data"
 description = "Adjacency matrices showing who connects to whom, money flows, board memberships, and court assignments."
-weight = 12
+weight = 13
 date = 2026-09-24
 updated = 2026-09-25
 
@@ -12,8 +12,7 @@ keywords = "Detroit charter school network graph, Brian Banks network analysis, 
 actors = ["Brian Banks", "Joseph Holland", "Judge Cylenthia Miller", "Judge Tenisha Yancey", "Judge Aliyah Sabree", "Eric Sabree"]
 entities = ["Purpose Charter Academy", "MacDowell Preparatory Academy", "The Purpose Group LLC", "Purpose Foundation", "Banks Strategy LLC"]
 courts = ["Wayne County 3rd Circuit Court", "36th District Court", "Wayne County Probate Court", "Oakland County Circuit Court"]
-connections = ["board membership", "campaign finance", "family", "employment", "business entity"]
-+++
+connections = ["board membership", "campaign finance", "family", "employment", "business entity"]+++
 
 This page is the **machine-readable layer** of the network map. The [Mermaid diagrams](/network/) show the network visually. These matrices show it **computationally** — every relationship as a cell in a table, every money flow as a row in a ledger.
 

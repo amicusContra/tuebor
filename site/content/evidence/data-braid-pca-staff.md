@@ -10,8 +10,7 @@ keywords = "Purpose Charter Academy staff, MacDowell Preparatory Academy staff, 
 [taxonomies]
 actors = ["Brian Banks", "Jehan Crump-Gibson", "Verkeydia Hall"]
 entities = ["Purpose Charter Academy", "MacDowell Preparatory Academy", "Detroit Public Schools Community District", "Great Lakes Legal Group PLLC", "Crump Hall of Justice Law Firm"]
-connections = ["employment", "family", "credential gap", "authorization membrane"]
-+++
+connections = ["employment", "family", "credential gap", "authorization membrane"]+++
 
 ## The Method
 

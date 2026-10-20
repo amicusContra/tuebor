@@ -11,8 +11,7 @@ keywords = "Detroit four dynasties Brian Banks, Stallworth Sabree Kilpatrick BMF
 [taxonomies]
 actors = ["Brian Banks", "Keith Stallworth", "Thomas Stallworth III", "Nicole Wells-Stallworth", "Alma Stallworth", "Misha Stallworth West", "Eric Sabree", "Judge Aliyah Sabree", "Judge Adam Sabree", "Kwame Kilpatrick", "Carolyn Cheeks Kilpatrick", "Karen Dumas", "Kenneth Daniels", "OD Banks", "Tonesa Welch", "Sherry Gay-Dagnogo"]
 entities = ["Black Caucus Foundation of Michigan", "Purpose Charter Academy", "MacDowell Preparatory Academy", "Detroit Leaders"]
-connections = ["political dynasty", "family", "federal conviction", "money laundering", "drug trafficking", "charter authorization", "judicial capture"]
-+++
+connections = ["political dynasty", "family", "federal conviction", "money laundering", "drug trafficking", "charter authorization", "judicial capture"]+++
 
 Four interlocking dynasties converge on one charter school enterprise. Each contributed a structural component that makes the machine run:
 

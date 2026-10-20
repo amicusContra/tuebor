@@ -3,14 +3,13 @@ title = "How to File a Charter School Complaint in Michigan"
 description = "Step-by-step guide for parents, community members, and concerned citizens to file complaints about charter school operations in Michigan. Covers complaints to MDE, the authorizer (CMU, DPSCD), the AG's office, the State Board of Education, and federal agencies."
 date = 2026-10-14
 updated = 2026-10-14
-weight = 15
+weight = 17
 
 [extra]
 keywords = "file charter school complaint Michigan, MDE charter school complaint, CMU charter school complaint, DPSCD charter school complaint, AG complaint charter school, charter school accountability Michigan, report charter school fraud Michigan, State Board of Education complaint"
 
 [taxonomies]
-counties = ["Wayne"]
-+++
+counties = ["Wayne"]+++
 
 ## How to File a Charter School Complaint
 

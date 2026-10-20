@@ -11,8 +11,7 @@ cluster_label = "Infrastructure"
 keywords = "membrane spam call filtering, can membrane filter robocalls, opsonization phone calls, STIR SHAKEN membrane architecture, RoboKiller spam reflection, phone call filtering self non-self, membrane selectivity phone network, spam call loop reflection, pollinator spam database sharing, what we can do about spam calls"
 
 [taxonomies]
-counties = ["Wayne"]
-+++
+counties = ["Wayne"]+++
 
 ## Can the Membrane Filter Your Phone?
 

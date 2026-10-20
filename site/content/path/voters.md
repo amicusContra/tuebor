@@ -5,8 +5,7 @@ weight = 14
 date = 2026-10-05
 
 [extra]
-keywords = "Keep Judge Miller 2026, Wayne County 3rd Circuit election 2026, Cylenthia Miller charter school, vote Wayne County judges November 2026, judicial election Detroit 2026, judge connections charter school fraud, Wayne County ballot judges Brian Banks"
-+++
+keywords = "Keep Judge Miller 2026, Wayne County 3rd Circuit election 2026, Cylenthia Miller charter school, vote Wayne County judges November 2026, judicial election Detroit 2026, judge connections charter school fraud, Wayne County ballot judges Brian Banks"+++
 
 ## The Election
 

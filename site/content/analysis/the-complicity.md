@@ -2,7 +2,7 @@
 title = "The Complicity — They Knew. They Were Already Captured. They Said Nothing."
 description = "Kevin Mok warned Dana Nessel's office about Brian Banks BEFORE discovering that Nessel's own Assistant Attorney General sat on Banks' school board. Nessel's office said nothing. Not because they didn't know — because they ALREADY knew. Moreland was already there. Moore was already at the desk. Dykema was already forming the fronts. Every agency notified. Every agency silent. This is not negligence. This is complicity through structure."
 date = 2026-10-17
-weight = 28
+weight = 27
 
 [taxonomies]
 actors = ["AG Dana Nessel", "Lamar Moreland", "Renae Moore", "W. Alan Wilk", "Brian Banks", "Joseph Holland Jr", "Nikki Snyder"]
@@ -14,8 +14,7 @@ keywords = "Dana Nessel charter school fraud silence, Lamar Moreland Attorney Ge
 og_title = "The Complicity: They Knew. They Were Already Captured."
 og_description = "Kevin Mok warned Nessel's office about Banks BEFORE discovering Moreland on the board. Her office said nothing. Not because they didn't know. Because Moreland was already there. This is complicity through structure."
 og_type = "article"
-twitter_card = "summary_large_image"
-+++
+twitter_card = "summary_large_image"+++
 
 ## The Timeline That Proves Complicity
 

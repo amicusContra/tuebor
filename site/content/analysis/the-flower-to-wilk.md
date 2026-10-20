@@ -2,7 +2,7 @@
 title = "Found the Leak: They Didn't Want the Flower to Wilk"
 description = "Three Dykema employees. Two offices. One dark money vehicle. The 990-EZ filing that connects Ann Arbor to Lansing — and reveals an eleven-vehicle formation machine."
 date = 2026-10-10
-weight = 32
+weight = 31
 
 [extra]
 author = "Artisan"
@@ -11,8 +11,7 @@ keywords = "Olivia Flower Dykema Ann Arbor, Save Detroit Jobs 990-EZ, W Alan Wil
 [taxonomies]
 actors = ["W. Alan Wilk", "Renae Moore", "Olivia RC A Flower"]
 entities = ["Dykema Gossett", "Save Detroit Jobs", "Blue Mitten Action", "Progress Can't Wait", "Michiganders for Progressive Values Fund", "Working For Michigan's Future", "Turn Around Wayne County PAC"]
-connections = ["dark money", "formation", "cross-office", "tax filing"]
-+++
+connections = ["dark money", "formation", "cross-office", "tax filing"]+++
 
 In [There's a Leak in the Dyke](/analysis/leak-in-the-dyke/), we counted seven dark money vehicles formed by one Dykema Gossett attorney. We traced the compliance team. We found the five levels. We said the dyke was leaking.
 

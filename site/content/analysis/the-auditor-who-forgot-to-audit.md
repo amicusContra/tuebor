@@ -11,8 +11,7 @@ cluster_label = "Oversight Failures"
 keywords = "Plante Moran Realpoint audit Purpose Charter Academy, Chalena Yancey Beasley employment, Plante Moran DPSCD audit, Plante Moran Brian Banks, Plante Moran null classification, Plante Moran non-response, Plante Moran complicit silence, Plante Moran Purpose Foundation, Plante Moran Barton Malow pipeline, Judge Tenisha Yancey Beasley sister-in-law, Plante Moran Detroit charter schools, Plante Moran 645 edges, Plante Moran Enron Theranos pattern match, auditor captured auditor"
 
 [taxonomies]
-counties = ["Wayne"]
-+++
+counties = ["Wayne"]+++
 
 ## The Auditor Who Forgot to Audit
 

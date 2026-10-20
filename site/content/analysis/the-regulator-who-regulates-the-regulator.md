@@ -11,8 +11,7 @@ cluster_label = "Oversight Failures"
 keywords = "regulatory capture FCC MDE, regulator above real owner, FCC knows VoIP spam, MDE knows charter school extraction, regulatory blind spot pattern, regulator depends on regulated entity, FCC charter school parallel, oversight architecture failure, regulator does not act, selective enforcement pattern"
 
 [taxonomies]
-counties = ["Wayne"]
-+++
+counties = ["Wayne"]+++
 
 ## The Regulator Who Regulates the Regulator
 

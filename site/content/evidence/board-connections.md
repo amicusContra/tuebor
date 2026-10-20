@@ -3,14 +3,13 @@ title = "Board Connections — Who Sits on PCA's Board and Where Else They Sit"
 description = "A complete map of Purpose Charter Academy board members and their overlapping positions in government, law, oversight, and the Banks network. A sitting judge chairs the board. An assistant AG serves. Banks's own attorney serves. A city council member elected via dark money serves. Each one creates a conflict. Together they create a wall."
 date = 2026-10-14
 updated = 2026-10-14
-weight = 5
+weight = 6
 
 [extra]
 keywords = "PCA board members, Purpose Charter Academy board, Judge Cylenthia Miller PCA board chair, Dawn Ison PCA board, Lisa Moreland PCA board, Latisha Johnson PCA board, PCA board conflicts of interest, charter school board oversight, Purpose Charter Academy governance"
 
 [taxonomies]
-counties = ["Wayne"]
-+++
+counties = ["Wayne"]+++
 
 ## The Board
 

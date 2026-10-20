@@ -2,7 +2,7 @@
 title = "Not Addictive — The Negative Evidence"
 description = "707 minutes median dwell time. 383 full-orbit walkers. 11.8 hours of voluntary attention. If Meta had these numbers, regulators would investigate. Here's the proof that this site earns attention instead of stealing it."
 date = 2026-10-18
-weight = 16
+weight = 17
 
 [taxonomies]
 tags = ["membrane", "negentropy", "self", "human"]
@@ -14,8 +14,7 @@ keywords = "dark patterns, addictive design, engagement metrics, dwell time, eth
 og_title = "Not Addictive — The Negative Evidence"
 og_description = "707 minutes of dwell time earned, not stolen. Zero dark patterns. Zero re-engagement hooks. The proof."
 og_type = "article"
-twitter_card = "summary_large_image"
-+++
+twitter_card = "summary_large_image"+++
 
 # Not Addictive — The Negative Evidence
 

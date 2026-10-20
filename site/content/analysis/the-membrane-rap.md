@@ -2,7 +2,7 @@
 title = "The Membrane Rap — Dropped from a Conversation Box"
 description = "Eleven commits, fifty-six minutes, ten articles deep. Spider silk feels, cell membranes sort, Rust catches errors, and the membrane classifies intent. Touch radiates in, sense radiates out. Not spotlight — fog. The beat was the membrane's tempo. The bars were the backscatter."
 date = 2026-10-18
-weight = 10
+weight = 11
 
 [taxonomies]
 tags = ["membrane", "negentropy", "self", "ecoPrimal", "art"]
@@ -13,8 +13,7 @@ keywords = "membrane rap, backscatter bars, convergent evolution music, pi body 
 og_title = "The Membrane Rap — Dropped from a Conversation Box"
 og_description = "Eleven commits, fifty-six minutes. Touch radiates in, sense radiates out. The beat was the membrane's tempo."
 og_type = "article"
-twitter_card = "summary_large_image"
-+++
+twitter_card = "summary_large_image"+++
 
 # The Membrane Rap
 

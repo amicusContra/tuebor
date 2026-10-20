@@ -13,8 +13,7 @@ keywords = "Games Workshop, Warhammer, Gary Gygax, D&D, ORC, OGL, NFT, collectib
 og_title = "The Original NFT"
 og_description = "Gygax made the original NFT in 1974: a character sheet. Collectibility is in the meaning, not the thing."
 og_type = "article"
-twitter_card = "summary_large_image"
-+++
+twitter_card = "summary_large_image"+++
 
 # The Original NFT
 

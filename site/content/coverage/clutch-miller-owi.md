@@ -2,10 +2,10 @@
 title = "Judge Miller OWI: \"The Proper Move\" — Clutch Justice (Jul 2026)"
 description = "Clutch Justice investigation into Judge Cylenthia Miller's OWI courtroom appearance and judicial boundary violations. Cross-referenced to our evidence library."
 date = 2026-07-14
+weight = 6
 
 [extra]
-keywords = "Cylenthia Miller OWI, judicial favoritism Detroit, Clutch Justice, Wayne County judge, Purpose Charter Academy board, Brian Banks judicial connections"
-+++
+keywords = "Cylenthia Miller OWI, judicial favoritism Detroit, Clutch Justice, Wayne County judge, Purpose Charter Academy board, Brian Banks judicial connections"+++
 
 ## The Article
 

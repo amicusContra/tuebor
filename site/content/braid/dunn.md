@@ -5,8 +5,7 @@ description = "Shannon entropy H=0.00, degree 1, immune pressure 0%. Every conne
 weight = 6
 
 [extra]
-keywords = "Tim Dunn data braid, Tim Dunn Shannon entropy, Tim Dunn immune pressure, tuebor evidence braid"
-+++
+keywords = "Tim Dunn data braid, Tim Dunn Shannon entropy, Tim Dunn immune pressure, tuebor evidence braid"+++
 
 ## Braid Metrics
 

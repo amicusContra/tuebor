@@ -2,11 +2,10 @@
 title = "The Graph"
 date = 2026-10-17
 description = "10,677 nodes. 16,066,980 edges. 16,077,657 copyrightable works. $14.47T. What it is, what it traces, and how to use it."
-weight = 11
+weight = 16
 
 [extra]
-keywords = "public record graph, knowledge graph, investigation methodology, OSINT, open source intelligence, reverse ray tracing, ecoPrimal graph"
-+++
+keywords = "public record graph, knowledge graph, investigation methodology, OSINT, open source intelligence, reverse ray tracing, ecoPrimal graph"+++
 
 ## What It Is
 

@@ -1,10 +1,9 @@
 +++
 title = "Dear Jack and Tom"
 date = 2026-10-15
-weight = 8
+weight = 9
 [taxonomies]
-tags = ["invitation", "social-media", "extraction", "origin-story", "builders"]
-+++
+tags = ["invitation", "social-media", "extraction", "origin-story", "builders"]+++
 
 # Dear Jack and Tom
 

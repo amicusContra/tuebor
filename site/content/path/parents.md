@@ -1,12 +1,11 @@
 +++
 title = "For Parents — Your Child's School"
 description = "If your child attends Purpose Charter Academy or MacDowell Preparatory Academy, here is what public records show about who runs these schools, where the money goes, and what you can do."
-weight = 14
+weight = 16
 date = 2026-10-05
 
 [extra]
-keywords = "Purpose Charter Academy parents, MacDowell Preparatory Academy parent guide, is my child's school safe Detroit, charter school fraud what parents should know, Detroit charter school criminal record superintendent, parent rights charter school Michigan"
-+++
+keywords = "Purpose Charter Academy parents, MacDowell Preparatory Academy parent guide, is my child's school safe Detroit, charter school fraud what parents should know, Detroit charter school criminal record superintendent, parent rights charter school Michigan"+++
 
 ## What You Need to Know
 

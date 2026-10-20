@@ -11,8 +11,7 @@ keywords = "Brian Banks claims vs reality, MacDowell Preparatory Academy perform
 [taxonomies]
 actors = ["Brian Banks", "Joseph Holland", "Judge Cylenthia Miller", "Nicole Wells-Stallworth", "Sherry Gay-Dagnogo"]
 entities = ["MacDowell Preparatory Academy", "Purpose Charter Academy", "The Purpose Group LLC"]
-connections = ["credential fraud", "board membership", "charter authorization"]
-+++
+connections = ["credential fraud", "board membership", "charter authorization"]+++
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 2rem;">
 

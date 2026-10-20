@@ -5,8 +5,7 @@ description = "Shannon entropy H=1.00, degree 2, immune pressure 0%. Every conne
 weight = 6
 
 [extra]
-keywords = "AT&T data braid, AT&T Shannon entropy, AT&T immune pressure, tuebor evidence braid"
-+++
+keywords = "AT&T data braid, AT&T Shannon entropy, AT&T immune pressure, tuebor evidence braid"+++
 
 ## Braid Metrics
 

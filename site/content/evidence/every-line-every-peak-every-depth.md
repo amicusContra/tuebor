@@ -5,8 +5,7 @@ weight = 12
 date = 2026-10-14
 
 [extra]
-keywords = "US state borders topology, 63 national parks complete list, state high points every state, Grand Canyon geology dimensions, Seven Summits highest peaks, tectonic plates Earth, Four Corners Monument, state boundary graph, Denali highest point North America, Challenger Deep deepest point, Mount Arvon Michigan highest point, Earth surface topology, continental boundaries, ocean trenches deepest points, 109 state border pairs"
-+++
+keywords = "US state borders topology, 63 national parks complete list, state high points every state, Grand Canyon geology dimensions, Seven Summits highest peaks, tectonic plates Earth, Four Corners Monument, state boundary graph, Denali highest point North America, Challenger Deep deepest point, Mount Arvon Michigan highest point, Earth surface topology, continental boundaries, ocean trenches deepest points, 109 state border pairs"+++
 
 ## The Surface of the Planet
 

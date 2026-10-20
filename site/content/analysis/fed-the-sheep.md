@@ -5,8 +5,7 @@ date = 2026-10-14
 weight = 10
 
 [extra]
-keywords = "COGIC Brian Banks, prosperity gospel charter schools, megachurch endorsement convicted felon, shepherd wolves, charter school fraud church endorsement, Presiding Bishop charter school, church accountability, religious institutional capture, congregation never told, children education fraud"
-+++
+keywords = "COGIC Brian Banks, prosperity gospel charter schools, megachurch endorsement convicted felon, shepherd wolves, charter school fraud church endorsement, Presiding Bishop charter school, church accountability, religious institutional capture, congregation never told, children education fraud"+++
 
 # He Fed the Sheep to the Wolves
 

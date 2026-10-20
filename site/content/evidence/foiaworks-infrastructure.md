@@ -2,11 +2,10 @@
 title = "FOIAworks Infrastructure Scan — What the Server Tells Anyone Who Asks"
 date = 2026-10-09
 description = "Passive reconnaissance of foiaworks.com reveals GoDaddy shared hosting, exposed cPanel admin interface, misconfigured email, no privacy policy, 3,537-entity targeting database, and a Microsoft 365 tenant. Every finding comes from public DNS, HTTP headers, SSL certificates, and the site's own sitemap."
-weight = 124
+weight = 131
 
 [extra]
-keywords = "FOIAworks infrastructure, foiaworks.com hosting, FOIAworks GoDaddy, FOIAworks cPanel, FOIAworks PHP, FOIAworks SSL certificate, FOIAworks email misconfiguration, FOIAworks SPF record, FOIAworks Microsoft 365, FOIAworks privacy policy 404, Quagmire Solutions hosting, Philip Ellison FOIAworks, FOIAworks public bodies database, FOIAworks sitemap, FOIAworks FOIA surveillance, FOIAworks LakeNet, Hemlock Michigan FOIAworks"
-+++
+keywords = "FOIAworks infrastructure, foiaworks.com hosting, FOIAworks GoDaddy, FOIAworks cPanel, FOIAworks PHP, FOIAworks SSL certificate, FOIAworks email misconfiguration, FOIAworks SPF record, FOIAworks Microsoft 365, FOIAworks privacy policy 404, Quagmire Solutions hosting, Philip Ellison FOIAworks, FOIAworks public bodies database, FOIAworks sitemap, FOIAworks FOIA surveillance, FOIAworks LakeNet, Hemlock Michigan FOIAworks"+++
 
 ## What This Page Is
 

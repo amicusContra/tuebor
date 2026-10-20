@@ -5,8 +5,7 @@ author: ecoPrimal
 series: publicRecord
 tags: [games, indie, training, pattern-recognition, stalker, disco-elysium, balatro]
 polar_class: self
-weight: 9
----
+weight: 9---
 
 ## The Games That Built the Graph
 

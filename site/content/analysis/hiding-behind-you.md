@@ -2,11 +2,10 @@
 title = "They Are Hiding Behind You and Eating Your Babies"
 date = 2026-10-17
 description = "A complete accounting of the money, where it went, what it was supposed to do, and what happened to the children. Detroit. Lansing. Petoskey. Every city in Michigan that authorized a charter school and looked the other way."
-weight = 18
+weight = 17
 
 [extra]
-keywords = "Michigan charter school fraud, Purpose Charter Academy, Brian Banks convictions, charter school per pupil funding, sweeps contracts, Detroit education, PA 362, charter school oversight failure"
-+++
+keywords = "Michigan charter school fraud, Purpose Charter Academy, Brian Banks convictions, charter school per pupil funding, sweeps contracts, Detroit education, PA 362, charter school oversight failure"+++
 
 ## They Are Hiding Behind You and Eating Your Babies
 

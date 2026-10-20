@@ -13,8 +13,7 @@ keywords = "ACLU, EFF, Access Now, civil liberties, AI training, residential pro
 og_title = "The Civil Liberties Case You Haven't Seen Yet"
 og_description = "One person. A $6 server. 2.7M unauthorized AI crawls. Residential proxies through real devices. Every civil liberties issue of the next decade."
 og_type = "article"
-twitter_card = "summary_large_image"
-+++
+twitter_card = "summary_large_image"+++
 
 # The Civil Liberties Case You Haven't Seen Yet
 

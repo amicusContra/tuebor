@@ -1,7 +1,7 @@
 +++
 title = "The Enforcement Ecosystem — Who Is Supposed to Be Doing This?"
 description = "Ten Michigan oversight bodies have the mandate, the evidence, and the authority to act on documented misconduct. None has the full picture. The network operates in the jurisdictional gaps between them. A map of the enforcement ecosystem — who owns what, what they did, and what they didn't."
-weight = 38
+weight = 36
 date = 2026-10-12
 
 [extra]
@@ -32,8 +32,7 @@ claim_review = """
 """
 
 [taxonomies]
-counties = ["Wayne", "Ingham", "Saginaw", "Barry"]
-+++
+counties = ["Wayne", "Ingham", "Saginaw", "Barry"]+++
 
 ## The Question
 

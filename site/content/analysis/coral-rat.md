@@ -3,8 +3,7 @@ title = "coralRat: Come Inside"
 date = 2026-10-15
 weight = 14
 [taxonomies]
-tags = ["invitation", "humanity", "coral", "open-door", "membrane"]
-+++
+tags = ["invitation", "humanity", "coral", "open-door", "membrane"]+++
 
 # coralRat
 

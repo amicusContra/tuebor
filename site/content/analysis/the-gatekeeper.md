@@ -2,7 +2,7 @@
 title = "The Gatekeeper — Joseph Holland Jr., Convicted Drug Dealer, Controls the Money for Detroit's Children"
 description = "Joseph Holland Jr. — birth name Williams, Joseph Antione — is a convicted drug dealer (MDOC #443789). Discharged WITHOUT IMPROVEMENT. He holds every financial oversight position in the Banks enterprise: Purpose Foundation Secretary and Treasurer, Bank on Banks PAC Treasurer, Banks Living Trust 1st Successor Trustee. He shares an address with Brian Banks at 1968 Severn Rd, Grosse Pointe Woods. He concealed assets in 5 bankruptcies. And he manages the finances flowing from $4.9M in public education funds meant for Detroit's children."
 date = 2026-10-17
-weight = 68
+weight = 72
 
 [taxonomies]
 actors = ["Joseph Holland Jr", "Brian Banks"]
@@ -14,8 +14,7 @@ keywords = "Joseph Holland Jr Detroit, Joseph Antione Williams MDOC 443789, Holl
 og_title = "The Gatekeeper — Joseph Holland Jr., Convicted Drug Dealer, Controls the Money"
 og_description = "MDOC #443789. Drug conviction. 5 bankruptcies. Discharged WITHOUT IMPROVEMENT. Joseph Holland Jr. holds every financial position in the Banks charter school enterprise. $4.9M in public money. Your children's money. Detroit — look."
 og_type = "article"
-twitter_card = "summary_large_image"
-+++
+twitter_card = "summary_large_image"+++
 
 ## Detroit — This Man Controls the Money for Your Children
 

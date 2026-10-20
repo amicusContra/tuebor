@@ -5,8 +5,7 @@ weight = 11
 date = 2026-10-14
 
 [extra]
-keywords = "corollary investigation implications, investigation logical consequences, if then accountability, investigation unexpected conclusions, what follows from evidence, investigation corollary analysis, Michigan accountability implications, regulatory capture consequences, charter school investigation corollary"
-+++
+keywords = "corollary investigation implications, investigation logical consequences, if then accountability, investigation unexpected conclusions, what follows from evidence, investigation corollary analysis, Michigan accountability implications, regulatory capture consequences, charter school investigation corollary"+++
 
 ## What Follows
 

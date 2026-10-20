@@ -11,8 +11,7 @@ keywords = "MacDowell Preparatory Academy credentials, MOECS teacher certificati
 [taxonomies]
 actors = ["Brian Banks", "Joseph Holland", "Katie Schmiedeknecht"]
 entities = ["MacDowell Preparatory Academy", "The Purpose Group LLC", "Michigan Department of Education"]
-connections = ["credential fraud", "employment", "institutional oversight", "MDE investigation"]
-+++
+connections = ["credential fraud", "employment", "institutional oversight", "MDE investigation"]+++
 
 The [Michigan Online Educator Certification System (MOECS)](https://mdoe.state.mi.us/MOECS/PublicCredentialSearch.aspx) is the public database where anyone can verify whether a Michigan educator holds a valid teaching certificate, administrator certification, or permit — and which grade levels and subjects each endorsement covers. {{ confidence(level="documented") }}
 

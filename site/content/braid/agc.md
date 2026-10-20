@@ -5,8 +5,7 @@ description = "Shannon entropy H=1.58, degree 3, immune pressure 67%. Every conn
 weight = 7
 
 [extra]
-keywords = "Attorney Grievance Commission data braid, Attorney Grievance Commission Shannon entropy, Attorney Grievance Commission immune pressure, tuebor evidence braid"
-+++
+keywords = "Attorney Grievance Commission data braid, Attorney Grievance Commission Shannon entropy, Attorney Grievance Commission immune pressure, tuebor evidence braid"+++
 
 ## Braid Metrics
 

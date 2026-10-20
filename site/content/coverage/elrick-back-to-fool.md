@@ -2,10 +2,10 @@
 title = "\"Back to Fool\" — M.L. Elrick, Detroit Free Press (Aug 2023)"
 description = "M.L. Elrick's investigation into MacDowell Preparatory Academy hiring Brian Banks — an 8-time felon — as principal. Cross-referenced to our public records database."
 date = 2023-08-27
+weight = 10
 
 [extra]
-keywords = "M.L. Elrick, Back to Fool, MacDowell Preparatory Academy, Brian Banks felon principal, Detroit Free Press investigation, charter school accountability"
-+++
+keywords = "M.L. Elrick, Back to Fool, MacDowell Preparatory Academy, Brian Banks felon principal, Detroit Free Press investigation, charter school accountability"+++
 
 ## The Article
 

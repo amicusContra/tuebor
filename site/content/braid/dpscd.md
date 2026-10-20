@@ -5,8 +5,7 @@ description = "Shannon entropy H=0.00, degree 1, immune pressure 100%. Every con
 weight = 7
 
 [extra]
-keywords = "DPSCD Office of Charter Schools data braid, DPSCD Office of Charter Schools Shannon entropy, DPSCD Office of Charter Schools immune pressure, tuebor evidence braid"
-+++
+keywords = "DPSCD Office of Charter Schools data braid, DPSCD Office of Charter Schools Shannon entropy, DPSCD Office of Charter Schools immune pressure, tuebor evidence braid"+++
 
 ## Braid Metrics
 

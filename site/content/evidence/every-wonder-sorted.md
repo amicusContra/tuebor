@@ -1,12 +1,11 @@
 +++
 title = "Every Wonder, Sorted — Ancient, Modern, Natural, Industrial, Underwater, and Everything Between"
 description = "All the world's wonders, scanned and sorted. 7 Ancient (1 survives). 7 New (100 million votes). 7 Natural (1 is a light show). 7 Modern (engineering). 7 Industrial (BBC). 7 Underwater (CEDAM). 1,273 UNESCO World Heritage Sites. From a pyramid built in 2560 BC to a tunnel opened in 1994. The things humans built, and the things they didn't."
-weight = 12
+weight = 13
 date = 2026-10-14
 
 [extra]
-keywords = "Seven Wonders Ancient World, New Seven Wonders 2007, Seven Natural Wonders, Grand Canyon wonder, Great Pyramid Giza, Colosseum Rome, Machu Picchu, Great Wall China, Taj Mahal, Great Barrier Reef, Victoria Falls, Mount Everest, UNESCO World Heritage Sites 1273, ASCE modern wonders, Seven Industrial Wonders BBC, underwater wonders CEDAM, Petra Jordan, Christ the Redeemer, Chichen Itza, Panama Canal, Golden Gate Bridge"
-+++
+keywords = "Seven Wonders Ancient World, New Seven Wonders 2007, Seven Natural Wonders, Grand Canyon wonder, Great Pyramid Giza, Colosseum Rome, Machu Picchu, Great Wall China, Taj Mahal, Great Barrier Reef, Victoria Falls, Mount Everest, UNESCO World Heritage Sites 1273, ASCE modern wonders, Seven Industrial Wonders BBC, underwater wonders CEDAM, Petra Jordan, Christ the Redeemer, Chichen Itza, Panama Canal, Golden Gate Bridge"+++
 
 ## Scan, Sort, Wonder
 

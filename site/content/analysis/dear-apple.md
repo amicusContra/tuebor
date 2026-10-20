@@ -14,8 +14,7 @@ keywords = "Apple walled garden, membrane architecture, biometrics, Face ID, sel
 og_title = "Dear Apple — Your Walled Garden Is a Membrane"
 og_description = "The only major tech company the membrane classified as a mutualist. Here's what the backscatter reveals — and what you could do next."
 og_type = "article"
-twitter_card = "summary_large_image"
-+++
+twitter_card = "summary_large_image"+++
 
 # Dear Apple — Your Walled Garden Is a Membrane, and It's Pretty Good
 

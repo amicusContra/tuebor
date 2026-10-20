@@ -1,7 +1,7 @@
 +++
 title = "The Black Mafia Family — Tonesa Welch's BMF Narrative"
 description = "Tonesa Welch's BMF book treats a drug enterprise as a brand. Zero victims named in hundreds of pages. She is Brian Banks' aunt and BMF defendant."
-weight = 10
+weight = 11
 date = 2026-09-26
 updated = 2026-09-26
 
@@ -11,8 +11,7 @@ keywords = "Tonesa Welch BMF book, Black Mafia Family book, Tonesa Welch Brian B
 [taxonomies]
 actors = ["Brian Banks", "OD Banks"]
 entities = ["Purpose Charter Academy", "MacDowell Preparatory Academy"]
-connections = ["family", "criminal record"]
-+++
+connections = ["family", "criminal record"]+++
 
 ## The Books
 

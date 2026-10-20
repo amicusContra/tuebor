@@ -1,7 +1,7 @@
 +++
 title = "Two Eras of Machine Politics — From Tammany Hall to The Power Broker"
 description = "Detroit's charter school network maps to two historical models of American corruption. The Sabree-Kilpatrick era is Boss Tweed's Tammany Hall: patronage, court control, open graft. The Banks era is Robert Moses: never elected, controls through private authorities, makes himself indispensable by controlling the flow of public money to vulnerable populations."
-weight = 26
+weight = 29
 date = 2026-10-01
 updated = 2026-10-03
 
@@ -11,8 +11,7 @@ keywords = "Robert Moses Power Broker Detroit charter school, Boss Tweed Tammany
 [taxonomies]
 actors = ["Brian Banks", "Eric Sabree", "Kwame Kilpatrick"]
 entities = ["Purpose Group LLC", "MacDowell Preparatory Academy", "Purpose Charter Academy"]
-connections = ["political machine", "institutional capture", "historical pattern"]
-+++
+connections = ["political machine", "institutional capture", "historical pattern"]+++
 
 ## The Pattern Has a Name
 

@@ -13,8 +13,7 @@ keywords = "Shakespeare, Eminem, Homer, Iliad, bard, Detroit, membrane, siege, T
 og_title = "As the Bard Said"
 og_description = "Shakespeare held a mirror to kings. Homer sang of walls. Eminem stood in Detroit and turned pain into rhythm. Same membrane."
 og_type = "article"
-twitter_card = "summary_large_image"
-+++
+twitter_card = "summary_large_image"+++
 
 # As the Bard Said
 

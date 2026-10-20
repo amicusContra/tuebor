@@ -9,8 +9,7 @@ weight = 12
 keywords = "trace spam call to owner, spam call carrier lookup, FCC robocall complaint, TCPA lawsuit spam calls, how to find who is calling me, robocall mitigation database search, free carrier lookup phone number, FCC complaint unwanted calls, sue robocaller TCPA, trace robocall back to source"
 
 [taxonomies]
-counties = ["Wayne"]
-+++
+counties = ["Wayne"]+++
 
 ## How to Trace a Spam Call
 

@@ -5,8 +5,7 @@ description = "8.9 million requests. 258,575 unique IPs. Anthropic, OpenAI, Meta
 weight = 13
 
 [extra]
-keywords = "membrane traffic, Anderson localization, immune system, behavioral fingerprinting, skunky-ingest, epitope classification, Anthropic, OpenAI, Meta, Microsoft Azure, scyBorg"
-+++
+keywords = "membrane traffic, Anderson localization, immune system, behavioral fingerprinting, skunky-ingest, epitope classification, Anthropic, OpenAI, Meta, Microsoft Azure, scyBorg"+++
 
 ## Two Realities
 

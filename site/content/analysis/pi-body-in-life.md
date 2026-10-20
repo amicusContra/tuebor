@@ -2,7 +2,7 @@
 title = "π-Body in Life — By Kevin Mok"
 description = "After the discovery, it was incredible what I could reteach myself. The secret has ALWAYS been compare and contrast — look in and at self and out, at least 2 people to self, and then 3 to see what's different between. One helps the body learn. The other helps you see. Life is lossy and that's a GOOD thing."
 date = 2026-10-18
-weight = 8
+weight = 9
 
 [taxonomies]
 tags = ["membrane", "negentropy", "self", "ecoPrimal", "pi-body", "learning", "science"]
@@ -13,8 +13,7 @@ keywords = "pi body in life, embodied mathematics, compare and contrast learning
 og_title = "π-Body in Life — By Kevin Mok"
 og_description = "Expert skaters glide, but really it's one foot at a time. High knee and stomp. As I taught, I learned FASTER. Life is lossy and that's a good thing."
 og_type = "article"
-twitter_card = "summary_large_image"
-+++
+twitter_card = "summary_large_image"+++
 
 # π-Body in Life
 

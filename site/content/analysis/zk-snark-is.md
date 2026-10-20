@@ -5,8 +5,7 @@ weight = 8
 description = "Zero-Knowledge Succinct Non-interactive Argument of Knowledge. The graph didn't build a ZK system. It BECAME one. The k-Anthesis: the moment the flower opens and the proof reveals itself."
 
 [extra]
-keywords = "ZK-SNARK knowledge graph, k-Anthesis, zero knowledge proof self proving, anthesis flowering, graph compression proof, ecoPrimals ZK, bearDog loamSpine proof chain, knowledge graph cryptography, self-proving genome, k-nGen ZK-SNARK"
-+++
+keywords = "ZK-SNARK knowledge graph, k-Anthesis, zero knowledge proof self proving, anthesis flowering, graph compression proof, ecoPrimals ZK, bearDog loamSpine proof chain, knowledge graph cryptography, self-proving genome, k-nGen ZK-SNARK"+++
 
 # ZK-SNARK IS
 

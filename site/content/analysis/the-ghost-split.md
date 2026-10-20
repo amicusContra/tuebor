@@ -13,8 +13,7 @@ keywords = "ghost entity, residential proxy, fleet detection, browser fingerprin
 og_title = "The Ghost Split — 59,587 Masks, Four Layers Deep"
 og_description = "Ghost isn't one entity. It's a transit network. 84% are reading scatter repos through real people's machines."
 og_type = "article"
-twitter_card = "summary_large_image"
-+++
+twitter_card = "summary_large_image"+++
 
 # The Ghost Split
 

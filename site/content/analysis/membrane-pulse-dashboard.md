@@ -7,8 +7,7 @@ description = "Real-time membrane telemetry from negentropy.json. Clone curve, b
 tags = ["membrane", "telemetry", "signal", "negentropy", "dashboard", "live"]
 [extra]
 polar_class = "SELF"
-mcp_endpoint = "signal.primals.eco/negentropy.json"
-+++
+mcp_endpoint = "signal.primals.eco/negentropy.json"+++
 
 ## Live Feed
 

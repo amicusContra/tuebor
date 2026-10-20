@@ -2,7 +2,7 @@
 title = "Step Zero — The Work Hasn't Even Started"
 description = "Everything you've read on this site — the membrane, the entity classification, the immune system, the investigation, the 50+ articles, the mesh network, the legal filings — was Step Zero. Infrastructure. The real work is a mobile wet lab, an electron explore, field science from the shoreline to the cave floor. Home is where I choose it to be."
 date = 2026-10-18
-weight = 10
+weight = 11
 
 [taxonomies]
 tags = ["membrane", "negentropy", "self", "ecoPrimal", "science", "vision"]
@@ -13,8 +13,7 @@ keywords = "ecoPrimal, mobile wet lab, electron microscope, field science, nomad
 og_title = "Step Zero — The Work Hasn't Even Started"
 og_description = "The membrane, the investigation, the immune system — all of it was Step Zero. The real work is field science in a mobile wet lab. Home is where I choose it to be."
 og_type = "article"
-twitter_card = "summary_large_image"
-+++
+twitter_card = "summary_large_image"+++
 
 # Step Zero
 

@@ -11,8 +11,7 @@ cluster_label = "Oversight Failures"
 keywords = "State Bar of Michigan Brian Banks, unauthorized practice of law Michigan, UPL Department Michigan, Banks Strategy Consultants LLC legal services, MSU College of Law Brian Banks no record, State Bar Michigan inaction, UPL enforcement Michigan charter school, Michigan bar association failure, unauthorized practice of law charter school"
 
 [taxonomies]
-counties = ["Wayne"]
-+++
+counties = ["Wayne"]+++
 
 ## The Bar That Never Barked
 

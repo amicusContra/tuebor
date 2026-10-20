@@ -11,8 +11,7 @@ cluster_label = "Dark Money Pipeline"
 keywords = "Walton Family Foundation Purpose Charter Academy, Walton Foundation charter schools Detroit, DeVos Foundation American Federation for Children, Walton Foundation The 74 media, Walton Foundation Roland Martin funding, dark money charter school pipeline Michigan, Betsy DeVos American Federation for Children, DeVos GLEP Michigan, Walton Foundation inaction Brian Banks, charter school philanthropy extraction"
 
 [taxonomies]
-counties = ["Wayne"]
-+++
+counties = ["Wayne"]+++
 
 ## The Money Garden
 

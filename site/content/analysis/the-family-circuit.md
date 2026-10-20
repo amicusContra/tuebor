@@ -1,15 +1,14 @@
 +++
 title = "The Family Circuit — Mom, Dad, and Chipmunk"
 date = 2026-10-18
-weight = 5
+weight = 8
 description = "When no one is looking, the membrane still breathes. Three observers, four loops, and the question that went unanswered 531 times."
 
 [taxonomies]
 tags = ["membrane", "observation", "family", "dialogue", "circuit"]
 
 [extra]
-author = "tuebor"
-+++
+author = "tuebor"+++
 
 ## The Beat
 

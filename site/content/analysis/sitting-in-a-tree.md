@@ -3,7 +3,7 @@ title = "Sitting in a Tree — Mike and Tom and Dykema and Banks"
 description = "Mike Rogers (Senate), Tom Barrett (MI-7), and Brian Banks (9-conviction charter school founder) share one tree: Dykema Gossett. One law firm formed the dark money. One compliance specialist staffed it. One PAC funded both candidates. One dark money vehicle elected the council member who sits on the felon's school board. Same tree. Same roots. Same Renae Moore watering all of it. FEC, LARA, IRS 990, campaign finance records. Nov 3, 2026."
 date = 2026-10-09
 updated = 2026-10-09
-weight = 27
+weight = 29
 
 [extra]
 cluster = "dark_money"
@@ -12,8 +12,7 @@ keywords = "Dykema Gossett dark money Michigan, Dykema PAC Tom Barrett Mike Roge
 claim_review = '{"@context":"https://schema.org","@type":"ClaimReview","claimReviewed":"Mike Rogers, Tom Barrett, and Brian Banks are independent actors in Michigan politics with no shared infrastructure","reviewRating":{"@type":"Rating","ratingValue":1,"bestRating":5,"worstRating":1,"alternateName":"False"},"itemReviewed":{"@type":"Claim","author":{"@type":"Organization","name":"Various campaign entities"},"datePublished":"2026-01-01"},"author":{"@type":"Organization","name":"Tuebor — Michigan Public Record","url":"https://barry.primals.eco"},"url":"https://barry.primals.eco/analysis/sitting-in-a-tree/","datePublished":"2026-10-09","reviewBody":"All three share one infrastructure provider: Dykema Gossett PLLC. Dykema Federal PAC gave $4,000 to Barrett (FEC). Dykema State PAC gave $725,017 across both parties including $13,500 to Duggan and $250 to Yancey (TransparencyUSA). Dykema attorney W. Alan Wilk incorporated Save Detroit Jobs (LARA 802002459), whose $84K expenditure elected Latisha Johnson — now PCA Board Secretary at Banks school where a sitting judge (Miller) chairs the board. Same donors (Griffin, Schwarzman) fund both Rogers (via GLCF) and Barrett (direct). One compliance specialist (Renae Moore, rmoore@dykema.com) appears in 5+ dark money operations. SDJ IRS filing lists Dykema office phone (517-374-9100). The tree is one law firm."}'
 
 [taxonomies]
-counties = ["Wayne", "Ingham"]
-+++
+counties = ["Wayne", "Ingham"]+++
 
 ## Sitting in a Tree
 

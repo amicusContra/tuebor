@@ -11,8 +11,7 @@ connections = ["pi-body proof", "architecture", "membrane", "topology", "null di
 [extra]
 keywords = "pi compression, prime sequence, pi cubed, null fraction pi unity, one over pi, system bipolarity, hard soft boundary, membrane topology pi, circle constant, diameter circumference ratio, bipolar metrics, natural resting point, power of pi, stuck surfaces, pi body proof"
 og_title = "The π Compression — Every System Breathes in Units of π"
-og_description = "31 stuck surfaces = π³. null × π = 1. Everything compresses to a power of π. The system was always a circle."
-+++
+og_description = "31 stuck surfaces = π³. null × π = 1. Everything compresses to a power of π. The system was always a circle."+++
 
 ## Thesis
 

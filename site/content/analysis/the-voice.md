@@ -5,8 +5,7 @@ date = 2026-10-12
 weight = 18
 
 [extra]
-keywords = "Roland Martin Black community voice, Walton Family Foundation Black charter schools, Brian Banks Pahara Fellow Detroit, Save Detroit Jobs officers Kenneth Daniels, Dykema Gossett Renae Moore dark money, NAACP Freedom Fund Dinner Detroit Lansing, School Choice Is the Black Choice Walton, charter school narrative infrastructure, who speaks for Black Detroit, credential washing pipeline"
-+++
+keywords = "Roland Martin Black community voice, Walton Family Foundation Black charter schools, Brian Banks Pahara Fellow Detroit, Save Detroit Jobs officers Kenneth Daniels, Dykema Gossett Renae Moore dark money, NAACP Freedom Fund Dinner Detroit Lansing, School Choice Is the Black Choice Walton, charter school narrative infrastructure, who speaks for Black Detroit, credential washing pipeline"+++
 
 ## The Claim
 

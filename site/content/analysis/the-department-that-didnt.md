@@ -11,8 +11,7 @@ cluster_label = "Oversight Failures"
 keywords = "Detroit Police Department Brian Banks jurisdiction, DPD PCA jurisdiction, Detroit police charter school fraud, Bettison police chief Sheffield appointment, DPD Plante Moran same pattern, Detroit police failure Banks, DPD charter school oversight, Detroit PD jurisdiction PCA"
 
 [taxonomies]
-counties = ["Wayne"]
-+++
+counties = ["Wayne"]+++
 
 ## The Department That Didn't
 

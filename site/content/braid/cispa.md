@@ -5,8 +5,7 @@ description = "Shannon entropy H=0.00, degree 1, immune pressure 0%. Every conne
 weight = 6
 
 [extra]
-keywords = "CISPA (Cyber Intelligence Sharing and Protection Act) data braid, CISPA (Cyber Intelligence Sharing and Protection Act) Shannon entropy, CISPA (Cyber Intelligence Sharing and Protection Act) immune pressure, tuebor evidence braid"
-+++
+keywords = "CISPA (Cyber Intelligence Sharing and Protection Act) data braid, CISPA (Cyber Intelligence Sharing and Protection Act) Shannon entropy, CISPA (Cyber Intelligence Sharing and Protection Act) immune pressure, tuebor evidence braid"+++
 
 ## Braid Metrics
 

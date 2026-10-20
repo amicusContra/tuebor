@@ -2,10 +2,10 @@
 title = "FOIA and Your Michigan School Board — Clutch Justice (Sep 2026)"
 description = "Clutch Justice legal roadmap for parents to FOIA charter school records under Michigan law. Cross-referenced to our evidence library."
 date = 2026-09-23
+weight = 8
 
 [extra]
-keywords = "FOIA Michigan charter school, MCL 15.231, school board records request, parent rights charter school, Clutch Justice FOIA guide"
-+++
+keywords = "FOIA Michigan charter school, MCL 15.231, school board records request, parent rights charter school, Clutch Justice FOIA guide"+++
 
 ## The Article
 

@@ -11,8 +11,7 @@ cluster_label = "Oversight Failures"
 keywords = "Central Michigan University charter school authorization, CMU PCA authorization no background check, CMU Brian Banks Purpose Charter Academy, CMU charter school authorizer Michigan, CMU pattern match Enron Theranos Wirecard, charter school authorizer background check Michigan, CMU MacDowell authorization, CMU charter school oversight failure"
 
 [taxonomies]
-counties = ["Wayne"]
-+++
+counties = ["Wayne"]+++
 
 ## The Authorizer
 

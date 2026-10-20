@@ -11,8 +11,7 @@ cluster_label = "Governance Web"
 keywords = "Joseph Holland Jr Brian Banks, Holland Banks romantic partner, Banks Living Trust successor trustee, Joseph Holland Purpose Charter Academy, Holland exploitation Banks, Holland 785 edges investigation, Holland co-investigation charter fraud, Banks inner circle"
 
 [taxonomies]
-counties = ["Wayne"]
-+++
+counties = ["Wayne"]+++
 
 ## The Boyfriend
 

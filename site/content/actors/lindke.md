@@ -2,14 +2,13 @@
 title = "Kevin Lindke — The Client"
 date = 2026-10-07
 description = "Ellison's client in the SLAPP suit and the Supreme Court case. Convicted of using computers to commit a crime. Registered domains in a child's name. Coordinated harassment through 21,000-member Facebook group. Served 272 days. PPOs from multiple counties."
-weight = 15
+weight = 14
 
 [extra]
 keywords = "Kevin Lindke Through My Eyes, Kevin Lindke Facebook, Kevin Lindke Port Huron, Kevin Lindke convicted, Kevin Lindke Ellison, Lindke v Freed Supreme Court, Kevin Lindke harassment, Kevin Lindke PPO, Kevin Lindke St Clair County, Kevin Lindke sentenced, Through My Eyes Facebook group, Kevin Lindke domains, Kevin Lindke stalking, Clutch Justice Lindke, Kevin Lindke SLAPP suit, Kevin Lindke Rita Williams"
 
 [taxonomies]
-counties = ["St. Clair", "Macomb"]
-+++
+counties = ["St. Clair", "Macomb"]+++
 
 ## Identity
 

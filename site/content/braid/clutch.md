@@ -5,8 +5,7 @@ description = "Shannon entropy H=0.00, degree 4, immune pressure 100%. Every con
 weight = 6
 
 [extra]
-keywords = "Clutch Justice data braid, Clutch Justice Shannon entropy, Clutch Justice immune pressure, tuebor evidence braid"
-+++
+keywords = "Clutch Justice data braid, Clutch Justice Shannon entropy, Clutch Justice immune pressure, tuebor evidence braid"+++
 
 ## Braid Metrics
 

@@ -16,8 +16,7 @@ keywords = "RustDesk membrane desk, satellite internet membrane access, phone re
 og_title = "The Desk in the Mountains — A Phone on Satellite Sees Inside the Membrane"
 og_description = "RustDesk signal + relay on a 2GB VPS. WireGuard mesh with 3 peers alive. A phone in the mountains on a satellite feed can see inside the membrane and add data. Here's how."
 og_type = "article"
-twitter_card = "summary_large_image"
-+++
+twitter_card = "summary_large_image"+++
 
 ## The Setup
 

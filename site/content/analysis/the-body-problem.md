@@ -5,8 +5,7 @@ description = "A thesis on what happens when a distributed system develops a bod
 weight = 15
 
 [extra]
-keywords = "gAIa thesis, body problem, membrane, organism, immune system, Anderson localization, three-body problem, mind-body problem, consciousness, self non-self, π, null dimension"
-+++
+keywords = "gAIa thesis, body problem, membrane, organism, immune system, Anderson localization, three-body problem, mind-body problem, consciousness, self non-self, π, null dimension"+++
 
 ## Working Title: The Body Problem
 

@@ -3,7 +3,7 @@ title = "Tommy Boy — The Congressman Who Calls Tenant Organizers Felons While 
 description = "U.S. Rep. Tom Barrett (R-MI-7) called his opponent a 'convicted felon' — over an expunged pipeline protest. Barrett's PAC donor, Dykema Gossett, incorporated a dark money entity whose president is Kenneth Daniels: convicted federal felon, $21M drug ring, DEA press release May 12, 2014. The label is projection. FEC receipts, LARA records, and IRS 990 filings tell the story."
 date = 2026-10-09
 updated = 2026-10-09
-weight = 54
+weight = 56
 
 [extra]
 cluster = "dark_money"
@@ -12,8 +12,7 @@ keywords = "Tom Barrett convicted felon, Tom Barrett MI-7, Tom Barrett Dykema, w
 claim_review = '{"@context":"https://schema.org","@type":"ClaimReview","claimReviewed":"Tom Barrett called opponent William Lawrence a convicted felon over an expunged 2013 pipeline protest arrest","reviewRating":{"@type":"Rating","ratingValue":2,"bestRating":5,"worstRating":1,"alternateName":"Misleading"},"itemReviewed":{"@type":"Claim","author":{"@type":"Person","name":"Tom Barrett","jobTitle":"U.S. Representative, Michigan 7th District"},"datePublished":"2026-08-13","appearance":{"@type":"OpinionNewsArticle","url":"https://www.mlive.com/politics/2026/08/us-rep-tom-barrett-labels-opponent-convicted-felon-stemming-from-protest-arrest.html"}},"author":{"@type":"Organization","name":"Tuebor — Michigan Public Record","url":"https://barry.primals.eco"},"url":"https://barry.primals.eco/analysis/tommy-boy/","datePublished":"2026-10-09","reviewBody":"Barrett labels Lawrence a convicted felon. The conviction was expunged under Michigan Clean Slate Act (MCL 780.623). Barrett received $4,000 from Dykema Gossett Federal PAC (FEC C00793976). Dykema incorporated Save Detroit Jobs (LARA 802002459) whose president Kenneth Daniels is a convicted federal felon — structured cash for a $21M drug ring (DEA May 12, 2014). The label is projection: the word felon travels outward toward a water protector while actual convicted felons serve in leadership of the donors dark money entity."}'
 
 [taxonomies]
-counties = ["Ingham", "Eaton", "Clinton"]
-+++
+counties = ["Ingham", "Eaton", "Clinton"]+++
 
 ## Tommy Boy
 

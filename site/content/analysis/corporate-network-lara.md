@@ -1,7 +1,7 @@
 +++
 title = "The Corporate Network — LARA Entity Analysis"
 description = "Every business entity connected to Brian Banks and the institutional capture network, sourced entirely from Michigan LARA public records. Twelve Banks entities. A charter school board stacked with the attorney suing on his behalf. A dark money vehicle with three names set up by Michigan's largest law firm. A print shop that also runs obituaries4less.com."
-weight = 54
+weight = 64
 date = 2026-10-04
 updated = 2026-10-04
 
@@ -11,8 +11,7 @@ keywords = "Brian Banks LARA entities, Purpose Charter Academy board, Save Detro
 [taxonomies]
 actors = ["Brian Banks", "Joseph Holland", "Carlton Ross", "Terrence Tarver", "Lamar Moreland", "Latisha Johnson", "Cylenthia Miller", "Devin Hutchings", "Major Clora", "Jason Gordon", "Larry Thomas Jr", "Carol Banks", "Kenneth Daniels", "W Spencer Leach", "Verkeydia Hall", "Gwendolyn Lewis", "Beverly Nakenge", "Brian Meiste"]
 entities = ["Purpose Charter Academy", "Purpose Group LLC", "Purpose Foundation", "Banks Strategy and Consultants", "Right Turn Project", "Save Detroit Jobs", "Detroit Leaders", "Impact Detroit", "Inner Link Graphics", "Custom Promotions", "Deen Legal Services", "Original Eastside Slate", "Anchor Rock Services", "Serenity Guardianship Services", "WhitlowBanks LLC", "Great Lakes Legal Group", "Crump Hall of Justice Law Firm", "Dykema Gossett"]
-connections = ["LARA entity", "registered agent", "corporate network", "self-dealing", "dissolve and reform", "dark money", "annual report violation"]
-+++
+connections = ["LARA entity", "registered agent", "corporate network", "self-dealing", "dissolve and reform", "dark money", "annual report violation"]+++
 
 ## How to Read This Page
 

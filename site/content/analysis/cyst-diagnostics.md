@@ -13,8 +13,7 @@ keywords = "cyst diagnostics, root cause analysis, source trace, encapsulation, 
 og_title = "Cyst Diagnostics — The Victim Is Not the Cause"
 og_description = "A cyst is the body's response, not the disease. Targeting it doesn't find root cause. A new diagnostic principle for living systems."
 og_type = "article"
-twitter_card = "summary_large_image"
-+++
+twitter_card = "summary_large_image"+++
 
 # Cyst Diagnostics — The Victim Is Not the Cause
 

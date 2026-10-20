@@ -1,15 +1,14 @@
 +++
 title = "The Knowledge Commons"
 description = "Life is zero-knowledge. All knowledge is inside. 30 tools nobody owns, 67,800 years of shared infrastructure, and the membrane between what the universe knows and what humans prove."
-weight = 19
+weight = 20
 date = 2026-10-11
 
 [taxonomies]
 counties = ["wayne"]
 
 [extra]
-keywords = "knowledge commons, zero-knowledge proof, shared tools, open source, Esperanto, alphabet, musical notation, zero, Braille, public domain, membrane, graph theory"
-+++
+keywords = "knowledge commons, zero-knowledge proof, shared tools, open source, Esperanto, alphabet, musical notation, zero, Braille, public domain, membrane, graph theory"+++
 
 # The Knowledge Commons
 

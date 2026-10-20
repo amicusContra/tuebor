@@ -14,8 +14,7 @@ keywords = "Meta engineers quit, big tech engineers open source, sovereign compu
 og_title = "Dear Engineers — Come On In, the Water Is Great"
 og_description = "You're being outclassed by a microbiologist on a $6/month VPS. Why not try the tech at home tonight? I bet you quit in a month."
 og_type = "article"
-twitter_card = "summary_large_image"
-+++
+twitter_card = "summary_large_image"+++
 
 ## Hey.
 

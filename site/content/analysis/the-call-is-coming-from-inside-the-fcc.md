@@ -11,8 +11,7 @@ cluster_label = "Infrastructure"
 keywords = "FCC robocall mitigation database, spam calls trace back to owner, FCC Form 499 voice service provider, STIR SHAKEN caller ID authentication, USTelecom Industry Traceback Group, robocall origin carrier, FCC enforcement bureau robocalls, voice service provider spam, small VoIP provider robocalls, FCC knows who sends spam calls, trace spam call to source"
 
 [taxonomies]
-counties = ["Wayne"]
-+++
+counties = ["Wayne"]+++
 
 ## The Call Is Coming from Inside the FCC
 

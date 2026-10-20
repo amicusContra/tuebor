@@ -9,8 +9,7 @@ weight = 10
 keywords = "FCC robocall fine collection rate, FCC enforcement actions robocalls, FCC proposed fines vs collected, robocall gateway carrier shutdown, FCC STIR SHAKEN enforcement, FCC cease and desist robocall, robocall fine never collected, FCC enforcement pattern selective"
 
 [taxonomies]
-counties = ["Wayne"]
-+++
+counties = ["Wayne"]+++
 
 ## FCC Robocall Enforcement: What the Numbers Show
 

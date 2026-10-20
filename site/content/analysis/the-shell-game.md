@@ -11,8 +11,7 @@ cluster_label = "Banks Investigation"
 keywords = "Inner Link LLC Brian Banks, Banks Strategy Consultants LLC, Purpose Group LLC shell companies, Brian Banks LLCs Michigan, Banks shell company network, judge yancey campaign payments Inner Link, Banks Strategy non-self classification, Brian Banks 14 LLCs, shell company extraction charter school, LARA filings Brian Banks"
 
 [taxonomies]
-counties = ["Wayne"]
-+++
+counties = ["Wayne"]+++
 
 ## The Shell Game
 

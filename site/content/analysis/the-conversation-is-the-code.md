@@ -14,8 +14,7 @@ keywords = "K-NOME programming, conversational programming AI, artisan AI develo
 og_title = "The Conversation Is the Code — K-NOME Programming"
 og_description = "3.6M lines of Rust. I haven't typed a line outside a conversation box in a year. I read and build hardware. The artisan writes code. This is K-NOME."
 og_type = "article"
-twitter_card = "summary_large_image"
-+++
+twitter_card = "summary_large_image"+++
 
 ## The Confession
 

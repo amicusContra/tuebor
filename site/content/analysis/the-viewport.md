@@ -5,8 +5,7 @@ weight = 10
 description = "The children of Detroit stare at screens all day. What if those screens showed them the universe? The graph has 10,204 facts about everything from Planck length to the observable cosmos. The NPU translates. The screen becomes a viewport. Every child gets the same window."
 
 [extra]
-keywords = "education viewport, screen as window to universe, Detroit children technology, NPU education, knowledge graph for children, sovereign education technology, screen to cosmos, chipMUNK education, ecoPrimals viewport, every child same window"
-+++
+keywords = "education viewport, screen as window to universe, Detroit children technology, NPU education, knowledge graph for children, sovereign education technology, screen to cosmos, chipMUNK education, ecoPrimals viewport, every child same window"+++
 
 # The Viewport
 

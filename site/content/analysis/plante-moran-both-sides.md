@@ -5,8 +5,7 @@ description = "How Plante Moran audits Detroit's charter school authorizer while
 weight = 15
 
 [extra]
-keywords = "Plante Moran conflict of interest, Plante Moran Realpoint Ahmed Beasley, DPSCD audit charter school, Detroit charter school accountability, Bill Lichwalla, Jason Drake, Betsy DeVos charter Michigan"
-+++
+keywords = "Plante Moran conflict of interest, Plante Moran Realpoint Ahmed Beasley, DPSCD audit charter school, Detroit charter school accountability, Bill Lichwalla, Jason Drake, Betsy DeVos charter Michigan"+++
 
 ## The Firm on Both Sides of the Table
 

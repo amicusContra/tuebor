@@ -2,14 +2,13 @@
 title = "Julie Nakfoor Pratt"
 date = 2026-10-06
 description = "Barry County Prosecuting Attorney. Private admonishment (MRPC 3.4(e)). Brady/Giglio failures. FOIA obstruction. Ruled Johnson deputy shooting justified."
-weight = 26
+weight = 25
 
 [extra]
 keywords = "Julie Nakfoor Pratt Barry County prosecutor, Nakfoor Pratt private admonishment, Barry County prosecuting attorney, Nakfoor Pratt Brady violation, Nakfoor Pratt FOIA obstruction, Jeremiah Johnson shooting Barry County, Bryan Fuller MSP Barry County, Nakfoor Pratt MRPC 3.4, Michigan prosecutor misconduct, Clutch Justice Nakfoor Pratt"
 
 [taxonomies]
-counties = ["Barry"]
-+++
+counties = ["Barry"]+++
 
 ## Identity
 

@@ -3,14 +3,13 @@ title = "How to Look Up Campaign Finance Records in Michigan"
 description = "Step-by-step guide to searching Michigan campaign finance records. Use this to find payments from Judge Yancey to Banks Strategy & Consultants LLC and Inner Link LLC, campaign donations from Judge Miller, PAC activity from Save Detroit Jobs and Dykema, and any political money flowing to or from entities in the investigation."
 date = 2026-10-14
 updated = 2026-10-14
-weight = 6
+weight = 7
 
 [extra]
 keywords = "Michigan campaign finance search, campaign finance lookup Michigan, judge campaign contributions Michigan, PAC filings Michigan, Yancey campaign Banks Strategy, campaign finance records Detroit, Michigan Secretary of State campaign finance, dark money Michigan PAC"
 
 [taxonomies]
-counties = ["Wayne"]
-+++
+counties = ["Wayne"]+++
 
 ## How to Look Up Campaign Finance Records
 

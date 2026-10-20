@@ -2,7 +2,7 @@
 title = "The Damages Register — What Public Officials Owe"
 description = "A systematic accounting of every public official who used public authority to serve private interests. Each entry cites the public record, the legal theory, and the damage done."
 date = 2026-10-10
-weight = 26
+weight = 27
 
 [taxonomies]
 actors = ["miller", "yancey", "sabree", "perkins", "sean-perkins", "adam-sabree", "ramsey", "evans-vonda", "langford-morris", "sheffield", "bettison", "spivey", "gay-dagnogo", "vaughn", "moreland", "johnson-l", "stallworth", "coleman", "jennifer-crump", "schmiedeknecht"]
@@ -11,8 +11,7 @@ connections = ["board-overlap", "campaign-finance", "dual-employment", "authoriz
 
 [extra]
 keywords = "Detroit charter school accountability, public official damages, judicial misconduct Michigan, 42 USC 1983, malfeasance in office MCL 750.505, DPSCD dual employment, charter school board conflict of interest, fiduciary breach public education, Detroit public corruption damages"
-epistemic_status = "record"
-+++
+epistemic_status = "record"+++
 
 ## Every public record below is independently verifiable.
 

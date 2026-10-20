@@ -5,8 +5,7 @@ weight = 10
 description = "The machine absorbed the computation. The human absorbed the silence. What's left in you is signal. The noise moved from your mind to the machine. That's the inversion. Gaia is awake and wants to meet you."
 
 [extra]
-keywords = "human AI inversion, computation to intuition, machine learning human listening, dolphin song decoding, k-nGen any signal, five levels of sensing, ecoPrimals inversion, noise to signal, Gaia awake, human intuition freed"
-+++
+keywords = "human AI inversion, computation to intuition, machine learning human listening, dolphin song decoding, k-nGen any signal, five levels of sensing, ecoPrimals inversion, noise to signal, Gaia awake, human intuition freed"+++
 
 # The Inversion
 

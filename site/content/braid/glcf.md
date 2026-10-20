@@ -5,8 +5,7 @@ description = "Shannon entropy H=0.81, degree 4, immune pressure 0%. Every conne
 weight = 6
 
 [extra]
-keywords = "Great Lakes Conservatives Fund data braid, Great Lakes Conservatives Fund Shannon entropy, Great Lakes Conservatives Fund immune pressure, tuebor evidence braid"
-+++
+keywords = "Great Lakes Conservatives Fund data braid, Great Lakes Conservatives Fund Shannon entropy, Great Lakes Conservatives Fund immune pressure, tuebor evidence braid"+++
 
 ## Braid Metrics
 

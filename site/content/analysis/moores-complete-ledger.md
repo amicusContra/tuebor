@@ -2,7 +2,7 @@
 title = "Moore's Complete Ledger — Every Account, Every Entity, Every Fraud Pattern"
 description = "Renae Moore manages 43+ nonprofit organizations, 5+ federal PACs, and at least 6 state-level committees from one desk at Dykema Gossett. She has been named in a $1,000,000 money laundering complaint. The FEC flagged her filings. She testified she has 'no duty to report.' Here is every account — and here is which ones show the same pattern as the ones that already exploded."
 date = 2026-10-17
-weight = 42
+weight = 40
 
 [taxonomies]
 actors = ["Renae Moore", "W. Alan Wilk", "Lee Chatfield", "AG Dana Nessel", "Hill Harper", "Thomas Albert", "Brian Banks"]
@@ -14,8 +14,7 @@ keywords = "Renae Moore all accounts complete list, Renae Moore Dykema nonprofit
 og_title = "Moore's Complete Ledger: 43 Nonprofits. 5 PACs. 1 Desk. 1 $1M Money Laundering Complaint."
 og_description = "Every account Renae Moore touches from 201 Townsend St, Lansing. 43 nonprofits, 5+ federal PACs, 6+ state committees, 1 campaign finance complaint for $1M money laundering, 1 FEC flag. She testified she has 'no duty to report.' The ledger says otherwise."
 og_type = "article"
-twitter_card = "summary_large_image"
-+++
+twitter_card = "summary_large_image"+++
 
 ## The Complete Ledger
 

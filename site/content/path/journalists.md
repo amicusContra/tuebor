@@ -1,12 +1,11 @@
 +++
 title = "For Journalists — The Evidence Package"
 description = "Everything is sourced from public records. Clone the git repository. No FOIA required. Full citation support (CFF 1.2.0). Structured data available as JSON, CSV, and TOML."
-weight = 16
+weight = 18
 date = 2026-10-05
 
 [extra]
-keywords = "Detroit charter school investigation evidence, journalist resource Brian Banks, public record evidence package Detroit, how to cite detroit charter school investigation, charter school fraud evidence database, FOIA free Detroit investigation"
-+++
+keywords = "Detroit charter school investigation evidence, journalist resource Brian Banks, public record evidence package Detroit, how to cite detroit charter school investigation, charter school fraud evidence database, FOIA free Detroit investigation"+++
 
 ## How to Use This
 

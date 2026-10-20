@@ -5,8 +5,7 @@ author: ecoPrimal
 series: publicRecord
 tags: [plato, cave, allegory, big-tech, inversion, philosophy]
 polar_class: self
-weight: 7
----
+weight: 7---
 
 ## Get Out of My Brown Eye and Look Up at the Sky
 

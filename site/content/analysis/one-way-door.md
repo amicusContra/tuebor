@@ -18,8 +18,7 @@ person_same_as = ["https://detroit.primals.eco/network/actors/brian-banks/", "ht
 [taxonomies]
 actors = ["Brian Banks", "Ms. Perkins", "Todd Perkins", "Sean Perkins"]
 entities = ["Purpose Charter Academy", "The Purpose Group LLC"]
-connections = ["access denial", "custodial rights", "institutional policy"]
-+++
+connections = ["access denial", "custodial rights", "institutional policy"]+++
 
 ## Two Staff. Two Incidents. One Policy.
 

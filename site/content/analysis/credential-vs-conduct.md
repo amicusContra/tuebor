@@ -2,7 +2,7 @@
 title = "Credential vs. Conduct — The Ellison Paradox"
 date = 2026-10-07
 description = "A structured analysis of every credential claim Philip L. Ellison makes and the documented conduct that contradicts it. The resume says civil rights champion. The docket says sanctioned, reversed, and representing a convicted harasser."
-weight = 79
+weight = 78
 
 [extra]
 cluster = "methodology"
@@ -10,8 +10,7 @@ cluster_label = "Methodology"
 keywords = "Philip Ellison credentials, Outside Legal Counsel reputation, Ellison Super Lawyers, Ellison SCOTUS win, Ellison sanctions, Ellison FOIA expert, Ellison civil rights, Philip Ellison hypocrisy, Ellison SLAPP suit, Ellison credential analysis, Michigan attorney credential washing, Ellison Kanuszewski reversed, Ellison FOIAworks operator, Philip Ellison OLC, Clutch Justice Ellison analysis, Ellison Pung SCOTUS, Ellison tire chalking, Ellison Oakley police corruption"
 
 [taxonomies]
-counties = ["Saginaw"]
-+++
+counties = ["Saginaw"]+++
 
 ## The Resume
 

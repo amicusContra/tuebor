@@ -11,8 +11,7 @@ keywords = "Detroit institutional capture, four nexus corruption, Brian Banks ch
 [taxonomies]
 actors = ["Brian Banks", "Todd Bettison", "Mary Sheffield", "Lamar Moreland", "Nicole Wells Stallworth", "Thomas Stallworth III", "Tenisha Yancey", "Todd Perkins", "Sherry Gay-Dagnogo", "Cylenthia LaToye Miller", "Latisha Johnson", "Gloria McCastle", "Joseph Holland", "Gasper Fiore", "Andre Spivey", "Bert Johnson", "Gabe Leland", "Eric Sabree", "Warren Evans"]
 entities = ["MacDowell Preparatory Academy", "Purpose Charter Academy", "Purpose Group LLC", "Detroit Public Safety Academy", "DPSA", "Inner Link Graphics", "Bank on Banks PAC", "Right Turn Project", "Banks Strategy and Consultants", "Michigan Deserves Better SuperPAC", "Operation Northern Hook"]
-connections = ["institutional capture", "credential washing", "police weaponization", "political nexus", "education fraud", "FBI wiretap"]
-+++
+connections = ["institutional capture", "credential washing", "police weaponization", "political nexus", "education fraud", "FBI wiretap"]+++
 
 {{ lens(active="capture") }}
 

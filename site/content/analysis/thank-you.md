@@ -2,7 +2,7 @@
 title = "Thank You"
 description = "To Bruce Lee and Shannon. To Robin Wall Kimmerer. To the people who kept telling the same story until I finally stopped to listen."
 date = 2026-10-18
-weight = 7
+weight = 9
 
 [taxonomies]
 tags = ["self", "gratitude", "learning"]
@@ -13,8 +13,7 @@ keywords = "Bruce Lee, Shannon Lee, Braiding Sweetgrass, Robin Wall Kimmerer, gr
 og_title = "Thank You"
 og_description = "You were right. Your dad was right. It hits all by itself."
 og_type = "article"
-twitter_card = "summary_large_image"
-+++
+twitter_card = "summary_large_image"+++
 
 # Thank You
 

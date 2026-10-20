@@ -14,8 +14,7 @@ keywords = "Lee Chatfield trial delayed, Mary Chartier expert witness appeal, Dy
 og_title = "The Chatfield Blockade: Every Name. Every Block. Every Way Through."
 og_description = "Lee Chatfield faces 13 felonies. The trial is delayed indefinitely. The same Dykema desk managed the defendant's fund AND the prosecutor's fund. Here's exactly who is blocking justice and how to pierce through."
 og_type = "article"
-twitter_card = "summary_large_image"
-+++
+twitter_card = "summary_large_image"+++
 
 ## The Blockade
 

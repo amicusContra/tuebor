@@ -11,8 +11,7 @@ cluster_label = "Oversight Failures"
 keywords = "Kym Worthy Wayne County Prosecutor Brian Banks, Kym Worthy jurisdiction Banks, Worthy should prosecute false reports, Wayne County prosecutor charter school fraud, Kym Worthy cavalry CMU DPSCD, Worthy partial classification, Wayne County prosecutor PCA, prosecutor charter fraud Detroit"
 
 [taxonomies]
-counties = ["Wayne"]
-+++
+counties = ["Wayne"]+++
 
 ## The Prosecutor Who Prosecutes Patterns
 

@@ -13,8 +13,7 @@ keywords = "entity classification, unsorted entities, membrane granularity, dev 
 og_title = "The Unsorted — What the Unclassified Are Telling Us"
 og_description = "The entities between mutualist and parasite are telling us who they are. We just need to refine the granularity."
 og_type = "article"
-twitter_card = "summary_large_image"
-+++
+twitter_card = "summary_large_image"+++
 
 # The Unsorted — What the Unclassified Are Telling Us
 

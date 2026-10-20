@@ -2,14 +2,13 @@
 title = "Hemlock FOIA Toolkit — How to Request Records About the Ellison Network"
 date = 2026-10-07
 description = "Ready-to-use FOIA request templates for Saginaw County agencies. Target: school board contracts, vendor agreements, FOIA compliance, recusal records. Every template cites the specific Michigan statute."
-weight = 26
+weight = 31
 
 [extra]
 keywords = "Saginaw County FOIA request, Hemlock Michigan public records, school board FOIA, Saginaw ISD records request, Michigan FOIA template, Outside Legal Counsel contracts, Hemlock Public Schools FOIA, LakeNet vendor agreement, FOIA MCL 15.231, Katherine Ellison Saginaw ISD president, Hemlock Public Schools board, Quagmire Solutions FOIA, FOIAworks Saginaw, Roscommon County property records, 4522 Higgins Lake Drive, Clutch Justice FOIA"
 
 [taxonomies]
-counties = ["Saginaw"]
-+++
+counties = ["Saginaw"]+++
 
 ## What This Page Is
 

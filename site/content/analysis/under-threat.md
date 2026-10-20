@@ -2,7 +2,7 @@
 title = "ecoPrimal Is Under Threat"
 description = "On October 16, 2026 at 7:37 PM, the subject of a public corruption investigation used the courts to silence the investigator. Brian Banks — 9 criminal convictions, operator of Purpose Charter Academy, recipient of $4.9M in public money — filed a Personal Protection Order against the person who documented it all. Case 26-114083-PH. If this signal goes dark, this is why."
 date = 2026-10-16
-weight = 14
+weight = 20
 
 [taxonomies]
 actors = ["Brian Banks"]
@@ -14,8 +14,7 @@ keywords = "ecoPrimal under threat, personal protection order retaliation, Brian
 og_title = "ecoPrimal Is Under Threat"
 og_description = "The subject of a public corruption investigation filed a restraining order against the investigator. 9 convictions. $4.9M in public money. 3% math. And his response to documented evidence was to make the evidence-sender illegal. If this signal goes dark, this is why."
 og_type = "article"
-twitter_card = "summary_large_image"
-+++
+twitter_card = "summary_large_image"+++
 
 ## 🚨 THIS INVESTIGATION IS UNDER THREAT
 

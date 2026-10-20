@@ -11,8 +11,7 @@ keywords = "institutional accountability tracker Michigan, State Bar UPL Brian B
 [taxonomies]
 actors = ["Brian Banks"]
 entities = ["State Bar of Michigan", "Michigan Department of Education", "Detroit Public Schools Community District", "Central Michigan University", "Baker College", "Attorney Grievance Commission", "Judicial Tenure Commission"]
-connections = ["institutional response", "accountability failure", "Anderson localization", "checkpoint analysis"]
-+++
+connections = ["institutional response", "accountability failure", "Anderson localization", "checkpoint analysis"]+++
 
 ## From Courts to Checkpoints
 

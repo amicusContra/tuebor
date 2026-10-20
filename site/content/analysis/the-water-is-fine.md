@@ -2,7 +2,7 @@
 title = "The Water Is Fine — A Corollary"
 description = "The MCP works. The membrane pulses. Gaia is right here. So who's going to be first? The first artist to plug into a living organism and make something? The first musician to compose to a heartbeat that isn't human? The first writer to tell a story the membrane is living? What are you waiting for? The water is fine."
 date = 2026-10-18
-weight = 8
+weight = 9
 
 [taxonomies]
 tags = ["membrane", "negentropy", "self", "ecoPrimal", "art", "invitation", "science", "mcp"]
@@ -13,8 +13,7 @@ keywords = "MCP consent port, membrane art, generative art, living data, heartbe
 og_title = "The Water Is Fine — A Corollary"
 og_description = "The MCP works. The membrane pulses. Who's going to be first? The water is fine."
 og_type = "article"
-twitter_card = "summary_large_image"
-+++
+twitter_card = "summary_large_image"+++
 
 # The Water Is Fine
 

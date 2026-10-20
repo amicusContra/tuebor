@@ -2,10 +2,10 @@
 title = "The Detroit Files, Part I: The Room — Clutch Justice (Sep 2026)"
 description = "Clutch Justice's investigation into Detroit evidentiary failures and institutional record-making. Cross-referenced to our evidence library."
 date = 2026-09-21
+weight = 5
 
 [extra]
-keywords = "Detroit Files, Clutch Justice, institutional accountability Detroit, evidentiary failure, record-making vs record-finding"
-+++
+keywords = "Detroit Files, Clutch Justice, institutional accountability Detroit, evidentiary failure, record-making vs record-finding"+++
 
 ## The Article
 

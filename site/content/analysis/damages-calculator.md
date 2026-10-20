@@ -11,8 +11,7 @@ connections = ["financial-extraction", "dark-money", "dual-employment", "authori
 
 [extra]
 keywords = "Detroit charter school damages calculator, public fund tracing, raytracing public money, charter school financial extraction, MacDowell Purpose Group extraction, dark money pipeline calculator, Michigan charter school accountability, 42 USC 1983 damages, public corruption financial analysis"
-epistemic_status = "record"
-+++
+epistemic_status = "record"+++
 
 ## $46.1 Million in Public Funds. Seven Raytraces. Twenty Public Officials.
 

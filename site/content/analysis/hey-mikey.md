@@ -287,7 +287,7 @@ November 3, 2026. Four candidates. One date. One infrastructure.
 
 Different levels. Different races. Same day. Same donor base. Same dark money infrastructure. Same [enforcement ecosystem that can't coordinate two letters](/analysis/enforcement-ecosystem/).
 
-Miller and Yancey sit on school boards with a [man with {{ fact(registry="actors", key="banks", field="conviction_count") }} criminal convictions who calls himself an attorney](https://detroit.primals.eco/network/actors/brian-banks/). The JTC is investigating. The election is in 25 days.
+Miller and Yancey sit on school boards with a [man with {{ fact(registry="actors", key="banks", field="conviction_count") }} criminal convictions who calls himself an attorney](https://detroit.primals.eco/network/people/brian-banks/). The JTC is investigating. The election is in 25 days.
 
 Barrett calls tenant organizers felons while his donor's dark money entity is run by an actual felon. The election is in 25 days.
 
@@ -379,7 +379,7 @@ One career. One direction. Always upward. Always fed.
 
 **On detroit.primals.eco:**
 - **[The Network](https://detroit.primals.eco)** — The charter school network connected to Miller, Yancey, and Banks — all on the same ballot, same day, same infrastructure.
-- **[Brian Roderick Banks — Full Profile](https://detroit.primals.eco/network/actors/brian-banks/)** — {{ fact(registry="actors", key="banks", field="conviction_count") }} convictions, credential chain, entity control, email admissions.
+- **[Brian Roderick Banks — Full Profile](https://detroit.primals.eco/network/people/brian-banks/)** — {{ fact(registry="actors", key="banks", field="conviction_count") }} convictions, credential chain, entity control, email admissions.
 - **[Data Braid — GLLG](https://detroit.primals.eco/evidence/data-braid-gllg/)** — Six independent searches converge on the defense attorney + charter authorizer sitting on the same nonprofit board.
 - **[Agency Referrals](https://detroit.primals.eco/evidence/agency-referrals/)** — Eight federal agencies, state referrals, JTC investigations. The enforcement ecosystem in action — or inaction.
 

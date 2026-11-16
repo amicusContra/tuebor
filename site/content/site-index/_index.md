@@ -14,8 +14,8 @@ Complete index of every page on this site. Use this page to find any person, ent
 ## By Section
 
 ### Network — Actors
-- [Brian Roderick Banks](/network/actors/brian-banks/) — 9 convictions, enterprise leader
-- [Joseph Holland Jr.](/network/actors/joseph-holland/) — financial gatekeeper, convicted drug offender
+- [Brian Roderick Banks](/network/people/brian-banks/) — 9 convictions, enterprise leader
+- [Joseph Holland Jr.](/network/people/joseph-holland/) — financial gatekeeper, convicted drug offender
 
 ### Network — Judges (9)
 - [Judge Cylenthia Miller](/network/judges/cylenthia-miller/) — 3rd Circuit, PCA Board Chair, 3 scandals, Nov 2026 ballot
@@ -73,7 +73,7 @@ Complete index of every page on this site. Use this page to find any person, ent
 
 These pages are auto-generated — click any term to see every page that references it.
 
-- [All Actors](/actors/) — 17 people cross-referenced
+- [All Actors](/people/) — 17 people cross-referenced
 - [All Entities](/entities/) — 12 organizations cross-referenced
 - [All Courts](/courts/) — 6 courts cross-referenced
 - [All Connection Types](/connections/) — 12 relationship types

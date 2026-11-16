@@ -14,12 +14,12 @@ keywords = "Philip Ellison attorney, Julie Gafkay judge, Andre Borrello judge, M
 
 | Actor | Role | Key Connection |
 |-------|------|---------------|
-| **[Philip L. Ellison](/actors/ellison/)** | Attorney, Outside Legal Counsel PLC (Hemlock, MI). 4 entities. 153-domain portfolio. $73K in federal sanctions. SVSU adjunct. | Fabricated witness. SLAPP suit. FOIAworks operator. Domain registration chain. |
-| **[Judge Julie A. Gafkay](/actors/gafkay/)** | **Chief Judge**, 10th Circuit Court, Saginaw County. Successor judge in SLAPP. | Former SVSU adjunct colleague of Ellison (6-year overlap). Presides over 3 simultaneous Ellison cases. Holds both sides of UPEPA judicial estoppel. |
-| **[Judge Andre R. Borrello](/actors/borrello/)** | 10th Circuit Court. Signed contempt. Denied DQ motion. Recused May 12, 2026. | Ignored fabricated witness evidence placed on his docket. |
-| **[Kelly D. Ellsworth](/actors/ellsworth/)** | Attorney, Shinners & Ellsworth PLC. Briefly represented Rita Williams. | Dissuaded her from fighting. SCBA member — same small-town bar. Family practiced in Saginaw County since 1986. |
+| **[Philip L. Ellison](/people/ellison/)** | Attorney, Outside Legal Counsel PLC (Hemlock, MI). 4 entities. 153-domain portfolio. $73K in federal sanctions. SVSU adjunct. | Fabricated witness. SLAPP suit. FOIAworks operator. Domain registration chain. |
+| **[Judge Julie A. Gafkay](/people/gafkay/)** | **Chief Judge**, 10th Circuit Court, Saginaw County. Successor judge in SLAPP. | Former SVSU adjunct colleague of Ellison (6-year overlap). Presides over 3 simultaneous Ellison cases. Holds both sides of UPEPA judicial estoppel. |
+| **[Judge Andre R. Borrello](/people/borrello/)** | 10th Circuit Court. Signed contempt. Denied DQ motion. Recused May 12, 2026. | Ignored fabricated witness evidence placed on his docket. |
+| **[Kelly D. Ellsworth](/people/ellsworth/)** | Attorney, Shinners & Ellsworth PLC. Briefly represented Rita Williams. | Dissuaded her from fighting. SCBA member — same small-town bar. Family practiced in Saginaw County since 1986. |
 | **Lisa Edgecomb** | Legal assistant to Ellison. Notarized his "no connection" affidavits. | Employee notarizing employer's sworn statements. |
-| **[Kevin Lindke](/actors/lindke/)** | Ellison's client. Convicted: using computers to commit crime. 272 days served. 21,000-member Facebook group used to coordinate harassment. | 3 harassment domains incl. minor child. ritafelinewilliams.com renewed Sep 2026. Booked St. Clair County Apr 23, 2026. Ellison stated on record Lindke "created the domains." |
+| **[Kevin Lindke](/people/lindke/)** | Ellison's client. Convicted: using computers to commit crime. 272 days served. 21,000-member Facebook group used to coordinate harassment. | 3 harassment domains incl. minor child. ritafelinewilliams.com renewed Sep 2026. Booked St. Clair County Apr 23, 2026. Ellison stated on record Lindke "created the domains." |
 | **Conrad Mallett** | Detroit Corporation Counsel. Former MSC Chief Justice. | Received Aljouny email. Cross-references Detroit dark money pipeline via Sheffield retention. |
 | **Violet Ikonomova** | Detroit Free Press reporter. Independent witness. | Received Aljouny email Sep 9, 2026. Independently suspected Ellison. |
 | **Hassan Ahmad** | Ellison's client in *Ahmad v. University of Michigan* (FOIA). | Aljouny PGP key created 4 days after Ahmad press release. |
@@ -28,14 +28,14 @@ keywords = "Philip Ellison attorney, Julie Gafkay judge, Andre Borrello judge, M
 
 | Actor | Role | Key Connection |
 |-------|------|---------------|
-| **[Judge Michael Schipper](/actors/schipper/)** | Barry County Circuit. Active JTC investigation. 6-10x guideline sentencing. | Snowden/ADA retaliation. Two MSC remands in 3 months. |
-| **[Julie Nakfoor Pratt](/actors/nakfoor-pratt/)** | Barry County Prosecutor. Private admonishment (MRPC 3.4(e)). | Brady/Giglio failures. $14.5M Fuller verdict. Johnson shooting. FOIA obstruction. |
+| **[Judge Michael Schipper](/people/schipper/)** | Barry County Circuit. Active JTC investigation. 6-10x guideline sentencing. | Snowden/ADA retaliation. Two MSC remands in 3 months. |
+| **[Julie Nakfoor Pratt](/people/nakfoor-pratt/)** | Barry County Prosecutor. Private admonishment (MRPC 3.4(e)). | Brady/Giglio failures. $14.5M Fuller verdict. Johnson shooting. FOIA obstruction. |
 
 ### Eastpointe / 38th District Investigation
 
 | Actor | Role | Key Connection |
 |-------|------|---------------|
-| **[Judge Kathleen G. Galen](/actors/galen/)** | 38th District Court. JTC confidential admonition. | Wine Bar Clause. Personnel overlap: Makoski = Treasurer + magistrate. Soward reversal. |
+| **[Judge Kathleen G. Galen](/people/galen/)** | 38th District Court. JTC confidential admonition. | Wine Bar Clause. Personnel overlap: Makoski = Treasurer + magistrate. Soward reversal. |
 
 ---
 

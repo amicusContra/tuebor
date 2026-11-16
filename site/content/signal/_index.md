@@ -193,7 +193,7 @@ overlooked — or data that was suppressed at source.
 
 | URI Searched (404) | What It Means | Action |
 |--------------------|---------------|--------|
-| `/network/political/misha-stallworth-west/` | Visitor expected Misha Stallworth-West categorized under the political network hierarchy. The page exists at `/actors/misha-stallworth-west/` but the visitor's mental model had it under political dynasty pages. | Add cross-reference or redirect |
+| `/network/political/misha-stallworth-west/` | Visitor expected Misha Stallworth-West categorized under the political network hierarchy. The page exists at `/people/misha-stallworth-west/` but the visitor's mental model had it under political dynasty pages. | Add cross-reference or redirect |
 | `/keywords` | Visitor expected a keyword/tag index for the evidence — a structured way to search across all pages by topic | Build keyword index from existing metadata |
 | `/key-analysis` | Visitor expected a key findings or key analysis summary page | Consider publishing a structured findings overview |
 
@@ -1198,7 +1198,7 @@ to informed readers. All measured from access patterns — no PII stored.
 |------|-----------|--------|
 | **`/analysis/funding-flow/`** | 5 (3rd consecutive observation window) | **Financial spine — the strongest sustained attention signal** |
 | **`/signal/`** (this page) | 6 | Readers monitoring the defense and evidence record |
-| **`/network/actors/brian-banks/`** | 2 (independent visitors) | Named entity drawing investigation attention |
+| **`/network/people/brian-banks/`** | 2 (independent visitors) | Named entity drawing investigation attention |
 | **`/network/entities/purpose-charter-academy/`** | 1 | Entity-level investigation |
 | **`/analysis/corporate-network-lara/`** | 1 | Corporate network analysis |
 

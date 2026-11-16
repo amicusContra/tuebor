@@ -14,8 +14,8 @@ person_alternate_name = "Brian Banks"
 person_description = "Subject of live permeability study — 9 convictions, 2 charter schools, documented evidence delivered to 10+ oversight bodies"
 person_job_title = "Charter School Operator"
 person_works_for = "Purpose Charter Academy"
-person_url = "https://detroit.primals.eco/network/actors/brian-banks/"
-person_same_as = ["https://detroit.primals.eco/network/actors/brian-banks/", "https://tuebor.primals.eco/analysis/they-banked-on-banks/"]
+person_url = "https://detroit.primals.eco/network/people/brian-banks/"
+person_same_as = ["https://detroit.primals.eco/network/people/brian-banks/", "https://tuebor.primals.eco/analysis/they-banked-on-banks/"]
 
 [taxonomies]
 counties = ["Ingham"]+++

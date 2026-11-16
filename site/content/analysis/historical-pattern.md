@@ -52,7 +52,7 @@ The Kilpatrick machine was brought down the way Tammany eventually fell: **feder
 
 When the old Tammany model became too visible — when federal prosecutors, wiretaps, and journalists could identify the patronage-for-votes pipeline — a new model emerged. One that doesn't need elections, doesn't need votes, doesn't need a political party. One that operates entirely through private legal structures controlling the flow of public money.
 
-[Brian Banks](/network/actors/brian-banks/) is not Boss Tweed. He is Robert Moses.
+[Brian Banks](/network/people/brian-banks/) is not Boss Tweed. He is Robert Moses.
 
 ### The Structural Parallel
 

@@ -84,7 +84,7 @@ graph TB
     class MILLER,SABREE,YANCEY,D_PERK judge
 {% end %}
 
-See: [Enterprise Principals](/network/actors/), [Entity Profiles](/network/entities/), [Judicial Cover](/network/judges/).
+See: [Enterprise Principals](/network/people/), [Entity Profiles](/network/entities/), [Judicial Cover](/network/judges/).
 
 ## Revenue Streams
 

@@ -285,7 +285,7 @@ a data point. Enough data points break the localization.
 
 ## Cross-Reference
 
-- **[Philip L. Ellison — Actor Profile](/actors/ellison/)** — full
+- **[Philip L. Ellison — Actor Profile](/people/ellison/)** — full
   entity web, domain portfolio, sanctions history, fabricated
   witness evidence
 - **[Domain Registration Campaign](/evidence/domain-registrations/)**

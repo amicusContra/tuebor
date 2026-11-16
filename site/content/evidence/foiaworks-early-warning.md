@@ -179,7 +179,7 @@ The SLAPP suit is the enforcement mechanism: if you investigate the operator, yo
 ## Cross-Reference
 
 - **[FOIAworks: No Privacy Policy](/evidence/foiaworks-honeypot/)** — full platform analysis, Terms of Service, pricing
-- **[Philip L. Ellison — Actor Profile](/actors/ellison/)** — entity web, sanctions, FOIA practice history
+- **[Philip L. Ellison — Actor Profile](/people/ellison/)** — entity web, sanctions, FOIA practice history
 - **[Anderson Localization — Hemlock](/analysis/anderson-hemlock/)** — six-layer panopticon architecture
 - **[$74,752.45 in Federal Sanctions](/evidence/ellison-sanctions/)** — pattern of aggressive litigation
 - **[Hemlock FOIA Toolkit](/investigate/hemlock-foia/)** — file FOIA requests without FOIAworks

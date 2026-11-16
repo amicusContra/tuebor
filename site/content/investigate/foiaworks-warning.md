@@ -52,7 +52,7 @@ FOIAworks is owned by **Quagmire Solutions LLC**. The registered agent is **Phil
 | Documented Conduct | Source |
 |---|---|
 | [Fabricated a witness](/evidence/ghost-witness-aljouny/) in court — "Samantha Aljouny" does not exist | Court records, 13 forensic convergence points |
-| [Filed a SLAPP suit](/actors/ellison/) against the journalist who investigated him | Saginaw County 25-2441-CZ |
+| [Filed a SLAPP suit](/people/ellison/) against the journalist who investigated him | Saginaw County 25-2441-CZ |
 | [Sanctioned $74,752.45](/evidence/ellison-sanctions/) across two federal courts for frivolous litigation and baseless accusations | 6th Cir. 22-1574 (SCOTUS denied), E.D. Mich. 21-cv-12250 |
 | His client [registered domains](/evidence/domain-registrations/) in a minor child's name | WHOIS records — 3 domains in 30 minutes |
 | [Renewed the impersonation domain](/evidence/domain-registrations/) ritafelinewilliams.com in Sep 2026 | WHOIS — active through Sep 2027 |

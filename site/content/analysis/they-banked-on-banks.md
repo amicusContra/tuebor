@@ -14,8 +14,8 @@ person_alternate_name = "Brian Banks"
 person_description = "Brian Roderick Banks (ICHAT SID 2029469K) — 9 criminal convictions (6 felony, 3 misdemeanor), operator of Purpose Charter Academy and MacDowell Preparatory Academy in Detroit, Michigan. Claims to be an attorney but is not admitted to the State Bar of Michigan. Dissertation (Walden University, 2022) lists fabricated credential 'J.D., MSU Law, 2010.'"
 person_job_title = "Charter School Operator"
 person_works_for = "Purpose Charter Academy"
-person_url = "https://detroit.primals.eco/network/actors/brian-banks/"
-person_same_as = ["https://detroit.primals.eco/network/actors/brian-banks/", "https://tuebor.primals.eco/analysis/they-banked-on-banks/"]
+person_url = "https://detroit.primals.eco/network/people/brian-banks/"
+person_same_as = ["https://detroit.primals.eco/network/people/brian-banks/", "https://tuebor.primals.eco/analysis/they-banked-on-banks/"]
 
 [taxonomies]
 counties = ["Wayne"]+++
@@ -175,7 +175,7 @@ They banked on Brian Roderick Banks. Every institution that should have caught t
 
 ## The "Bank on Banks" PAC
 
-In 2014, Brian Roderick Banks created a PAC called **"Bank on Banks"** for his State Senate run. The treasurer was **Joseph Holland Jr.** — a convicted drug offender ([MDOC #443789](https://detroit.primals.eco/network/actors/joseph-holland/), discharged May 8, 2024, **"WITHOUT IMPROVEMENT"**).
+In 2014, Brian Roderick Banks created a PAC called **"Bank on Banks"** for his State Senate run. The treasurer was **Joseph Holland Jr.** — a convicted drug offender ([MDOC #443789](https://detroit.primals.eco/network/people/joseph-holland/), discharged May 8, 2024, **"WITHOUT IMPROVEMENT"**).
 
 A felon's campaign, managed by a felon, named "Bank on Banks."
 
@@ -214,7 +214,7 @@ The returns are:
 - **[How To Build an OS](/analysis/how-to-build-an-os/)** — The Dykema architecture that connects all of them.
 
 **On detroit.primals.eco:**
-- **[Brian Roderick Banks — Full Profile](https://detroit.primals.eco/network/actors/brian-banks/)** — {{ fact(registry="actors", key="banks", field="conviction_count") }} convictions, credential chain, entity control, email admissions.
+- **[Brian Roderick Banks — Full Profile](https://detroit.primals.eco/network/people/brian-banks/)** — {{ fact(registry="actors", key="banks", field="conviction_count") }} convictions, credential chain, entity control, email admissions.
 - **[Purpose Charter Academy](https://detroit.primals.eco/network/entities/purpose-charter-academy/)** — Board, authorizer, management structure.
 - **[CBC Week Events](https://detroit.primals.eco/analysis/cbc-events/)** — Four years of political networking parties. $73K–$225K estimated.
 - **[The RICO Pattern](https://detroit.primals.eco/analysis/rico-pattern/)** — Six predicate acts, 14 years, one enterprise.

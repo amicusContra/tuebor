@@ -243,7 +243,7 @@ The son is not responsible for the sins of the father. But when the son inherits
 
 ## Tiers
 
-- **[Enterprise Principals](/network/actors/)** — Banks and Holland
+- **[Enterprise Principals](/network/people/)** — Banks and Holland
 - **[Judicial Cover](/network/judges/)** — 9 judges across 4 courts
 - **[Political Dynasties](/network/political/)** — Stallworth dynasty, Gay-Dagnogo, Sabree dynasty, McKinney
 - **[Entities](/network/entities/)** — 9+ LLCs, nonprofits, PACs, schools, and the BCF

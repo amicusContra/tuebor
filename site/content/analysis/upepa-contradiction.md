@@ -92,7 +92,7 @@ If she rules UPEPA applies in Case 2, it vindicates the position Ellison took in
 
 This is a structural problem that a single-judge court in a mid-size county is not designed to handle.
 
-See: [Judge Julie A. Gafkay — Actor Profile](/actors/gafkay/)
+See: [Judge Julie A. Gafkay — Actor Profile](/people/gafkay/)
 
 ---
 
@@ -142,8 +142,8 @@ The statute provides strong tools. The enforcement depends on a court that is wi
 
 ## Cross-Reference
 
-- **[Philip L. Ellison — Actor Profile](/actors/ellison/)** — full entity web, sanctions history, fabricated witness
-- **[Judge Julie A. Gafkay](/actors/gafkay/)** — SVSU colleague, three simultaneous Ellison cases
+- **[Philip L. Ellison — Actor Profile](/people/ellison/)** — full entity web, sanctions history, fabricated witness
+- **[Judge Julie A. Gafkay](/people/gafkay/)** — SVSU colleague, three simultaneous Ellison cases
 - **[$74,752.45 in Federal Sanctions](/evidence/ellison-sanctions/)** — Garcia + Fakhreddine sanctions
 - **[Cross-Subgraph Patterns](/analysis/cross-subgraph-patterns/)** — statewide institutional failure architecture
 - **[Institutional Immunity](/analysis/institutional-immunity/)** — AGC dismissal rates and structural processing

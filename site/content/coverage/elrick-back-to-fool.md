@@ -23,7 +23,7 @@ the full network that made it possible:
 
 | What Elrick Reported | What We Document |
 |---------------------|-----------------|
-| Banks has 8 felony convictions | [Brian Banks](/network/actors/brian-banks/) — full OTIS record with 9 convictions (6 felony), case numbers, sentencing details |
+| Banks has 8 felony convictions | [Brian Banks](/network/people/brian-banks/) — full OTIS record with 9 convictions (6 felony), case numbers, sentencing details |
 | Wells Stallworth defended the hire | [Nicole Wells Stallworth](/network/institutional/wells-stallworth-nicole/) — board chair, connections to Banks across multiple entities |
 | Banks got an admin cert in 2 days | [Credential Audit](/analysis/credential-audit/) — the claimed J.D. (State Bar: zero results), the Walden Ph.D., the 48-hour certification |
 | "No one in charge wants to talk" | [Network Map](/network/) — 73 entities, 122 connections showing *why* no one talks: they're all connected |

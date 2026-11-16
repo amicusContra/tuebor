@@ -119,9 +119,9 @@ The federal PPO challenges pursued § 1983 claims that could generate **§ 1988 
 
 ## Cross-Reference
 
-- **[Philip L. Ellison — Actor Profile](/actors/ellison/)** — the attorney
+- **[Philip L. Ellison — Actor Profile](/people/ellison/)** — the attorney
 - **[Domain Registration Campaign](/evidence/domain-registrations/)** — 3 domains in 30 minutes
-- **[The SLAPP Suit](/actors/ellison/#the-slapp-suit)** — OLC v. Williams
+- **[The SLAPP Suit](/people/ellison/#the-slapp-suit)** — OLC v. Williams
 - **[The UPEPA Contradiction](/analysis/upepa-contradiction/)** — anti-SLAPP weaponized
 
 ---

@@ -163,16 +163,16 @@ Sourced profiles of every actor in the investigation. Every role documented to c
 
 | Actor | Role | Investigation |
 |-------|------|--------------|
-| **[Philip L. Ellison](/actors/ellison/)** | Attorney, 4 entities, 153-domain portfolio, $74K federal sanctions, fabricated witness. SCOTUS win AND sanctions on same docket. | Aljouny / Saginaw |
-| **[Kevin Lindke](/actors/lindke/)** | Ellison's client. Convicted: computer crime. 272 days served. 21K-member Facebook group. Domains in minor child's name. | Aljouny / Saginaw |
-| **[Judge Julie A. Gafkay](/actors/gafkay/)** | Chief Judge, 10th Circuit. SVSU colleague of Ellison. 3 simultaneous Ellison cases. | Aljouny / Saginaw |
-| **[Judge Andre R. Borrello](/actors/borrello/)** | Signed contempt, then recused himself. | Aljouny / Saginaw |
-| **[Kelly D. Ellsworth](/actors/ellsworth/)** | Briefly represented Rita. Dissuaded her. SCBA insider, family in bar since 1986. | Structural / Saginaw |
-| **[Judge Kathleen G. Galen](/actors/galen/)** | JTC admonition. Jailed pregnant woman (reversed). Campaign staff = court staff. | Eastpointe / 38th District |
-| **[Judge Michael Schipper](/actors/schipper/)** | Active JTC investigation. 6–10x guideline sentencing. ADA retaliation. | Barry County |
-| **[Julie Nakfoor Pratt](/actors/nakfoor-pratt/)** | Private admonishment (MRPC 3.4(e)). Brady/Giglio failures. FOIA obstruction. | Barry County |
+| **[Philip L. Ellison](/people/ellison/)** | Attorney, 4 entities, 153-domain portfolio, $74K federal sanctions, fabricated witness. SCOTUS win AND sanctions on same docket. | Aljouny / Saginaw |
+| **[Kevin Lindke](/people/lindke/)** | Ellison's client. Convicted: computer crime. 272 days served. 21K-member Facebook group. Domains in minor child's name. | Aljouny / Saginaw |
+| **[Judge Julie A. Gafkay](/people/gafkay/)** | Chief Judge, 10th Circuit. SVSU colleague of Ellison. 3 simultaneous Ellison cases. | Aljouny / Saginaw |
+| **[Judge Andre R. Borrello](/people/borrello/)** | Signed contempt, then recused himself. | Aljouny / Saginaw |
+| **[Kelly D. Ellsworth](/people/ellsworth/)** | Briefly represented Rita. Dissuaded her. SCBA insider, family in bar since 1986. | Structural / Saginaw |
+| **[Judge Kathleen G. Galen](/people/galen/)** | JTC admonition. Jailed pregnant woman (reversed). Campaign staff = court staff. | Eastpointe / 38th District |
+| **[Judge Michael Schipper](/people/schipper/)** | Active JTC investigation. 6–10x guideline sentencing. ADA retaliation. | Barry County |
+| **[Julie Nakfoor Pratt](/people/nakfoor-pratt/)** | Private admonishment (MRPC 3.4(e)). Brady/Giglio failures. FOIA obstruction. | Barry County |
 
-Full actor index: **[All Actors →](/actors/)**
+Full actor index: **[All Actors →](/people/)**
 
 ---
 

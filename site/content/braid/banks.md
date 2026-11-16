@@ -18,7 +18,7 @@ keywords = "Brian Roderick Banks data braid, Brian Roderick Banks Shannon entrop
 | **Immune Pressure** | 45% | under observation |
 | **Tier** | 1 | |
 
-→ [Full profile](https://detroit.primals.eco/network/actors/brian-banks/)
+→ [Full profile](https://detroit.primals.eco/network/people/brian-banks/)
 
 ## Edge Type Distribution
 

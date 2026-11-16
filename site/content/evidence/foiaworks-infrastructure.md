@@ -235,13 +235,13 @@ The sitemap reveals a comprehensive Michigan FOIA guide with pages for:
 | **Code** | Custom PHP application (not off-the-shelf CMS) | Built by the same person who ran Quagmire Solutions web design |
 | **Sessions** | PHP session cookie on every request | Every visitor tracked server-side from first page load |
 
-This infrastructure is operated by [Philip L. Ellison](/actors/ellison/) — the attorney who:
+This infrastructure is operated by [Philip L. Ellison](/people/ellison/) — the attorney who:
 - [Fabricated a witness](/evidence/ghost-witness-aljouny/) in a SLAPP suit
 - [Surveilled a journalist](/evidence/data-braid-aljouny/) from his [LakeNet office IP](/analysis/lakenet-signal-trace/)
 - Whose client [registered domains](/evidence/domain-registrations/) targeting a journalist and her minor child
 - Owes [$74,752.45 in federal sanctions](/evidence/ellison-sanctions/)
-- Is under [AGC investigation](/actors/ellison/#agc-investigation) (File No. 25-2363)
-- Whose sworn denial of connection to the fabricated witness is the subject of an [IC3 complaint](/actors/ellison/#the-fabricated-witness)
+- Is under [AGC investigation](/people/ellison/#agc-investigation) (File No. 25-2363)
+- Whose sworn denial of connection to the fabricated witness is the subject of an [IC3 complaint](/people/ellison/#the-fabricated-witness)
 
 The same person who does all of that now operates a platform that collects the identities of FOIA requesters, their investigation targets, their correspondence with government agencies, and the responsive documents those agencies produce — with no published privacy policy.
 

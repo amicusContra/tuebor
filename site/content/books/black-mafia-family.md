@@ -78,7 +78,7 @@ This matters because the same pattern of zero accountability operates in the cha
 - PACER: Case 2:05-cr-80955 (E.D. Michigan) — BMF defendant list (43 defendants)
 - Amazon: search "Tonesa Welch" — book listings
 - {{ source(key="ichat", query="SID 2029469K") }} — Brian Banks' criminal record
-- [Brian Banks actor page](/network/actors/brian-banks/) — full BMF lineage documentation
+- [Brian Banks actor page](/network/people/brian-banks/) — full BMF lineage documentation
 
 ---
 

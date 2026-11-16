@@ -27,7 +27,7 @@ This investigation didn't start from nothing. It started because people showed u
 
 Beasley mapped the terrain before anyone else drew the map. She co-investigated [Anderson localization](/analysis/), [Holland's network](/analysis/stepping-to-the-side/), the [MDE](/analysis/the-department-that-didnt/) oversight gaps, the [Wayne RESA audit](/evidence/), and the Court 3rd connections. She traced the [spiral down](/analysis/) — proficiency, extraction, credential fraud — and then traced it [back out](/analysis/) to the regulatory bodies that could have acted and didn't.
 
-Beasley asked the questions directly — to [Banks](/actors/banks/), to [Holland](/analysis/stepping-to-the-side/), to [Roland Martin](/analysis/), to [the AG](/analysis/selective-enforcement/), to [the school board](/analysis/the-board-that-bored/). She documented the [negative space](/analysis/) — no audit, no charges, no media, no whistleblower protection, no FOIA response, no resignation, no restitution.
+Beasley asked the questions directly — to [Banks](/people/banks/), to [Holland](/analysis/stepping-to-the-side/), to [Roland Martin](/analysis/), to [the AG](/analysis/selective-enforcement/), to [the school board](/analysis/the-board-that-bored/). She documented the [negative space](/analysis/) — no audit, no charges, no media, no whistleblower protection, no FOIA response, no resignation, no restitution.
 
 She built the first stratum of the investigation. Everything that came after stands on what she mapped.
 

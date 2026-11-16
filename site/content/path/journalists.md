@@ -33,7 +33,7 @@ This is a **public evidence library**, not a news article. Every claim is cited 
 ### The Enterprise Structure
 A convicted felon runs two Detroit charter schools receiving $4.9M+ in public funding. His single-member LLC takes 72.67% of revenue. His **romantic partner** is a convicted drug offender — discharged from MDOC **without improvement** — who holds every financial officer position in the enterprise. Banks uses Holland. The Management Agreement's "No Related Parties" clause is violated on its face.
 
-→ [Brian Banks profile](/network/actors/brian-banks/) · [Funding flow](/analysis/funding-flow/) · [RICO pattern](/analysis/rico-pattern/)
+→ [Brian Banks profile](/network/people/brian-banks/) · [Funding flow](/analysis/funding-flow/) · [RICO pattern](/analysis/rico-pattern/)
 
 ### The Judicial Capture
 9 judges across 4 Wayne County courts have documented connections to the enterprise. One is Board Chair of the charter school. Another controls case assignment in Probate Court.

@@ -89,7 +89,7 @@ Public money → Schools → Management company → Events → Political access 
 - All URLs archived on Wayback Machine
 - Gay-Dagnogo profile: [Sherry Gay-Dagnogo](/network/political/sherry-gay-dagnogo/)
 - Timeline: [CBC events chronology](/timeline/)
-- Banks profile: [Brian Roderick Banks](/network/actors/brian-banks/)
+- Banks profile: [Brian Roderick Banks](/network/people/brian-banks/)
 
 ---
 

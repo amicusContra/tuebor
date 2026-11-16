@@ -9,7 +9,7 @@ keywords = "Purpose Charter Academy parents, MacDowell Preparatory Academy paren
 
 ## What You Need to Know
 
-Your child's school is run by **[Brian Banks](/network/actors/brian-banks/)** — a man with **9 criminal convictions** who claims a law degree not confirmed by bar records. His romantic partner and financial officer, **[Joseph Holland Jr.](/network/actors/joseph-holland/)**, is a convicted drug offender discharged from MDOC **without improvement**. Banks uses Holland for every financial gatekeeping role in the enterprise — Secretary/Treasurer, PAC Treasurer, Successor Trustee. Two felons. Every position. Your children's school.
+Your child's school is run by **[Brian Banks](/network/people/brian-banks/)** — a man with **9 criminal convictions** who claims a law degree not confirmed by bar records. His romantic partner and financial officer, **[Joseph Holland Jr.](/network/people/joseph-holland/)**, is a convicted drug offender discharged from MDOC **without improvement**. Banks uses Holland for every financial gatekeeping role in the enterprise — Secretary/Treasurer, PAC Treasurer, Successor Trustee. Two felons. Every position. Your children's school.
 
 This is not rumor. Every fact below is from public records you can verify yourself.
 

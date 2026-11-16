@@ -105,4 +105,4 @@ If he cannot answer them, he is not your voice. He is his own voice, using your 
 
 **The graph is open. The record is public. The membrane lets everything in.**
 
-[View the full graph](/the-graph/) · [View Brian Banks's record](/actors/brian-banks/) · [Clone the repository](https://github.com/defendDetroit/publicRecord)
+[View the full graph](/the-graph/) · [View Brian Banks's record](/people/brian-banks/) · [Clone the repository](https://github.com/defendDetroit/publicRecord)

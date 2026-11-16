@@ -120,7 +120,7 @@ MSU Law's class sizes are approximately 200-250 students. These three were in th
 
 ### Edge 6: The Dykema Triangle (Detroit ↔ Saginaw ↔ Statewide)
 
-[Dykema Gossett PLLC](https://lansing.primals.eco/actors/dykema-gossett/) connects three investigation subgraphs through infrastructure:
+[Dykema Gossett PLLC](https://lansing.primals.eco/people/dykema-gossett/) connects three investigation subgraphs through infrastructure:
 
 | Dykema Action | Year | Subgraph |
 |--------------|------|----------|
@@ -225,7 +225,7 @@ The oversight system can ignore the complaints. It cannot erase the evidence tha
 
 - **[Anderson Localization — Hemlock Subgraph](/analysis/anderson-hemlock/)** — one family, six layers, complete institutional capture
 - **[Institutional Immunity Pattern](/analysis/institutional-immunity/)** — the mathematics of isolated complaint processing
-- **[Philip L. Ellison — Actor Profile](/actors/ellison/)** — entity web, sanctions, fabricated witness, SLAPP
+- **[Philip L. Ellison — Actor Profile](/people/ellison/)** — entity web, sanctions, fabricated witness, SLAPP
 - **[Detroit Charter School Network](https://detroit.primals.eco)** — 43+ entities, dark money pipeline, board capture
 - **[The Enforcement Ecosystem](/analysis/enforcement-ecosystem/)** — The bodies that appear across all these subgraphs: who runs them, what they did, and what they didn't
 - **[FOIAworks Analysis](/evidence/foiaworks-honeypot/)** — FOIA platform with no privacy policy

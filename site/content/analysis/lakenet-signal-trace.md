@@ -24,7 +24,7 @@ IP address `162.247.150.54` was captured in **three independent evidence context
 
 All three resolve to the same source: **LakeNet LLC** (AS11910), the only broadband ISP headquartered in **Hemlock, Michigan** — population approximately 1,500.
 
-The law firm of [Philip L. Ellison](/actors/ellison/) (Outside Legal Counsel PLC) is also headquartered in **Hemlock, Michigan**.
+The law firm of [Philip L. Ellison](/people/ellison/) (Outside Legal Counsel PLC) is also headquartered in **Hemlock, Michigan**.
 
 ---
 
@@ -116,7 +116,7 @@ LakeNet serves approximately 100+ miles of road in the Hemlock/Merrill/Marion Sp
 
 | Person | Location | LakeNet Customer? | Relationship |
 |--------|----------|-------------------|-------------|
-| **Philip L. Ellison** | 530 W Saginaw St / 355 N Maple St, Hemlock | **YES** — IP 162.247.150.54 documented | Attorney. [Actor profile](/actors/ellison/) |
+| **Philip L. Ellison** | 530 W Saginaw St / 355 N Maple St, Hemlock | **YES** — IP 162.247.150.54 documented | Attorney. [Actor profile](/people/ellison/) |
 | **Calvin Ellison** | 1111 S Orr Rd, Hemlock (= Quagmire Solutions address) | **LIKELY** — same town, family property | Brother/relative. Resides at Quagmire registered address |
 | **Lisa Edgecomb** | Hemlock area | **POSSIBLE** — same small town | Legal assistant / notary. Deputy Clerk, Richland Township |
 | **Dr. Katherine Ellison** | Same household as Philip | **YES** — same office/home network | Saginaw ISD Board President. Hemlock PS Board VP |

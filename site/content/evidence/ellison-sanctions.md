@@ -12,7 +12,7 @@ counties = ["Saginaw", "Wayne"]+++
 
 ## Summary
 
-Philip L. Ellison, the Hemlock attorney who [filed a SLAPP suit against a journalist](/actors/ellison/) and [submitted a fabricated witness](/evidence/ghost-witness-aljouny/), was sanctioned **$73,752.45** by a federal court for pressing claims that were "unreasonable on [their] face."
+Philip L. Ellison, the Hemlock attorney who [filed a SLAPP suit against a journalist](/people/ellison/) and [submitted a fabricated witness](/evidence/ghost-witness-aljouny/), was sanctioned **$73,752.45** by a federal court for pressing claims that were "unreasonable on [their] face."
 
 The Sixth Circuit Court of Appeals affirmed the sanctions. The U.S. Supreme Court denied review.
 

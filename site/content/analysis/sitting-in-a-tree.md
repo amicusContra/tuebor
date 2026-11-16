@@ -25,7 +25,7 @@ But who's the tree?
 
 The tree is **Dykema Gossett PLLC** — Michigan's largest law firm. $200–300 million in annual revenue. Offices in six states and Washington, D.C. It doesn't pick sides. It grows branches for whoever pays.
 
-[Mike Rogers](/analysis/hey-mikey/) sits on one branch. [Tom Barrett](/analysis/tommy-boy/) sits on another. [Brian Banks](https://detroit.primals.eco/network/actors/brian-banks/) — {{ fact(registry="actors", key="banks", field="conviction_count") }} criminal convictions, superintendent of two charter schools, [no bar admission for his claimed J.D.](https://detroit.primals.eco/analysis/credential-audit/) — sits on a third.
+[Mike Rogers](/analysis/hey-mikey/) sits on one branch. [Tom Barrett](/analysis/tommy-boy/) sits on another. [Brian Banks](https://detroit.primals.eco/network/people/brian-banks/) — {{ fact(registry="actors", key="banks", field="conviction_count") }} criminal convictions, superintendent of two charter schools, [no bar admission for his claimed J.D.](https://detroit.primals.eco/analysis/credential-audit/) — sits on a third.
 
 Same tree. Same roots. Same trunk. Same person watering all of it.
 

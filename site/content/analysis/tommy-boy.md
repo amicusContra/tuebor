@@ -291,7 +291,7 @@ And one actual convicted felon — in the entity, not the opposition.
 - **[Infrastructure Grid](/analysis/infrastructure-grid/)** — Every node where entity infrastructure touches individual privacy
 - **[They Banked on Banks](/analysis/they-banked-on-banks/)** — Brian Roderick Banks: {{ fact(registry="actors", key="banks", field="conviction_count") }} convictions, 2 charter schools, board chaired by a sitting judge. The convicted felon Barrett's donor infrastructure protects.
 - **[detroit.primals.eco](https://detroit.primals.eco)** — The charter school network Barrett's donor protects
-- **[Brian Roderick Banks — Full Profile](https://detroit.primals.eco/network/actors/brian-banks/)** — {{ fact(registry="actors", key="banks", field="conviction_count") }} convictions, credential chain, PPO weaponization
+- **[Brian Roderick Banks — Full Profile](https://detroit.primals.eco/network/people/brian-banks/)** — {{ fact(registry="actors", key="banks", field="conviction_count") }} convictions, credential chain, PPO weaponization
 - **[Institutional Immunity](/analysis/institutional-immunity/)** — Why the systems that should catch this don't
 
 ---

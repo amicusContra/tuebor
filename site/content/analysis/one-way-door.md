@@ -12,8 +12,8 @@ person_alternate_name = "Brian Banks"
 person_description = "Operator of Purpose Charter Academy, where two staff members in two separate incidents denied a parent access to their child and lied about the presence of school personnel."
 person_job_title = "Charter School Operator"
 person_works_for = "Purpose Charter Academy"
-person_url = "/network/actors/brian-banks/"
-person_same_as = ["https://detroit.primals.eco/network/actors/brian-banks/", "https://tuebor.primals.eco/analysis/they-banked-on-banks/"]
+person_url = "/network/people/brian-banks/"
+person_same_as = ["https://detroit.primals.eco/network/people/brian-banks/", "https://tuebor.primals.eco/analysis/they-banked-on-banks/"]
 
 [taxonomies]
 actors = ["Brian Banks", "Ms. Perkins", "Todd Perkins", "Sean Perkins"]
@@ -147,7 +147,7 @@ Then read this page again.
 - **[They Banked on Banks](https://tuebor.primals.eco/analysis/they-banked-on-banks/)** — 9 convictions, 2 charter schools, the full record
 - **[The Enforcement Ecosystem](https://tuebor.primals.eco/analysis/enforcement-ecosystem/)** — 10 oversight bodies, none coordinated, none acted
 - **[Signal Permeability](https://tuebor.primals.eco/analysis/signal-permeability/)** — Live measurement: Snyder responded in 13 minutes with her personal cell. JTC sent a form letter. Ms. Perkins said she hasn't seen anybody.
-- **[Brian Roderick Banks — Full Profile](/network/actors/brian-banks/)** — Criminal record, credential chain, entity map
+- **[Brian Roderick Banks — Full Profile](/network/people/brian-banks/)** — Criminal record, credential chain, entity map
 - **[Purpose Charter Academy](/network/entities/purpose-charter-academy/)** — Board, authorizer, management structure
 
 ---

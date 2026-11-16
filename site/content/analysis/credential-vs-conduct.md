@@ -178,8 +178,8 @@ The credentials are **partially real**. The Pung SCOTUS win and the tire-chalkin
 ## Cross-Reference
 
 - **[Complete Litigation Docket](/evidence/litigation-docket/)** — every known case
-- **[Philip L. Ellison — Actor Profile](/actors/ellison/)** — full actor page
-- **[Kevin Lindke — The Client](/actors/lindke/)** — the client problem
+- **[Philip L. Ellison — Actor Profile](/people/ellison/)** — full actor page
+- **[Kevin Lindke — The Client](/people/lindke/)** — the client problem
 - **[FOIAworks Early Warning System](/evidence/foiaworks-early-warning/)** — surveillance architecture
 - **[The UPEPA Contradiction](/analysis/upepa-contradiction/)** — judicial estoppel
 - **[Federal Sanctions — $74,752.45](/evidence/ellison-sanctions/)** — combined sanctions record

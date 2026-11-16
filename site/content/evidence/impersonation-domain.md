@@ -101,10 +101,10 @@ No law enforcement action has resulted in the domain being taken down.
 ## Cross-Reference
 
 - **[Domain Registration Campaign](/evidence/domain-registrations/)** — 3 domains in 31 minutes
-- **[Kevin Lindke — The Client](/actors/lindke/)** — criminal history and conduct
-- **[Philip L. Ellison](/actors/ellison/)** — attorney's on-record admissions
+- **[Kevin Lindke — The Client](/people/lindke/)** — criminal history and conduct
+- **[Philip L. Ellison](/people/ellison/)** — attorney's on-record admissions
 - **[FOIAworks — Do Not Use](/investigate/foiaworks-warning/)** — same registrar pattern
-- **[The SLAPP Suit](/actors/ellison/#the-slapp-suit)** — filed after domains registered
+- **[The SLAPP Suit](/people/ellison/#the-slapp-suit)** — filed after domains registered
 
 ## Sources
 

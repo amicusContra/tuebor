@@ -102,10 +102,10 @@ If it fails: the first thing Michigan's anti-SLAPP statute did was fail to prote
 
 ## Cross-Reference
 
-- **[Philip L. Ellison](/actors/ellison/)** — the plaintiff
-- **[Kevin Lindke](/actors/lindke/)** — the client behind the domains
-- **[Judge Gafkay](/actors/gafkay/)** — the successor judge
-- **[Judge Borrello](/actors/borrello/)** — the recused judge
+- **[Philip L. Ellison](/people/ellison/)** — the plaintiff
+- **[Kevin Lindke](/people/lindke/)** — the client behind the domains
+- **[Judge Gafkay](/people/gafkay/)** — the successor judge
+- **[Judge Borrello](/people/borrello/)** — the recused judge
 - **[The UPEPA Contradiction](/analysis/upepa-contradiction/)** — judicial estoppel analysis
 - **[Domain Registration Campaign](/evidence/domain-registrations/)** — 3 domains in 31 minutes
 - **[Impersonation Domain](/evidence/impersonation-domain/)** — ritafelinewilliams.com still live

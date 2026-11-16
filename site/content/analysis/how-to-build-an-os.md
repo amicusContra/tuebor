@@ -167,7 +167,7 @@ This study is continuously updated as new public filings emerge. The Dykema OS i
 
 **Related pages:**
 - [The Corporate Network — LARA Entity Analysis](/analysis/corporate-network-lara/)
-- [Enterprise Principals](/network/actors/)
+- [Enterprise Principals](/network/people/)
 - [Evidence Library](/evidence/)
 
 ---

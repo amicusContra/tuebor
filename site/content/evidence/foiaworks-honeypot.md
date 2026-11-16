@@ -16,7 +16,7 @@ It is owned and operated by **Quagmire Solutions, LLC** — a Hemlock, Michigan 
 Philip L. Ellison is the same attorney who:
 
 - Submitted a [fabricated witness ("Samantha Aljouny")](/evidence/ghost-witness-aljouny/) in Saginaw County litigation
-- Filed a [SLAPP suit](/actors/ellison/) against a journalist who investigated that fabrication
+- Filed a [SLAPP suit](/people/ellison/) against a journalist who investigated that fabrication
 - Whose client [registered domains](/evidence/domain-registrations/) targeting PPO holders, including a minor child
 - Whose office IP address [surveilled](/evidence/data-braid-aljouny/) the journalist's website from [LakeNet LLC](/evidence/data-braid-aljouny/#target-1-who-is-lakenet-llc), the local ISP in Hemlock — the same tiny community where both his law firm and Quagmire Solutions are located
 

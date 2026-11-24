@@ -1,10 +1,11 @@
 {% extends "base.html" %}
+{% import "macros/subpath.html" as subpath %}
 
 {% block title %}{{ config.title }}{% endblock title %}
 {% block description %}{{ config.description }}{% endblock description %}
 
 {% block content %}
 <article class="page-content home-content">
-  {{ section.content | safe }}
+  {{ subpath::links(html=section.content, base=config.base_url) }}
 </article>
 {% endblock content %}

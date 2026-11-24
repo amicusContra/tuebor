@@ -1,0 +1,17 @@
+{#- The pages link to each other from the root of the site's own name ("/analysis/...").
+    Built for a sub-path (https://<org>.github.io/<repo>) those links need the sub-path in front.
+    On the site's own name base has no path and the content passes through untouched. -#}
+{%- macro links(html, base) -%}
+{%- set sub = base | trim_end_matches(pat="/") | split(pat="/") | slice(start=3) | join(sep="/") -%}
+{%- if sub -%}
+{{ html | replace(from='href="/', to='href="/' ~ sub ~ '/') | replace(from='src="/', to='src="/' ~ sub ~ '/') | replace(from="href='/", to="href='/" ~ sub ~ "/") | replace(from="src='/", to="src='/" ~ sub ~ "/") | safe }}
+{%- else -%}
+{{ html | safe }}
+{%- endif -%}
+{%- endmacro links -%}
+
+{#- The sub-path itself ("/tuebor" on github pages, nothing on the site's own name), for root links written by hand in a template. -#}
+{%- macro root(base) -%}
+{%- set sub = base | trim_end_matches(pat="/") | split(pat="/") | slice(start=3) | join(sep="/") -%}
+{%- if sub -%}/{{ sub | safe }}{%- endif -%}
+{%- endmacro root -%}

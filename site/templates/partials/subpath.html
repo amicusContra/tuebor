@@ -1,0 +1,23 @@
+{#- Root paths that scripts build at run time (fetch("/api/..."), links made from a list of "/analysis/..." paths).
+    Only when the site is built for a sub-path; on the site's own name this prints nothing. -#}
+{%- set sub = config.base_url | trim_end_matches(pat="/") | split(pat="/") | slice(start=3) | join(sep="/") -%}
+{%- if sub %}
+<script>
+(function () {
+  var sub = "/{{ sub | safe }}";
+  function under(u) {
+    return (typeof u === "string" && u.charAt(0) === "/" && u.charAt(1) !== "/" && u !== sub && u.indexOf(sub + "/") !== 0) ? sub + u : u;
+  }
+  window.__under = under;
+  var f = window.fetch;
+  if (f) window.fetch = function (u, o) { return f.call(this, under(u), o); };
+  function mend(e) {
+    var a = e.target && e.target.closest && e.target.closest("a[href]");
+    if (!a) return;
+    var h = a.getAttribute("href"), n = under(h);
+    if (n !== h) a.setAttribute("href", n);
+  }
+  ["mouseover", "focusin", "touchstart", "click", "auxclick"].forEach(function (k) { document.addEventListener(k, mend, true); });
+})();
+</script>
+{%- endif -%}

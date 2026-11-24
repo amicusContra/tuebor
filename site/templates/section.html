@@ -1,4 +1,5 @@
 {% extends "base.html" %}
+{% import "macros/subpath.html" as subpath %}
 
 {% block title %}{{ section.title }} — {{ config.title }}{% endblock title %}
 {% block description %}{{ section.description | default(value=config.description) }}{% endblock description %}
@@ -7,7 +8,7 @@
 {% block content %}
 <article class="page-content">
   <h1>{{ section.title }}</h1>
-  {{ section.content | safe }}
+  {{ subpath::links(html=section.content, base=config.base_url) }}
 
   {% if section.subsections %}
   <div class="subsection-list">

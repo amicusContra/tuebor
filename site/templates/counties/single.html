@@ -1,4 +1,5 @@
 {% extends "base.html" %}
+{% import "macros/subpath.html" as subpath %}
 {% block title %}{{ term.name }} County — {{ config.title }}{% endblock %}
 {% block description %}All investigations, actors, and evidence touching {{ term.name }} County, Michigan.{% endblock %}
 {% block content %}
@@ -16,7 +17,7 @@
   </div>
 
   <p style="margin-top:2rem;font-size:0.9rem">
-    ← <a href="/counties/">All counties</a> ·
+    ← <a href="{{ subpath::root(base=config.base_url) }}/counties/">All counties</a> ·
     Cross-reference: <a href="https://detroit.primals.eco">detroit</a> ·
     <a href="https://lansing.primals.eco">lansing</a>
   </p>

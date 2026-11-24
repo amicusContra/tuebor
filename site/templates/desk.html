@@ -1,3 +1,4 @@
+{% import "macros/subpath.html" as subpath %}
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -485,13 +486,14 @@
     .ctx-heat-bar .cnt { color: var(--fg-muted); font-family: monospace; font-size: 9px; }
 
   </style>
+{% include "partials/subpath.html" %}
 </head>
 <body>
   <div class="desk">
     <!-- Header -->
     <header class="desk-header">
       <div class="brand">
-        <a href="/" style="color:inherit;text-decoration:none">tuebor</a>
+        <a href="{{ subpath::root(base=config.base_url) }}/" style="color:inherit;text-decoration:none">tuebor</a>
         <span class="tag">desk</span>
       </div>
       <div class="breadcrumb" id="breadcrumb">
@@ -505,8 +507,8 @@
       </div>
       <span id="metric-indicator" style="font-size:9px;padding:1px 5px;background:var(--accent-dim);color:var(--accent);border-radius:3px;letter-spacing:0.05em;font-weight:600"></span>
       <div class="header-links">
-        <a href="/">Site</a>
-        <a href="/membrane/">Membrane</a>
+        <a href="{{ subpath::root(base=config.base_url) }}/">Site</a>
+        <a href="{{ subpath::root(base=config.base_url) }}/membrane/">Membrane</a>
         <a href="javascript:void(0)" class="map-toggle" id="map-toggle" onclick="window._toggleMap()">🗺️ Map</a>
       </div>
     </header>
@@ -575,8 +577,8 @@
     </aside>
   </div>
 
-  <script src="/elasticlunr.min.js"></script>
-  <script src="/search_index.en.js"></script>
+  <script src="{{ subpath::root(base=config.base_url) }}/elasticlunr.min.js"></script>
+  <script src="{{ subpath::root(base=config.base_url) }}/search_index.en.js"></script>
   <script>
   (function() {
     'use strict';

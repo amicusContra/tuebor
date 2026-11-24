@@ -1,4 +1,5 @@
 {% extends "base.html" %}
+{% import "macros/subpath.html" as subpath %}
 
 {% block title %}{{ page.title }} — {{ config.title }}{% endblock title %}
 {% block description %}{{ page.description | default(value=config.description) }}{% endblock description %}
@@ -68,7 +69,7 @@
 <article class="page-content">
   <h1>{{ page.title }}</h1>
   {% if page.date %}<time class="page-date">{{ page.date | date(format="%B %e, %Y") }}</time>{% endif %}
-  {{ page.content | safe }}
+  {{ subpath::links(html=page.content, base=config.base_url) }}
 </article>
 
 {# ═══════════════════════════════════════════════════════════

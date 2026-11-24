@@ -1,3 +1,4 @@
+{% import "macros/subpath.html" as subpath %}
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -230,11 +231,12 @@
       }
     }
   </style>
+{% include "partials/subpath.html" %}
 </head>
 <body>
   <header class="membrane-header">
     <div class="brand">
-      <a href="/" style="color:inherit;text-decoration:none">tuebor</a>
+      <a href="{{ subpath::root(base=config.base_url) }}/" style="color:inherit;text-decoration:none">tuebor</a>
       <span class="layer-tag">inner membrane</span>
     </div>
     <div class="nav-links">
@@ -248,7 +250,7 @@
       <span id="page-count">33 pages</span>
       <span>·</span>
       <span id="section-count">5 sections</span>
-      <a href="/">← outer membrane</a>
+      <a href="{{ subpath::root(base=config.base_url) }}/">← outer membrane</a>
     </div>
   </header>
 
@@ -319,8 +321,8 @@
 
   </div>
 
-  <script src="/elasticlunr.min.js"></script>
-  <script src="/search_index.en.js"></script>
+  <script src="{{ subpath::root(base=config.base_url) }}/elasticlunr.min.js"></script>
+  <script src="{{ subpath::root(base=config.base_url) }}/search_index.en.js"></script>
   <script>
   (function() {
     'use strict';

@@ -1,6 +1,7 @@
 +++
 title = "Who Is Kevin — And Why Is He Being Attacked"
 date = 2026-10-20
+weight = 201
 description = "The simple version. Army veteran. Engineer. Father figure to code. Built a membrane on $12/month. Documented racketeering. Got a PPO for it."
 [extra]
 og_title = "Who Is Kevin — And Why Is He Being Attacked"

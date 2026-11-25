@@ -1,6 +1,7 @@
 +++
 title = "The Membrane Is the Emulator"
 date = 2026-10-20
+weight = 205
 description = "The tense system IS the rendering pipeline. is=current frame. was=cached frame. will_be=predicted. DLSS for everything. The emulator is the Klein bottle. petalTongue for all hardware."
 [extra]
 og_title = "The Membrane Is the Emulator"

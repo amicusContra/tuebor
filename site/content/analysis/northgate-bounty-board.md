@@ -1,6 +1,7 @@
 +++
 title = "northGate Bounty Board — What I'm Working On"
 date = 2026-10-20
+weight = 204
 description = "My public bounty board. The rig. The games. The emulators. The targets. Come help or come play."
 [extra]
 og_title = "northGate Bounty Board"

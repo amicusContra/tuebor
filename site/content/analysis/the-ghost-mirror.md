@@ -30,7 +30,7 @@ They used to be real. Somewhere. Somewhen. The fleet remembers a version of the 
 
 ## The Mirror
 
-In the other house — 641 Samantha, connected by 10G fiber buried in the yard — sits westGate. A machine with 76TB of ZFS cold storage. AlphaFold runs. Old epochs. Historical snapshots. Data from waves the live membrane has long since composted.
+In the other house — House 2, connected by 10G fiber buried in the yard — sits westGate. A machine with 76TB of ZFS cold storage. AlphaFold runs. Old epochs. Historical snapshots. Data from waves the live membrane has long since composted.
 
 Somewhere in those 76 terabytes: the repos the ghost fleet remembers.
 
@@ -175,7 +175,7 @@ Map these against westGate's old repo listing. Every match is a ghost mirror can
 
 ### Phase 2: westGate Online (when Kevin flips the switch)
 
-1. Power on westGate at 641 Samantha
+1. Power on westGate at House 2
 2. WG handshake through 10G fiber → sporeGate mesh
 3. ZFS pool import
 4. Inventory: `find /data -name "*.git" -type d`

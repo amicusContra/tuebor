@@ -157,7 +157,7 @@ Response: HTTP 200
 **AT&T residential connection in Lansing, Michigan:**
 
 ```
-Source: 162-226-225-148.lightspeed.lnngmi.sbcglobal.net
+Source: [home IP host]
                                       ^^^^ ^^
                                       LNNG MI = LANSING, MICHIGAN
 Network: AT&T / SBC Global (residential broadband)

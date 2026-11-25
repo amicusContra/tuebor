@@ -1,3 +1,2221 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:04e32995616e1822075b5edef07cdf027e51a4a85bb6bd56f8cb5ef2f18bd790
-size 5217601
+{
+ "meta": {
+  "built_from": "graph.csv",
+  "note": "Same rows as graph.csv, nothing added. source_doc null = the table names no document for that row. Street addresses and e-mail addresses in notes are left out.",
+  "left_out_of_notes": {
+   "street_addresses": 2,
+   "email_addresses": 2
+  },
+  "nodes": 91,
+  "edges": 155,
+  "edges_by_status": {
+   "record": 131,
+   "corroborated": 14,
+   "inference": 10
+  },
+  "edges_by_type": {
+   "board_membership": 18,
+   "political": 18,
+   "governance": 16,
+   "payment": 12,
+   "family": 12,
+   "ownership": 10,
+   "authorization": 10,
+   "bench": 9,
+   "money_flow": 8,
+   "employment": 7,
+   "legal_representation": 6,
+   "jurisdiction": 4,
+   "corruption": 3,
+   "co-resident": 2,
+   "financial": 2,
+   "permit": 2,
+   "investigation": 2,
+   "appointment": 2,
+   "campaign_vendor": 1,
+   "elected_office": 1,
+   "classmate": 1,
+   "family_donation": 1,
+   "employment_family": 1,
+   "mentorship": 1,
+   "credential_legitimization": 1,
+   "property": 1,
+   "formation": 1,
+   "referral": 1,
+   "board_co_membership": 1,
+   "institutional_memory": 1
+  },
+  "edges_with_source_doc": 50,
+  "edges_with_amount": 16,
+  "edges_with_amount_and_source_doc": 5,
+  "amount_usd_total": 5287715.49,
+  "amount_usd_by_status": {
+   "corroborated": 4285201,
+   "record": 1002514.49
+  }
+ },
+ "nodes": [
+  {
+   "id": "banks",
+   "label": "Brian Roderick Banks",
+   "edges": 46
+  },
+  {
+   "id": "pca",
+   "label": "Purpose Charter Academy",
+   "edges": 18
+  },
+  {
+   "id": "macdowell",
+   "label": "MacDowell Preparatory Academy",
+   "edges": 19
+  },
+  {
+   "id": "purpose_group",
+   "label": "The Purpose Group, LLC",
+   "edges": 6
+  },
+  {
+   "id": "purpose_foundation",
+   "label": "Purpose Foundation",
+   "edges": 2
+  },
+  {
+   "id": "banks_strategy",
+   "label": "Banks Strategy & Consultants LLC",
+   "edges": 2
+  },
+  {
+   "id": "serenity",
+   "label": "Serenity Guardianship Services, Inc.",
+   "edges": 2
+  },
+  {
+   "id": "city_hill",
+   "label": "City Hill Church",
+   "edges": 1
+  },
+  {
+   "id": "sun_community",
+   "label": "Sun Community Development Corp",
+   "edges": 1
+  },
+  {
+   "id": "pacs",
+   "label": "Political Action Committees",
+   "edges": 4
+  },
+  {
+   "id": "ofa",
+   "label": "ofa",
+   "edges": 2
+  },
+  {
+   "id": "holland",
+   "label": "Joseph Holland Jr.",
+   "edges": 6
+  },
+  {
+   "id": "miller",
+   "label": "Judge Cylenthia Miller",
+   "edges": 7
+  },
+  {
+   "id": "anchor_rock",
+   "label": "Anchor Rock Foundation",
+   "edges": 2
+  },
+  {
+   "id": "court_3rd",
+   "label": "court 3rd",
+   "edges": 6
+  },
+  {
+   "id": "moreland",
+   "label": "Lisa Moreland",
+   "edges": 4
+  },
+  {
+   "id": "ag_office",
+   "label": "ag office",
+   "edges": 1
+  },
+  {
+   "id": "latisha_johnson",
+   "label": "latisha johnson",
+   "edges": 2
+  },
+  {
+   "id": "city_council",
+   "label": "city council",
+   "edges": 1
+  },
+  {
+   "id": "yancey",
+   "label": "Judge Tenisha Yancey",
+   "edges": 5
+  },
+  {
+   "id": "inner_link",
+   "label": "Inner Link Graphics",
+   "edges": 5
+  },
+  {
+   "id": "court_36th",
+   "label": "court 36th",
+   "edges": 5
+  },
+  {
+   "id": "sabree_a",
+   "label": "sabree a",
+   "edges": 3
+  },
+  {
+   "id": "eric_sabree",
+   "label": "Eric Sabree",
+   "edges": 3
+  },
+  {
+   "id": "sabree_adam",
+   "label": "sabree adam",
+   "edges": 2
+  },
+  {
+   "id": "perkins_d",
+   "label": "perkins d",
+   "edges": 2
+  },
+  {
+   "id": "court_probate",
+   "label": "court probate",
+   "edges": 1
+  },
+  {
+   "id": "perkins_sean",
+   "label": "perkins sean",
+   "edges": 2
+  },
+  {
+   "id": "todd_perkins",
+   "label": "Todd Perkins",
+   "edges": 3
+  },
+  {
+   "id": "ramsey",
+   "label": "ramsey",
+   "edges": 2
+  },
+  {
+   "id": "evans",
+   "label": "Warren Evans",
+   "edges": 3
+  },
+  {
+   "id": "langford_morris",
+   "label": "Judge Denise Langford Morris (Retired)",
+   "edges": 2
+  },
+  {
+   "id": "court_oakland",
+   "label": "court oakland",
+   "edges": 1
+  },
+  {
+   "id": "gay_dagnogo",
+   "label": "Sherry Gay-Dagnogo",
+   "edges": 8
+  },
+  {
+   "id": "dpscd",
+   "label": "Detroit Public Schools Community District",
+   "edges": 3
+  },
+  {
+   "id": "mckinney",
+   "label": "Billy McKinney",
+   "edges": 1
+  },
+  {
+   "id": "od_banks",
+   "label": "OD Banks",
+   "edges": 2
+  },
+  {
+   "id": "escuela_avancemos",
+   "label": "Escuela Avancemos",
+   "edges": 1
+  },
+  {
+   "id": "chandler_park",
+   "label": "Chandler Park Academy",
+   "edges": 1
+  },
+  {
+   "id": "welch",
+   "label": "Tonesa Welch",
+   "edges": 1
+  },
+  {
+   "id": "wells_stallworth",
+   "label": "Nicole Wells-Stallworth",
+   "edges": 4
+  },
+  {
+   "id": "mde",
+   "label": "Michigan Department of Education",
+   "edges": 3
+  },
+  {
+   "id": "schmiedeknecht",
+   "label": "Katie Schmiedeknecht",
+   "edges": 1
+  },
+  {
+   "id": "alan_young",
+   "label": "Alan C. Young CPA",
+   "edges": 1
+  },
+  {
+   "id": "sheffield",
+   "label": "Mayor Mary Sheffield",
+   "edges": 4
+  },
+  {
+   "id": "bettison",
+   "label": "Chief James Bettison",
+   "edges": 3
+  },
+  {
+   "id": "sabree_e",
+   "label": "sabree e",
+   "edges": 1
+  },
+  {
+   "id": "mccastle",
+   "label": "Gerald McCastle",
+   "edges": 2
+  },
+  {
+   "id": "johnson_l",
+   "label": "Latisha Johnson",
+   "edges": 4
+  },
+  {
+   "id": "dpsa",
+   "label": "Detroit Public Safety Academy",
+   "edges": 2
+  },
+  {
+   "id": "fiore",
+   "label": "Gerald Fiore",
+   "edges": 3
+  },
+  {
+   "id": "spivey",
+   "label": "Andre Spivey",
+   "edges": 1
+  },
+  {
+   "id": "perkins_t",
+   "label": "perkins t",
+   "edges": 3
+  },
+  {
+   "id": "stallworth_t",
+   "label": "Thomas Stallworth III",
+   "edges": 3
+  },
+  {
+   "id": "hutchings",
+   "label": "D. Hutchings",
+   "edges": 1
+  },
+  {
+   "id": "clora",
+   "label": "M. Clora",
+   "edges": 1
+  },
+  {
+   "id": "dykema",
+   "label": "Dykema Gossett",
+   "edges": 1
+  },
+  {
+   "id": "sdj",
+   "label": "Save Detroit Jobs",
+   "edges": 3
+  },
+  {
+   "id": "daniels",
+   "label": "Kenneth Daniels",
+   "edges": 2
+  },
+  {
+   "id": "right_turn",
+   "label": "Right Turn Project",
+   "edges": 4
+  },
+  {
+   "id": "ross",
+   "label": "Carlton Ross",
+   "edges": 2
+  },
+  {
+   "id": "ross_catering",
+   "label": "Ross Catering",
+   "edges": 2
+  },
+  {
+   "id": "larry_thomas",
+   "label": "Larry Thomas Jr",
+   "edges": 1
+  },
+  {
+   "id": "gordon",
+   "label": "Jason Gordon",
+   "edges": 2
+  },
+  {
+   "id": "custom_promo",
+   "label": "Custom Promotions",
+   "edges": 2
+  },
+  {
+   "id": "carol_banks",
+   "label": "Carol Banks",
+   "edges": 2
+  },
+  {
+   "id": "eastside_slate",
+   "label": "Original Eastside Slate",
+   "edges": 3
+  },
+  {
+   "id": "leach",
+   "label": "W. Spencer Leach",
+   "edges": 1
+  },
+  {
+   "id": "crump_gibson",
+   "label": "Crump-Gibson",
+   "edges": 6
+  },
+  {
+   "id": "great_lakes_legal",
+   "label": "Great Lakes Legal Group",
+   "edges": 2
+  },
+  {
+   "id": "v_hall",
+   "label": "V. Hall",
+   "edges": 4
+  },
+  {
+   "id": "cmu",
+   "label": "Central Michigan University",
+   "edges": 2
+  },
+  {
+   "id": "dpscd_auth",
+   "label": "DPSCD (Authorizer)",
+   "edges": 3
+  },
+  {
+   "id": "emu",
+   "label": "Eastern Michigan University",
+   "edges": 1
+  },
+  {
+   "id": "gvsu",
+   "label": "Grand Valley State University",
+   "edges": 1
+  },
+  {
+   "id": "nha",
+   "label": "National Heritage Academies",
+   "edges": 1
+  },
+  {
+   "id": "coleman_young",
+   "label": "Coleman Young",
+   "edges": 1
+  },
+  {
+   "id": "archer",
+   "label": "Dennis Archer",
+   "edges": 3
+  },
+  {
+   "id": "kwame",
+   "label": "Kwame Kilpatrick",
+   "edges": 6
+  },
+  {
+   "id": "bing",
+   "label": "Dave Bing",
+   "edges": 3
+  },
+  {
+   "id": "duggan",
+   "label": "Mike Duggan",
+   "edges": 2
+  },
+  {
+   "id": "carolyn_kilpatrick",
+   "label": "Carolyn Cheeks Kilpatrick",
+   "edges": 2
+  },
+  {
+   "id": "dumas",
+   "label": "Karen Dumas",
+   "edges": 3
+  },
+  {
+   "id": "pugh",
+   "label": "Charles Pugh",
+   "edges": 1
+  },
+  {
+   "id": "vaughn",
+   "label": "Bishop Corletta Vaughn",
+   "edges": 2
+  },
+  {
+   "id": "citizendetroit",
+   "label": "CitizenDetroit Action Group",
+   "edges": 4
+  },
+  {
+   "id": "misha_stallworth",
+   "label": "Misha Stallworth West",
+   "edges": 6
+  },
+  {
+   "id": "sheila_cockrel",
+   "label": "Sheila Cockrel",
+   "edges": 2
+  },
+  {
+   "id": "archer_jr",
+   "label": "Dennis Archer Jr.",
+   "edges": 2
+  },
+  {
+   "id": "henri_harmon",
+   "label": "Henri O. Harmon",
+   "edges": 2
+  },
+  {
+   "id": "chojlf",
+   "label": "Crump Hall of Justice Law Firm",
+   "edges": 1
+  }
+ ],
+ "edges": [
+  {
+   "source": "banks",
+   "target": "pca",
+   "type": "employment",
+   "epistemic_status": "record",
+   "role": "Superintendent",
+   "amount_usd": null,
+   "note": null,
+   "weight": 10.0,
+   "source_doc": "purposecharteracademy.com"
+  },
+  {
+   "source": "banks",
+   "target": "macdowell",
+   "type": "employment",
+   "epistemic_status": "record",
+   "role": "Superintendent",
+   "amount_usd": null,
+   "note": null,
+   "weight": 10.0,
+   "source_doc": "macdowellprep.com"
+  },
+  {
+   "source": "banks",
+   "target": "purpose_group",
+   "type": "ownership",
+   "epistemic_status": "record",
+   "role": "Sole member",
+   "amount_usd": null,
+   "note": null,
+   "weight": 10.0,
+   "source_doc": "LARA 803295082"
+  },
+  {
+   "source": "banks",
+   "target": "purpose_foundation",
+   "type": "governance",
+   "epistemic_status": "record",
+   "role": "President + Agent",
+   "amount_usd": null,
+   "note": null,
+   "weight": 8.0,
+   "source_doc": "LARA 803294855"
+  },
+  {
+   "source": "banks",
+   "target": "banks_strategy",
+   "type": "ownership",
+   "epistemic_status": "record",
+   "role": "Owner",
+   "amount_usd": null,
+   "note": null,
+   "weight": 8.0,
+   "source_doc": "LARA 802070120"
+  },
+  {
+   "source": "banks",
+   "target": "serenity",
+   "type": "ownership",
+   "epistemic_status": "record",
+   "role": "Principal (dissolved)",
+   "amount_usd": null,
+   "note": null,
+   "weight": 5.0,
+   "source_doc": "LARA 802290962"
+  },
+  {
+   "source": "banks",
+   "target": "city_hill",
+   "type": "governance",
+   "epistemic_status": "record",
+   "role": "Pastor / controller",
+   "amount_usd": null,
+   "note": null,
+   "weight": 5.0,
+   "source_doc": "LARA 802365641"
+  },
+  {
+   "source": "banks",
+   "target": "sun_community",
+   "type": "governance",
+   "epistemic_status": "record",
+   "role": "Officer",
+   "amount_usd": null,
+   "note": null,
+   "weight": 5.0,
+   "source_doc": "LARA 803232314"
+  },
+  {
+   "source": "banks",
+   "target": "pacs",
+   "type": "governance",
+   "epistemic_status": "record",
+   "role": "Treasurer (Bank on Wayne Co.)",
+   "amount_usd": null,
+   "note": null,
+   "weight": 6.0,
+   "source_doc": "CFRS"
+  },
+  {
+   "source": "banks",
+   "target": "ofa",
+   "type": "governance",
+   "epistemic_status": "record",
+   "role": "Officer (Holland's PO Box)",
+   "amount_usd": null,
+   "note": null,
+   "weight": 4.0,
+   "source_doc": "LARA"
+  },
+  {
+   "source": "holland",
+   "target": "banks",
+   "type": "co-resident",
+   "epistemic_status": "record",
+   "role": null,
+   "amount_usd": null,
+   "note": "Same address: (street address left out), GPW",
+   "weight": 9.0,
+   "source_doc": "Wayne County ROD"
+  },
+  {
+   "source": "holland",
+   "target": "purpose_foundation",
+   "type": "governance",
+   "epistemic_status": "record",
+   "role": "Secretary + Treasurer",
+   "amount_usd": null,
+   "note": null,
+   "weight": 8.0,
+   "source_doc": "LARA 803294855"
+  },
+  {
+   "source": "holland",
+   "target": "pacs",
+   "type": "governance",
+   "epistemic_status": "record",
+   "role": "Treasurer (Bank on Banks PAC)",
+   "amount_usd": null,
+   "note": null,
+   "weight": 7.0,
+   "source_doc": "CFRS"
+  },
+  {
+   "source": "holland",
+   "target": "ofa",
+   "type": "governance",
+   "epistemic_status": "record",
+   "role": "Officer",
+   "amount_usd": null,
+   "note": null,
+   "weight": 4.0,
+   "source_doc": "LARA"
+  },
+  {
+   "source": "miller",
+   "target": "pca",
+   "type": "board_membership",
+   "epistemic_status": "record",
+   "role": "Board Chair",
+   "amount_usd": null,
+   "note": null,
+   "weight": 9.0,
+   "source_doc": "purposecharteracademy.com/boardofdirectors (Sep 2026)"
+  },
+  {
+   "source": "miller",
+   "target": "anchor_rock",
+   "type": "board_membership",
+   "epistemic_status": "record",
+   "role": "Board Chair (historical)",
+   "amount_usd": null,
+   "note": null,
+   "weight": 7.0,
+   "source_doc": "LARA 802394934"
+  },
+  {
+   "source": "miller",
+   "target": "court_3rd",
+   "type": "bench",
+   "epistemic_status": "record",
+   "role": "Judge",
+   "amount_usd": null,
+   "note": null,
+   "weight": 10.0,
+   "source_doc": null
+  },
+  {
+   "source": "miller",
+   "target": "banks",
+   "type": "campaign_vendor",
+   "epistemic_status": "record",
+   "role": null,
+   "amount_usd": null,
+   "note": "Banks Strategy as campaign vendor",
+   "weight": 5.0,
+   "source_doc": "CFRS"
+  },
+  {
+   "source": "moreland",
+   "target": "pca",
+   "type": "board_membership",
+   "epistemic_status": "record",
+   "role": "Board Vice Chair",
+   "amount_usd": null,
+   "note": null,
+   "weight": 8.0,
+   "source_doc": "purposecharteracademy.com/boardofdirectors"
+  },
+  {
+   "source": "moreland",
+   "target": "ag_office",
+   "type": "employment",
+   "epistemic_status": "record",
+   "role": "Assistant Attorney General",
+   "amount_usd": null,
+   "note": null,
+   "weight": 9.0,
+   "source_doc": null
+  },
+  {
+   "source": "latisha_johnson",
+   "target": "pca",
+   "type": "board_membership",
+   "epistemic_status": "record",
+   "role": "Board Secretary",
+   "amount_usd": null,
+   "note": null,
+   "weight": 7.0,
+   "source_doc": "purposecharteracademy.com/boardofdirectors"
+  },
+  {
+   "source": "latisha_johnson",
+   "target": "city_council",
+   "type": "elected_office",
+   "epistemic_status": "record",
+   "role": "Council Member",
+   "amount_usd": null,
+   "note": null,
+   "weight": 8.0,
+   "source_doc": null
+  },
+  {
+   "source": "yancey",
+   "target": "macdowell",
+   "type": "board_membership",
+   "epistemic_status": "record",
+   "role": "Board Chair",
+   "amount_usd": null,
+   "note": null,
+   "weight": 9.0,
+   "source_doc": "Clutch Justice Sep 13, 2026"
+  },
+  {
+   "source": "yancey",
+   "target": "banks_strategy",
+   "type": "payment",
+   "epistemic_status": "record",
+   "role": null,
+   "amount_usd": 383.82,
+   "note": "Sole contribution and sole expenditure",
+   "weight": 8.0,
+   "source_doc": "CFRS"
+  },
+  {
+   "source": "yancey",
+   "target": "inner_link",
+   "type": "payment",
+   "epistemic_status": "record",
+   "role": null,
+   "amount_usd": 8025,
+   "note": "Campaign vendor payments",
+   "weight": 6.0,
+   "source_doc": "TransparencyUSA"
+  },
+  {
+   "source": "yancey",
+   "target": "court_36th",
+   "type": "bench",
+   "epistemic_status": "record",
+   "role": "Judge",
+   "amount_usd": null,
+   "note": null,
+   "weight": 10.0,
+   "source_doc": null
+  },
+  {
+   "source": "sabree_a",
+   "target": "court_3rd",
+   "type": "bench",
+   "epistemic_status": "record",
+   "role": "Judge (Family Division)",
+   "amount_usd": null,
+   "note": null,
+   "weight": 10.0,
+   "source_doc": null
+  },
+  {
+   "source": "sabree_a",
+   "target": "banks",
+   "type": "classmate",
+   "epistemic_status": "record",
+   "role": null,
+   "amount_usd": null,
+   "note": "MSU Law 2010 — same year as Banks' claimed J.D.",
+   "weight": 5.0,
+   "source_doc": "Graduation records"
+  },
+  {
+   "source": "eric_sabree",
+   "target": "sabree_a",
+   "type": "family",
+   "epistemic_status": "record",
+   "role": "Father",
+   "amount_usd": null,
+   "note": null,
+   "weight": 10.0,
+   "source_doc": null
+  },
+  {
+   "source": "eric_sabree",
+   "target": "sabree_adam",
+   "type": "family",
+   "epistemic_status": "record",
+   "role": "Father",
+   "amount_usd": null,
+   "note": null,
+   "weight": 10.0,
+   "source_doc": null
+  },
+  {
+   "source": "eric_sabree",
+   "target": "miller",
+   "type": "political",
+   "epistemic_status": "inference",
+   "role": null,
+   "amount_usd": null,
+   "note": "Listed as endorser on keepjudgemiller.com",
+   "weight": 4.0,
+   "source_doc": "keepjudgemiller.com"
+  },
+  {
+   "source": "sabree_adam",
+   "target": "court_36th",
+   "type": "bench",
+   "epistemic_status": "record",
+   "role": "Judge",
+   "amount_usd": null,
+   "note": null,
+   "weight": 10.0,
+   "source_doc": null
+  },
+  {
+   "source": "perkins_d",
+   "target": "court_probate",
+   "type": "bench",
+   "epistemic_status": "record",
+   "role": "Chief Judge Pro Tem",
+   "amount_usd": null,
+   "note": null,
+   "weight": 10.0,
+   "source_doc": null
+  },
+  {
+   "source": "perkins_d",
+   "target": "banks",
+   "type": "family_donation",
+   "epistemic_status": "record",
+   "role": null,
+   "amount_usd": null,
+   "note": "Family donated to Banks-aligned campaigns",
+   "weight": 4.0,
+   "source_doc": "CFRS"
+  },
+  {
+   "source": "perkins_sean",
+   "target": "court_36th",
+   "type": "bench",
+   "epistemic_status": "record",
+   "role": "Judge",
+   "amount_usd": null,
+   "note": null,
+   "weight": 10.0,
+   "source_doc": null
+  },
+  {
+   "source": "perkins_sean",
+   "target": "todd_perkins",
+   "type": "family",
+   "epistemic_status": "record",
+   "role": "Brother",
+   "amount_usd": null,
+   "note": null,
+   "weight": 10.0,
+   "source_doc": null
+  },
+  {
+   "source": "ramsey",
+   "target": "court_3rd",
+   "type": "bench",
+   "epistemic_status": "record",
+   "role": "Judge (Criminal Division)",
+   "amount_usd": null,
+   "note": null,
+   "weight": 10.0,
+   "source_doc": null
+  },
+  {
+   "source": "ramsey",
+   "target": "macdowell",
+   "type": "employment_family",
+   "epistemic_status": "record",
+   "role": null,
+   "amount_usd": null,
+   "note": "2 family members on MacDowell payroll",
+   "weight": 6.0,
+   "source_doc": "School records"
+  },
+  {
+   "source": "evans",
+   "target": "court_3rd",
+   "type": "bench",
+   "epistemic_status": "record",
+   "role": "Judge (retired)",
+   "amount_usd": null,
+   "note": null,
+   "weight": 7.0,
+   "source_doc": null
+  },
+  {
+   "source": "evans",
+   "target": "banks",
+   "type": "mentorship",
+   "epistemic_status": "corroborated",
+   "role": null,
+   "amount_usd": null,
+   "note": "21-year mentor. Endorsed Banks despite criminal record.",
+   "weight": 8.0,
+   "source_doc": "Book analysis"
+  },
+  {
+   "source": "langford_morris",
+   "target": "court_oakland",
+   "type": "bench",
+   "epistemic_status": "record",
+   "role": "Judge (retired, now JAMS)",
+   "amount_usd": null,
+   "note": null,
+   "weight": 7.0,
+   "source_doc": null
+  },
+  {
+   "source": "langford_morris",
+   "target": "banks",
+   "type": "credential_legitimization",
+   "epistemic_status": "corroborated",
+   "role": null,
+   "amount_usd": null,
+   "note": "Wrote book foreword using Banks' fake J.D.",
+   "weight": 7.0,
+   "source_doc": "Book analysis"
+  },
+  {
+   "source": "todd_perkins",
+   "target": "banks",
+   "type": "legal_representation",
+   "epistemic_status": "record",
+   "role": "Personal attorney",
+   "amount_usd": null,
+   "note": null,
+   "weight": 9.0,
+   "source_doc": "Court filings"
+  },
+  {
+   "source": "todd_perkins",
+   "target": "miller",
+   "type": "legal_representation",
+   "epistemic_status": "record",
+   "role": null,
+   "amount_usd": null,
+   "note": "Represented Miller in DTW gun case",
+   "weight": 7.0,
+   "source_doc": "WXYZ"
+  },
+  {
+   "source": "gay_dagnogo",
+   "target": "dpscd",
+   "type": "board_membership",
+   "epistemic_status": "record",
+   "role": "Former board member",
+   "amount_usd": null,
+   "note": null,
+   "weight": 8.0,
+   "source_doc": null
+  },
+  {
+   "source": "gay_dagnogo",
+   "target": "pca",
+   "type": "authorization",
+   "epistemic_status": "record",
+   "role": null,
+   "amount_usd": null,
+   "note": "Voted to authorize Banks' charters",
+   "weight": 8.0,
+   "source_doc": "DPSCD board minutes"
+  },
+  {
+   "source": "gay_dagnogo",
+   "target": "macdowell",
+   "type": "authorization",
+   "epistemic_status": "record",
+   "role": null,
+   "amount_usd": null,
+   "note": "Authorized charter",
+   "weight": 8.0,
+   "source_doc": null
+  },
+  {
+   "source": "gay_dagnogo",
+   "target": "banks",
+   "type": "political",
+   "epistemic_status": "inference",
+   "role": null,
+   "amount_usd": null,
+   "note": "CBC Week honoree; campaign ally",
+   "weight": 6.0,
+   "source_doc": "Eventbrite"
+  },
+  {
+   "source": "mckinney",
+   "target": "banks",
+   "type": "payment",
+   "epistemic_status": "record",
+   "role": null,
+   "amount_usd": 4483,
+   "note": "Campaign → extended Banks family",
+   "weight": 5.0,
+   "source_doc": "TransparencyUSA"
+  },
+  {
+   "source": "od_banks",
+   "target": "banks",
+   "type": "family",
+   "epistemic_status": "record",
+   "role": "Father",
+   "amount_usd": null,
+   "note": null,
+   "weight": 10.0,
+   "source_doc": "PACER 2:05-cr-80955"
+  },
+  {
+   "source": "pca",
+   "target": "purpose_group",
+   "type": "money_flow",
+   "epistemic_status": "corroborated",
+   "role": null,
+   "amount_usd": null,
+   "note": "Management contract — per-pupil funding flows to CMO",
+   "weight": 9.0,
+   "source_doc": null
+  },
+  {
+   "source": "macdowell",
+   "target": "purpose_group",
+   "type": "money_flow",
+   "epistemic_status": "corroborated",
+   "role": null,
+   "amount_usd": 4285201,
+   "note": "72.67% of $4.9M revenue to CMO",
+   "weight": 10.0,
+   "source_doc": "Audited financials"
+  },
+  {
+   "source": "purpose_group",
+   "target": "banks",
+   "type": "money_flow",
+   "epistemic_status": "corroborated",
+   "role": null,
+   "amount_usd": null,
+   "note": "Sole member extracts as salary + management fee",
+   "weight": 10.0,
+   "source_doc": null
+  },
+  {
+   "source": "pca",
+   "target": "court_3rd",
+   "type": "jurisdiction",
+   "epistemic_status": "inference",
+   "role": null,
+   "amount_usd": null,
+   "note": "Cases from PCA families filed in 3rd Circuit",
+   "weight": 5.0,
+   "source_doc": null
+  },
+  {
+   "source": "pca",
+   "target": "court_36th",
+   "type": "jurisdiction",
+   "epistemic_status": "inference",
+   "role": null,
+   "amount_usd": null,
+   "note": "Cases from PCA families filed in 36th District",
+   "weight": 5.0,
+   "source_doc": null
+  },
+  {
+   "source": "macdowell",
+   "target": "court_3rd",
+   "type": "jurisdiction",
+   "epistemic_status": "inference",
+   "role": null,
+   "amount_usd": null,
+   "note": "Cases from MacDowell families filed in 3rd Circuit",
+   "weight": 5.0,
+   "source_doc": null
+  },
+  {
+   "source": "macdowell",
+   "target": "court_36th",
+   "type": "jurisdiction",
+   "epistemic_status": "inference",
+   "role": null,
+   "amount_usd": null,
+   "note": "Cases from MacDowell families filed in 36th District",
+   "weight": 5.0,
+   "source_doc": null
+  },
+  {
+   "source": "purpose_group",
+   "target": "macdowell",
+   "type": "financial",
+   "epistemic_status": "record",
+   "role": null,
+   "amount_usd": 72.67,
+   "note": "10% SSA + ALL operating costs = 72.67% of revenue",
+   "weight": 10.0,
+   "source_doc": "Purpose Group Management Agreement (FOIA)"
+  },
+  {
+   "source": "dpscd",
+   "target": "pca",
+   "type": "authorization",
+   "epistemic_status": "record",
+   "role": null,
+   "amount_usd": null,
+   "note": "Authorized PCA despite operator's bottom-3% record at MacDowell",
+   "weight": 8.0,
+   "source_doc": "DPSCD charter authorization records"
+  },
+  {
+   "source": "escuela_avancemos",
+   "target": "macdowell",
+   "type": "permit",
+   "epistemic_status": "record",
+   "role": "Source of Daily Substitute Permit for 3rd-grade teacher",
+   "amount_usd": null,
+   "note": "Alana Hubbell — Daily Sub Permit issued through Escuela Avancemos",
+   "weight": 4.0,
+   "source_doc": "MOECS public search Sep 26, 2026"
+  },
+  {
+   "source": "chandler_park",
+   "target": "macdowell",
+   "type": "permit",
+   "epistemic_status": "record",
+   "role": "Source of Daily Substitute Permit for 5th-grade teacher",
+   "amount_usd": null,
+   "note": "Ashlie Spencer — Daily Sub Permit issued through Chandler Park Academy",
+   "weight": 4.0,
+   "source_doc": "MOECS public search Sep 26, 2026"
+  },
+  {
+   "source": "purpose_group",
+   "target": "pca",
+   "type": "property",
+   "epistemic_status": "record",
+   "role": null,
+   "amount_usd": null,
+   "note": "Building purchase option from DPSCD at 10101 E. Canfield",
+   "weight": 7.0,
+   "source_doc": "Purpose Group Management Agreement (FOIA)"
+  },
+  {
+   "source": "banks",
+   "target": "holland",
+   "type": "co-resident",
+   "epistemic_status": "record",
+   "role": null,
+   "amount_usd": null,
+   "note": "Same address: (street address left out), GPW — co-resident, all entities",
+   "weight": 9.0,
+   "source_doc": null
+  },
+  {
+   "source": "welch",
+   "target": "od_banks",
+   "type": "family",
+   "epistemic_status": "record",
+   "role": null,
+   "amount_usd": null,
+   "note": "BMF network",
+   "weight": 7.0,
+   "source_doc": null
+  },
+  {
+   "source": "wells_stallworth",
+   "target": "macdowell",
+   "type": "board_membership",
+   "epistemic_status": "record",
+   "role": "Board President",
+   "amount_usd": null,
+   "note": null,
+   "weight": 9.0,
+   "source_doc": null
+  },
+  {
+   "source": "wells_stallworth",
+   "target": "banks",
+   "type": "political",
+   "epistemic_status": "corroborated",
+   "role": null,
+   "amount_usd": null,
+   "note": "Received investigation letter, protected Banks",
+   "weight": 6.0,
+   "source_doc": null
+  },
+  {
+   "source": "mde",
+   "target": "banks",
+   "type": "investigation",
+   "epistemic_status": "record",
+   "role": null,
+   "amount_usd": null,
+   "note": "HOLD on permit #590606",
+   "weight": 7.0,
+   "source_doc": null
+  },
+  {
+   "source": "mde",
+   "target": "macdowell",
+   "type": "investigation",
+   "epistemic_status": "record",
+   "role": null,
+   "amount_usd": null,
+   "note": "Investigated Feb 2022, cleared",
+   "weight": 7.0,
+   "source_doc": null
+  },
+  {
+   "source": "schmiedeknecht",
+   "target": "mde",
+   "type": "employment",
+   "epistemic_status": "record",
+   "role": "OEE Analyst",
+   "amount_usd": null,
+   "note": null,
+   "weight": 5.0,
+   "source_doc": null
+  },
+  {
+   "source": "alan_young",
+   "target": "macdowell",
+   "type": "financial",
+   "epistemic_status": "record",
+   "role": null,
+   "amount_usd": null,
+   "note": "Auditor 9yr (FY17-25)",
+   "weight": 7.0,
+   "source_doc": null
+  },
+  {
+   "source": "macdowell",
+   "target": "banks",
+   "type": "money_flow",
+   "epistemic_status": "record",
+   "role": null,
+   "amount_usd": 667000,
+   "note": "School Admin salary",
+   "weight": 9.0,
+   "source_doc": null
+  },
+  {
+   "source": "sheffield",
+   "target": "bettison",
+   "type": "appointment",
+   "epistemic_status": "record",
+   "role": null,
+   "amount_usd": null,
+   "note": "Appointed chief",
+   "weight": 9.0,
+   "source_doc": null
+  },
+  {
+   "source": "sheffield",
+   "target": "banks",
+   "type": "political",
+   "epistemic_status": "corroborated",
+   "role": null,
+   "amount_usd": null,
+   "note": "Endorsed",
+   "weight": 5.0,
+   "source_doc": null
+  },
+  {
+   "source": "evans",
+   "target": "banks",
+   "type": "political",
+   "epistemic_status": "corroborated",
+   "role": null,
+   "amount_usd": null,
+   "note": "Endorsed",
+   "weight": 5.0,
+   "source_doc": null
+  },
+  {
+   "source": "sabree_e",
+   "target": "banks",
+   "type": "political",
+   "epistemic_status": "corroborated",
+   "role": null,
+   "amount_usd": null,
+   "note": "Endorsed",
+   "weight": 5.0,
+   "source_doc": null
+  },
+  {
+   "source": "inner_link",
+   "target": "banks",
+   "type": "payment",
+   "epistemic_status": "record",
+   "role": null,
+   "amount_usd": 39000,
+   "note": "Banks for Senate",
+   "weight": 7.0,
+   "source_doc": null
+  },
+  {
+   "source": "inner_link",
+   "target": "yancey",
+   "type": "payment",
+   "epistemic_status": "record",
+   "role": null,
+   "amount_usd": 8000,
+   "note": "Yancey campaign",
+   "weight": 6.0,
+   "source_doc": null
+  },
+  {
+   "source": "mccastle",
+   "target": "banks",
+   "type": "payment",
+   "epistemic_status": "record",
+   "role": null,
+   "amount_usd": 9450,
+   "note": "Banks for Senate",
+   "weight": 6.0,
+   "source_doc": null
+  },
+  {
+   "source": "mccastle",
+   "target": "gay_dagnogo",
+   "type": "payment",
+   "epistemic_status": "record",
+   "role": null,
+   "amount_usd": 1000,
+   "note": "Strong Women PAC",
+   "weight": 4.0,
+   "source_doc": null
+  },
+  {
+   "source": "johnson_l",
+   "target": "pca",
+   "type": "board_membership",
+   "epistemic_status": "record",
+   "role": "Board Secretary",
+   "amount_usd": null,
+   "note": null,
+   "weight": 7.0,
+   "source_doc": null
+  },
+  {
+   "source": "inner_link",
+   "target": "johnson_l",
+   "type": "payment",
+   "epistemic_status": "record",
+   "role": null,
+   "amount_usd": 850,
+   "note": "Campaign payment",
+   "weight": 4.0,
+   "source_doc": null
+  },
+  {
+   "source": "bettison",
+   "target": "dpsa",
+   "type": "board_membership",
+   "epistemic_status": "record",
+   "role": "Board Secretary",
+   "amount_usd": null,
+   "note": null,
+   "weight": 8.0,
+   "source_doc": null
+  },
+  {
+   "source": "bettison",
+   "target": "sheffield",
+   "type": "political",
+   "epistemic_status": "record",
+   "role": null,
+   "amount_usd": null,
+   "note": "OIG probe — phone call",
+   "weight": 7.0,
+   "source_doc": null
+  },
+  {
+   "source": "fiore",
+   "target": "banks",
+   "type": "corruption",
+   "epistemic_status": "record",
+   "role": null,
+   "amount_usd": null,
+   "note": "FBI wiretap: bid-rigging",
+   "weight": 8.0,
+   "source_doc": null
+  },
+  {
+   "source": "spivey",
+   "target": "fiore",
+   "type": "corruption",
+   "epistemic_status": "record",
+   "role": null,
+   "amount_usd": null,
+   "note": "Op Northern Hook",
+   "weight": 7.0,
+   "source_doc": null
+  },
+  {
+   "source": "perkins_t",
+   "target": "banks",
+   "type": "legal_representation",
+   "epistemic_status": "record",
+   "role": "Defense attorney",
+   "amount_usd": null,
+   "note": null,
+   "weight": 8.0,
+   "source_doc": null
+  },
+  {
+   "source": "perkins_t",
+   "target": "fiore",
+   "type": "payment",
+   "epistemic_status": "record",
+   "role": null,
+   "amount_usd": 500,
+   "note": "Donated to Fiore",
+   "weight": 4.0,
+   "source_doc": null
+  },
+  {
+   "source": "gay_dagnogo",
+   "target": "perkins_t",
+   "type": "payment",
+   "epistemic_status": "record",
+   "role": null,
+   "amount_usd": 750,
+   "note": "Mayor campaign contribution",
+   "weight": 4.0,
+   "source_doc": null
+  },
+  {
+   "source": "stallworth_t",
+   "target": "wells_stallworth",
+   "type": "family",
+   "epistemic_status": "record",
+   "role": "Married",
+   "amount_usd": null,
+   "note": null,
+   "weight": 10.0,
+   "source_doc": null
+  },
+  {
+   "source": "stallworth_t",
+   "target": "banks",
+   "type": "political",
+   "epistemic_status": "record",
+   "role": null,
+   "amount_usd": null,
+   "note": "Defended at rally, $1,250",
+   "weight": 6.0,
+   "source_doc": null
+  },
+  {
+   "source": "moreland",
+   "target": "pca",
+   "type": "board_membership",
+   "epistemic_status": "record",
+   "role": "Board Director + litigation attorney",
+   "amount_usd": null,
+   "note": null,
+   "weight": 8.0,
+   "source_doc": null
+  },
+  {
+   "source": "moreland",
+   "target": "banks",
+   "type": "legal_representation",
+   "epistemic_status": "corroborated",
+   "role": null,
+   "amount_usd": null,
+   "note": "AAG argued against cert → became his attorney + board member",
+   "weight": 8.0,
+   "source_doc": null
+  },
+  {
+   "source": "miller",
+   "target": "pca",
+   "type": "board_membership",
+   "epistemic_status": "record",
+   "role": "Board Chair",
+   "amount_usd": null,
+   "note": null,
+   "weight": 9.0,
+   "source_doc": null
+  },
+  {
+   "source": "hutchings",
+   "target": "pca",
+   "type": "board_membership",
+   "epistemic_status": "record",
+   "role": "Board Treasurer",
+   "amount_usd": null,
+   "note": null,
+   "weight": 7.0,
+   "source_doc": null
+  },
+  {
+   "source": "clora",
+   "target": "pca",
+   "type": "board_membership",
+   "epistemic_status": "record",
+   "role": "Board Director",
+   "amount_usd": null,
+   "note": null,
+   "weight": 6.0,
+   "source_doc": null
+  },
+  {
+   "source": "dykema",
+   "target": "sdj",
+   "type": "formation",
+   "epistemic_status": "record",
+   "role": null,
+   "amount_usd": null,
+   "note": "Formed entity ((e-mail address left out))",
+   "weight": 8.0,
+   "source_doc": null
+  },
+  {
+   "source": "daniels",
+   "target": "sdj",
+   "type": "governance",
+   "epistemic_status": "record",
+   "role": "President + Director",
+   "amount_usd": null,
+   "note": null,
+   "weight": 8.0,
+   "source_doc": null
+  },
+  {
+   "source": "sdj",
+   "target": "johnson_l",
+   "type": "money_flow",
+   "epistemic_status": "record",
+   "role": null,
+   "amount_usd": null,
+   "note": "Funded 2021 campaign vs. Elrick",
+   "weight": 8.0,
+   "source_doc": null
+  },
+  {
+   "source": "holland",
+   "target": "right_turn",
+   "type": "governance",
+   "epistemic_status": "record",
+   "role": "President + Director",
+   "amount_usd": null,
+   "note": null,
+   "weight": 7.0,
+   "source_doc": null
+  },
+  {
+   "source": "ross",
+   "target": "right_turn",
+   "type": "governance",
+   "epistemic_status": "record",
+   "role": "Treasurer + Director",
+   "amount_usd": null,
+   "note": null,
+   "weight": 7.0,
+   "source_doc": null
+  },
+  {
+   "source": "banks",
+   "target": "right_turn",
+   "type": "governance",
+   "epistemic_status": "record",
+   "role": null,
+   "amount_usd": null,
+   "note": "Controlled via email ((e-mail address left out))",
+   "weight": 7.0,
+   "source_doc": null
+  },
+  {
+   "source": "pacs",
+   "target": "right_turn",
+   "type": "money_flow",
+   "epistemic_status": "record",
+   "role": null,
+   "amount_usd": null,
+   "note": "PAC transfers",
+   "weight": 6.0,
+   "source_doc": null
+  },
+  {
+   "source": "ross",
+   "target": "ross_catering",
+   "type": "ownership",
+   "epistemic_status": "record",
+   "role": null,
+   "amount_usd": null,
+   "note": "Treasurer + vendor (self-dealing)",
+   "weight": 7.0,
+   "source_doc": null
+  },
+  {
+   "source": "pacs",
+   "target": "ross_catering",
+   "type": "payment",
+   "epistemic_status": "record",
+   "role": null,
+   "amount_usd": 35000,
+   "note": "Campaign payments",
+   "weight": 7.0,
+   "source_doc": null
+  },
+  {
+   "source": "larry_thomas",
+   "target": "inner_link",
+   "type": "ownership",
+   "epistemic_status": "record",
+   "role": "Owner + agent",
+   "amount_usd": null,
+   "note": null,
+   "weight": 8.0,
+   "source_doc": null
+  },
+  {
+   "source": "gordon",
+   "target": "custom_promo",
+   "type": "ownership",
+   "epistemic_status": "record",
+   "role": null,
+   "amount_usd": null,
+   "note": "Dissolve-and-reform (Inc→LLC, 3 mo)",
+   "weight": 7.0,
+   "source_doc": null
+  },
+  {
+   "source": "custom_promo",
+   "target": "johnson_l",
+   "type": "payment",
+   "epistemic_status": "record",
+   "role": null,
+   "amount_usd": null,
+   "note": "Campaign payments",
+   "weight": 5.0,
+   "source_doc": null
+  },
+  {
+   "source": "gordon",
+   "target": "banks",
+   "type": "corruption",
+   "epistemic_status": "corroborated",
+   "role": null,
+   "amount_usd": null,
+   "note": "UAW bribery network ($3M+)",
+   "weight": 6.0,
+   "source_doc": null
+  },
+  {
+   "source": "carol_banks",
+   "target": "eastside_slate",
+   "type": "governance",
+   "epistemic_status": "record",
+   "role": "Agent — 4th incarnation",
+   "amount_usd": null,
+   "note": null,
+   "weight": 7.0,
+   "source_doc": null
+  },
+  {
+   "source": "carol_banks",
+   "target": "banks",
+   "type": "family",
+   "epistemic_status": "record",
+   "role": "Sister",
+   "amount_usd": null,
+   "note": null,
+   "weight": 10.0,
+   "source_doc": null
+  },
+  {
+   "source": "leach",
+   "target": "eastside_slate",
+   "type": "governance",
+   "epistemic_status": "record",
+   "role": null,
+   "amount_usd": null,
+   "note": "2nd incarnation agent. 13 political entities.",
+   "weight": 6.0,
+   "source_doc": null
+  },
+  {
+   "source": "eastside_slate",
+   "target": "banks",
+   "type": "political",
+   "epistemic_status": "corroborated",
+   "role": null,
+   "amount_usd": null,
+   "note": "Endorsement pipeline",
+   "weight": 6.0,
+   "source_doc": null
+  },
+  {
+   "source": "crump_gibson",
+   "target": "great_lakes_legal",
+   "type": "ownership",
+   "epistemic_status": "record",
+   "role": "Agent + member",
+   "amount_usd": null,
+   "note": null,
+   "weight": 7.0,
+   "source_doc": null
+  },
+  {
+   "source": "crump_gibson",
+   "target": "banks",
+   "type": "legal_representation",
+   "epistemic_status": "record",
+   "role": null,
+   "amount_usd": null,
+   "note": "Represents Banks (Discipline Board panelist)",
+   "weight": 7.0,
+   "source_doc": null
+  },
+  {
+   "source": "v_hall",
+   "target": "banks",
+   "type": "legal_representation",
+   "epistemic_status": "record",
+   "role": null,
+   "amount_usd": null,
+   "note": "Filed PPO against journalist",
+   "weight": 6.0,
+   "source_doc": null
+  },
+  {
+   "source": "v_hall",
+   "target": "crump_gibson",
+   "type": "family",
+   "epistemic_status": "inference",
+   "role": null,
+   "amount_usd": null,
+   "note": "Shared surname Crump — MSU — family?",
+   "weight": 4.0,
+   "source_doc": null
+  },
+  {
+   "source": "banks",
+   "target": "serenity",
+   "type": "ownership",
+   "epistemic_status": "record",
+   "role": null,
+   "amount_usd": null,
+   "note": "Sole officer (all 4 roles). Never barred.",
+   "weight": 7.0,
+   "source_doc": null
+  },
+  {
+   "source": "banks",
+   "target": "anchor_rock",
+   "type": "governance",
+   "epistemic_status": "record",
+   "role": "Registered agent",
+   "amount_usd": null,
+   "note": "3 assumed names",
+   "weight": 5.0,
+   "source_doc": null
+  },
+  {
+   "source": "cmu",
+   "target": "macdowell",
+   "type": "authorization",
+   "epistemic_status": "record",
+   "role": null,
+   "amount_usd": null,
+   "note": "Authorized (150 mi away)",
+   "weight": 8.0,
+   "source_doc": null
+  },
+  {
+   "source": "dpscd_auth",
+   "target": "pca",
+   "type": "authorization",
+   "epistemic_status": "record",
+   "role": null,
+   "amount_usd": null,
+   "note": "Authorized Jul 2025 (3% fee)",
+   "weight": 8.0,
+   "source_doc": null
+  },
+  {
+   "source": "emu",
+   "target": "dpsa",
+   "type": "authorization",
+   "epistemic_status": "record",
+   "role": null,
+   "amount_usd": null,
+   "note": "Authorized DPSA",
+   "weight": 7.0,
+   "source_doc": null
+  },
+  {
+   "source": "gvsu",
+   "target": "nha",
+   "type": "authorization",
+   "epistemic_status": "record",
+   "role": null,
+   "amount_usd": null,
+   "note": "Authorizes 16+ Detroit NHA schools",
+   "weight": 8.0,
+   "source_doc": null
+  },
+  {
+   "source": "macdowell",
+   "target": "cmu",
+   "type": "money_flow",
+   "epistemic_status": "record",
+   "role": null,
+   "amount_usd": 147000,
+   "note": "3% auth fee",
+   "weight": 7.0,
+   "source_doc": null
+  },
+  {
+   "source": "pca",
+   "target": "dpscd_auth",
+   "type": "money_flow",
+   "epistemic_status": "record",
+   "role": null,
+   "amount_usd": 81000,
+   "note": "3% auth fee",
+   "weight": 7.0,
+   "source_doc": null
+  },
+  {
+   "source": "gay_dagnogo",
+   "target": "dpscd_auth",
+   "type": "political",
+   "epistemic_status": "record",
+   "role": null,
+   "amount_usd": null,
+   "note": "DPSCD board → authorized PCA",
+   "weight": 7.0,
+   "source_doc": null
+  },
+  {
+   "source": "coleman_young",
+   "target": "archer",
+   "type": "political",
+   "epistemic_status": "record",
+   "role": null,
+   "amount_usd": null,
+   "note": "Succeeded 1994",
+   "weight": 8.0,
+   "source_doc": null
+  },
+  {
+   "source": "archer",
+   "target": "kwame",
+   "type": "political",
+   "epistemic_status": "record",
+   "role": null,
+   "amount_usd": null,
+   "note": "Succeeded 2002",
+   "weight": 8.0,
+   "source_doc": null
+  },
+  {
+   "source": "kwame",
+   "target": "bing",
+   "type": "political",
+   "epistemic_status": "record",
+   "role": null,
+   "amount_usd": null,
+   "note": "Succeeded after conviction 2008",
+   "weight": 8.0,
+   "source_doc": null
+  },
+  {
+   "source": "bing",
+   "target": "duggan",
+   "type": "political",
+   "epistemic_status": "record",
+   "role": null,
+   "amount_usd": null,
+   "note": "Succeeded 2014",
+   "weight": 8.0,
+   "source_doc": null
+  },
+  {
+   "source": "duggan",
+   "target": "sheffield",
+   "type": "political",
+   "epistemic_status": "record",
+   "role": null,
+   "amount_usd": null,
+   "note": "Succeeded 2024",
+   "weight": 8.0,
+   "source_doc": null
+  },
+  {
+   "source": "kwame",
+   "target": "carolyn_kilpatrick",
+   "type": "family",
+   "epistemic_status": "record",
+   "role": "Mother",
+   "amount_usd": null,
+   "note": null,
+   "weight": 10.0,
+   "source_doc": null
+  },
+  {
+   "source": "carolyn_kilpatrick",
+   "target": "banks",
+   "type": "political",
+   "epistemic_status": "record",
+   "role": null,
+   "amount_usd": null,
+   "note": "CBC honorary host 2023",
+   "weight": 6.0,
+   "source_doc": null
+  },
+  {
+   "source": "kwame",
+   "target": "dumas",
+   "type": "employment",
+   "epistemic_status": "record",
+   "role": "Communications chief",
+   "amount_usd": null,
+   "note": null,
+   "weight": 8.0,
+   "source_doc": null
+  },
+  {
+   "source": "dumas",
+   "target": "banks",
+   "type": "political",
+   "epistemic_status": "corroborated",
+   "role": null,
+   "amount_usd": null,
+   "note": "PR support, thanked in book",
+   "weight": 5.0,
+   "source_doc": null
+  },
+  {
+   "source": "bing",
+   "target": "dumas",
+   "type": "employment",
+   "epistemic_status": "record",
+   "role": "Communications chief (continued)",
+   "amount_usd": null,
+   "note": null,
+   "weight": 7.0,
+   "source_doc": null
+  },
+  {
+   "source": "kwame",
+   "target": "daniels",
+   "type": "appointment",
+   "epistemic_status": "record",
+   "role": null,
+   "amount_usd": null,
+   "note": "Appointed to Water Board",
+   "weight": 7.0,
+   "source_doc": null
+  },
+  {
+   "source": "gay_dagnogo",
+   "target": "kwame",
+   "type": "political",
+   "epistemic_status": "record",
+   "role": null,
+   "amount_usd": null,
+   "note": "Sought Kilpatrick clemency 2020",
+   "weight": 5.0,
+   "source_doc": null
+  },
+  {
+   "source": "pugh",
+   "target": "banks",
+   "type": "referral",
+   "epistemic_status": "corroborated",
+   "role": null,
+   "amount_usd": null,
+   "note": "Referred Cotton → sexual harassment",
+   "weight": 6.0,
+   "source_doc": null
+  },
+  {
+   "source": "vaughn",
+   "target": "pca",
+   "type": "authorization",
+   "epistemic_status": "record",
+   "role": null,
+   "amount_usd": null,
+   "note": "DPSCD Board Pres — authorized charter",
+   "weight": 8.0,
+   "source_doc": null
+  },
+  {
+   "source": "vaughn",
+   "target": "macdowell",
+   "type": "authorization",
+   "epistemic_status": "record",
+   "role": null,
+   "amount_usd": null,
+   "note": "DPSCD Board Pres — authorized charter",
+   "weight": 8.0,
+   "source_doc": null
+  },
+  {
+   "source": "crump_gibson",
+   "target": "citizendetroit",
+   "type": "board_membership",
+   "epistemic_status": "record",
+   "role": "Vice Chair / Chair",
+   "amount_usd": null,
+   "note": null,
+   "weight": 8.0,
+   "source_doc": "ProPublica 990, EIN 82-2361291"
+  },
+  {
+   "source": "misha_stallworth",
+   "target": "citizendetroit",
+   "type": "board_membership",
+   "epistemic_status": "record",
+   "role": "Director",
+   "amount_usd": null,
+   "note": null,
+   "weight": 8.0,
+   "source_doc": "ProPublica 990, EIN 82-2361291"
+  },
+  {
+   "source": "sheila_cockrel",
+   "target": "citizendetroit",
+   "type": "governance",
+   "epistemic_status": "record",
+   "role": "CEO",
+   "amount_usd": null,
+   "note": null,
+   "weight": 9.0,
+   "source_doc": "ProPublica 990, EIN 82-2361291"
+  },
+  {
+   "source": "archer_jr",
+   "target": "citizendetroit",
+   "type": "board_membership",
+   "epistemic_status": "record",
+   "role": "Director",
+   "amount_usd": null,
+   "note": null,
+   "weight": 6.0,
+   "source_doc": "ProPublica 990, EIN 82-2361291"
+  },
+  {
+   "source": "archer_jr",
+   "target": "archer",
+   "type": "family",
+   "epistemic_status": "record",
+   "role": "Son",
+   "amount_usd": null,
+   "note": null,
+   "weight": 10.0,
+   "source_doc": null
+  },
+  {
+   "source": "sheila_cockrel",
+   "target": "crump_gibson",
+   "type": "employment",
+   "epistemic_status": "record",
+   "role": null,
+   "amount_usd": null,
+   "note": "Employed as Legislative Asst / Policy Analyst (2007-09)",
+   "weight": 7.0,
+   "source_doc": "LinkedIn"
+  },
+  {
+   "source": "misha_stallworth",
+   "target": "dpscd",
+   "type": "board_membership",
+   "epistemic_status": "record",
+   "role": "Board member — authorized charters",
+   "amount_usd": null,
+   "note": null,
+   "weight": 8.0,
+   "source_doc": null
+  },
+  {
+   "source": "misha_stallworth",
+   "target": "wells_stallworth",
+   "type": "family",
+   "epistemic_status": "inference",
+   "role": null,
+   "amount_usd": null,
+   "note": "Stallworth dynasty — family connection",
+   "weight": 7.0,
+   "source_doc": null
+  },
+  {
+   "source": "henri_harmon",
+   "target": "great_lakes_legal",
+   "type": "ownership",
+   "epistemic_status": "record",
+   "role": "Partner",
+   "amount_usd": null,
+   "note": null,
+   "weight": 7.0,
+   "source_doc": "gllegalgroup.com"
+  },
+  {
+   "source": "v_hall",
+   "target": "chojlf",
+   "type": "ownership",
+   "epistemic_status": "record",
+   "role": "Principal",
+   "amount_usd": null,
+   "note": null,
+   "weight": 7.0,
+   "source_doc": "LARA"
+  },
+  {
+   "source": "v_hall",
+   "target": "macdowell",
+   "type": "board_membership",
+   "epistemic_status": "record",
+   "role": "Board Director",
+   "amount_usd": null,
+   "note": null,
+   "weight": 7.0,
+   "source_doc": "macdowellprep.com/board-of-directors/"
+  },
+  {
+   "source": "misha_stallworth",
+   "target": "macdowell",
+   "type": "authorization",
+   "epistemic_status": "record",
+   "role": null,
+   "amount_usd": null,
+   "note": "DPSCD Board — authorized charter while family on MacDowell board",
+   "weight": 8.0,
+   "source_doc": null
+  },
+  {
+   "source": "crump_gibson",
+   "target": "misha_stallworth",
+   "type": "board_co_membership",
+   "epistemic_status": "record",
+   "role": null,
+   "amount_usd": null,
+   "note": "CitizenDetroit board overlap — defense attorney + charter authorizer",
+   "weight": 9.0,
+   "source_doc": "ProPublica 990, EIN 82-2361291"
+  },
+  {
+   "source": "henri_harmon",
+   "target": "banks",
+   "type": "institutional_memory",
+   "epistemic_status": "inference",
+   "role": null,
+   "amount_usd": null,
+   "note": "BLSA President at MSU Law (2006) — Banks claims MSU Law JD (~2010)",
+   "weight": 5.0,
+   "source_doc": "gllegalgroup.com, lawyer.com"
+  },
+  {
+   "source": "stallworth_t",
+   "target": "misha_stallworth",
+   "type": "family",
+   "epistemic_status": "inference",
+   "role": null,
+   "amount_usd": null,
+   "note": "Stallworth dynasty connection",
+   "weight": 7.0,
+   "source_doc": null
+  }
+ ]
+}

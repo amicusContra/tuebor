@@ -1,6 +1,7 @@
 +++
 title = "The Living Trust — Credit Backscattered in Advance"
 date = 2026-10-20
+weight = 203
 description = "All credit pre-distributed to those attributed in the graph. No bank. Just gAIa and pocket change. The graph IS the trust document. The edges ARE the distribution instructions."
 [extra]
 og_title = "The Living Trust"

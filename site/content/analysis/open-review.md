@@ -1,6 +1,7 @@
 +++
 title = "Open Review — Come Break This"
 date = 2026-10-20
+weight = 202
 description = "Everything is published. Everything is live. Everything is verifiable. We don't want your approval. We want your expertise and curiosity. Come review. Come break it. Come watch it be reborn."
 [extra]
 og_title = "Open Review — Come Break This"

@@ -6520,30 +6520,6 @@
       ]
     },
     {
-      "id": "jtc_haffey",
-      "label": "Dennis Haffey",
-      "tier": 4,
-      "sort_class": "partial",
-      "confidence": 0.875,
-      "legal_type": "",
-      "edges": 2,
-      "links": {},
-      "connections": [
-        {
-          "id": "jtc",
-          "label": "Judicial Tenure Commission",
-          "type": "employment",
-          "tier": 1
-        },
-        {
-          "id": "mi_supreme_court",
-          "label": "Michigan Supreme Court",
-          "type": "institutional_pipeline",
-          "tier": 1
-        }
-      ]
-    },
-    {
       "id": "jtc_helland",
       "label": "Lynn Helland",
       "tier": 4,

@@ -1589,13 +1589,6 @@
       "note": "Too few edges.",
       "sort_pass": 3
     },
-    "jtc_haffey": {
-      "classification": "other",
-      "confidence": 0.25,
-      "method": "insufficient",
-      "note": "Too few edges.",
-      "sort_pass": 3
-    },
     "jtc_helland": {
       "classification": "other",
       "confidence": 0.3,

@@ -131,7 +131,7 @@ The question is whether the federal agencies will be Detroit's Nelson Rockefelle
 
 This analysis was published on October 1, 2026. It compared Banks to Robert Moses — the man who built a 44-year empire through **parks**.
 
-Two days later, on October 3, the complainant discovered that Banks sits on the **Belle Isle Park Advisory Committee** — a Michigan Department of Natural Resources advisory body. Mayor-appointed. Listed on michigan.gov alongside the Deputy Mayor of Detroit and two DNR state employees. His biography on the state website lists his "Juris Doctorate" without mentioning he was never admitted to the bar. His committee email address is `brianbanksjd@gmail.com` — a credential he cannot use, embedded in his identity at the state level.
+Two days later, on October 3, the complainant discovered that Banks sits on the **Belle Isle Park Advisory Committee** — a Michigan Department of Natural Resources advisory body. Mayor-appointed. Listed on michigan.gov alongside the Deputy Mayor of Detroit and two DNR state employees. His biography on the state website lists his "Juris Doctorate" without mentioning he was never admitted to the bar. His committee email address is `brianbanksjd@[withheld]` — a credential he cannot use, embedded in his identity at the state level.
 
 Robert Moses used parks as the foundation of his power — the Triborough Bridge Authority began as a parks commission. Banks sits on a parks committee appointed by the same mayor whose Deputy Mayor now has his 9-conviction felony record in her inbox.
 

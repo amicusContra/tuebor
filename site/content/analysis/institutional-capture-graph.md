@@ -230,7 +230,7 @@ The PAC shares a mailing address with Banks's home **and** shares a PO box with 
 
 A convicted cocaine dealer manages campaign finances for a 9-time convicted felon who runs schools for 362 predominantly Black children.
 
-**October 4 Update — LARA Confirmation:** Holland is now confirmed as Treasurer + Secretary of **Purpose Foundation** (LARA 803294855, filed December 2024) — listed at Banks's home address. He previously served as President of the **Right Turn Project** (LARA 800936257, dissolved December 2021 for failure to file annual reports). That charity's Treasurer was **Carlton Ross** — connected to Ross Catering, which billed Banks's campaigns $35,000+. The charity's email was `BBesq06@aol.com` — Banks's personal email, not Holland's.
+**October 4 Update — LARA Confirmation:** Holland is now confirmed as Treasurer + Secretary of **Purpose Foundation** (LARA 803294855, filed December 2024) — listed at Banks's home address. He previously served as President of the **Right Turn Project** (LARA 800936257, dissolved December 2021 for failure to file annual reports). That charity's Treasurer was **Carlton Ross** — connected to Ross Catering, which billed Banks's campaigns $35,000+. The charity's email was `BBesq06@[withheld]` — Banks's personal email, not Holland's.
 
 ---
 

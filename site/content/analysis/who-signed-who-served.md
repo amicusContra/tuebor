@@ -110,7 +110,7 @@ So how did Brian Banks obtain the respondent's personal cell phone number?
 
 And why did Banks — who claims to need protection from the respondent — go to the trouble of **collecting personal information** about the person he claims is harassing him?
 
-Meanwhile, Banks' cell phone number appears on the PPO because **he** provided it to the court: **313-355-4238**. This is a public court document.
+Meanwhile, Banks' cell phone number appears on the PPO because **he** provided it to the court: **[number withheld]**. This is a public court document.
 
 The respondent has never dialed that number. But Banks had the respondent's number ready for the petition.
 

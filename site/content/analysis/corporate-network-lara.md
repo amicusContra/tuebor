@@ -57,7 +57,7 @@ A search of LARA records by registered agent reveals Banks controls or has contr
 
 | Entity | LARA ID | Filed | Status | Location | Notes |
 |--------|---------|-------|--------|----------|-------|
-| Banks Strategy & Consultants LLC | 802070120 | 02/2017 | Active | Grosse Pointe Woods | Political consulting. Email: BanksStrategy@gmail.com |
+| Banks Strategy & Consultants LLC | 802070120 | 02/2017 | Active | Grosse Pointe Woods | Political consulting. Email: BanksStrategy@[withheld] |
 | Purpose Charter Academy | 900072324 | 07/2025 | Active | Detroit | Charter school |
 | The Purpose Group LLC | 803295082 | 11/2024 | Active | Detroit | Management company |
 | Purpose Foundation | 803294855 | 12/2024 | Active | Grosse Pointe Woods | Nonprofit. Holland = Treasurer/Secretary |
@@ -73,7 +73,7 @@ A search of LARA records by registered agent reveals Banks controls or has contr
 
 \* *Active but not in good standing due to annual report failures.*
 
-Banks uses multiple email addresses across filings: `BanksStrategy@gmail.com`, `BrianBanksJD@gmail.com`, `BBesq06@aol.com`, and `brian@anchorrockservices.com`.
+Banks uses multiple email addresses across filings: `BanksStrategy@[withheld]`, `BrianBanksJD@[withheld]`, `BBesq06@[withheld]`, and `brian@anchorrockservices.com`.
 
 The initials "JD" and "esq" appear in two of these emails despite Banks never being admitted to any state bar. His felony convictions prevented bar admission after earning his J.D. from Michigan State University.
 
@@ -123,7 +123,7 @@ The 12-step suppression loop: Banks's network → funds dark money vehicle → d
 | **Carlton Ross** | Treasurer, Director | 16500 North Park Dr, Southfield 48075 |
 | **Terrence Tarver** | Secretary, Director | 16500 North Park Dr, Southfield 48075 |
 
-The entity email was `BBesq06@aol.com` — which is **Banks's personal email**, not Holland's. Banks controlled the entity through Holland.
+The entity email was `BBesq06@[withheld]` — which is **Banks's personal email**, not Holland's. Banks controlled the entity through Holland.
 
 ### The Ross Catering Money Loop
 
